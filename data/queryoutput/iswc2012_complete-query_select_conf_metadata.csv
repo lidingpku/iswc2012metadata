@@ -1,0 +1,9 @@
+﻿p,o
+swc:hasAcronym,ISWC2012
+rdf:type,swc:ConferenceEvent
+rdfs:label,11th International Semantic Web Conference
+rdfs:seeAlso,iswc2012:rdf
+owl:sameAs,http://semanticweb.org/id/ISWC2012
+foaf:based_near,http://dbpedia.org/resource/Boston
+foaf:homepage,http://iswc2012.semanticweb.org/
+foaf:logo,http://iswc2012.semanticweb.org/sites/default/files/iswc_logo.jpg

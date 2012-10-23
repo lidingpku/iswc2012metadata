@@ -1,0 +1,93 @@
+﻿start,end,c,locationLabel,eventLabel,s,roleLabel,personLabel
+2012-11-10T09:00:00+05:00,2012-11-10T17:00:00+05:00,swc:SpecialEvent,,Code for Science Linked Datathon,iswc2012:special/code-for-science-linked-datathon,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:TutorialEvent,Beacon Hill,LL-NLP Tutorial: What to do with long literals? Ask the NLP community...,iswc2012:tutorial-4,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:TutorialEvent,Charles,RDF Query Processing in the Cloud,iswc2012:tutorial-1,,
+2012-11-11T09:00:00+05:00,2012-11-11T12:30:00+05:00,swc:WorkshopEvent,St. James,International Workshop on Semantic Technologies meet Recommender Systems & Big Data,workshop:sersy/2012,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,Cambridge,8th International Workshop on Uncertainty Reasoning for the Semantic Web,workshop:ursw/2012,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,Cabot,First Workshop on Programming the Semantic Web,workshop:psw/2012,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,Stuart,Joint Workshop on Scalable and High-Performance Semantic Web Systems,workshop:swws_hpcsw/2012,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,White Hill,The Semantic Web in 2022,workshop:sw2022/2012,,
+2012-11-11T09:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,Whittier,The Seventh International Workshop on Ontology Matching,workshop:om/2012,,
+2012-11-11T14:00:00+05:00,2012-11-11T17:30:00+05:00,swc:TutorialEvent,Alcott,Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,iswc2012:tutorial-3,,
+2012-11-11T14:00:00+05:00,2012-11-11T17:30:00+05:00,swc:TutorialEvent,Lexington,"Semantic Web Rules: Fundamentals, Applications, and Standards",iswc2012:tutorial-2,,
+2012-11-11T14:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,St. James,3rd Workshop on the Multilingual Semantic Web,workshop:msw/2012,,
+2012-11-11T14:00:00+05:00,2012-11-11T17:30:00+05:00,swc:WorkshopEvent,Franklin,Web of Linked Entities,workshop:wole/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:TrackEvent,Whittier,Doctoral Consortium,iswc2012:track/doctoral-consortium,,
+2012-11-12T09:00:00+05:00,2012-11-12T12:30:00+05:00,swc:TutorialEvent,Alcott,Getting to know PROV - the W3C Provenance Specifications,iswc2012:tutorial-7,,
+2012-11-12T09:00:00+05:00,2012-11-12T12:30:00+05:00,swc:TutorialEvent,Lexington,The Web of Data for E-Commerce in Brief,iswc2012:tutorial-5,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:TutorialEvent,Beacon Hill,LD4D: Linked Data for Development,iswc2012:tutorial-9,,
+2012-11-12T09:00:00+05:00,2012-11-12T12:30:00+05:00,swc:WorkshopEvent,Cabot,3rd Workshop on Ontology Patterns,workshop:wop/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T12:30:00+05:00,swc:WorkshopEvent,Back Bay,Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,workshop:lhd-semquant/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Cambridge,2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics,workshop:evodyn/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Charles,5th International Terra Cognita Workshop 2012,workshop:terra/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Stuart,5th International Workshop on Semantic Sensor Networks,workshop:ssn/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Franklin,Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),workshop:satbi-swim/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,St. James,The 2nd International Workshop on Linked Science 2012Tackling Big Data,workshop:lisc/2012,,
+2012-11-12T09:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,White Hill,Third International Workshop on Consuming Linked Data,workshop:cold/2012,,
+2012-11-12T14:00:00+05:00,2012-11-12T17:30:00+05:00,swc:TutorialEvent,Lexington,Financial Information Management Using the Semantic Web,iswc2012:tutorial-6,,
+2012-11-12T14:00:00+05:00,2012-11-12T17:30:00+05:00,swc:TutorialEvent,Alcott,"Scalable semantic processing of huge, distributed real-time streams: Semantics Between Event Processing and Cloud Computing",iswc2012:tutorial-8,,
+2012-11-12T14:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Cabot,"Detection, Representation, and Exploitation of Events in the Semantic Web",workshop:derive/2012,,
+2012-11-12T14:00:00+05:00,2012-11-12T17:30:00+05:00,swc:WorkshopEvent,Back Bay,Knowledge Extraction and Consolidation from Social media,workshop:kecsm/2012,,
+2012-11-13T08:30:00+05:00,2012-11-13T09:00:00+05:00,swc:SpecialEvent,Imperial,Opening Ceremony,iswc2012:special/opening-ceremony,,
+2012-11-13T08:30:00+05:00,2012-11-13T21:00:00+05:00,swc:SpecialEvent,Exeter,Registration,iswc2012:special/registration-2012-11-13,,
+2012-11-13T09:00:00+05:00,2012-11-13T10:30:00+05:00,swc:TalkEvent,Imperial,The Semantic Web and Collective Intelligence,iswc2012:talk/keynote-1,ISWC2012 Keynote Speaker,Thomas Malone
+2012-11-13T10:30:00+05:00,2012-11-13T11:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-13-1,,
+2012-11-13T11:00:00+05:00,2012-11-13T12:30:00+05:00,swc:SessionEvent,Plaza,Description Logic,iswc2012:session/research-02,ISWC2012 Session Chair,Pascal Hitzler
+2012-11-13T11:00:00+05:00,2012-11-13T12:30:00+05:00,swc:SessionEvent,Statler,Infrastructure,iswc2012:session/inuse-01,ISWC2012 Session Chair,Tudor Groza
+2012-11-13T11:00:00+05:00,2012-11-13T12:30:00+05:00,swc:SessionEvent,Georgian,Linked Data,iswc2012:session/research-01,ISWC2012 Session Chair,Tom Heath
+2012-11-13T11:00:00+05:00,2012-11-13T12:30:00+05:00,swc:SessionEvent,Arlington,"Search, question answering and entity summarization",iswc2012:session/evaluation-01,ISWC2012 Session Chair,Manfred Hauswirth
+2012-11-13T12:30:00+05:00,2012-11-13T14:00:00+05:00,swc:BreakEvent,Imperial,Lunch,iswc2012:lunch-2012-11-13,,
+2012-11-13T12:30:00+05:00,2012-11-13T14:00:00+05:00,swc:SpecialEvent,Whitier,JWS Lunch,iswc2012:special/jws-lunch,,
+2012-11-13T14:00:00+05:00,2012-11-13T15:30:00+05:00,swc:SessionEvent,Arlington,Evaluation of reasoning with ontologies,iswc2012:session/evaluation-02,ISWC2012 Session Chair,Jérôme Euzenat
+2012-11-13T14:00:00+05:00,2012-11-13T15:30:00+05:00,swc:SessionEvent,Georgian,Queries,iswc2012:session/research-04,ISWC2012 Session Chair,Maria-Esther Vidal
+2012-11-13T14:00:00+05:00,2012-11-13T15:30:00+05:00,swc:SessionEvent,Plaza,User Interfaces and Personalization,iswc2012:session/research-03,ISWC2012 Session Chair,Natasha F. Noy
+2012-11-13T14:00:00+05:00,2012-11-13T15:30:00+05:00,swc:SessionEvent,Statler,eGov and Smart Cities,iswc2012:session/inuse-02,ISWC2012 Session Chair,Tom Heath
+2012-11-13T15:30:00+05:00,2012-11-13T16:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-13-2,,
+2012-11-13T16:00:00+05:00,2012-11-13T17:00:00+05:00,swc:SessionEvent,Statler,Applications,iswc2012:session/inuse-03,ISWC2012 Session Chair,Peter Mika
+2012-11-13T16:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SessionEvent,Arlington,Federated and Stream Query Processing,iswc2012:session/evaluation-03,ISWC2012 Session Chair,Josiane Xavier Parreira
+2012-11-13T16:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SessionEvent,Plaza,Knowledge Discovery,iswc2012:session/research-05,ISWC2012 Session Chair,Jens Lehmann
+2012-11-13T16:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SpecialEvent,Berkeley,Journal Workshop Session,iswc2012:special/journal-workshop,,
+2012-11-13T16:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SpecialEvent,Clarendon,Journal Workshop Session,iswc2012:special/journal-workshop,,
+2012-11-13T16:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SpecialEvent,Georgian,"Poster, Demo, and SWC Minute Mandess",iswc2012:special/minute-mandess,,
+2012-11-13T17:00:00+05:00,2012-11-13T17:30:00+05:00,swc:SpecialEvent,Statler,schema.org update,iswc2012:special/schema-org,ISWC2012 Session Chair,Peter Mika
+2012-11-13T17:30:00+05:00,2012-11-13T18:30:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-13-3,,
+2012-11-13T18:30:00+05:00,2012-11-13T21:00:00+05:00,swc:SpecialEvent,Imperial,"Poster/Demo Session, Semantic Web Challenge and Reception",iswc2012:special/poster-reception,,
+2012-11-13T18:30:00+05:00,2012-11-13T21:00:00+05:00,swc:SpecialEvent,Plaza,"Poster/Demo Session, Semantic Web Challenge and Reception",iswc2012:special/poster-reception,,
+2012-11-14T09:00:00+05:00,2012-11-14T19:30:00+05:00,swc:SpecialEvent,Exeter,Registration,iswc2012:special/registration-2012-11-14,,
+2012-11-14T09:00:00+05:00,2012-11-14T10:30:00+05:00,swc:TalkEvent,Imperial,Driving Innovation with Open Data and Interoperability,iswc2012:talk/keynote-2,ISWC2012 Keynote Speaker,Jeanne Holm
+2012-11-14T10:30:00+05:00,2012-11-14T11:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-14-1,,
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Georgian,Alternative Knowledge Representation Approaches,iswc2012:session/research-06,ISWC2012 Session Chair,Jeff Pan
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Arlington,Industry Track I,iswc2012:session/industry-01,ISWC2012 Session Chair,Ivan Herman
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Berkley,Industry Track II,iswc2012:session/industry-02,ISWC2012 Session Chair,Tom Heath
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Plaza,Provenance and Verification,iswc2012:session/research-07,ISWC2012 Session Chair,Paul Groth
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SpecialEvent,Statler,Semantic Web Challenge,iswc2012:special/semantic-web-challenge,,
+2012-11-14T12:30:00+05:00,2012-11-14T14:00:00+05:00,swc:BreakEvent,Imperial,Lunch,iswc2012:lunch-2012-11-14,,
+2012-11-14T12:30:00+05:00,2012-11-14T14:00:00+05:00,swc:SpecialEvent,Whitier,Mentor Lunch,iswc2012:special/mentor-lunch,,
+2012-11-14T14:00:00+05:00,2012-11-14T15:30:00+05:00,swc:PanelEvent,Georgian,Big Graph Data Panel,iswc2012:panel/big-graph-data,ISWC2012 Panellist,Bryan Thompson
+2012-11-14T14:00:00+05:00,2012-11-14T15:30:00+05:00,swc:PanelEvent,Georgian,Big Graph Data Panel,iswc2012:panel/big-graph-data,ISWC2012 Panellist,Frank van Harmelen
+2012-11-14T14:00:00+05:00,2012-11-14T15:30:00+05:00,swc:PanelEvent,Georgian,Big Graph Data Panel,iswc2012:panel/big-graph-data,ISWC2012 Panellist,John Gianandrea
+2012-11-14T14:00:00+05:00,2012-11-14T15:30:00+05:00,swc:PanelEvent,Georgian,Big Graph Data Panel,iswc2012:panel/big-graph-data,ISWC2012 Panellist,Mike Stonebreaker
+2012-11-14T14:00:00+05:00,2012-11-14T15:30:00+05:00,swc:PanelEvent,Georgian,Big Graph Data Panel,iswc2012:panel/big-graph-data,ISWC2012 Panellist,Tim Berners-Lee
+2012-11-14T15:30:00+05:00,2012-11-14T16:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-14-2,,
+2012-11-14T16:00:00+05:00,2012-11-14T17:30:00+05:00,swc:SessionEvent,Arlington,Industry Track III,iswc2012:session/industry-03,ISWC2012 Session Chair,Ivan Herman
+2012-11-14T16:00:00+05:00,2012-11-14T17:30:00+05:00,swc:SessionEvent,Berkley,Industry Track IV,iswc2012:session/industry-04,ISWC2012 Session Chair,Tom Heath
+2012-11-14T16:00:00+05:00,2012-11-14T17:30:00+05:00,swc:SessionEvent,Plaza,Instance matching,iswc2012:session/research-08,ISWC2012 Session Chair,Mathieu d'Aquin
+2012-11-14T16:00:00+05:00,2012-11-14T17:30:00+05:00,swc:SessionEvent,Statler,Streaming and Geospatial DBMSs,iswc2012:session/research-09,ISWC2012 Session Chair,Freddy Lecue
+2012-11-14T16:00:00+05:00,2012-11-14T17:30:00+05:00,swc:SpecialEvent,Georgian,Lightning Talks,iswc2012:special/lightning,,
+2012-11-14T17:30:00+05:00,2012-11-14T19:30:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-14-3,,
+2012-11-14T17:45:00+05:00,2012-11-14T18:45:00+05:00,swc:SocialEvent,Georgian,Town Hall Meeting,iswc2012:social/town-hall-meeting,ISWC2012 Session Mediator,Abraham Bernstein
+2012-11-14T19:30:00+05:00,2012-11-15T01:00:00+05:00,swc:SocialEvent,Imperial,Conference Dinner,iswc2012:social/dinner-2012-11-14,,
+2012-11-15T09:00:00+05:00,2012-11-15T10:30:00+05:00,swc:TalkEvent,Imperial,"Tackling Climate Change:  Unfinished Business from the Last ""Winter""",iswc2012:talk/keynote-3,ISWC2012 Keynote Speaker,Mark Musen
+2012-11-15T10:30:00+05:00,2012-11-15T11:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-15-1,,
+2012-11-15T11:00:00+05:00,2012-11-15T12:30:00+05:00,swc:SessionEvent,Georgian,Ontology Mapping,iswc2012:session/research-10,ISWC2012 Session Chair,Raphaël Troncy
+2012-11-15T11:00:00+05:00,2012-11-15T12:30:00+05:00,swc:SessionEvent,Statler,Question Answering and NLP,iswc2012:session/inuse-04,ISWC2012 Session Chair,Amal Zouaq
+2012-11-15T11:00:00+05:00,2012-11-15T12:30:00+05:00,swc:SessionEvent,Plaza,Scalability and Parallel Processing,iswc2012:session/research-11,ISWC2012 Session Chair,Andreas Harth
+2012-11-15T11:00:00+05:00,2012-11-15T12:30:00+05:00,swc:SessionEvent,Arlington,Semantic Web in Biomedicine,iswc2012:session/inuse-05,ISWC2012 Session Chair,Natasha F. Noy
+2012-11-15T12:30:00+05:00,2012-11-15T14:00:00+05:00,swc:BreakEvent,,Lunch,iswc2012:lunch-2012-11-15,,
+2012-11-15T14:00:00+05:00,2012-11-15T15:30:00+05:00,swc:SessionEvent,Statler,Applied Reasoning and Querying ,iswc2012:session/inuse-06,ISWC2012 Session Chair,Pascal Hitzler
+2012-11-15T14:00:00+05:00,2012-11-15T15:30:00+05:00,swc:SessionEvent,Georgian,Information Extraction,iswc2012:session/research-13,ISWC2012 Session Chair,Diana Maynard
+2012-11-15T14:00:00+05:00,2012-11-15T15:30:00+05:00,swc:SessionEvent,Plaza,Ontology Engineering and Optimization,iswc2012:session/research-12,ISWC2012 Session Chair,Peter Patel-Schneider
+2012-11-15T14:00:00+05:00,2012-11-15T15:30:00+05:00,swc:SessionEvent,Arlington,Social and Collaborative Semantics,iswc2012:session/research-14,ISWC2012 Session Chair,Gianluca Demartini
+2012-11-15T14:00:00+05:00,2012-11-15T15:30:00+05:00,swc:SpecialEvent,Whitier,SW Journal Lunch,iswc2012:special/sw-journal-lunch,,
+2012-11-15T15:30:00+05:00,2012-11-15T16:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-15-2,,
+2012-11-15T16:00:00+05:00,2012-11-15T17:30:00+05:00,swc:SpecialEvent,Georgian,Awards and Closing Ceremony,iswc2012:special/awards-and-closing,,

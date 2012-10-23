@@ -1,0 +1,25 @@
+PREFIX foaf:   <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
+PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
+PREFIX ical:  <http://www.w3.org/2002/12/cal/ical#>
+
+select ?start ?sessionLabel ?sessionEvent ?paperLabel ?listAuthor 
+where {
+?s a swrc:InProceedings .
+?s rdfs:label ?paperLabel .
+?s swrc:listAuthor ?listAuthor .
+{
+  { ?s swc:relatedToEvent ?event .
+    ?event swc:isSubEventOf ?sessionEvent . 
+    ?event swrc:orderInSession ?orderInSession .
+	?sessionEvent a swc:SessionEvent .
+  }UNION{
+    ?s swc:relatedToEvent ?sessionEvent .
+  }
+}
+
+?sessionEvent rdfs:label ?sessionLabel . 
+?sessionEvent ical:dtStart ?start
+}
+order by ?start ?sessionEvent ?orderInSession

@@ -1,0 +1,23 @@
+PREFIX foaf:   <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
+PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
+PREFIX ical:  <http://www.w3.org/2002/12/cal/ical#>
+select ?start ?end ?c ?locationLabel ?eventLabel ?s  ?roleLabel ?personLabel
+where {
+?s a ?c.
+?s rdfs:label ?eventLabel .
+?s ical:dtStart ?start .
+?s ical:dtEnd ?end .
+OPTIONAL{
+?s swc:hasLocation ?location .
+?location rdfs:label ?locationLabel .
+}
+OPTIONAL{
+?s swc:hasRole ?role .
+?role rdfs:label ?roleLabel .
+?role swc:heldBy ?person .
+?person rdfs:label ?personLabel .
+}
+}
+order by ?start

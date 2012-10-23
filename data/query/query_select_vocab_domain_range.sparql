@@ -1,0 +1,7 @@
+select distinct ?domain ?p ?range
+where {
+?s ?p ?o .
+?s a ?domain  .
+OPTIONAL {?o a ?range }.
+}
+order by ?domain ?p ?range
