@@ -74,12 +74,14 @@ iswc2012paper:doctor-consortium-10
       rdfs:label "A Multi-Domain Framework for Community Building Based on Data Tagging" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:bojan-bozic ;
+      dc:identifier "76500430" ;
       dc:title "A Multi-Domain Framework for Community Building Based on Data Tagging" ;
       dcterms:creator person:bojan-bozic ;
       dcterms:title "A Multi-Domain Framework for Community Building Based on Data Tagging" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-10/authors> ;
       swrc:abstract "In this paper, we present a doctoral thesis which introduces a new approach of time series enrichment with semantics. The paper shows the problem of assigning time series data to the right party of interest and why this problem could not be solved so far. We demonstrate a new way of processing semantic time series and the consequential ability of addressing users. The combination of time series processing and Semantic Web technologies leads us to a new powerful method of data processing and data generation, which offers completely new opportunities to the expert user." ;
       swrc:author person:bojan-bozic ;
+      swrc:idLncs "76500430" ;
       swrc:listAuthor "Bojan Bozic" ;
       foaf:maker person:bojan-bozic .
 
@@ -139,6 +141,7 @@ iswc2012paper:evaluation-10
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-10 ;
       dc:creator person:danh-le-phuoc , person:minh-duc-pham , person:peter-boncz , person:minh-dao-tran , person:thomas-eiter , person:michael-fink ;
+      dc:identifier "76500294" ;
       dc:subject "Linked Stream Data Processing" , "Linked Stream Data" , "Benchmarking" ;
       dc:title "Linked Stream Data Processing Engines: Facts and Figures" ;
       dcterms:creator person:danh-le-phuoc , person:minh-duc-pham , person:peter-boncz , person:minh-dao-tran , person:thomas-eiter , person:michael-fink ;
@@ -147,6 +150,7 @@ iswc2012paper:evaluation-10
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-10/authors> ;
       swrc:abstract "Linked Stream Data, i.e., the RDF data model extended for representing stream data generated from sensors social network applications, is gaining popularity. This has motivated considerable work on developing corresponding data models associated with processing engines. However, current implemented engines have not been thoroughly evaluated to assess their capabilities. For reasonable systematic evaluations, in this work we propose a novel, customizable evaluation framework and a corresponding methodology for realistic data generation, system testing, and result analysis. Based on this evaluation environment, extensive experiments have been conducted in order to compare the state-of-the-art LSD engines wrt. qualitative and quantitative properties, taking into account the underlying principles of stream processing. Consequently, we provide a detailed analysis of the experimental outcomes that reveal useful findings for improving current and future engines." ;
       swrc:author person:danh-le-phuoc , person:minh-duc-pham , person:peter-boncz , person:minh-dao-tran , person:thomas-eiter , person:michael-fink ;
+      swrc:idLncs "76500294" ;
       swrc:listAuthor "Danh Le Phuoc, Minh Dao-Tran, Minh-Duc Pham, Peter Boncz, Thomas Eiter and Michael Fink" ;
       swrc:listKeyword "Linked Stream Data,Linked Stream Data Processing,Benchmarking" ;
       foaf:maker person:danh-le-phuoc , person:minh-duc-pham , person:peter-boncz , person:minh-dao-tran , person:thomas-eiter , person:michael-fink .
@@ -331,7 +335,7 @@ organization:siemens-ag-osterreich
 iswc2012:complete
       dcterms:creator person:li-ding ;
       dcterms:hasVersion "iswc2012 metadata v20121023" ;
-      dcterms:modified "2012-10-23T03:26:18-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+      dcterms:modified "2012-10-23T03:47:05-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 <http://data.semanticweb.org/workshop/lisc/2012>
       a       swc:WorkshopEvent ;
@@ -478,12 +482,14 @@ iswc2012paper:doctor-consortium-12
       rdfs:label "Knowledge Pattern Extraction and their usage in Exploratory Search" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:andrea-giovanni-nuzzolese ;
+      dc:identifier "76500438" ;
       dc:title "Knowledge Pattern Extraction and their usage in Exploratory Search" ;
       dcterms:creator person:andrea-giovanni-nuzzolese ;
       dcterms:title "Knowledge Pattern Extraction and their usage in Exploratory Search" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-12/authors> ;
       swrc:abstract "Knowledge interaction in Web context is a challenging problem. For instance, it requires to deal with complex structures able to filter knowledge by drawing a meaningful context boundary around data. We assume that these complex structures can be formalized as Knowledge Patterns (KPs), aka frames. This Ph.D. work is aimed at developing methods for extracting KPs from the Web and at applying KPs to exploratory search tasks. We want to extract KPs by analyzing the structure of Web links from rich resources, such as Wikipedia." ;
       swrc:author person:andrea-giovanni-nuzzolese ;
+      swrc:idLncs "76500438" ;
       swrc:listAuthor "Andrea Giovanni Nuzzolese" ;
       foaf:maker person:andrea-giovanni-nuzzolese .
 
@@ -630,6 +636,7 @@ iswc2012paper:doctor-consortium-11
       rdfs:label "Towards a theoretical foundation for the harmonization of linked data" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:enrico-daga ;
+      dc:identifier "76500434" ;
       dc:subject "Linked Data" , " Data Harmonization" , " Planning" ;
       dc:title "Towards a theoretical foundation for the harmonization of linked data" ;
       dcterms:creator person:enrico-daga ;
@@ -638,6 +645,7 @@ iswc2012paper:doctor-consortium-11
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-11/authors> ;
       swrc:abstract "In real world cases, building reliable problem centric views over Linked Data is a challenging task. An ideal method should include a formal representation of the requirements of the needed dataset and a controlled process moving from the original sources to the outcome. We believe that a goal oriented approach, similar to the AI planning problem, could be successful in controlling the process of linked data fusion, as well as to formalize the relations between requirements, process and result." ;
       swrc:author person:enrico-daga ;
+      swrc:idLncs "76500434" ;
       swrc:listAuthor "Enrico Daga" ;
       swrc:listKeyword "Linked Data, Data Harmonization, Planning" ;
       foaf:maker person:enrico-daga .
@@ -858,6 +866,7 @@ iswc2012paper:evaluation-35
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-35 ;
       dc:creator person:matthew-horridge , person:ulrike-sattler , person:bijan-parsia ;
+      dc:identifier "76500282" ;
       dc:subject "Justifications" , "Justification Finding" , "Explanation" , "Blackbox Debugging" ;
       dc:title "Extracting Justifications from BioPortal Ontologies" ;
       dcterms:creator person:matthew-horridge , person:ulrike-sattler , person:bijan-parsia ;
@@ -866,6 +875,7 @@ iswc2012paper:evaluation-35
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-35/authors> ;
       swrc:abstract "This paper presents an evaluation of state of the art black box justification finding algorithms on the NCBO BioPortal ontology corpus. This corpus represents a set of naturally occurring ontologies that vary greatly in size and expressivity. The results paint a picture of the performance that can be expected when finding all justifications for entailments using black box justification finding techniques. The results also show that many naturally occurring ontologies exhibit a rich justificatory structure, with some ontologies having extremely high numbers of justifications per entailment." ;
       swrc:author person:matthew-horridge , person:ulrike-sattler , person:bijan-parsia ;
+      swrc:idLncs "76500282" ;
       swrc:listAuthor "Matthew Horridge, Bijan Parsia and Ulrike Sattler" ;
       swrc:listKeyword "Justifications,Justification Finding,Explanation,Blackbox Debugging" ;
       foaf:maker person:matthew-horridge , person:ulrike-sattler , person:bijan-parsia .
@@ -875,12 +885,14 @@ iswc2012paper:doctor-consortium-14
       rdfs:label "Online Unsupervised Coreference Resolution for Semi-Structured Heterogeneous Data" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:jennifer-sleeman ;
+      dc:identifier "76500446" ;
       dc:title "Online Unsupervised Coreference Resolution for Semi-Structured Heterogeneous Data" ;
       dcterms:creator person:jennifer-sleeman ;
       dcterms:title "Online Unsupervised Coreference Resolution for Semi-Structured Heterogeneous Data" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-14/authors> ;
       swrc:abstract "A pair of RDF instances are said to corefer when they are intended to denote the same thing in the world, for example, when two nodes of type foaf:Person describe the same individual. This problem is central to integrating and inter-linking semi-structured datasets. We are developing an online, unsupervised coreference resolution framework for heterogeneous, semi-structured data. The online aspect requires us to process new instances as they appear and not as a batch. The instances are heterogeneous in that they may contain terms from different ontologies whose alignments are not known in advance. Our framework encompasses a two-phased clustering algorithm that is both flexible and distributable, a probabilistic multidimensional attribute model that will support robust schema mappings, and a consolidation algorithm that will be used to perform instance consolidation in order to improve accuracy rates over time by addressing data sparseness." ;
       swrc:author person:jennifer-sleeman ;
+      swrc:idLncs "76500446" ;
       swrc:listAuthor "Jennifer Sleeman" ;
       foaf:maker person:jennifer-sleeman .
 
@@ -922,6 +934,7 @@ iswc2012paper:doctor-consortium-13
       rdfs:label "SPARQL Update for Complex Event Processing" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:mikko-rinne ;
+      dc:identifier "76500442" ;
       dc:subject " RDF" , " SPARQL" , "Complex event processing" , " Rete-algorithm" ;
       dc:title "SPARQL Update for Complex Event Processing" ;
       dcterms:creator person:mikko-rinne ;
@@ -930,6 +943,7 @@ iswc2012paper:doctor-consortium-13
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-13/authors> ;
       swrc:abstract "Complex event processing is currently done primarily with proprietary definition languages. Future smart environments will require collaboration of multi-platform sensors operated by multiple parties. The goal of my research is to verify the applicability of standard-compliant SPARQL for complex event processing tasks. If successful, semantic web standards RDF, SPARQL and OWL with their established base of tools have many other benefits for event processing including support for interconnecting disjoint vocabularies, enriching event information with linked open data and reasoning over semantically annotated content. A software platform capable of continuous incremental evaluation of multiple parallel SPARQL queries is a key enabler of the approach." ;
       swrc:author person:mikko-rinne ;
+      swrc:idLncs "76500442" ;
       swrc:listAuthor "Mikko Rinne" ;
       swrc:listKeyword "Complex event processing, SPARQL, RDF, Rete-algorithm" ;
       foaf:maker person:mikko-rinne .
@@ -1216,6 +1230,7 @@ iswc2012paper:evaluation-37
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-37 ;
       dc:creator person:andreas-thalhammer , person:harald-sack , person:magnus-knuth ;
+      dc:identifier "76500342" ;
       dc:subject "evaluation" , "games with a purpose" , "quiz game" , "entity summarization" , "property ranking" , "linked data" ;
       dc:title "Evaluating Entity Summarization Using a Game-Based Ground Truth" ;
       dcterms:creator person:andreas-thalhammer , person:harald-sack , person:magnus-knuth ;
@@ -1224,6 +1239,7 @@ iswc2012paper:evaluation-37
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-37/authors> ;
       swrc:abstract "In recent years, strategies for Linked Data consumption have caught attention in Semantic Web research. For direct consumption by users, Linked Data mashups, interfaces, and visualizations have become a popular research area. Many approaches in this field aim to make Linked Data interaction more user friendly to improve its accessibility for nontechnical users. A subtask for Linked Data interfaces is to present entities and their properties in a concise form. In general, these summaries take individual attributes and sometimes user contexts and preferences into account. But the objective evaluation of the quality of such summaries is an expensive task. In this paper we introduce a game-based approach aiming to establish a ground truth for the evaluation of entity summarization. We exemplify the applicability of the approach by evaluating two recent summarization approaches." ;
       swrc:author person:andreas-thalhammer , person:harald-sack , person:magnus-knuth ;
+      swrc:idLncs "76500342" ;
       swrc:listAuthor "Andreas Thalhammer, Magnus Knuth and Harald Sack" ;
       swrc:listKeyword "entity summarization,property ranking,evaluation,linked data,quiz game,games with a purpose" ;
       foaf:maker person:andreas-thalhammer , person:harald-sack , person:magnus-knuth .
@@ -1410,12 +1426,14 @@ iswc2012paper:doctor-consortium-15
       rdfs:label "Composition of Linked Data-based RESTful Services" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:steffen-stadtmuller ;
+      dc:identifier "76500450" ;
       dc:title "Composition of Linked Data-based RESTful Services" ;
       dcterms:creator person:steffen-stadtmuller ;
       dcterms:title "Composition of Linked Data-based RESTful Services" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-15/authors> ;
       swrc:abstract "We address the problem of developing a scalable composition framework for Linked Data-based services, which retains the advantages of the loose coupling fostered by REST." ;
       swrc:author person:steffen-stadtmuller ;
+      swrc:idLncs "76500450" ;
       swrc:listAuthor "Steffen Stadtmüller" ;
       foaf:maker person:steffen-stadtmuller .
 
@@ -1724,6 +1742,7 @@ iswc2012paper:inuse-10
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-10 ;
       dc:creator person:thibaut-tiberghien , person:jit-biswas , person:mounir-mokhtari , person:hamdi-aloulou ;
+      dc:identifier "76500209" ;
       dc:subject "Context Awareness" , "Inference Engine" , "Knowledge Modelling" , "Semantic Web" , "Ambient Assisted Living" ;
       dc:title "Semantic Reasoning in Context-Aware Assistive Environments to Support Ageing with Dementia" ;
       dcterms:creator person:thibaut-tiberghien , person:jit-biswas , person:mounir-mokhtari , person:hamdi-aloulou ;
@@ -1732,6 +1751,7 @@ iswc2012paper:inuse-10
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-10/authors> ;
       swrc:abstract "Robust solutions for ambient assisted living are numerous, yet predominantly specific in their scope of usability. In this paper, we describe the potential contribution of semantic web technologies to building more versatile solutions - a step towards adaptable context-aware engines and simplified deployments. Our conception and deployment work in hindsight, we highlight some implementation challenges and requirements for semantic web tools that would help to ease the development of context-aware services and thus generalize real-life deployment of semantically driven assistive technologies. We also compare available tools with regard to these requirements and validate our choices by providing some results from a real-life deployment." ;
       swrc:author person:thibaut-tiberghien , person:jit-biswas , person:mounir-mokhtari , person:hamdi-aloulou ;
+      swrc:idLncs "76500209" ;
       swrc:listAuthor "Thibaut Tiberghien, Hamdi Aloulou, Mounir Mokhtari and Jit Biswas" ;
       swrc:listKeyword "Ambient Assisted Living,Context Awareness,Knowledge Modelling,Semantic Web,Inference Engine" ;
       foaf:maker person:thibaut-tiberghien , person:jit-biswas , person:mounir-mokhtari , person:hamdi-aloulou .
@@ -1921,6 +1941,7 @@ iswc2012paper:inuse-32
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-32 ;
       dc:creator person:james-fan , person:j-william-murdock , person:chris-welty , person:aditya-kalyanpur ;
+      dc:identifier "76500240" ;
       dc:subject "Answer Typing" , "Question Answering" , "Watson" ;
       dc:title "A Comparison of Hard Filters and Soft Evidence for Answer Typing in Watson" ;
       dcterms:creator person:james-fan , person:j-william-murdock , person:chris-welty , person:aditya-kalyanpur ;
@@ -1929,6 +1950,7 @@ iswc2012paper:inuse-32
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-32/authors> ;
       swrc:abstract "Questions often explicitly request a particular type of answer. One popular approach to answering natural language questions involves filtering candidate answers based on precompiled lists of instances of common answer types (e.g., countries, animals, foods, etc.). Such a strategy is poorly suited to an open domain in which there is an extremely broad range of types of answers, and the most frequently occurring types cover only a small fraction of all answers. In this paper we present an alternative approach called TyCor, that employs soft filtering of candidates using multiple strategies and sources. We find that TyCor significantly outperforms a single-source, single-strategy hard filtering approach, demonstrating both that multi-source multi-strategy outperforms a single source, single strategy, and that its fault tolerance yields significantly better performance than a hard filter." ;
       swrc:author person:james-fan , person:j-william-murdock , person:chris-welty , person:aditya-kalyanpur ;
+      swrc:idLncs "76500240" ;
       swrc:listAuthor "Chris Welty, J William Murdock, Aditya Kalyanpur and James Fan" ;
       swrc:listKeyword "Question Answering,Answer Typing,Watson" ;
       foaf:maker person:james-fan , person:j-william-murdock , person:chris-welty , person:aditya-kalyanpur .
@@ -2514,12 +2536,14 @@ iswc2012paper:research-05
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-05 ;
       dc:creator person:bernardo-cuenca-grau , person:ana-armas , person:ian-horrocks ;
+      dc:identifier "76490001" ;
       dc:title "MORe: Modular Combination of OWL Reasoners for Ontology Classification" ;
       dcterms:creator person:bernardo-cuenca-grau , person:ana-armas , person:ian-horrocks ;
       dcterms:title "MORe: Modular Combination of OWL Reasoners for Ontology Classification" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-05/authors> ;
       swrc:abstract "Classification is a fundamental reasoning task in ontology design, and there is currently a wide range of reasoners highly optimised for classification of OWL 2 ontologies. There are also several reasoners that are complete for restricted fragments of OWL 2 , such as the OWL 2 EL profile. These reasoners are much more efficient than fully-fledged OWL 2 reasoners, but they are not complete for ontologies containing (even if just a few) axioms outside the relevant fragment. In this paper, we propose a novel classification technique that combines an OWL 2 reasoner and an efficient reasoner for a given fragment in such a way that the bulk of the workload is assigned to the latter. Reasoners are combined in a black-box modular manner, and the specifics of their implementation (and even of their reasoning technique) are irrelevant to our approach." ;
       swrc:author person:bernardo-cuenca-grau , person:ana-armas , person:ian-horrocks ;
+      swrc:idLncs "76490001" ;
       swrc:listAuthor "Ana Armas, Bernardo Cuenca Grau and Ian Horrocks" ;
       foaf:maker person:bernardo-cuenca-grau , person:ana-armas , person:ian-horrocks .
 
@@ -2614,14 +2638,16 @@ iswc2012paper:inuse-35
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-35 ;
       dc:creator person:amel-bennaceur , person:shashank-tyagi , person:valerie-issarny , person:romina-spalazzese ;
-      dc:subject "Interoperability" , "Composition" , "Universal Instant Messaging" , "Ontology" , "Verification" , "Mediation" ;
+      dc:identifier "76500017" ;
+      dc:subject "Interoperability" , "Composition" , "Universal Instant Messaging" , "Verification" , "Ontology" , "Mediation" ;
       dc:title "Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case" ;
       dcterms:creator person:amel-bennaceur , person:shashank-tyagi , person:valerie-issarny , person:romina-spalazzese ;
-      dcterms:subject "Interoperability" , "Composition" , "Universal Instant Messaging" , "Verification" , "Ontology" , "Mediation" ;
+      dcterms:subject "Interoperability" , "Composition" , "Universal Instant Messaging" , "Ontology" , "Verification" , "Mediation" ;
       dcterms:title "Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-35/authors> ;
       swrc:abstract "The success of pervasive computing depends on the ability to compose a multitude of networked applications dynamically in order to achieve user goals. However, applications from different providers are not able to interoperate due to incompatible interaction protocols or disparate data models. Instant messaging is a representative example of the current situation, where various competing applications keep emerging. To enforce interoperability at runtime and in a non-intrusive manner, mediators are used to perform the necessary translations and coordination between the heterogeneous applications. Nevertheless, the design of mediators requires considerable knowledge about each application as well as a substantial development effort. In this paper we present an approach based on ontology reasoning and model checking in order to generate correct-by-construction mediators automatically. We demonstrate the feasibility of our approach through a prototype tool and show that it synthesises mediators that achieve efficient interoperation of instant messaging applications." ;
       swrc:author person:amel-bennaceur , person:shashank-tyagi , person:valerie-issarny , person:romina-spalazzese ;
+      swrc:idLncs "76500017" ;
       swrc:listAuthor "Amel Bennaceur, Valerie Issarny, Romina Spalazzese and Shashank Tyagi" ;
       swrc:listKeyword "Interoperability,Composition,Ontology,Verification,Mediation,Universal Instant Messaging" ;
       foaf:maker person:amel-bennaceur , person:shashank-tyagi , person:valerie-issarny , person:romina-spalazzese .
@@ -2668,12 +2694,14 @@ iswc2012paper:research-04
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-04 ;
       dc:creator person:markus-krotzsch ;
+      dc:identifier "76490273" ;
       dc:title "The Not-So-Easy Task of Computing Class Subsumptions in OWL RL" ;
       dcterms:creator person:markus-krotzsch ;
       dcterms:title "The Not-So-Easy Task of Computing Class Subsumptions in OWL RL" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-04/authors> ;
       swrc:abstract "The lightweight ontology language OWL RL is used for reasoning with large amounts of data. To this end, the W3C standard provides a simple system of deduction rules, which operate directly on the RDF syntax of OWL. Several similar systems have been studied. However, these approaches are usually complete for instance retrieval only. This paper asks if and how such methods could also be used for computing entailed subclass relationships. Checking entailment for arbitrary OWL RL class subsumptions is co-NP-hard, but tractable rule-based reasoning is possible when restricting to subsumptions between atomic classes. Surprisingly, however, this cannot be achieved in any RDF-based rule system, i.e., the W3C calculus cannot be extended to compute all atomic class subsumptions. We identify syntactic restrictions to mitigate this problem, and propose a rule system that is sound and complete for many OWL RL ontologies." ;
       swrc:author person:markus-krotzsch ;
+      swrc:idLncs "76490273" ;
       swrc:listAuthor "Markus Krötzsch" ;
       foaf:maker person:markus-krotzsch .
 
@@ -2694,6 +2722,7 @@ iswc2012paper:inuse-78
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-78 ;
       dc:creator person:marta-corubolo , person:stefano-fumeo , person:emanuele-della-valle , person:thorsten-krueger , person:irene-celino , <http://data.semanticweb.org/person/daniele-dellaglio> , person:simone-contessa ;
+      dc:identifier "76500033" ;
       dc:subject "Smart cities" , "Mobility" , "Game with Purpose" ;
       dc:title "Linking Smart Cities Datasets with Human Computation -- the case of UrbanMatch" ;
       dcterms:creator person:marta-corubolo , person:stefano-fumeo , person:emanuele-della-valle , person:thorsten-krueger , person:irene-celino , person:simone-contessa , <http://data.semanticweb.org/person/daniele-dellaglio> ;
@@ -2702,6 +2731,7 @@ iswc2012paper:inuse-78
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-78/authors> ;
       swrc:abstract "To realize the Smart Cities vision, applications can leverage the large availability of open datasets related to urban environments. Those datasets need to be integrated, but it is often hard to automatically achieve a high-quality interlinkage. Human Computation approaches can be employed to solve such a task where machines are ineffective. We argue that in this case not only people's background knowledge is useful to solve the task, but also people's physical presence and direct experience can be successfully exploited. In this paper we present UrbanMatch, a Game with a Purpose for players in mobility aimed at validating links between points of interest and their photos; we discuss the design choices and we show the high throughput and accuracy achieved in the interlinking task." ;
       swrc:author person:marta-corubolo , person:stefano-fumeo , person:thorsten-krueger , person:irene-celino , person:emanuele-della-valle , person:simone-contessa , <http://data.semanticweb.org/person/daniele-dellaglio> ;
+      swrc:idLncs "76500033" ;
       swrc:listAuthor "Irene Celino, Simone Contessa, Marta Corubolo, Daniele Dellaglio, Emanuele Della Valle, Stefano Fumeo and Thorsten Krueger" ;
       swrc:listKeyword "Game with Purpose,Smart cities,Mobility" ;
       foaf:maker person:marta-corubolo , person:stefano-fumeo , person:irene-celino , person:emanuele-della-valle , person:thorsten-krueger , person:simone-contessa , <http://data.semanticweb.org/person/daniele-dellaglio> .
@@ -2785,6 +2815,7 @@ iswc2012paper:inuse-58
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-58 ;
       dc:creator person:freddy-lecue , person:anika-schumann , person:marco-sbodio ;
+      dc:identifier "76500113" ;
       dc:subject "Semantic integration" , "Semantic Stream" , "Semantic cities" , "Applied Description Logics" ;
       dc:title "Applying Semantic Web Technologies for Diagnosing Road Traffic Congestions" ;
       dcterms:creator person:freddy-lecue , person:anika-schumann , person:marco-sbodio ;
@@ -2793,6 +2824,7 @@ iswc2012paper:inuse-58
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-58/authors> ;
       swrc:abstract "Diagnosis, or the method to connect causes to its effects, is an important reasoning task for obtaining insight on cities and reaching the concept of sustainable and smarter cities that is envisioned nowadays. This paper, focusing on transportation and its road traffic, presents how road traffic congestions can be detected and diagnosed in quasi real-time. We adapt pure Artificial Intelligence diagnosis techniques to fully exploit knowledge which is captured through relevant semantics-augmented stream and static data from various domains. Our prototype of semantic-aware diagnosis of road traffic congestions, experimented in Dublin Ireland, works efficiently with large, heterogeneous information sources and delivers value-added services to citizens and city managers in quasi real-time." ;
       swrc:author person:freddy-lecue , person:anika-schumann , person:marco-sbodio ;
+      swrc:idLncs "76500113" ;
       swrc:listAuthor "Freddy Lecue, Anika Schumann and Marco Sbodio" ;
       swrc:listKeyword "Semantic Stream,Applied Description Logics,Semantic cities,Semantic integration" ;
       foaf:maker person:freddy-lecue , person:anika-schumann , person:marco-sbodio .
@@ -2822,6 +2854,7 @@ iswc2012paper:inuse-17
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-17 ;
       dc:creator person:tudor-groza , person:andreas-zankl , person:razan-paul , person:jane-hunter ;
+      dc:identifier "76500161" ;
       dc:subject "Decision support" , "Ontologies" , "Semantic similarity" ;
       dc:title "Semantic similarity-driven decision support in the skeletal dysplasia domain" ;
       dcterms:creator person:tudor-groza , person:andreas-zankl , person:razan-paul , person:jane-hunter ;
@@ -2830,6 +2863,7 @@ iswc2012paper:inuse-17
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-17/authors> ;
       swrc:abstract "Biomedical ontologies have become a mainstream topic in medical research. They represent important sources of evolved knowledge that may be automatically integrated in decision support methods. Grounding clinical and radiographic findings in concepts defined by a biomedical ontology, e.g., the Human Phenotype Ontology, enables us to compute semantic similarity between them. In this paper, we focus on using such similarity measures to predict disorders on undiagnosed patient cases in the bone dysplasia domain. Different methods for computing the semantic similarity have been implemented. All methods have been evaluated based on their support in achieving a higher prediction accuracy. The outcome of this research enables us to understand the feasibility of developing decision support methods based on ontology-driven semantic similarity in the skeletal dysplasia domain." ;
       swrc:author person:tudor-groza , person:andreas-zankl , person:razan-paul , person:jane-hunter ;
+      swrc:idLncs "76500161" ;
       swrc:listAuthor "Razan Paul, Tudor Groza, Andreas Zankl and Jane Hunter" ;
       swrc:listKeyword "Semantic similarity,Decision support,Ontologies" ;
       foaf:maker person:tudor-groza , person:andreas-zankl , person:razan-paul , person:jane-hunter .
@@ -2909,12 +2943,14 @@ iswc2012paper:research-07
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-07 ;
       dc:creator person:annika-hinze , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese ;
+      dc:identifier "76490161" ;
       dc:title "Semantic Enrichment by Non-Experts: Usability of Manual Annotation Tools" ;
       dcterms:creator person:annika-hinze , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese ;
       dcterms:title "Semantic Enrichment by Non-Experts: Usability of Manual Annotation Tools" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-07/authors> ;
       swrc:abstract "Most of the semantic content available has been generated automatically by using annotation services for existing content. Automatic annotation is not of sufficient quality to enable focused search and retrieval: either too many or too few terms are semantically annotated. User-defined semantic enrichment allows for a more targeted approach. We developed a tool for semantic annotation of digital documents and conducted an end-user study to evaluate its acceptance by and usability for non-expert users. This paper presents the results of this user study and discusses the lessons learned about both the semantic enrichment process and our methodology of exposing non-experts to semantic enrichment." ;
       swrc:author person:annika-hinze , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese ;
+      swrc:idLncs "76490161" ;
       swrc:listAuthor "Annika Hinze, Ralf Heese, Markus Luczak-Rösch and Adrian Paschke" ;
       foaf:maker person:annika-hinze , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese .
 
@@ -3002,6 +3038,7 @@ iswc2012paper:inuse-18
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-18 ;
       dc:creator person:tudor-groza , person:andreas-zankl , person:jane-hunter ;
+      dc:identifier "76500081" ;
       dc:subject "Domain Ontologies" , "Entity-quality structure" , "Knowledge representation" ;
       dc:title "Experiences with modeling composite phenotypes in the SKELETOME project" ;
       dcterms:creator person:tudor-groza , person:andreas-zankl , person:jane-hunter ;
@@ -3010,6 +3047,7 @@ iswc2012paper:inuse-18
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-18/authors> ;
       swrc:abstract "Semantic annotation of patient data in the skeletal dysplasia domain (e.g., clinical summaries) is a challenging process due to the structural and lexical differences existing between the terms used to describe radiographic findings. In this paper we propose an ontology aimed at representing the intrinsic structure of such radiographic findings in a standard manner, in order to bridge the different lexical variations of the actual terms. Furthermore, we describe and evaluate an algorithm capable of mapping concepts of this ontology to exact or broader terms in the main phenotype ontology used in the bone dysplasia domain." ;
       swrc:author person:tudor-groza , person:andreas-zankl , person:jane-hunter ;
+      swrc:idLncs "76500081" ;
       swrc:listAuthor "Tudor Groza, Andreas Zankl and Jane Hunter" ;
       swrc:listKeyword "Domain Ontologies,Knowledge representation,Entity-quality structure" ;
       foaf:maker person:tudor-groza , person:andreas-zankl , person:jane-hunter .
@@ -3036,12 +3074,14 @@ iswc2012paper:research-06
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-06 ;
       dc:creator person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
+      dc:identifier "76490097" ;
       dc:title "Concept-Based Semantic Difference in Expressive Description Logics" ;
       dcterms:creator person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
       dcterms:title "Concept-Based Semantic Difference in Expressive Description Logics" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-06/authors> ;
       swrc:abstract "Detecting, much less understanding, the difference between two description logic based ontologies is challenging for ontology engineers due, in part, to the possibility of complex, non-local logic effects of axiom changes. First, it is often quite difficult to even determine which concepts have had their meaning altered by a change. Second, once a concept change is pinpointed, the problem of distinguishing whether the concept is directly or indirectly affected by a change has yet to be tackled. To address the first issue, various principled notions of ``semantic diff'' (based on deductive inseparability) have been proposed in the literature and shown to be computationally practical for the expressively restricted case of ELHr-terminologies. However, problems arise even for such limited logics as ALC: First, computation gets more difficult, becoming undecidable for logics such as SROIQ which underly the Web Ontology Language (OWL). Second, the presence of negation and disjunction make the standard semantic difference too sensitive to change: essentially, any logically effectual change always affects all terms in the ontology. In order to tackle these issues, we formulate the central notion of finding the minimal change set based on model inseparability, and present a method to differentiate changes which are specific to (thus directly affect) particular concept names. Subsequently we devise a series of computable approximations, and compare the variously approximated change sets over a series of versions of the NCI Thesaurus (NCIt)." ;
       swrc:author person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
+      swrc:idLncs "76490097" ;
       swrc:listAuthor "Rafael S. Gonçalves, Bijan Parsia and Ulrike Sattler" ;
       foaf:maker person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia .
 
@@ -3060,6 +3100,7 @@ iswc2012paper:inuse-39
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-39 ;
       dc:creator person:pol-mac-aonghusa , person:martin-stephenson , person:aris-gkoulalas-divanis , person:marco-luca-sbodio , person:vanessa-lopez , person:spyros-kotoulas ;
+      dc:identifier "76500145" ;
       dc:subject "content platform" , "linked data" , "stream data" , "privacy" , "urban data" , "city data" ;
       dc:title "QuerioCity: A Linked Data Platform for Urban Information Management" ;
       dcterms:creator person:pol-mac-aonghusa , person:martin-stephenson , person:aris-gkoulalas-divanis , person:marco-luca-sbodio , person:vanessa-lopez , person:spyros-kotoulas ;
@@ -3068,6 +3109,7 @@ iswc2012paper:inuse-39
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-39/authors> ;
       swrc:abstract "In this paper, we present QuerioCity, a platform to catalog, index and query highly heterogenous information coming from complex systems, such as cities. A series of challenges are identified: namely, the heterogeneity of the domain and the lack of a common model, the volume of information and the number of data sets, the requirement for a low entry threshold to the system, the diversity of the input data, in terms of format, syntax and update frequency (streams vs static data), and the sensitivity of the information. We propose an approach for incremental and continuous integration of static and streaming data, based on Semantic Web technologies. The proposed system is unique in the literature in terms of handling of multiple integrations of available data sets in combination with flexible provenance tracking, privacy protection and continuous integration of streams. We report on lessons learnt from building the first prototype for Dublin." ;
       swrc:author person:aris-gkoulalas-divanis , person:martin-stephenson , person:pol-mac-aonghusa , person:marco-luca-sbodio , person:vanessa-lopez , person:spyros-kotoulas ;
+      swrc:idLncs "76500145" ;
       swrc:listAuthor "Vanessa Lopez, Spyros Kotoulas, Marco Luca Sbodio, Martin Stephenson, Aris Gkoulalas-Divanis and Pol Mac Aonghusa" ;
       swrc:listKeyword "city data,content platform,linked data,urban data,privacy,stream data" ;
       foaf:maker person:pol-mac-aonghusa , person:martin-stephenson , person:aris-gkoulalas-divanis , person:marco-luca-sbodio , person:vanessa-lopez , person:spyros-kotoulas .
@@ -3184,12 +3226,14 @@ iswc2012paper:research-09
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-09 ;
       dc:creator person:toshio-uchiyama , person:makoto-nakatsuji , person:hiroyuki-toda , person:yasuhiro-fujiwara ;
+      dc:identifier "76490353" ;
       dc:title "Collaborative Filtering by Analyzing Dynamic User Interests Modeled by Taxonomy" ;
       dcterms:creator person:toshio-uchiyama , person:makoto-nakatsuji , person:hiroyuki-toda , person:yasuhiro-fujiwara ;
       dcterms:title "Collaborative Filtering by Analyzing Dynamic User Interests Modeled by Taxonomy" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-09/authors> ;
       swrc:abstract "Tracking user interests over time is important for making accurate recommendations. However, the widely-used time-decay-based approach worsens the sparsity problem because it deemphasizes old item transactions. We introduce two ideas to solve the sparsity problem. First, we divide the users' transactions into epochs i.e. time periods, and identify epochs that are dominated by interests similar to the current interests of the active user. Thus, it can eliminate dissimilar transactions while making use of similar transactions that exist in prior epochs. Second, we use a taxonomy of items to model user item transactions in each epoch. This well captures the interests of users in each epoch even if there are few transactions. It suits the situations in which the items transacted by users dynamically change over time; the semantics behind classes do not change so often while individual items often appear and disappear. Fortunately, many taxonomies are now available on the web because of the spread of the Linked Open Data vision. We can now use those to understand dynamic user interests semantically. We evaluate our method using a dataset, a music listening history, extracted from users' tweets and one containing a restaurant visit history gathered from a gourmet guide site. The results show that our method predicts user interests much more accurately than the previous time-decay-based method." ;
       swrc:author person:toshio-uchiyama , person:makoto-nakatsuji , person:hiroyuki-toda , person:yasuhiro-fujiwara ;
+      swrc:idLncs "76490353" ;
       swrc:listAuthor "Makoto Nakatsuji, Yasuhiro Fujiwara, Toshio Uchiyama and Hiroyuki Toda" ;
       foaf:maker person:toshio-uchiyama , person:makoto-nakatsuji , person:hiroyuki-toda , person:yasuhiro-fujiwara .
 
@@ -3280,6 +3324,7 @@ iswc2012paper:inuse-53
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-53 ;
       dc:creator person:matthew-horridge , person:ray-w-fergerson , person:natasha-f-noy , person:manuel-salvadores , person:mark-musen , person:paul-alexander ;
+      dc:identifier "76500177" ;
       dc:subject "Linked Data" , "Ontologies" , "RDF" , "SPARQL" , "Biomedical" ;
       dc:title "Using SPARQL to Query BioPortal Ontologies and Metadata" ;
       dcterms:creator person:matthew-horridge , person:ray-w-fergerson , person:natasha-f-noy , person:manuel-salvadores , person:mark-musen , person:paul-alexander ;
@@ -3288,6 +3333,7 @@ iswc2012paper:inuse-53
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-53/authors> ;
       swrc:abstract "BioPortal is a repository of biomedical ontologies - the largest such repository, with more than 300 ontologies to date. This set includes ontologies that were developed in OWL, OBO and other languages, as well as a large number of medical terminologies that the US National Library of Medicine distributes in its own proprietary format. We have published the RDF based serializations of all these ontologies and their metadata at sparql.bioontology.org. This dataset contains 203M triples, representing both content and metadata for the 300+ ontologies; and 9M mappings between terms. This endpoint can be queried with SPARQL which opens new usage scenarios for the biomedical domain. This paper presents lessons learned from having redesigned several applications that today use this SPARQL endpoint to consume ontological data." ;
       swrc:author person:matthew-horridge , person:ray-w-fergerson , person:natasha-f-noy , person:manuel-salvadores , person:mark-musen , person:paul-alexander ;
+      swrc:idLncs "76500177" ;
       swrc:listAuthor "Manuel Salvadores, Matthew Horridge, Paul Alexander, Ray W. Fergerson, Mark Musen and Natasha F. Noy" ;
       swrc:listKeyword "Ontologies,SPARQL,RDF,Biomedical,Linked Data" ;
       foaf:maker person:matthew-horridge , person:ray-w-fergerson , person:natasha-f-noy , person:manuel-salvadores , person:mark-musen , person:paul-alexander .
@@ -3298,12 +3344,14 @@ iswc2012paper:research-29
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-29 ;
       dc:creator person:manuel-atencia , person:chiara-ghidini , person:jerome-euzenat , person:luciano-serafini , person:alexander-borgida ;
+      dc:identifier "76490017" ;
       dc:title "A Formal Semantics for Weighted Ontology Mappings" ;
       dcterms:creator person:manuel-atencia , person:chiara-ghidini , person:jerome-euzenat , person:luciano-serafini , person:alexander-borgida ;
       dcterms:title "A Formal Semantics for Weighted Ontology Mappings" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-29/authors> ;
       swrc:abstract "Ontology mappings are often assigned a weight or confidence factor by matchers. Nonetheless, few semantic accounts have been given so far for such weights. This paper presents a formal semantics for weighted mappings between different ontologies. It is based on a classificational interpretation of mappings: if O1 and O2 are two ontologies used to classify a common set X , then mappings between O1 and O2 are interpreted to encode how elements of X classified in the concepts of O1 are re-classified in the concepts of O2, and weights are interpreted to measure how precise and complete re-classifications are. This semantics is justifiable by extensional practice of ontology matching. It is a conservative extension of a semantics of crisp mappings. The paper also includes properties that relate mapping entailment with description logic constructors." ;
       swrc:author person:manuel-atencia , person:chiara-ghidini , person:jerome-euzenat , person:luciano-serafini , person:alexander-borgida ;
+      swrc:idLncs "76490017" ;
       swrc:listAuthor "Manuel Atencia, Alexander Borgida, Jérôme Euzenat, Chiara Ghidini and Luciano Serafini" ;
       foaf:maker person:manuel-atencia , person:chiara-ghidini , person:jerome-euzenat , person:luciano-serafini , person:alexander-borgida .
 
@@ -3360,7 +3408,8 @@ iswc2012paper:research-08
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-08 ;
       dc:creator person:tomas-vitvar , person:maciej-zaremba , person:jaroslav-kuchar , person:milan-dojchinovski ;
-      dc:subject " social network" , " personalisation" , " ranking" , " Web services" , "Web APIs" , " service selection" ;
+      dc:identifier "76490033" ;
+      dc:subject " social network" , " ranking" , " personalisation" , " Web services" , "Web APIs" , " service selection" ;
       dc:title "Personalised Graph-based Selection of Web APIs" ;
       dcterms:creator person:tomas-vitvar , person:maciej-zaremba , person:jaroslav-kuchar , person:milan-dojchinovski ;
       dcterms:subject " social network" , " ranking" , " personalisation" , " Web services" , "Web APIs" , " service selection" ;
@@ -3368,6 +3417,7 @@ iswc2012paper:research-08
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-08/authors> ;
       swrc:abstract "Modelling and understanding various contexts of users is important to enable personalised selection of Web APIs in directories such as Programmable Web. Currently, relationships between users and Web APIs are not clearly understood and utilized by existing selection approaches. In this paper, we present a semantic model of a Web API directory graph that captures relationships such as Web APIs, mashups, developers, and categories. We describe a novel configurable graph-based method for selection of Web APIs with personalised and temporal aspects. The method allows users to get more control over their preferences and recommended Web APIs while they can exploit information about their social links and preferences. We evaluate the method on a real-world dataset from ProgrammableWeb.com, and show that it provides more contextualised results than currently available popularity based rankings." ;
       swrc:author person:tomas-vitvar , person:maciej-zaremba , person:jaroslav-kuchar , person:milan-dojchinovski ;
+      swrc:idLncs "76490033" ;
       swrc:listAuthor "Milan Dojchinovski, Jaroslav Kuchar, Tomas Vitvar and Maciej Zaremba" ;
       swrc:listKeyword "Web APIs, Web services, personalisation, ranking, service selection, social network" ;
       foaf:maker person:tomas-vitvar , person:maciej-zaremba , person:jaroslav-kuchar , person:milan-dojchinovski .
@@ -3467,12 +3517,14 @@ iswc2012paper:research-28
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-28 ;
       dc:creator person:rahul-parundekar , person:jose-luis-ambite , person:craig-knoblock ;
+      dc:identifier "76490417" ;
       dc:title "Discovering Concept Coverings in Ontologies of Linked Data Sources" ;
       dcterms:creator person:rahul-parundekar , person:jose-luis-ambite , person:craig-knoblock ;
       dcterms:title "Discovering Concept Coverings in Ontologies of Linked Data Sources" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-28/authors> ;
       swrc:abstract "Despite the increase in the number of linked instances in the Linked Data Cloud in recent times, the absence of links at the concept level has resulted in heterogenous schemas, challenging the interoperability goal of the Semantic Web. In this paper, we address this problem by finding alignments between concepts from multiple Linked Data sources. Instead of only considering the existing concepts present in each ontology, we hypothesize new composite concepts defined as disjunctions of conjunctions of (RDF) types and value restrictions, which we call restriction classes, and generate alignments between these composite concepts. This extended concept language enables us to find more complete definitions and to even align sources that have rudimentary ontologies, such as those that are simple renderings of relational databases. Our concept alignment approach is based on analyzing the extensions of these concepts and their linked instances. Having explored the alignment of conjunctive concepts in our previous work, in this paper, we focus on concept coverings (disjunctions of restriction classes). We present an evaluation of this new algorithm to Geospatial, Biological Classification, and Genetics domains. The resulting alignments are useful for refining existing ontologies and determining the alignments between concepts in the ontologies, thus increasing the interoperability in the Linked Open Data Cloud." ;
       swrc:author person:rahul-parundekar , person:jose-luis-ambite , person:craig-knoblock ;
+      swrc:idLncs "76490417" ;
       swrc:listAuthor "Rahul Parundekar, Craig Knoblock and José Luis Ambite" ;
       foaf:maker person:rahul-parundekar , person:jose-luis-ambite , person:craig-knoblock .
 
@@ -3513,6 +3565,7 @@ iswc2012paper:inuse-54
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-54 ;
       dc:creator person:alan-eckhardt , person:chris-mellish , person:edoardo-pignotti , person:thomas-bouttaz , person:kapila-ponnamperuma , person:peter-edwards ;
+      dc:identifier "76500049" ;
       dc:subject "Virtual Research Environment" , "NLG" , "Provenance" , "Policies" ;
       dc:title "ourSpaces - Design and Deployment of a Semantic Virtual Research Environment" ;
       dcterms:creator person:alan-eckhardt , person:chris-mellish , person:edoardo-pignotti , person:thomas-bouttaz , person:kapila-ponnamperuma , person:peter-edwards ;
@@ -3521,6 +3574,7 @@ iswc2012paper:inuse-54
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-54/authors> ;
       swrc:abstract "In this paper we discuss our experience with the design, development and deployment of the ourSpaces Virtual Research Environment. ourSpaces makes use of Semantic Web technologies to create a platform to support multidisciplinary research groups. This paper introduces the main semantic components of the system: a framework to capture the provenance of the research process, a collection of services to create and visualise metadata and a policy reasoning service. We also describe different approaches to support interaction between users and metadata within the VRE. We discuss the lessons learnt during the deployment process with three case study groups. Finally, we present our conclusions and future directions for exploration in terms of developing ourSpaces further." ;
       swrc:author person:alan-eckhardt , person:chris-mellish , person:edoardo-pignotti , person:kapila-ponnamperuma , person:thomas-bouttaz , person:peter-edwards ;
+      swrc:idLncs "76500049" ;
       swrc:listAuthor "Peter Edwards, Edoardo Pignotti, Alan Eckhardt, Kapila Ponnamperuma, Chris Mellish and Thomas Bouttaz" ;
       swrc:listKeyword "Provenance,Virtual Research Environment,Policies,NLG" ;
       foaf:maker person:alan-eckhardt , person:chris-mellish , person:edoardo-pignotti , person:kapila-ponnamperuma , person:thomas-bouttaz , person:peter-edwards .
@@ -3661,6 +3715,7 @@ iswc2012paper:inuse-51
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-51 ;
       dc:creator person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
+      dc:identifier "76500001" ;
       dc:subject "Linked Data" , "application integration" , "Provenance" ;
       dc:title "Managing the life-cycle of Linked Data with the LOD2 Stack" ;
       dcterms:creator person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
@@ -3669,6 +3724,7 @@ iswc2012paper:inuse-51
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51/authors> ;
       swrc:abstract "The LOD2 Stack is an integrated distribution of aligned tools which support the whole life cycle of Linked Data from extraction, authoring/creation via enrichment, interlinking, fusing to maintenance. The LOD2 Stack comprises new and substantially extended existing tools from the LOD2 project partners and third parties. The stack is designed to be versatile; for all functionality we define clear interfaces, which enable the plugging in of alternative third-party implementations. The architecture of the LOD2 Stack is based on three pillars: (1) Software integration and deployment using the Debian packaging system. (2) Use of a central SPARQL endpoint and standardized vocabularies for knowledge base access and integration between the different tools of the LOD2 Stack. (3) Integration of the LOD2 Stack user interfaces based on REST enabled Web Applications. These three pillars comprise the methodological and technological framework for integrating the very heterogeneous LOD2 Stack components into a consistent framework. In this article we describe these pillars in more detail and give an overview of the individual LOD2 Stack components. The article also includes a description of a real-world usage scenario in the publishing domain." ;
       swrc:author person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
+      swrc:idLncs "76500001" ;
       swrc:listAuthor "Sören Auer, Lorenz Bühmann, Christian Dirschl, Orri Erling, Michael Hausenblas, Robert Isele, Jens Lehmann, Michael Martin, Pablo Mendes, Bert van Nuffelen, Claus Stadler, Sebastian Tramp and Hugh Williams" ;
       swrc:listKeyword "Linked Data,application integration,Provenance" ;
       foaf:maker person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl .
@@ -3960,6 +4016,7 @@ iswc2012paper:research-25
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-25 ;
       dc:creator person:kostis-kyzirakos , person:manos-karpathiotakis , person:manolis-koubarakis ;
+      dc:identifier "76490289" ;
       dc:subject "RDF" , " SPARQL" , " geospatial information" ;
       dc:title "Strabon: A Semantic Geospatial DBMS" ;
       dcterms:creator person:kostis-kyzirakos , person:manolis-koubarakis , person:manos-karpathiotakis ;
@@ -3968,6 +4025,7 @@ iswc2012paper:research-25
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-25/authors> ;
       swrc:abstract "We present Strabon, a new RDF store that supports the state of the art semantic geospatial query languages stSPARQL and GeoSPARQL. To illustrate the expressive power offered by these query languages and their implementation in Strabon, we concentrate on the new version of the data model stRDF and the query language stSPARQL that we have developed ourselves. Like GeoSPARQL, these new versions use OGC standards to represent geometries where the original versions used linear constraints. We study the performance of Strabon experimentally and show that it scales to very large data volumes and performs, most of the times, better than all other geospatial RDF stores it has been compared with." ;
       swrc:author person:kostis-kyzirakos , person:manos-karpathiotakis , person:manolis-koubarakis ;
+      swrc:idLncs "76490289" ;
       swrc:listAuthor "Kostis Kyzirakos, Manos Karpathiotakis and Manolis Koubarakis" ;
       swrc:listKeyword "RDF, SPARQL, geospatial information" ;
       foaf:maker person:kostis-kyzirakos , person:manolis-koubarakis , person:manos-karpathiotakis .
@@ -4083,6 +4141,7 @@ iswc2012paper:evaluation-27
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-27 ;
       dc:creator person:gabriela-montoya , person:maria-esther-vidal , person:edna-ruckhaus , person:carlos-buil-aranda , person:oscar-corcho ;
+      dc:identifier "76500306" ;
       dc:subject "Federated Semantic Data Query Processing Strategies" , "SPARQL Endpoints" , "Benchmarking" ;
       dc:title "Benchmarking Federated SPARQL Query Engines: Are Existing Testbeds Enough?" ;
       dcterms:creator person:maria-esther-vidal , person:gabriela-montoya , person:edna-ruckhaus , person:carlos-buil-aranda , person:oscar-corcho ;
@@ -4091,6 +4150,7 @@ iswc2012paper:evaluation-27
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-27/authors> ;
       swrc:abstract "Testbeds proposed so far to evaluate, compare, and eventually improve SPARQL query federation systems have still some limitations. Some variables and configurations that may have an impact on the behavior of these systems (e.g., network latency, data partitioning and query properties) are not sufficiently defined; this affects the results and repeatability of independent evaluation studies, and hence the insights that can be obtained from them. In this paper we evaluate FedBench, the most comprehensive testbed up to now, and empirically probe the need of considering additional dimensions and variables. The evaluation has been conducted on three SPARQL query federation systems, and the analysis of these results has allowed to uncover properties of these systems that would normally be hidden with the original testbeds." ;
       swrc:author person:maria-esther-vidal , person:gabriela-montoya , person:edna-ruckhaus , person:carlos-buil-aranda , person:oscar-corcho ;
+      swrc:idLncs "76500306" ;
       swrc:listAuthor "Gabriela Montoya, Maria-Esther Vidal, Oscar Corcho, Edna Ruckhaus and Carlos Buil-Aranda" ;
       swrc:listKeyword "Benchmarking,Federated Semantic Data Query Processing Strategies,SPARQL Endpoints" ;
       foaf:maker person:gabriela-montoya , person:maria-esther-vidal , person:edna-ruckhaus , person:carlos-buil-aranda , person:oscar-corcho .
@@ -4147,12 +4207,14 @@ iswc2012paper:research-24
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-24 ;
       dc:creator person:yannis-tzitzikas , person:christina-lantzaki , person:dimitris-zeginis ;
+      dc:identifier "76490577" ;
       dc:title "Blank Node Matching and RDF/S Comparison Functions" ;
       dcterms:creator person:yannis-tzitzikas , person:christina-lantzaki , person:dimitris-zeginis ;
       dcterms:title "Blank Node Matching and RDF/S Comparison Functions" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-24/authors> ;
       swrc:abstract "In RDF, a blank node (or anonymous resource or bnode) is a node in an RDF graph which is not identified by a URI and is not a literal. Several RDF/S Knowledge Bases (KBs) rely heavily on blank nodes as they are convenient for representing complex attributes or resources whose identity is unknown but their attributes (either literals or associations with other resources) are known. In this paper we show how we can exploit blank nodes anonymity in order to reduce the delta (diff) size when comparing such KBs. The main idea of the proposed method is to build a mapping between the bnodes of the compared KBs for reducing the delta size. We prove that finding the optimal mapping is NP-Hard in the general case, and polynomial in case there are not directly connected bnodes. Subsequently we present various polynomial algorithms returning approximate solutions for the general case. For making the application of our method feasible also to large KBs we present a signature-based mapping algorithm with n logn complexity. Finally, we report experimental results over real and synthetic datasets that demonstrate significant reductions in the sizes of the computed deltas. For the proposed algorithms we also provide comparative results regarding delta reduction, equivalence detection and time efficiency." ;
       swrc:author person:yannis-tzitzikas , person:christina-lantzaki , person:dimitris-zeginis ;
+      swrc:idLncs "76490577" ;
       swrc:listAuthor "Yannis Tzitzikas, Christina Lantzaki and Dimitris Zeginis" ;
       foaf:maker person:yannis-tzitzikas , person:christina-lantzaki , person:dimitris-zeginis .
 
@@ -4337,12 +4399,14 @@ iswc2012paper:research-27
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-27 ;
       dc:creator person:minh-duc-pham , person:ying-zhang , person:jean-paul-calbimonte , person:oscar-corcho ;
+      dc:identifier "76490625" ;
       dc:title "SRBench: A Streaming RDF/SPARQL Benchmark" ;
       dcterms:creator person:minh-duc-pham , person:ying-zhang , person:jean-paul-calbimonte , person:oscar-corcho ;
       dcterms:title "SRBench: A Streaming RDF/SPARQL Benchmark" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-27/authors> ;
       swrc:abstract "We introduce SRBench, a general-purpose benchmark primarily designed for streaming RDF/SPARQL engines, completely based on real-world data sets from the Linked Open Data cloud. With the increasing problem of too much streaming data but not enough tools to gain knowledge from them, researchers have set out for solutions in which Semantic Web technologies are adapted and extended for publishing, sharing, analysing and understanding streaming data. To help researchers and users comparing streaming RDF/SPARQL (strRS) engines in a standardised application scenario, we have designed SRBench, with which one can assess the abilities of a strRS engine to cope with a broad range of use cases typically encountered in real-world scenarios. The data sets used in the benchmark have been carefully chosen, such that they represent a realistic and relevant usage of streaming data. The benchmark defines a concise, yet comprehensive set of queries that cover the major aspects of strRS processing. Finally, our work is complemented with a functional evaluation on three representative strRS engines: SPARQLStream, C-SPARQL and CQELS. The presented results are meant to give a first baseline and illustrate the state-of-the-art." ;
       swrc:author person:minh-duc-pham , person:ying-zhang , person:jean-paul-calbimonte , person:oscar-corcho ;
+      swrc:idLncs "76490625" ;
       swrc:listAuthor "Ying Zhang, Minh-Duc Pham, Oscar Corcho and Jean Paul Calbimonte" ;
       foaf:maker person:minh-duc-pham , person:ying-zhang , person:jean-paul-calbimonte , person:oscar-corcho .
 
@@ -4587,6 +4651,7 @@ iswc2012paper:research-26
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-26 ;
       dc:creator person:cory-henson , person:amit-sheth , person:krishnaprasad-thirunarayan ;
+      dc:identifier "76490145" ;
       dc:subject " Resource-Constrained Environments" , " Semantic Sensor Web" , " Sensor Data" , "Machine Perception" , " Mobile Device" ;
       dc:title "An Efficient Bit Vector Approach to Semantics-based Machine Perception in Resource-Constrained Devices" ;
       dcterms:creator person:cory-henson , person:amit-sheth , person:krishnaprasad-thirunarayan ;
@@ -4595,6 +4660,7 @@ iswc2012paper:research-26
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-26/authors> ;
       swrc:abstract "The primary challenge of machine perception is to define efficient computational methods to derive high-level knowledge from low-level sensor observation data. Emerging solutions are using ontologies for expressive representation of concepts in the domain of sensing and perception, which enable advanced integration and interpretation of heterogeneous sensor data. The computational complexity of OWL, however, seriously limits its applicability and use within resource-constrained environments, such as mobile devices. To overcome this issue, we employ OWL to formally define the inference tasks needed for machine perception - explanation and discrimination - and then provide efficient algorithms for these tasks, using bit-vector encodings and operations. The applicability of our approach to machine perception is evaluated on a smart-phone mobile device, demonstrating dramatic improvements in both efficiency and scale." ;
       swrc:author person:cory-henson , person:amit-sheth , person:krishnaprasad-thirunarayan ;
+      swrc:idLncs "76490145" ;
       swrc:listAuthor "Cory Henson, Krishnaprasad Thirunarayan and Amit Sheth" ;
       swrc:listKeyword "Machine Perception, Semantic Sensor Web, Sensor Data, Mobile Device, Resource-Constrained Environments" ;
       foaf:maker person:cory-henson , person:amit-sheth , person:krishnaprasad-thirunarayan .
@@ -4760,12 +4826,14 @@ iswc2012paper:research-21
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-21 ;
       dc:creator person:axel-cyrille-ngonga-ngomo , person:mohamed-morsey , person:jens-lehmann , person:daniel-gerber ;
+      dc:identifier "76490305" ;
       dc:title "DeFacto - Deep Fact Validation" ;
       dcterms:creator person:axel-cyrille-ngonga-ngomo , person:jens-lehmann , person:mohamed-morsey , person:daniel-gerber ;
       dcterms:title "DeFacto - Deep Fact Validation" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-21/authors> ;
       swrc:abstract "One of the main tasks when creating and maintaining knowledge bases is to validate facts and provide sources for them in order to ensure correctness and traceability of the provided knowledge. So far, this task is often addressed by human curators in a three-step process: issuing appropriate keyword queries for the statement to check using standard search engines, retrieving potentially relevant documents and screening those documents for relevant content. The drawbacks of this process are manifold. Most importantly, it is very time-consuming as the experts have to carry out several search processes and must often read several documents. In this article, we present DeFacto (Deep Fact Validation) - an algorithm for validating facts by finding trustworthy sources for it on the Web. DeFacto aims to provide an effective way of validating facts by supplying the user with relevant excerpts of webpages as well as useful additional information including a score for the confidence DeFacto has in the correctness of the input fact." ;
       swrc:author person:axel-cyrille-ngonga-ngomo , person:jens-lehmann , person:mohamed-morsey , person:daniel-gerber ;
+      swrc:idLncs "76490305" ;
       swrc:listAuthor "Jens Lehmann, Daniel Gerber, Mohamed Morsey and Axel-Cyrille Ngonga Ngomo" ;
       foaf:maker person:axel-cyrille-ngonga-ngomo , person:jens-lehmann , person:mohamed-morsey , person:daniel-gerber .
 
@@ -4880,6 +4948,7 @@ iswc2012paper:research-01
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-01 ;
       dc:creator person:palmonari-matteo , person:steffen-stadtmuller , person:andrea-maurino , person:andreas-harth , person:anisa-rula ;
+      dc:identifier "76490481" ;
       dc:subject "temporal information" , " linked data" , " temporal annotation" ;
       dc:title "On the Diversity and Availability of Temporal Information in Linked Open Data" ;
       dcterms:creator person:palmonari-matteo , person:steffen-stadtmuller , person:andrea-maurino , person:andreas-harth , person:anisa-rula ;
@@ -4888,6 +4957,7 @@ iswc2012paper:research-01
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-01/authors> ;
       swrc:abstract "An increasing amount of data is published and consumed on the Web according to the Linked Data paradigm. In consideration of both publishers and consumers, the temporal dimension of data is important. In this paper we investigate the characterisation and availability of temporal information in Linked Data at large scale. Based on an abstract definition of temporal information we conduct experiments to evaluate the availability of such information using the data from the 2011 Billion Triple Challenge (BTC) dataset. Focusing in particular on the representation of temporal meta-information, i.e., temporal information associated with RDF statements and graphs, we investigate the approaches proposed in the literature, performing both a quantitative and a qualitative analysis and proposing guidelines for data consumers and publishers. Our experiments show that the amount of temporal information available in the LOD cloud is still very small; several different models have been used on different datasets, with a prevalence of approaches based on the annotation of RDF documents." ;
       swrc:author person:palmonari-matteo , person:steffen-stadtmuller , person:andrea-maurino , person:andreas-harth , person:anisa-rula ;
+      swrc:idLncs "76490481" ;
       swrc:listAuthor "Anisa Rula, Palmonari Matteo, Andreas Harth, Steffen Stadtmüller and Andrea Maurino" ;
       swrc:listKeyword "temporal information, temporal annotation, linked data" ;
       foaf:maker person:palmonari-matteo , person:steffen-stadtmuller , person:andrea-maurino , person:andreas-harth , person:anisa-rula .
@@ -4930,12 +5000,14 @@ iswc2012paper:research-20
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-20 ;
       dc:creator person:carlos-viegas-damasio , person:anastasia-analyti , person:grigoris-antoniou ;
+      dc:identifier "76490609" ;
       dc:title "Provenance for SPARQL queries" ;
       dcterms:creator person:carlos-viegas-damasio , person:anastasia-analyti , person:grigoris-antoniou ;
       dcterms:title "Provenance for SPARQL queries" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-20/authors> ;
       swrc:abstract "Determining trust of data available in the Semantic Web is fundamental for applications and users, in particular for linked open data obtained from SPARQL endpoints. There exist several proposals in the literature to annotate SPARQL query results with values from abstract models, adapting the seminal works on provenance for annotated relational databases. We provide an approach capable of providing provenance information for a large and significant fragment of SPARQL 1.1, including for the first time the major non-monotonic constructs under multiset semantics. The approach is based on the translation of SPARQL into relational queries over annotated relations with values of the most general m-semiring, and in this way also refuting a claim in the literature that the OPTIONAL construct of SPARQL cannot be captured appropriately with the known abstract models." ;
       swrc:author person:carlos-viegas-damasio , person:anastasia-analyti , person:grigoris-antoniou ;
+      swrc:idLncs "76490609" ;
       swrc:listAuthor "Carlos Viegas Damásio, Anastasia Analyti and Grigoris Antoniou" ;
       foaf:maker person:carlos-viegas-damasio , person:anastasia-analyti , person:grigoris-antoniou .
 
@@ -5084,12 +5156,14 @@ iswc2012paper:research-41
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-41 ;
       dc:creator person:elena-simperl , person:natasha-f-noy , person:cristina-sarasua ;
+      dc:identifier "76490513" ;
       dc:title "CrowdMAP: Crowdsourcing Ontology Alignment with Microtasks" ;
       dcterms:creator person:elena-simperl , person:natasha-f-noy , person:cristina-sarasua ;
       dcterms:title "CrowdMAP: Crowdsourcing Ontology Alignment with Microtasks" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-41/authors> ;
       swrc:abstract "The last decade of research in ontology alignment has brought a variety of computational techniques to discover correspondences between ontologies. While the accuracy of automatic approaches has continuously improved, human contributions remain a key ingredient of the process: this input serves as a valuable source of domain knowledge that is used to train the algorithms and to validate and augment automatically computed alignments. In this paper, we introduce CROWDMAP, a model to acquire such human contributions via microtask crowdsourcing. For a given pair of ontologies, CROWDMAP translates the alignment problem into microtasks that address individual alignment questions, publishes the microtasks on an online labor market, and evaluates the quality of the results obtained from the crowd. We evaluated the current implementation of CROWDMAP in a series of experiments using ontologies and reference alignments from the Ontology Alignment Evaluation Initiative and the crowdsourcing platform CrowdFlower. The experiments clearly demonstrated that the overall approach is feasible, and can improve the accuracy of existing ontology alignment solutions in a fast, scalable, and cost-effective manner." ;
       swrc:author person:elena-simperl , person:natasha-f-noy , person:cristina-sarasua ;
+      swrc:idLncs "76490513" ;
       swrc:listAuthor "Cristina Sarasua, Elena Simperl and Natasha F. Noy" ;
       foaf:maker person:elena-simperl , person:natasha-f-noy , person:cristina-sarasua .
 
@@ -5150,6 +5224,7 @@ iswc2012paper:research-23
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-23 ;
       dc:creator person:achille-fokoue , person:kavitha-srinivas , person:songyun-duan , person:anastasios-kementsietsidis , person:michael-ward , person:oktie-hassanzadeh ;
+      dc:identifier "76490048" ;
       dc:subject " Schema Matching" , " Linked Data" , "Ontology Alignment" , " Semantic Web" ;
       dc:title "Instance-Based Matching of Large Ontologies Using Locality-Sensitive Hashing" ;
       dcterms:creator person:achille-fokoue , person:songyun-duan , person:kavitha-srinivas , person:anastasios-kementsietsidis , person:michael-ward , person:oktie-hassanzadeh ;
@@ -5158,6 +5233,7 @@ iswc2012paper:research-23
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-23/authors> ;
       swrc:abstract "In this paper, we describe a mechanism for ontology alignment using instance based matching of types (or classes). Instance-based matching is known to be a useful technique for matching ontologies that have different names and different structures. A key problem in instance matching of types, however, is scaling the matching algorithm to (a) handle types with a large number of instances, and (b) efficiently match a large number of type pairs. We propose the use of state-of-the art locality-sensitive hashing (LSH) techniques to vastly improve the scalability of instance matching across multiple types. We show the feasibility of our approach with DBpedia and Freebase, two different type systems with hundreds and thousands of types, respectively. We describe how these techniques can be used to estimate containment or equivalence relations between two type systems, and we compare two different LSH techniques for computing instance similarity." ;
       swrc:author person:achille-fokoue , person:songyun-duan , person:kavitha-srinivas , person:anastasios-kementsietsidis , person:michael-ward , person:oktie-hassanzadeh ;
+      swrc:idLncs "76490048" ;
       swrc:listAuthor "Songyun Duan, Achille Fokoue, Oktie Hassanzadeh, Anastasios Kementsietsidis, Kavitha Srinivas and Michael Ward" ;
       swrc:listKeyword "Ontology Alignment, Schema Matching, Linked Data, Semantic Web" ;
       foaf:maker person:achille-fokoue , person:songyun-duan , person:kavitha-srinivas , person:anastasios-kementsietsidis , person:michael-ward , person:oktie-hassanzadeh .
@@ -5270,6 +5346,7 @@ iswc2012paper:research-40
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-40 ;
       dc:creator person:yulan-he , person:hassan-saif , person:harith-alani ;
+      dc:identifier "76490497" ;
       dc:subject " semantic concepts" , " feature interpolation." , "Sentiment analysis" ;
       dc:title "Semantic Sentiment Analysis of Twitter" ;
       dcterms:creator person:yulan-he , person:hassan-saif , person:harith-alani ;
@@ -5278,6 +5355,7 @@ iswc2012paper:research-40
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-40/authors> ;
       swrc:abstract "Sentiment analysis over Twitter offer organisations a fast and effective way to monitor the publics' feelings towards their brand, business, directors, etc. A wide range of features and methods for training sentiment classifiers for Twitter datasets have been researched in recent years with varying results. In this paper, we introduce a novel approach of adding semantics as additional features into the training set for sentiment analysis. For each extracted entity (e.g. iPhone) from tweets, we add its semantic concept (e.g. ''Apple product'') as an additional feature, and measure the correlation of the representative concept with negative/positive sentiment. We apply this approach to predict sentiment for three different Twitter datasets. Our results show an average increase of F harmonic accuracy score for identifying both negative and positive sentiment of around 6.5% and 4.8% over the baselines of unigrams and part-of-speech features respectively. We also compare against an approach based on sentiment-bearing topic analysis, and find that semantic features produce better Recall and F score when classifying negative sentiment, and better Precision with lower Recall and F score in positive sentiment classification." ;
       swrc:author person:yulan-he , person:hassan-saif , person:harith-alani ;
+      swrc:idLncs "76490497" ;
       swrc:listAuthor "Hassan Saif, Yulan He and Harith Alani" ;
       swrc:listKeyword "Sentiment analysis, semantic concepts, feature interpolation." ;
       foaf:maker person:yulan-he , person:hassan-saif , person:harith-alani .
@@ -5306,6 +5384,7 @@ iswc2012paper:inuse-71
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-71 ;
       dc:creator person:andrew-sellers , person:giovanni-grasso , person:axel-cyrille-ngonga-ngomo , person:konrad-hoffner , person:lorenz-buhmann , person:jens-lehmann , person:tim-furche , person:soren-auer , person:daniel-gerber , person:christina-unger , person:christian-schallhart , person:david-liu ;
+      dc:identifier "76500129" ;
       dc:subject "Conceptual Framework" , "Question Answering" , "Linking" , "SPARQL" , "Web Extraction" , "Natural Language Processing" ;
       dc:title "DEQA: Deep Web Extraction for Question Answering" ;
       dcterms:creator person:andrew-sellers , person:giovanni-grasso , person:konrad-hoffner , person:axel-cyrille-ngonga-ngomo , person:jens-lehmann , person:tim-furche , person:lorenz-buhmann , person:soren-auer , person:daniel-gerber , person:christian-schallhart , person:christina-unger , person:david-liu ;
@@ -5314,6 +5393,7 @@ iswc2012paper:inuse-71
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-71/authors> ;
       swrc:abstract "Despite decades of effort, intelligent object search remains elusive. Neither search engine nor semantic web technologies alone have managed to provide usable systems for simple questions such as \"Find me a flat with a garden and more than two bedrooms near a supermarket.\" We introduce DEQA, a conceptual framework that achieves this elusive goal through combining state-of-the-art semantic technologies with effective data extraction. To that end, we apply DEQA to the UK real estate domain and show that it can answer a significant percentage of such questions correctly. DEQA achieves this by mapping natural language questions to SPARQL patterns. These patterns are then evaluated on an RDF database of current real estate offers. The offers are obtained using OXPATH, a state-of-the-art data extraction system, on the major agencies in the Oxford area and linked through LIMES to background knowledge such as the location of supermarkets." ;
       swrc:author person:andrew-sellers , person:giovanni-grasso , person:axel-cyrille-ngonga-ngomo , person:konrad-hoffner , person:jens-lehmann , person:tim-furche , person:lorenz-buhmann , person:soren-auer , person:daniel-gerber , person:christina-unger , person:christian-schallhart , person:david-liu ;
+      swrc:idLncs "76500129" ;
       swrc:listAuthor "Jens Lehmann, Tim Furche, Giovanni Grasso, Axel-Cyrille Ngonga Ngomo, Christian Schallhart, Andrew Sellers, Christina Unger, Lorenz Bühmann, Daniel Gerber, Konrad Höffner, David Liu and Sören Auer" ;
       swrc:listKeyword "Question Answering,Web Extraction,Linking,Conceptual Framework,Natural Language Processing,SPARQL" ;
       foaf:maker person:andrew-sellers , person:giovanni-grasso , person:axel-cyrille-ngonga-ngomo , person:konrad-hoffner , person:lorenz-buhmann , person:tim-furche , person:jens-lehmann , person:soren-auer , person:daniel-gerber , person:christina-unger , person:christian-schallhart , person:david-liu .
@@ -5324,12 +5404,14 @@ iswc2012paper:research-03
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-03 ;
       dc:creator person:axel-cyrille-ngonga-ngomo ;
+      dc:identifier "76490369" ;
       dc:title "Link Discovery with Guaranteed Reduction Ratio in Affine Spaces with Minkowski Measures" ;
       dcterms:creator person:axel-cyrille-ngonga-ngomo ;
       dcterms:title "Link Discovery with Guaranteed Reduction Ratio in Affine Spaces with Minkowski Measures" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-03/authors> ;
       swrc:abstract "Time-efficient algorithms are essential to address the complex linking tasks that arise when trying to discover links on the Web of Data. Although several lossless approaches have been developed for this exact purpose, they do not offer theoretical guarantees with respect to their performance. In this paper, we address this drawback by presenting the first Link Discovery approach with theoretical quality guarantees. In particular, we prove that given an achievable reduction ratio r, our Link Discovery approach HR3 can achieve a reduction ratio r'<=r in a metric space where distances are measured by the means of a Minkowski metric of any order p >= 2. We compare HR3 and the HYPPO algorithm implemented in LIMES 0.5 with respect to the number of comparisons they carry out. In addition, we compare our approach with the algorithms implemented in the state-of-the-art frameworks LIMES 0.5 and SILK 2.5 with respect to runtime. We show that HR3 outperforms these previous approaches with respect to runtime in each of our four experimental setups." ;
       swrc:author person:axel-cyrille-ngonga-ngomo ;
+      swrc:idLncs "76490369" ;
       swrc:listAuthor "Axel-Cyrille Ngonga Ngomo" ;
       foaf:maker person:axel-cyrille-ngonga-ngomo .
 
@@ -5391,12 +5473,14 @@ iswc2012paper:research-22
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-22 ;
       dc:creator person:haofen-wang , person:yong-yu , person:evan-wei-xiang , person:shu-rong , person:qiang-yang , person:xing-niu ;
+      dc:identifier "76490449" ;
       dc:title "A Machine Learning Approach for Instance Matching Based on Similarity Metrics" ;
       dcterms:creator person:haofen-wang , person:yong-yu , person:evan-wei-xiang , person:shu-rong , person:qiang-yang , person:xing-niu ;
       dcterms:title "A Machine Learning Approach for Instance Matching Based on Similarity Metrics" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-22/authors> ;
       swrc:abstract "The Linking Open Data (LOD) project is an ongoing effort to construct a global data space, i.e. the Web of Data. One important part of this project is to establish owl:sameAs links among structured data sources. Such links indicate equivalent instances that refer to the same real-world object. The problem of discovering owl:sameAs links between pairwise data sources is called instance matching. Most of the existing approaches addressing this problem rely on the quality of prior schema matching, which is not always good enough in the LOD scenario. In this paper, we propose a schema-independent instance-pair similarity metric based on several general descriptive features. We transform the instance matching problem to the binary classification problem and solve it by machine learning algorithms. Furthermore, we employ some transfer learning methods to utilize the existing owl:sameAs links in LOD to reduce the demand for labeled data. We carry out experiments on some datasets of OAEI2010. The results show that our method performs well on real-world LOD data and outperforms the participants of OAEI2010." ;
       swrc:author person:haofen-wang , person:yong-yu , person:evan-wei-xiang , person:shu-rong , person:qiang-yang , person:xing-niu ;
+      swrc:idLncs "76490449" ;
       swrc:listAuthor "Shu Rong, Xing Niu, Evan Wei Xiang, Haofen Wang, Qiang Yang and Yong Yu" ;
       foaf:maker person:haofen-wang , person:yong-yu , person:evan-wei-xiang , person:shu-rong , person:qiang-yang , person:xing-niu .
 
@@ -5443,6 +5527,7 @@ iswc2012paper:inuse-72
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-72 ;
       dc:creator person:yogesh-simmhan , person:qunzhi-zhou , person:viktor-prasanna ;
+      dc:identifier "76500254" ;
       dc:subject "complex event processing" , "smart grid" , "Semantic Web" ;
       dc:title "Incorporating Semantic Knowledge into Dynamic Data Processing for Smart Power Grids" ;
       dcterms:creator person:yogesh-simmhan , person:qunzhi-zhou , person:viktor-prasanna ;
@@ -5451,6 +5536,7 @@ iswc2012paper:inuse-72
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-72/authors> ;
       swrc:abstract "Semantic Web allows us to model and query time-invariant or slowly evolving knowledge using ontologies. Emerging applications in Cyber Physical Systems such as Smart Power Grids that require continuous information monitoring and integration present novel opportunities and challenges for Semantic Web technologies. Semantic Web is promising to model diverse Smart Grid domain knowledge for enhanced situation awareness and response by multi-disciplinary participants. However, current technology does pose a performance overhead for dynamic analysis of sensor measurements. In this paper, we combine semantic web and complex event processing for stream based semantic querying. We illustrate its adoption in the USC Campus Micro-Grid for detecting and enacting dynamic response strategies to peak power situations by diverse user roles. We also describe the semantic ontology and event query model that supports this. Further, we introduce and evaluate caching techniques to improve the response time for semantic event queries to meet our application needs and enable sustainable energy management." ;
       swrc:author person:yogesh-simmhan , person:qunzhi-zhou , person:viktor-prasanna ;
+      swrc:idLncs "76500254" ;
       swrc:listAuthor "Qunzhi Zhou, Yogesh Simmhan and Viktor Prasanna" ;
       swrc:listKeyword "Semantic Web,complex event processing,smart grid" ;
       foaf:maker person:yogesh-simmhan , person:qunzhi-zhou , person:viktor-prasanna .
@@ -5505,6 +5591,7 @@ iswc2012paper:research-02
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-02 ;
       dc:creator person:pedro-szekely , person:mohsen-taheriyan , person:jose-luis-ambite , person:craig-knoblock ;
+      dc:identifier "76490545" ;
       dc:subject " service modeling" , " linked API" , "linked data" ;
       dc:title "Rapidly Integrating Services into the Linked Data Cloud" ;
       dcterms:creator person:pedro-szekely , person:mohsen-taheriyan , person:jose-luis-ambite , person:craig-knoblock ;
@@ -5513,6 +5600,7 @@ iswc2012paper:research-02
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-02/authors> ;
       swrc:abstract "The amount of data available in the Linked Data cloud continues to grow. Yet, few services consume and produce linked data. There is recent work that allows a user to define a linked service from an online service, which includes the specifications for consuming and producing linked data, but building such models is time consuming and requires specialized knowledge of RDF and SPARQL. This paper presents a new approach that allows domain experts to rapidly create semantic models of services by demonstration in an interactive web-based interface. First, the user provides examples of the service request URLs. Then, the system automatically proposes a service model the user can refine interactively. Finally, the system saves a service specification using a new expressive vocabulary that includes lowering and lifting rules. This approach empowers end users to rapidly model existing services and immediately use them to consume and produce linked data." ;
       swrc:author person:pedro-szekely , person:mohsen-taheriyan , person:jose-luis-ambite , person:craig-knoblock ;
+      swrc:idLncs "76490545" ;
       swrc:listAuthor "Mohsen Taheriyan, Craig Knoblock, Pedro Szekely and José Luis Ambite" ;
       swrc:listKeyword "linked data, linked API, service modeling" ;
       foaf:maker person:pedro-szekely , person:mohsen-taheriyan , person:jose-luis-ambite , person:craig-knoblock .
@@ -5532,12 +5620,14 @@ iswc2012paper:research-31
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-31 ;
       dc:creator person:peter-boncz , person:jacopo-urbani , person:peter-mika , person:spyros-kotoulas ;
+      dc:identifier "76490241" ;
       dc:title "Robust Runtime Optimization and Skew-Resistant Execution of Analytical SPARQL Queries on Pig" ;
       dcterms:creator person:peter-boncz , person:jacopo-urbani , person:spyros-kotoulas , person:peter-mika ;
       dcterms:title "Robust Runtime Optimization and Skew-Resistant Execution of Analytical SPARQL Queries on Pig" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-31/authors> ;
       swrc:abstract "We describe a system that incrementally translates SPARQL queries to Pig Latin and executes them on a Hadoop cluster. This system is designed to work efficiently on complex queries with many self-joins over huge datasets, avoiding job failures even in the case of joins with unexpected high-value skew. To be robust against cost estimation errors, our system interleaves query optimization with query execution, determining the next steps to take based on data samples and statistics gathered during the previous step. Furthermore, we have developed a novel skew-resistant join algorithm that replicates tuples corresponding to popular keys. We evaluate the effectiveness of our approach both on a synthetic benchmark known to generate complex queries (BSBM-BI) as well as on a Yahoo! case of data analysis using RDF data crawled from the web. Our results indicate that our system is indeed capable of processing huge datasets without pre-computed statistics while exhibiting good load-balancing properties." ;
       swrc:author person:peter-boncz , person:jacopo-urbani , person:spyros-kotoulas , person:peter-mika ;
+      swrc:idLncs "76490241" ;
       swrc:listAuthor "Spyros Kotoulas, Jacopo Urbani, Peter Boncz and Peter Mika" ;
       foaf:maker person:peter-boncz , person:jacopo-urbani , person:spyros-kotoulas , person:peter-mika .
 
@@ -5670,12 +5760,14 @@ iswc2012paper:research-32
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-32 ;
       dc:creator person:steffen-staab , person:matthias-thimm , person:olaf-gorlitz ;
+      dc:identifier "76490113" ;
       dc:title "SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data" ;
       dcterms:creator person:matthias-thimm , person:steffen-staab , person:olaf-gorlitz ;
       dcterms:title "SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-32/authors> ;
       swrc:abstract "The distributed and heterogeneous nature of Linked Open Data requires flexible and federated techniques for query evaluation. In order to evaluate current federation querying approaches a general methodology for conducting benchmarks is mandatory. In this paper, we present a classification methodology for federated SPARQL queries. This methodology can be used by developers of federated querying approaches to compose a set of test benchmarks that cover diverse characteristics of different queries and allows for comparability. We further develop a heuristic called SPLODGE for automatic generation of benchmark queries that is based on this methodology and takes into account the number of sources to be queried and several complexity parameters. We evaluate the adequacy of our methodology and the query generation strategy by applying them on the 2011 billion triple challenge data set." ;
       swrc:author person:matthias-thimm , person:steffen-staab , person:olaf-gorlitz ;
+      swrc:idLncs "76490113" ;
       swrc:listAuthor "Olaf Görlitz, Matthias Thimm and Steffen Staab" ;
       foaf:maker person:steffen-staab , person:matthias-thimm , person:olaf-gorlitz .
 
@@ -5845,6 +5937,7 @@ iswc2012paper:research-33
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-33 ;
       dc:creator person:norman-heino , person:jeff-z-pan ;
+      dc:identifier "76490129" ;
       dc:subject " Hamilton cycles" , " graph theory" , "computational geometry" ;
       dc:title "RDFS Reasoning on Massively Parallel Hardware" ;
       dcterms:creator person:norman-heino , person:jeff-z-pan ;
@@ -5853,6 +5946,7 @@ iswc2012paper:research-33
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-33/authors> ;
       swrc:abstract "Recent developments in hardware have shown an increase in parallelism as opposed to clock rates. In order to fully exploit these new avenues of performance improvement, computationally expensive workloads have to be expressed in a way that allows for fine-grained parallelism. In this paper, we address the problem of describing RDFS entailment in such a way. Different from previous work on parallel RDFS reasoning, we assume a shared memory architecture. We analyze the problem of duplicates that naturally occur in RDFS reasoning and develop strategies towards its mitigation, exploiting all levels of our architecture. We implement and evaluate our approach on two real-world datasets and study its performance characteristics on different levels of parallelization. We conclude that RDFS entailment lends itself well to parallelization but can benefit even more from careful optimizations that take into account intricacies of modern parallel hardware." ;
       swrc:author person:norman-heino , person:jeff-z-pan ;
+      swrc:idLncs "76490129" ;
       swrc:listAuthor "Norman Heino and Jeff Z. Pan" ;
       swrc:listKeyword "computational geometry, graph theory, Hamilton cycles" ;
       foaf:maker person:norman-heino , person:jeff-z-pan .
@@ -6019,12 +6113,14 @@ iswc2012paper:research-34
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-34 ;
       dc:creator person:birte-glimm , person:nadeschda-nikitina ;
+      dc:identifier "76490385" ;
       dc:title "Hitting the Sweetspot: Economic Rewriting of Knowledge Bases" ;
       dcterms:creator person:birte-glimm , person:nadeschda-nikitina ;
       dcterms:title "Hitting the Sweetspot: Economic Rewriting of Knowledge Bases" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-34/authors> ;
       swrc:abstract "Three conflicting requirements arise in the context of knowledge base (KB) extraction: the size of the extracted KB, the size of the corresponding signature and the syntactic similarity of the extracted KB with the original one. Minimal module extraction and uniform interpolation assign an absolute priority to one of these requirements, thereby limiting the possibilities to influence the other two. We propose a novel technique for EL that does not require such an extreme prioritization. We propose a tractable rewriting approach and empirically compare the technique with existing approaches with encouraging results." ;
       swrc:author person:birte-glimm , person:nadeschda-nikitina ;
+      swrc:idLncs "76490385" ;
       swrc:listAuthor "Nadeschda Nikitina and Birte Glimm" ;
       foaf:maker person:birte-glimm , person:nadeschda-nikitina .
 
@@ -6181,12 +6277,14 @@ iswc2012paper:research-35
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-35 ;
       dc:creator person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
+      dc:identifier "76490081" ;
       dc:title "Performance Heterogeneity and Approximate Reasoning in Description Logic Ontologies" ;
       dcterms:creator person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
       dcterms:title "Performance Heterogeneity and Approximate Reasoning in Description Logic Ontologies" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-35/authors> ;
       swrc:abstract "Due to the high worst case complexity of the core reasoning problem for the expressive profiles of OWL 2, ontology engineers are often surprised and confused by the performance behaviour of reasoners on their ontologies. Even very experienced modellers with a sophisticated grasp of reasoning algorithms do not have a good mental model of reasoner performance behaviour. Seemingly innocuous changes to an OWL ontology can degrade classification time from instantaneous to too long to wait for. Similarly, switching reasoners (e.g., to take advantage of specific features) can result in wildly different classification times. In this paper we investigate performance variability phenomena in OWL ontologies, and present methods to identify subsets of an ontology which are performance-degrading for a given reasoner. When such (ideally small) subsets are removed from an ontology, and the remainder is much easier for the given reasoner to reason over, we designate them âhot spotsâ?. The identification of these hot spots allows users to isolate difficult portions of the ontology in a principled and systematic way. Moreover, we devise and compare various methods for approximate reasoning and knowledge compilation based on hot spots. We verify our techniques with a select set of varyingly difficult ontologies from the NCBO BioPortal, and were able to, firstly, successfully identify performance hot spots against the major freely available DL reasoners, and, secondly, significantly improve classification time using approximate reasoning based on hot spots." ;
       swrc:author person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia ;
+      swrc:idLncs "76490081" ;
       swrc:listAuthor "Rafael S. Gonçalves, Bijan Parsia and Ulrike Sattler" ;
       foaf:maker person:rafael-s-goncalves , person:ulrike-sattler , person:bijan-parsia .
 
@@ -6333,12 +6431,14 @@ iswc2012paper:research-36
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-36 ;
       dc:creator person:yuan-fang-li , person:shonali-krishnaswamy , person:yong-bin-kang ;
+      dc:identifier "76490193" ;
       dc:title "Predicting Reasoning Performance Using Ontology Metrics" ;
       dcterms:creator person:yuan-fang-li , person:shonali-krishnaswamy , person:yong-bin-kang ;
       dcterms:title "Predicting Reasoning Performance Using Ontology Metrics" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-36/authors> ;
       swrc:abstract "A key issue in semantic reasoning is the computational complexity of inference tasks on expressive ontology languages such as OWL DL and OWL 2 DL. Theoretical works have established worst-case complexity results for reasoning tasks for these languages. However, hardness of reasoning about individual ontologies has not been adequately characterised. In this paper, we conduct a systematic study to tackle this problem using machine learning techniques, covering over 350 real-world ontologies and four state-of-the-art, widely-used OWL 2 reasoners. Our main contributions are two-fold. Firstly, we learn various classifiers that accurately predict classification time for an ontology based on its metric values. Secondly, we identify a number of metrics that can be used to effectively predict reasoning performance. Our prediction models have been shown to be highly effective, achieving an accuracy of over 80%." ;
       swrc:author person:yuan-fang-li , person:shonali-krishnaswamy , person:yong-bin-kang ;
+      swrc:idLncs "76490193" ;
       swrc:listAuthor "Yong-Bin Kang, Yuan-Fang Li and Shonali Krishnaswamy" ;
       foaf:maker person:yuan-fang-li , person:shonali-krishnaswamy , person:yong-bin-kang .
 
@@ -6491,6 +6591,7 @@ iswc2012paper:research-37
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-37 ;
       dc:creator person:naimdjon-takhirov , person:fabien-duchateau , person:trond-aalberg ;
+      dc:identifier "76490561" ;
       dc:subject "Linked Data" , " Machine Learning" , " Knowledge Extraction" ;
       dc:title "An Evidence-based Verification Approach to Extract Entities and Relations for Knowledge Base Population" ;
       dcterms:creator person:naimdjon-takhirov , person:fabien-duchateau , person:trond-aalberg ;
@@ -6499,6 +6600,7 @@ iswc2012paper:research-37
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-37/authors> ;
       swrc:abstract "This paper presents an approach to automatically extract entities and relationships from textual documents. The main goal is to populate a knowledge base that hosts this structured information about domain entities. The extracted entities and their expected relationships are verified using two evidence based techniques: classification and linking. This last process also enables the linking of our knowledge base to other sources which are part of the Linked Open Data cloud. We demonstrate the benefit of our approach through series of experiments with real-world datasets." ;
       swrc:author person:naimdjon-takhirov , person:fabien-duchateau , person:trond-aalberg ;
+      swrc:idLncs "76490561" ;
       swrc:listAuthor "Naimdjon Takhirov, Fabien Duchateau and Trond Aalberg" ;
       swrc:listKeyword "Linked Data, Knowledge Extraction, Machine Learning" ;
       foaf:maker person:naimdjon-takhirov , person:fabien-duchateau , person:trond-aalberg .
@@ -6687,6 +6789,7 @@ iswc2012paper:research-38
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-38 ;
       dc:creator person:hans-uszkoreit , person:sebastian-krause , person:hong-li , person:feiyu-xu ;
+      dc:identifier "76490257" ;
       dc:subject " relation extraction" , " IE" , " web scale IE" , " distant supervision" , " rule based RE" , " Freebase" , " RE" , "information extraction" ;
       dc:title "Large-Scale Learning of Relation-Extraction Rules with Distant Supervision from the Web" ;
       dcterms:creator person:hans-uszkoreit , person:sebastian-krause , person:hong-li , person:feiyu-xu ;
@@ -6695,6 +6798,7 @@ iswc2012paper:research-38
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-38/authors> ;
       swrc:abstract "We present a large-scale relation extraction (RE) system which learns grammar-based RE rules from the Web by utilizing large numbers of relation instances as seed. Our goal is to obtain rule sets large enough to cover the actual range of linguistic variation, thus tackling the long-tail problem of real-world applications. A variant of distant supervision learns several relations in parallel, enabling a new method of rule filtering. The system detects both binary and n-ary relations. We target 39 relations from Freebase, for which 3M sentences extracted from 20M web pages serve as the basis for learning an average of 40K distinctive rules per relation. Employing an efficient dependency parser, the average run time for each relation is only 19 hours. We compare these rules with ones learned from local corpora of different sizes and demonstrate that the Web is indeed needed for a good coverage of linguistic variation." ;
       swrc:author person:hans-uszkoreit , person:sebastian-krause , person:hong-li , person:feiyu-xu ;
+      swrc:idLncs "76490257" ;
       swrc:listAuthor "Sebastian Krause, Hong Li, Hans Uszkoreit and Feiyu Xu" ;
       swrc:listKeyword "information extraction, IE, relation extraction, RE, rule based RE, web scale IE, distant supervision, Freebase" ;
       foaf:maker person:hans-uszkoreit , person:sebastian-krause , person:hong-li , person:feiyu-xu .
@@ -6917,6 +7021,7 @@ iswc2012paper:research-39
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-39 ;
       dc:creator person:francesco-osborne , person:enrico-motta ;
+      dc:identifier "76490401" ;
       dc:subject "Bibliographic Data" , "Ontology Population" , "Empirical Evaluation" , "Scholarly Ontologies" , "Research Data" , " Data Mining" ;
       dc:title "Mining Semantic Relations between Research Areas" ;
       dcterms:creator person:francesco-osborne , person:enrico-motta ;
@@ -6925,6 +7030,7 @@ iswc2012paper:research-39
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-39/authors> ;
       swrc:abstract "For a number of years now we have seen the emergence of repositories of research data specified using OWL/RDF as representation languages, and conceptualized according to a variety of ontologies. This class of solutions promises both to facilitate the integration of research data with other relevant sources of information and also to support more intelligent forms of querying and exploration. However, an issue which has only been partially addressed is that of generating and characterizing semantically the relations that exist between research areas. This problem has been traditionally addressed by manually creating taxonomies, such as the ACM classification of research topics. However, this manual approach is inadequate for a number of reasons: these taxonomies are very coarse-grained and they do not cater for the finegrained research topics, which define the level at which typically researchers (and even more so, PhD students) operate. Moreover, they evolve slowly, and therefore they tend not to cover the most recent research trends. In addition, as we move towards a semantic characterization of these relations, there is arguably a need for a more sophisticated characterization than a homogeneous taxonomy, to reflect the different ways in which research areas can be related. In this paper we propose Klink, a new approach to i) automatically generating relations between research areas and ii) populating a bibliographic ontology, which combines both machine learning methods and external knowledge, which is drawn from a number of resources, including Google Scholar and Wikipedia. We have tested a number of alternative algorithms and our evaluation shows that a method relying on both external knowledge and the ability to detect temporal relations between research areas performs best with respect to a manually constructed standard." ;
       swrc:author person:francesco-osborne , person:enrico-motta ;
+      swrc:idLncs "76490401" ;
       swrc:listAuthor "Francesco Osborne and Enrico Motta" ;
       swrc:listKeyword "Research Data,Ontology Population,Bibliographic Data,Empirical Evaluation,Scholarly Ontologies, Data Mining" ;
       foaf:maker person:francesco-osborne , person:enrico-motta .
@@ -7062,12 +7168,14 @@ iswc2012paper:doctor-consortium-03
       rdfs:label "Burst the Filter Bubble: Using Semantic Web to Enable Serendipity" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:valentina-maccatrozzo ;
+      dc:identifier "76500382" ;
       dc:title "Burst the Filter Bubble: Using Semantic Web to Enable Serendipity" ;
       dcterms:creator person:valentina-maccatrozzo ;
       dcterms:title "Burst the Filter Bubble: Using Semantic Web to Enable Serendipity" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-03/authors> ;
       swrc:abstract "Personalization techniques aim at helping people dealing with the ever growing amount of information by filtering it according to their interests. However, to avoid the information overload, such techniques often create an over-personalization effect, i.e. users are exposed only to the content systems assume they would like. To break this \"personalization bubble\" we introduce the notion of serendipity as a performance measure for recommendation algorithms. For this, we first identify aspects from the user perspective, which can determine level and type of serendipity desired by users. Then, we propose a user model that can facilitate such user requirements, and enables serendipitous recommendations. The use case for this work focuses on TV recommender systems, however the ultimate goal is to explore the transferability of this method to different domains. This paper covers the work done in the first eight months of research and describes the plan for the entire PhD trajectory." ;
       swrc:author person:valentina-maccatrozzo ;
+      swrc:idLncs "76500382" ;
       swrc:listAuthor "Valentina Maccatrozzo" ;
       foaf:maker person:valentina-maccatrozzo .
 
@@ -7222,6 +7330,7 @@ iswc2012paper:doctor-consortium-04
       rdfs:label "Reconstructing Provenance" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:sara-magliacane ;
+      dc:identifier "76500390" ;
       dc:subject " multimodal similarity" , "provenance reconstruction" ;
       dc:title "Reconstructing Provenance" ;
       dcterms:creator person:sara-magliacane ;
@@ -7230,6 +7339,7 @@ iswc2012paper:doctor-consortium-04
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-04/authors> ;
       swrc:abstract "Provenance is an increasingly important aspect of data management that is often underestimated and neglected by practitioners. In our work, we target the problem of reconstructing provenance of files in a shared folder setting, assuming that only standard filesystem metadata are available. We propose a content-based approach that is able to reconstruct provenance automatically, leveraging several similarity measures and edit distance algorithms, adapting and integrating them into a multi-signal pipeline. We discuss our research methodology and show some promising preliminary results." ;
       swrc:author person:sara-magliacane ;
+      swrc:idLncs "76500390" ;
       swrc:listAuthor "Sara Magliacane" ;
       swrc:listKeyword "provenance reconstruction, multimodal similarity" ;
       foaf:maker person:sara-magliacane .
@@ -7584,12 +7694,14 @@ iswc2012paper:doctor-consortium-01
       rdfs:label "Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:nitish-aggarwal ;
+      dc:identifier "76500366" ;
       dc:title "Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures" ;
       dcterms:creator person:nitish-aggarwal ;
       dcterms:title "Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-01/authors> ;
       swrc:abstract "Since 2001, the semantic web community has been working hard towards creating standards which will increase the accessibility of available information on the web. Yahoo research recently reported that 30% of all HTML pages contain structured data such as microdata, RDFa, or microformat. Although multilinguality of the web is a hurdle in information access, the rapid growth of the semantic web enables us to retrieve fine grained information across the language barrier. In this thesis, firstly, we focus on developing a methodology to perform cross-lingual semantic search over structured data (knowledge base), by transforming natural language queries into SPARQL. Secondly, we focus on improving the semantic similarity and relatedness measures, to overcome the semantic gap between the vocabulary in the knowledge base and the terms appearing in the query. The preliminary results are evaluated against the QALD-2 test dataset, which achieved a F1 score of 0.46, an average precision of 0.44, and an average recall of 0.48." ;
       swrc:author person:nitish-aggarwal ;
+      swrc:idLncs "76500366" ;
       swrc:listAuthor "Nitish Aggarwal" ;
       foaf:maker person:nitish-aggarwal .
 
@@ -7728,6 +7840,7 @@ iswc2012paper:doctor-consortium-02
       rdfs:label "Quality Reasoning in the Semantic Web" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:chris-baillie ;
+      dc:identifier "76500374" ;
       dc:subject " linked data" , "provenance" , " quality assessment" ;
       dc:title "Quality Reasoning in the Semantic Web" ;
       dcterms:creator person:chris-baillie ;
@@ -7736,6 +7849,7 @@ iswc2012paper:doctor-consortium-02
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-02/authors> ;
       swrc:abstract "Assessing the quality of data published on the Web has been identified as an essential step in selecting reliable information for use in tasks such as decision making. This paper discusses a quality assessment framework based on semantic web technologies and outlines a role for provenance in supporting and documenting such assessments." ;
       swrc:author person:chris-baillie ;
+      swrc:idLncs "76500374" ;
       swrc:listAuthor "Chris Baillie" ;
       swrc:listKeyword "provenance, linked data, quality assessment" ;
       foaf:maker person:chris-baillie .
@@ -8053,6 +8167,7 @@ iswc2012paper:evaluation-41
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-41 ;
       dc:creator person:mirko-graziosi , person:marco-ruzzi , person:giulia-masotti , person:riccardo-rosati ;
+      dc:identifier "76500330" ;
       dc:subject "Inconsistency-tolerance" , "Description Logics" , "OWL 2 QL" , "OWL" ;
       dc:title "Evaluation of techniques for inconsistency handling in OWL 2 QL ontologies" ;
       dcterms:creator person:mirko-graziosi , person:marco-ruzzi , person:giulia-masotti , person:riccardo-rosati ;
@@ -8061,6 +8176,7 @@ iswc2012paper:evaluation-41
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-41/authors> ;
       swrc:abstract "In this paper we present the Quonto Inconsistent Data handler (QuID). QuID is a reasoner for OWL 2 QL that is based on the system Quonto and is able to deal with inconsistent ontologies. The central aspect of QuID is that it implements two different, orthogonal strategies for dealing with inconsistency: ABox repairing techniques, based on data manipulation, and consistent query answering techniques, based on query rewriting. Moreover, by exploiting the ability of Quonto to delegate the management of the ABox to a relational database system (DBMS), such techniques are potentially able to handle very large inconsistent ABoxes. For the above reasons, QuID allows for experimentally comparing the above two different strategies for inconsistency handling in the context of OWL 2 QL. We thus report on the experimental evaluation that we have conducted using QuID. Our results clearly point out that inconsistency-tolerance in OWL 2 QL ontologies is feasible in practical cases. Moreover, our evaluation singles out the different sources of complexity for the data manipulation technique and the query rewriting technique, and allows for identifying the conditions under which one method is more efficient than the other." ;
       swrc:author person:mirko-graziosi , person:marco-ruzzi , person:giulia-masotti , person:riccardo-rosati ;
+      swrc:idLncs "76500330" ;
       swrc:listAuthor "Riccardo Rosati, Marco Ruzzi, Mirko Graziosi and Giulia Masotti" ;
       swrc:listKeyword "OWL,OWL 2 QL,Description Logics,Inconsistency-tolerance" ;
       foaf:maker person:mirko-graziosi , person:marco-ruzzi , person:giulia-masotti , person:riccardo-rosati .
@@ -8812,6 +8928,7 @@ iswc2012paper:inuse-27
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-27 ;
       dc:creator person:vincenzo-maltese , person:veronica-rizzi , person:alexander-ivanyukovich , person:pavel-shvaiko , person:daniela-ferrari , person:giuliana-ucelli , person:feroz-farazi ;
+      dc:identifier "76500193" ;
       dc:subject "semantic geo-catalogue" , "geographic datasets" , "open government data" , "linked data" , "publishing pipeline" ;
       dc:title "Trentino government linked open geo-data: a case study" ;
       dcterms:creator person:vincenzo-maltese , person:veronica-rizzi , person:alexander-ivanyukovich , person:pavel-shvaiko , person:daniela-ferrari , person:giuliana-ucelli , person:feroz-farazi ;
@@ -8820,6 +8937,7 @@ iswc2012paper:inuse-27
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-27/authors> ;
       swrc:abstract "Our work is settled in the context of the public administration domain, where data can come from different entities, can be produced, stored and delivered in different formats and can have different levels of quality. Hence, such a heterogeneity has to be addressed, while performing various data integration tasks. We report our experimental work on publishing some government linked open geo-metadata and geo-data of the Italian Trentino region. Specifically, we illustrate how 161 core geographic datasets were released by leveraging on the geo-catalogue application within the existing geo-portal. We discuss the lessons we learned from deploying and using the application as well as from the released datasets." ;
       swrc:author person:vincenzo-maltese , person:alexander-ivanyukovich , person:veronica-rizzi , person:pavel-shvaiko , person:daniela-ferrari , person:giuliana-ucelli , person:feroz-farazi ;
+      swrc:idLncs "76500193" ;
       swrc:listAuthor "Pavel Shvaiko, Feroz Farazi, Vincenzo Maltese, Alexander Ivanyukovich, Veronica Rizzi, Daniela Ferrari and Giuliana Ucelli" ;
       swrc:listKeyword "linked data,open government data,publishing pipeline,geographic datasets,semantic geo-catalogue" ;
       foaf:maker person:vincenzo-maltese , person:alexander-ivanyukovich , person:veronica-rizzi , person:pavel-shvaiko , person:daniela-ferrari , person:giuliana-ucelli , person:feroz-farazi .
@@ -8895,6 +9013,7 @@ iswc2012paper:inuse-09
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-09 ;
       dc:creator person:michael-watzke , person:stephan-grimm , person:thomas-hubauer , person:falco-cescolini ;
+      dc:identifier "76500065" ;
       dc:subject "industrial diagnostics" , "description logic reasoning" , "programmable logic controllers" ;
       dc:title "Embedded EL+ Reasoning on Programmable Logic Controllers" ;
       dcterms:creator person:michael-watzke , person:thomas-hubauer , person:stephan-grimm , person:falco-cescolini ;
@@ -8903,6 +9022,7 @@ iswc2012paper:inuse-09
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-09/authors> ;
       swrc:abstract "Many industrial use cases, such as machine diagnostics, can benefit from embedded reasoning, the task of running knowledge-based reasoning techniques on embedded controllers as widely used in industrial automation. However, due to the memory and CPU restrictions of embedded devices like programmable logic controllers (PLCs), state-of-the-art reasoning tools and methods cannot be easily migrated to industrial automation environments. In this paper, we describe an approach to porting lightweight OWL 2 EL reasoning to a PLC platform to run in an industrial automation environment. We report on initial runtime experiments carried out on a prototypical implementation of a PLC-based EL+ -reasoner in the context of a use case about turbine diagnostics." ;
       swrc:author person:michael-watzke , person:thomas-hubauer , person:stephan-grimm , person:falco-cescolini ;
+      swrc:idLncs "76500065" ;
       swrc:listAuthor "Stephan Grimm, Michael Watzke, Thomas Hubauer and Falco Cescolini" ;
       swrc:listKeyword "industrial diagnostics,description logic reasoning,programmable logic controllers" ;
       foaf:maker person:michael-watzke , person:stephan-grimm , person:thomas-hubauer , person:falco-cescolini .
@@ -8998,6 +9118,7 @@ iswc2012paper:doctor-consortium-09
       rdfs:label "Reusing XML Schemas' Information as a Foundation for Designing Domain Ontologies" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:thomas-bosch ;
+      dc:identifier "76500426" ;
       dc:subject " XML" , " XSLT" , " XSD" , " OWL" , "Semantic Web" , " Ontology Design" ;
       dc:title "Reusing XML Schemas' Information as a Foundation for Designing Domain Ontologies" ;
       dcterms:creator person:thomas-bosch ;
@@ -9006,6 +9127,7 @@ iswc2012paper:doctor-consortium-09
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-09/authors> ;
       swrc:abstract "Designing domain ontologies from scratch is a time-consuming endeavor requiring a lot of close collaboration with domain experts. However, domain descriptions such as XML Schemas are often available in early stages of the ontology development process. For my dissertation, I propose a method to convert XML Schemas to OWL ontologies in an automatic way. The approach addresses the transformation of any XML Schema documents by using the XML Schema metamodel, which is completely represented by the XML Schema Metamodel Ontology. Automatically, all Schema declarations and definitions are converted to class axioms, which are intended to be enriched with additional domain-specific semantic information in form of domain ontologies." ;
       swrc:author person:thomas-bosch ;
+      swrc:idLncs "76500426" ;
       swrc:listAuthor "Thomas Bosch" ;
       swrc:listKeyword "Semantic Web, Ontology Design, OWL, XML, XSD, XSLT" ;
       foaf:maker person:thomas-bosch .
@@ -9201,12 +9323,14 @@ iswc2012paper:research-19
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-19 ;
       dc:creator person:stefan-schlobach , person:szymon-klarman , person:luciano-serafini ;
+      dc:identifier "76490209" ;
       dc:title "Formal Verification of Data Provenance Records" ;
       dcterms:creator person:stefan-schlobach , person:szymon-klarman , person:luciano-serafini ;
       dcterms:title "Formal Verification of Data Provenance Records" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-19/authors> ;
       swrc:abstract "Data provenance is the history of derivation of a data artifact from its original sources. As the real-life provenance records can likely cover thousands of data items and derivation steps, one of the pressing challenges becomes development of formal frameworks for their automated verification. In this paper, we consider data expressed in standard Semantic Web ontology languages, such as OWL, and define a novel verification formalism called provenance specification logic, building on dynamic logic. We validate our proposal by modeling the test queries presented in The First Provenance Challenge, and conclude that the logic core of such queries can be successfully captured in our formalism." ;
       swrc:author person:stefan-schlobach , person:szymon-klarman , person:luciano-serafini ;
+      swrc:idLncs "76490209" ;
       swrc:listAuthor "Szymon Klarman, Stefan Schlobach and Luciano Serafini" ;
       foaf:maker person:stefan-schlobach , person:szymon-klarman , person:luciano-serafini .
 
@@ -9236,6 +9360,7 @@ iswc2012paper:doctor-consortium-08
       rdfs:label "Distributed Reasoning on Semantic Data Streams" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:rehab-albeladi ;
+      dc:identifier "76500422" ;
       dc:subject "Stream reasoning" , " Rete networks" , " XMPP" ;
       dc:title "Distributed Reasoning on Semantic Data Streams" ;
       dcterms:creator person:rehab-albeladi ;
@@ -9244,6 +9369,7 @@ iswc2012paper:doctor-consortium-08
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-08/authors> ;
       swrc:abstract "Data streams are being continually generated in diverse application domains such as traffic monitoring, smart buildings, and so on. Stream Reasoning is the area that aims to combine reasoning techniques with data streams. In this paper, we present our approach to enable rule-based reasoning on semantic data streams using data flow networks in a distributed manner." ;
       swrc:author person:rehab-albeladi ;
+      swrc:idLncs "76500422" ;
       swrc:listAuthor "Rehab Albeladi" ;
       swrc:listKeyword "Stream reasoning, Rete networks, XMPP" ;
       foaf:maker person:rehab-albeladi .
@@ -9269,6 +9395,7 @@ iswc2012paper:inuse-26
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-26 ;
       dc:creator person:shilpa-arora , person:lora-aroyo , person:ken-barker , person:chris-welty ;
+      dc:identifier "76500225" ;
       dc:subject "NLP and RDF graphs" , "Hypothesis generation" , "Answering conjunctive queries" ;
       dc:title "Query Driven Hypothesis Generation for Answering Queries over NLP Graphs" ;
       dcterms:creator person:shilpa-arora , person:lora-aroyo , person:ken-barker , person:chris-welty ;
@@ -9277,6 +9404,7 @@ iswc2012paper:inuse-26
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-26/authors> ;
       swrc:abstract "It has become common to use RDF to store the results of Natural Language Processing (NLP) as a graph of the entities mentioned in the text with the relationships mentioned in the text as links between them. These NLP graphs can be measured with Precision and Recall against a ground truth graph representing what the documents actually say. When asking conjunctive queries on NLP graphs, the Recall of the query is expected to be roughly the product of the Recall of the relations in each conjunct. Since Recall is typically less than one, conjunctive query Recall on NLP graphs degrades geometrically with the number of conjuncts. We present an approach to address this Recall problem by hypothesizing links in the graph that would improve query Recall, and then attempting to find more evidence to support them. Using this approach, we confirm that in the context of answering queries over NLP graphs, we can use lower confidence results from NLP components if they complete a query result." ;
       swrc:author person:shilpa-arora , person:lora-aroyo , person:ken-barker , person:chris-welty ;
+      swrc:idLncs "76500225" ;
       swrc:listAuthor "Chris Welty, Ken Barker, Lora Aroyo and Shilpa Arora" ;
       swrc:listKeyword "NLP and RDF graphs,Answering conjunctive queries,Hypothesis generation" ;
       foaf:maker person:shilpa-arora , person:lora-aroyo , person:ken-barker , person:chris-welty .
@@ -9420,6 +9548,7 @@ iswc2012paper:research-18
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-18 ;
       dc:creator person:ozgur-lutfu-ozcep , person:ralf-moller ;
+      dc:identifier "76490641" ;
       dc:subject " GIS" , " qualitative spatial reasoning" , " combined logic" , " description logics" , "FOL rewritability" , " region connection calculus" ;
       dc:title "Scalable Geo-thematic Query Answering" ;
       dcterms:creator person:ozgur-lutfu-ozcep , person:ralf-moller ;
@@ -9428,6 +9557,7 @@ iswc2012paper:research-18
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-18/authors> ;
       swrc:abstract "First order logic (FOL) rewritability is a desirable feature for query answering over geo-thematic ontologies because in most geoprocessing scenarios one has to cope with large data volumes. Hence, there is a need for combined geo-thematic logics that provide a sufficiently expressive query language allowing for FOL rewritability. The DL-Lite family of description logics is tailored towards FOL rewritability of query answering for unions of conjunctive queries, hence it is a suitable candidate for the thematic component of a combined geo-thematic logic. We show that a weak coupling of DL-Lite with the expressive region connection calculus RCC8 allows for FOL rewritability under a spatial completeness condition for the ABox. Stronger couplings allowing for FOL rewritability are possible only for spatial calculi as weak as the low-resolution calculus RCC2. Already a strong combination of DL-Lite with the low-resolution calculus RCC3 does not allow for FOL rewritability." ;
       swrc:author person:ozgur-lutfu-ozcep , person:ralf-moller ;
+      swrc:idLncs "76490641" ;
       swrc:listAuthor "Özgür Lütfü Özcep and Ralf Möller" ;
       swrc:listKeyword "FOL rewritability, description logics, region connection calculus, qualitative spatial reasoning, GIS, combined logic" ;
       foaf:maker person:ozgur-lutfu-ozcep , person:ralf-moller .
@@ -9494,6 +9624,7 @@ iswc2012paper:doctor-consortium-07
       rdfs:label "Scalable and Domain-Independent Entity Coreference: Establishing High Quality Data Linkages Across Heterogeneous Data Sources" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:dezhao-song ;
+      dc:identifier "76500414" ;
       dc:subject "Entity Coreference" , " Linked Data" , " Domain-Independence" , " Scalability" , " Candidate Selection" , " Pruning" ;
       dc:title "Scalable and Domain-Independent Entity Coreference: Establishing High Quality Data Linkages Across Heterogeneous Data Sources" ;
       dcterms:creator person:dezhao-song ;
@@ -9502,6 +9633,7 @@ iswc2012paper:doctor-consortium-07
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-07/authors> ;
       swrc:abstract "Due to the decentralized nature of the Semantic Web, the same real world entity may be described in various data sources and assigned syntactically distinct identifiers. In order to facilitate data utilization in the Semantic Web, without compromising the freedom of people to publish their data, one critical problem is to appropriately interlink such heterogeneous data. This interlinking process can also be referred to as Entity Coreference, i.e., finding which identifiers refer to the same real world entity. This proposal will investigate algorithms to solve this entity coreference problem in the Semantic Web in several aspects. The essence of entity coreference is to compute the similarity of instance pairs. Given the diversity of domains of existing datasets, it is important that an entity coreference algorithm be able to achieve good precision and recall across domains represented in various ways. Furthermore, in order to scale to large datasets, an algorithm should be able to intelligently select what information to utilize for comparison and determine whether to compare a pair of instances to reduce the overall complexity. Finally, appropriate evaluation strategies need to be chosen to verify the effectiveness of the algorithms." ;
       swrc:author person:dezhao-song ;
+      swrc:idLncs "76500414" ;
       swrc:listAuthor "Dezhao Song" ;
       swrc:listKeyword "Entity Coreference, Linked Data, Domain-Independence, Scalability, Candidate Selection, Pruning" ;
       foaf:maker person:dezhao-song .
@@ -9627,12 +9759,14 @@ iswc2012paper:research-17
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-17 ;
       dc:creator person:enrico-franconi , person:peter-patel-schneider ;
+      dc:identifier "76490433" ;
       dc:title "Ontology Constraints in Incomplete and Complete Data" ;
       dcterms:creator person:enrico-franconi , person:peter-patel-schneider ;
       dcterms:title "Ontology Constraints in Incomplete and Complete Data" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-17/authors> ;
       swrc:abstract "Ontology and other logical languages are built around the idea that axioms enable the inference of new facts about the available data. In some circumstances, however, the data is meant to be complete in certain ways, and deducing new facts may be undesirable. Previous approaches to this issue have relied on syntactically specifying certain axioms as constraints or adding in new constructs for constraints, and providing a different or extended meaning for constraints that reduces or eliminates their ability to infer new facts without requiring the data to be complete. We propose to instead directly state that the extension of certain concepts and roles are complete by making them DBox predicates, which eliminates the distinction between regular axioms and constraints for these concepts and roles. This proposal eliminates the need for special semantics and avoids problems of previous proposals." ;
       swrc:author person:enrico-franconi , person:peter-patel-schneider ;
+      swrc:idLncs "76490433" ;
       swrc:listAuthor "Peter Patel-Schneider and Enrico Franconi" ;
       foaf:maker person:enrico-franconi , person:peter-patel-schneider .
 
@@ -9641,6 +9775,7 @@ iswc2012paper:doctor-consortium-06
       rdfs:label "Replication for Linked Data" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:laurens-rietveld ;
+      dc:identifier "76500406" ;
       dc:subject "synchronization" , " read-write Web" , " decentralized triple-stores" , " replication" ;
       dc:title "Replication for Linked Data" ;
       dcterms:creator person:laurens-rietveld ;
@@ -9649,6 +9784,7 @@ iswc2012paper:doctor-consortium-06
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-06/authors> ;
       swrc:abstract "With the Semantic Web scaling up, and more triple-stores with update facilities being available, the need for higher levels of simultaneous triple-stores with identical information becomes more and more urgent. However, where such Data Replication approaches are common in the database community, there is no comprehensive approach for data replication for the Semantic Web. In this research proposal, we will discuss the problem space and scenarios of data replication in the Semantic Web, and explain how we plan on dealing with this issue." ;
       swrc:author person:laurens-rietveld ;
+      swrc:idLncs "76500406" ;
       swrc:listAuthor "Laurens Rietveld" ;
       swrc:listKeyword "synchronization, replication, decentralized triple-stores, read-write Web" ;
       foaf:maker person:laurens-rietveld .
@@ -9780,12 +9916,14 @@ iswc2012paper:doctor-consortium-05
       rdfs:label "Very Large Scale OWL Reasoning through Distributed Computation" ;
       swc:isPartOf iswc2012:proceedings ;
       dc:creator person:raghava-mutharaju ;
+      dc:identifier "76500398" ;
       dc:title "Very Large Scale OWL Reasoning through Distributed Computation" ;
       dcterms:creator person:raghava-mutharaju ;
       dcterms:title "Very Large Scale OWL Reasoning through Distributed Computation" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-05/authors> ;
       swrc:abstract "Due to recent developments in reasoning algorithms of the various OWL profiles, the classification time for an ontology has come down drastically. For all of the popular reasoners, in order to process an ontology, an implicit assumption is that the ontology should fit in primary memory. The memory requirements for a reasoner are already quite high, and considering the ever increasing size of the data to be processed and the goal of making reasoning Web scale, this assumption becomes overly restrictive. In our work, we study several distributed classification approaches for the description logic EL+ (a fragment of OWL 2 EL profile). We present the lessons learned from each approach, our current results, and plans for future work." ;
       swrc:author person:raghava-mutharaju ;
+      swrc:idLncs "76500398" ;
       swrc:listAuthor "Raghava Mutharaju" ;
       foaf:maker person:raghava-mutharaju .
 
@@ -9814,12 +9952,14 @@ iswc2012paper:research-16
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-16 ;
       dc:creator person:jean-christoph-jung , person:carsten-lutz ;
+      dc:identifier "76490177" ;
       dc:title "Ontology-Based Access to Probabilistic Data with OWL QL" ;
       dcterms:creator person:jean-christoph-jung , person:carsten-lutz ;
       dcterms:title "Ontology-Based Access to Probabilistic Data with OWL QL" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-16/authors> ;
       swrc:abstract "We propose a framework for querying probabilistic instance data in the presence of an OWL2 QL ontology, arguing that the interplay of probabilities and ontologies is fruitful in many applications such as managing data that was extracted from the web. The prime inference problem is computing answer probabilities, and it can be implemented using standard probabilistic database systems. We establish a PTime vs. #P dichotomy for the data complexity of this problem by lifting a corresponding result from probabilistic databases. We also demonstrate that query rewriting (backwards chaining) is an important tool for our framework, show that non-existence of a rewriting into first-order logic implies #P-hardness, and briefly discuss approximation of answer probabilities." ;
       swrc:author person:jean-christoph-jung , person:carsten-lutz ;
+      swrc:idLncs "76490177" ;
       swrc:listAuthor "Jean Christoph Jung and Carsten Lutz" ;
       foaf:maker person:jean-christoph-jung , person:carsten-lutz .
 
@@ -9851,12 +9991,14 @@ iswc2012paper:research-15
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-15 ;
       dc:creator person:john-domingue , person:carlos-pedrinaci , person:yulan-he , person:chenghua-lin ;
+      dc:identifier "76490321" ;
       dc:title "Feature LDA: a Supervised Topic Model for Automatic Detection of Web API Documentations from the Web" ;
       dcterms:creator person:john-domingue , person:carlos-pedrinaci , person:yulan-he , person:chenghua-lin ;
       dcterms:title "Feature LDA: a Supervised Topic Model for Automatic Detection of Web API Documentations from the Web" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-15/authors> ;
       swrc:abstract "Web APIs have gained increasing popularity in recent Web service technology development owing to its simplicity of technology stack and the proliferation of mashups. However, efficiently discovering Web APIs and the relevant documentations on the Web is still a challenging task even with the best resources available on the Web. In this paper we cast the problem of detecting the Web API documentations as a text classification problem of classifying a given Web page as Web API associated or not. We propose a supervised generative topic model called feature latent Dirichlet allocation (feaLDA) which offers a generic probabilistic framework for automatic detection of Web APIs. feaLDA not only captures the correspondence between data and the associated class labels, but also provides a mechanism for incorporating side information such as labeled features automatically learned from data that can effectively help improving classification performance. Extensive experiments on our Web APIs documentation dataset shows that the feaLDA model outperforms three strong supervised baselines including naive Bayes, support vector machines, and the maximum entropy model, by over 3% in classification accuracy. In addition, feaLDA also gives superior performance when compared against other existing supervised topic models." ;
       swrc:author person:john-domingue , person:carlos-pedrinaci , person:yulan-he , person:chenghua-lin ;
+      swrc:idLncs "76490321" ;
       swrc:listAuthor "Chenghua Lin, Yulan He, Carlos Pedrinaci and John Domingue" ;
       foaf:maker person:john-domingue , person:yulan-he , person:carlos-pedrinaci , person:chenghua-lin .
 
@@ -10088,12 +10230,14 @@ iswc2012paper:research-14
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-14 ;
       dc:creator person:milan-stankovic , person:harith-alani , person:matthew-rowe ;
+      dc:identifier "76490465" ;
       dc:title "Who will follow whom? Exploiting Semantics for Link Prediction in Attention-Information Networks" ;
       dcterms:creator person:milan-stankovic , person:harith-alani , person:matthew-rowe ;
       dcterms:title "Who will follow whom? Exploiting Semantics for Link Prediction in Attention-Information Networks" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-14/authors> ;
       swrc:abstract "Existing approaches for link prediction, in the domain of network science, exploit a network's topology to predict future connections by assessing existing edges and connections, and inducing links given the presence of mutual nodes. Despite the rise in popularity of Attention-Information Networks (i.e. microblogging platforms) and the production of content within such platforms, no existing work has attempted to exploit the semantics of published content when predicting network links. In this paper we present an approach that fills this gap by a) predicting follower edges within a directed social network by exploiting concept graphs and thereby significantly outperforming a random baseline and models that rely solely on network topology information, and b) assessing the different behavior that users exhibit when making followee-addition decisions. This latter contribution exposes latent factors within social networks and the existence of a clear need for topical affinity between users for a follow link to be created." ;
       swrc:author person:harith-alani , person:milan-stankovic , person:matthew-rowe ;
+      swrc:idLncs "76490465" ;
       swrc:listAuthor "Matthew Rowe, Milan Stankovic and Harith Alani" ;
       foaf:maker person:harith-alani , person:milan-stankovic , person:matthew-rowe .
 
@@ -10264,12 +10408,14 @@ iswc2012paper:research-13
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-13 ;
       dc:creator person:aldo-gangemi , person:paolo-ciancarin , person:valentina-presutti , person:alberto-musetti , person:andrea-giovanni-nuzzolese , person:francesco-draicchio ;
+      dc:identifier "76490065" ;
       dc:title "Automatic typing of DBpedia entities" ;
       dcterms:creator person:aldo-gangemi , person:paolo-ciancarin , person:valentina-presutti , person:alberto-musetti , person:andrea-giovanni-nuzzolese , person:francesco-draicchio ;
       dcterms:title "Automatic typing of DBpedia entities" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-13/authors> ;
       swrc:abstract "We present Tipalo, an algorithm and tool for automatically typing DBpedia entities. Tipalo identifies the most appropriate types for an entity by interpreting its natural language definition, which is extracted from its corresponding Wikipedia page abstract. Types are identified by means of a set of heuristics based on graph patterns, disambiguated to WordNet, and aligned to two top-level ontologies: WordNet supersenses and a subset of DOLCE+DnS Ultra Lite classes. The algorithm has been tuned against a golden standard that has been built online by a group of selected users, and further evaluated in a user study." ;
       swrc:author person:aldo-gangemi , person:paolo-ciancarin , person:valentina-presutti , person:alberto-musetti , person:andrea-giovanni-nuzzolese , person:francesco-draicchio ;
+      swrc:idLncs "76490065" ;
       swrc:listAuthor "Aldo Gangemi, Andrea Giovanni Nuzzolese, Valentina Presutti, Francesco Draicchio, Alberto Musetti and Paolo Ciancarin" ;
       foaf:maker person:aldo-gangemi , person:paolo-ciancarin , person:valentina-presutti , person:alberto-musetti , person:andrea-giovanni-nuzzolese , person:francesco-draicchio .
 
@@ -10481,12 +10627,14 @@ iswc2012paper:research-12
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-12 ;
       dc:creator person:marcel-karnstedt , person:josiane-xavier-parreira , person:aidan-hogan , person:jurgen-umbrich ;
+      dc:identifier "76490593" ;
       dc:title "Hybrid SPARQL queries: fresh vs. fast results" ;
       dcterms:creator person:marcel-karnstedt , person:josiane-xavier-parreira , person:aidan-hogan , person:jurgen-umbrich ;
       dcterms:title "Hybrid SPARQL queries: fresh vs. fast results" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-12/authors> ;
       swrc:abstract "For Linked Data query engines, there are inherent trade-offs between centralised approaches that can efficiently answer queries over data cached from parts of the Web, and live decentralised approaches that can provide fresher results over the entire Web at the cost of slower response times. Herein, we propose a hybrid query execution approach that returns fresher results from a broader range of sources vs. the centralised scenario, while speeding up results vs. the live scenario. We first compare results from two public SPARQL stores against current versions of the Linked Data sources they cache; results are often missing or out-of-date. We thus propose using coherence estimates to split a query into a sub-query for which the cached data have good fresh coverage, and a sub-query that should instead be run live. Finally, we evaluate different hybrid query plans and split positions in a real-world setup. Our results show that hybrid query execution can improve freshness vs. fully cached results while reducing the time taken vs. fully live execution." ;
       swrc:author person:marcel-karnstedt , person:josiane-xavier-parreira , person:aidan-hogan , person:jurgen-umbrich ;
+      swrc:idLncs "76490593" ;
       swrc:listAuthor "Jürgen Umbrich, Marcel Karnstedt, Aidan Hogan and Josiane Xavier Parreira" ;
       foaf:maker person:marcel-karnstedt , person:josiane-xavier-parreira , person:aidan-hogan , person:jurgen-umbrich .
 
@@ -10732,12 +10880,14 @@ iswc2012paper:research-11
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-11 ;
       dc:creator person:birte-glimm , person:ilianna-kollia ;
+      dc:identifier "76490225" ;
       dc:title "Cost based Query Ordering over OWL Ontologies" ;
       dcterms:creator person:birte-glimm , person:ilianna-kollia ;
       dcterms:title "Cost based Query Ordering over OWL Ontologies" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-11/authors> ;
       swrc:abstract "The paper presents an approach for cost-based query planning for SPARQL queries issued over an OWL ontology using the OWL Direct Semantics entailment regime of SPARQL 1.1. The costs are based on information about the instances of classes and properties that are extracted from a model abstraction built by an OWL reasoner. A static and a dynamic algorithm are presented which use these costs to find optimal or near optimal execution orders for the atoms of a query. For the dynamic case, we improve the performance by exploiting an individual clustering approach that allows for computing the cost functions based on one individual sample from a cluster. Our experimental study shows that the static ordering usually outperforms the dynamic one when accurate statistics are available. This changes, however, when the statistics are less accurate, e.g., due to non-deterministic reasoning decisions." ;
       swrc:author person:birte-glimm , person:ilianna-kollia ;
+      swrc:idLncs "76490225" ;
       swrc:listAuthor "Ilianna Kollia and Birte Glimm" ;
       foaf:maker person:birte-glimm , person:ilianna-kollia .
 
@@ -10848,6 +10998,7 @@ iswc2012paper:evaluation-18
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-18 ;
       dc:creator person:fabio-ciravegna , person:khadija-elbedweihy , person:stuart-wrigley ;
+      dc:identifier "76500270" ;
       dc:subject "query approaches" , "evaluation" , "usability" , "semantic search" ;
       dc:title "Evaluating Semantic Search Query Approaches with Expert and Casual Users" ;
       dcterms:creator person:fabio-ciravegna , person:khadija-elbedweihy , person:stuart-wrigley ;
@@ -10856,6 +11007,7 @@ iswc2012paper:evaluation-18
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-18/authors> ;
       swrc:abstract "Usability and user satisfaction are of paramount importance when designing interactive software solutions. Furthermore, the optimal design can be dependent not only on the task but also on the type of user. Evaluations can shed light on these issues; however, very few studies have focused on assessing the usability of semantic search systems. As semantic search becomes mainstream, there is growing need for standardised, comprehensive evaluation frameworks. In this study, we assess the usability and user satisfaction of different semantic search query input approaches (natural language and view-based) from the perspective of different user types (experts and casuals). Contrary to previous studies, we found that casual users preferred the form-based query approach whereas expert users found the graph-based to be the most intuitive. Additionally, the controlled-language model offered the most support for casual users but was perceived as restrictive by experts, thus limiting their ability to express their information needs." ;
       swrc:author person:fabio-ciravegna , person:khadija-elbedweihy , person:stuart-wrigley ;
+      swrc:idLncs "76500270" ;
       swrc:listAuthor "Khadija Elbedweihy, Stuart Wrigley and Fabio Ciravegna" ;
       swrc:listKeyword "semantic search,query approaches,evaluation,usability" ;
       foaf:maker person:fabio-ciravegna , person:khadija-elbedweihy , person:stuart-wrigley .
@@ -10939,12 +11091,14 @@ iswc2012paper:research-10
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-10 ;
       dc:creator person:emanuele-della-valle , person:alessandro-bozzon , person:sara-magliacane ;
+      dc:identifier "76490337" ;
       dc:title "Efficient Execution of Top-K SPARQL Queries" ;
       dcterms:creator person:emanuele-della-valle , person:alessandro-bozzon , person:sara-magliacane ;
       dcterms:title "Efficient Execution of Top-K SPARQL Queries" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-10/authors> ;
       swrc:abstract "Top-k queries, i.e. queries returning the top k results ordered by a user-defined scoring function, are an important category of queries. Order is an important property of data that can be exploited to speed up query processing. State-of-the-art SPARQL engines underuse order, and top-k queries are mostly managed with a materialize-then-sort processing scheme that computes all the matching solutions (e.g. thousands) even if only a limited number k (e.g. ten) are requested. The SPARQL-RANK algebra is an extended SPARQL algebra that treats order as a first class citizen, enabling efficient split-and-interleave processing schemes that can be adopted to improve the performance of top-k SPARQL queries. In this paper we propose an incremental execution model for SPARQL-RANK queries, we compare the performance of alternative physical operators, and we propose a rank-aware join algorithm optimized for native RDF stores. Experiments conducted with an open source implementation of a SPARQL-RANK query engine based on ARQ show that the evaluation of top-k queries can be sped up by orders of magnitude." ;
       swrc:author person:emanuele-della-valle , person:alessandro-bozzon , person:sara-magliacane ;
+      swrc:idLncs "76490337" ;
       swrc:listAuthor "Sara Magliacane, Alessandro Bozzon and Emanuele Della Valle" ;
       foaf:maker person:alessandro-bozzon , person:emanuele-della-valle , person:sara-magliacane .
 
@@ -11042,6 +11196,7 @@ iswc2012paper:evaluation-17
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-17 ;
       dc:creator person:philippe-cudre-mauroux , person:roman-prokofyev , person:alexey-boyarsky , person:karl-aberer , person:gianluca-demartini , person:oleg-ruchayskiy ;
+      dc:identifier "76500318" ;
       dc:subject "Ontology-Based Information Systems" , "Tag Recommendation" , "Experiments" ;
       dc:title "Tag Recommendation for Large-Scale Ontology-Based Information Systems" ;
       dcterms:creator person:philippe-cudre-mauroux , person:roman-prokofyev , person:alexey-boyarsky , person:karl-aberer , person:gianluca-demartini , person:oleg-ruchayskiy ;
@@ -11050,6 +11205,7 @@ iswc2012paper:evaluation-17
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-17/authors> ;
       swrc:abstract "We tackle the problem of improving the relevance of automatically selected tags in large-scale ontology-based information systems. Contrary to traditional settings where tags can be chosen arbitrarily, we focus on the problem of recommending tags (e.g., concepts) directly from a collaborative, user-driven ontology. We compare the effectiveness of a series of approaches to select the best tags ranging from traditional IR techniques such as TF/IDF weighting to novel techniques based on ontological distances and latent Dirichlet allocation. All our experiments are run against a real corpus of tags and documents extracted from the ScienceWise portal, which is connected to ArXiv.org and is currently used by growing number of researchers. The datasets for the experiments are made available online for reproducibility purposes." ;
       swrc:author person:philippe-cudre-mauroux , person:roman-prokofyev , person:alexey-boyarsky , person:karl-aberer , person:gianluca-demartini , person:oleg-ruchayskiy ;
+      swrc:idLncs "76500318" ;
       swrc:listAuthor "Roman Prokofyev, Alexey Boyarsky, Oleg Ruchayskiy, Karl Aberer, Gianluca Demartini and Philippe Cudré-Mauroux" ;
       swrc:listKeyword "Tag Recommendation,Ontology-Based Information Systems,Experiments" ;
       foaf:maker person:philippe-cudre-mauroux , person:roman-prokofyev , person:alexey-boyarsky , person:karl-aberer , person:gianluca-demartini , person:oleg-ruchayskiy .
@@ -11247,6 +11403,7 @@ iswc2012paper:inuse-04
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-04 ;
       dc:creator person:takahiro-kawamura ;
+      dc:identifier "76500097" ;
       dc:subject "Field" , "Sensor" , "AR" , "LOD" , "Plant" ;
       dc:title "Toward an ecosystem of LOD in the field: LOD content generation and its consuming service" ;
       dcterms:creator person:takahiro-kawamura ;
@@ -11255,6 +11412,7 @@ iswc2012paper:inuse-04
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-04/authors> ;
       swrc:abstract "This paper proposes to apply semantic technologies in a new domain, Field research. It is said that if \"raw data\" is openly available on the Web, it will be used by other people to do wonderful things. But, it would be better to show a use case together with that data, especially in the dawn of LOD. Therefore, we are proceeding with both of LOD content generation and its application for a specific domain. The application addresses an issue of information retrieval in the field, and the mechanism of LOD generation from the Web might be applied to the other domain. Firstly, we demonstrate the use of our mobile application, which searches a plant fitting the environmental conditions obtained by the smartphone's sensors. Then, we introduce our approach of the LOD generation, and present an evaluation showing its practical effectiveness." ;
       swrc:author person:takahiro-kawamura ;
+      swrc:idLncs "76500097" ;
       swrc:listAuthor "Takahiro Kawamura" ;
       swrc:listKeyword "Sensor,LOD,AR,Plant,Field" ;
       foaf:maker person:takahiro-kawamura .
@@ -11265,12 +11423,14 @@ iswc2012paper:research-30
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:research-30 ;
       dc:creator person:laura-hollink , person:geert-jan-houben , person:kristian-slabbekoorn ;
+      dc:identifier "76490529" ;
       dc:title "Domain-aware Ontology Matching" ;
       dcterms:creator person:laura-hollink , person:geert-jan-houben , person:kristian-slabbekoorn ;
       dcterms:title "Domain-aware Ontology Matching" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/research-30/authors> ;
       swrc:abstract "The inherent heterogeneity of datasets on the Semantic Web has created a need to interlink them, and several tools have emerged that automate this task. In this paper we are interested in what happens if we enrich these matching tools with knowledge of the domain of the ontologies. We explore how to express the notion of a domain in terms usable for an ontology matching tool, and we examine various methods to decide what constitutes the domain of a given dataset. We show how we can use this in a matching tool, and study the effect of domain knowledge on the quality of the alignment. We perform evaluations for two scenarios: Last.fm artists and UMLS medical terms. To quantify the added value of domain knowledge, we compare our domain-aware matching approach to a standard approach based on a manually created reference alignment. The results indicate that the proposed domain-aware approach indeed outperforms the standard approach, with a large effect on ambiguous concepts but a much smaller effect on unambiguous concepts." ;
       swrc:author person:laura-hollink , person:geert-jan-houben , person:kristian-slabbekoorn ;
+      swrc:idLncs "76490529" ;
       swrc:listAuthor "Kristian Slabbekoorn, Laura Hollink and Geert-Jan Houben" ;
       foaf:maker person:laura-hollink , person:kristian-slabbekoorn , person:geert-jan-houben .
 
@@ -11473,6 +11633,7 @@ iswc2012paper:evaluation-15
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:evaluation-15 ;
       dc:creator person:daniel-bar , person:sebastian-walter , person:christina-unger , person:philipp-cimiano ;
+      dc:identifier "76500354" ;
       dc:subject "question answering" , "experimental evaluation" , "linked data" , "layered approach" ;
       dc:title "Evaluation of a layered approach to question answering over linked data" ;
       dcterms:creator person:daniel-bar , person:sebastian-walter , person:christina-unger , person:philipp-cimiano ;
@@ -11481,6 +11642,7 @@ iswc2012paper:evaluation-15
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-15/authors> ;
       swrc:abstract "We present a question answering system architecture which processes natural language questions in a pipeline consisting of five steps: i) question parsing and query template generation, ii) lookup in an inverted index, iii) string similarity computation, iv) lookup in a lexical database in order to find synonyms, and v) semantic similarity computation. These steps are ordered with respect to their computational effort, following the idea of layered processing: questions are passed on along the pipeline only if they cannot be answered on the basis of earlier processing steps, thereby invoking computationally expensive operations only for complex queries that require them. In this paper we present an evaluation of the system on the dataset provided by the 2nd Open Challenge on Question Answering over Linked Data (QALD-2). The main, novel contribution is a systematic empirical investigation of the impact of the single processing components on the overall performance of question answering over linked data." ;
       swrc:author person:daniel-bar , person:sebastian-walter , person:christina-unger , person:philipp-cimiano ;
+      swrc:idLncs "76500354" ;
       swrc:listAuthor "Sebastian Walter, Christina Unger, Philipp Cimiano and Daniel Bär" ;
       swrc:listKeyword "question answering,linked data,layered approach,experimental evaluation" ;
       foaf:maker person:daniel-bar , person:sebastian-walter , person:christina-unger , person:philipp-cimiano .

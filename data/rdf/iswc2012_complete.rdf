@@ -83,8 +83,10 @@
     <dcterms:title>A Multi-Domain Framework for Community Building Based on Data Tagging</dcterms:title>
     <dc:title>A Multi-Domain Framework for Community Building Based on Data Tagging</dc:title>
     <swrc:listAuthor>Bojan Bozic</swrc:listAuthor>
+    <swrc:idLncs>76500430</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/bojan-bozic"/>
     <rdfs:label>A Multi-Domain Framework for Community Building Based on Data Tagging</rdfs:label>
+    <dc:identifier>76500430</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/bojan-bozic"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/bernardo-magnini">
@@ -141,6 +143,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-10">
     <swrc:author rdf:resource="http://data.semanticweb.org/person/michael-fink"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-eiter"/>
+    <swrc:idLncs>76500294</swrc:idLncs>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-10/authors"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <rdfs:label>Linked Stream Data Processing Engines: Facts and Figures</rdfs:label>
@@ -154,8 +157,8 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/danh-le-phuoc"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/minh-duc-pham"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/michael-fink"/>
-    <dcterms:title>Linked Stream Data Processing Engines: Facts and Figures</dcterms:title>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-10"/>
+    <dcterms:title>Linked Stream Data Processing Engines: Facts and Figures</dcterms:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/michael-fink"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/minh-dao-tran"/>
     <dcterms:subject>Linked Stream Data</dcterms:subject>
@@ -169,6 +172,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/peter-boncz"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/minh-dao-tran"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/peter-boncz"/>
+    <dc:identifier>76500294</dc:identifier>
     <swrc:listKeyword>Linked Stream Data,Linked Stream Data Processing,Benchmarking</swrc:listKeyword>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-eiter"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
@@ -375,7 +379,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/complete">
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/li-ding"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-23T03:26:18-0700</dcterms:modified>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-23T03:47:05-0700</dcterms:modified>
     <dcterms:hasVersion>iswc2012 metadata v20121023</dcterms:hasVersion>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/workshop/lisc/2012">
@@ -543,10 +547,12 @@
     <swrc:listAuthor>Andrea Giovanni Nuzzolese</swrc:listAuthor>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-12/authors"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andrea-giovanni-nuzzolese"/>
+    <swrc:idLncs>76500438</swrc:idLncs>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dcterms:title>Knowledge Pattern Extraction and their usage in Exploratory Search</dcterms:title>
     <swrc:abstract>Knowledge interaction in Web context is a challenging problem. For instance, it requires to deal with complex structures able to filter knowledge by drawing a meaningful context boundary around data. We assume that these complex structures can be formalized as Knowledge Patterns (KPs), aka frames. This Ph.D. work is aimed at developing methods for extracting KPs from the Web and at applying KPs to exploratory search tasks. We want to extract KPs by analyzing the structure of Web links from rich resources, such as Wikipedia.</swrc:abstract>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/andrea-giovanni-nuzzolese"/>
+    <dc:identifier>76500438</dc:identifier>
     <dc:title>Knowledge Pattern Extraction and their usage in Exploratory Search</dc:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/amar-djalil-mezaour">
@@ -719,10 +725,12 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/enrico-daga"/>
     <dcterms:title>Towards a theoretical foundation for the harmonization of linked data</dcterms:title>
+    <dc:identifier>76500434</dc:identifier>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <swrc:listKeyword>Linked Data, Data Harmonization, Planning</swrc:listKeyword>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/enrico-daga"/>
     <dcterms:subject>Linked Data</dcterms:subject>
+    <swrc:idLncs>76500434</swrc:idLncs>
     <dcterms:subject> Data Harmonization</dcterms:subject>
     <rdfs:label>Towards a theoretical foundation for the harmonization of linked data</rdfs:label>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/enrico-daga"/>
@@ -983,6 +991,7 @@
     <dcterms:subject>Justifications</dcterms:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
     <dc:subject>Justifications</dc:subject>
+    <dc:identifier>76500282</dc:identifier>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/matthew-horridge"/>
     <dc:subject>Justification Finding</dc:subject>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-35/authors"/>
@@ -1005,6 +1014,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-35"/>
     <dc:subject>Blackbox Debugging</dc:subject>
     <dcterms:subject>Explanation</dcterms:subject>
+    <swrc:idLncs>76500282</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
@@ -1012,6 +1022,8 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-14">
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-14/authors"/>
+    <dc:identifier>76500446</dc:identifier>
+    <swrc:idLncs>76500446</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jennifer-sleeman"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jennifer-sleeman"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jennifer-sleeman"/>
@@ -1076,9 +1088,11 @@
     <swrc:listKeyword>Complex event processing, SPARQL, RDF, Rete-algorithm</swrc:listKeyword>
     <dcterms:subject> Rete-algorithm</dcterms:subject>
     <dc:subject> Rete-algorithm</dc:subject>
+    <dc:identifier>76500442</dc:identifier>
     <dcterms:title>SPARQL Update for Complex Event Processing</dcterms:title>
     <dc:subject> RDF</dc:subject>
     <swrc:abstract>Complex event processing is currently done primarily with proprietary definition languages. Future smart environments will require collaboration of multi-platform sensors operated by multiple parties. The goal of my research is to verify the applicability of standard-compliant SPARQL for complex event processing tasks. If successful, semantic web standards RDF, SPARQL and OWL with their established base of tools have many other benefits for event processing including support for interconnecting disjoint vocabularies, enriching event information with linked open data and reasoning over semantically annotated content. A software platform capable of continuous incremental evaluation of multiple parallel SPARQL queries is a key enabler of the approach.</swrc:abstract>
+    <swrc:idLncs>76500442</swrc:idLncs>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/mikko-rinne"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/mikko-rinne"/>
   </rdf:Description>
@@ -1438,6 +1452,7 @@
     <dc:subject>entity summarization</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/harald-sack"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-37/authors"/>
+    <swrc:idLncs>76500342</swrc:idLncs>
     <swrc:listKeyword>entity summarization,property ranking,evaluation,linked data,quiz game,games with a purpose</swrc:listKeyword>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/andreas-thalhammer"/>
     <dc:title>Evaluating Entity Summarization Using a Game-Based Ground Truth</dc:title>
@@ -1446,6 +1461,7 @@
     <swrc:abstract>In recent years, strategies for Linked Data consumption have caught attention in Semantic Web research. For direct consumption by users, Linked Data mashups, interfaces, and visualizations have become a popular research area. Many approaches in this field aim to make Linked Data interaction more user friendly to improve its accessibility for nontechnical users. A subtask for Linked Data interfaces is to present entities and their properties in a concise form. In general, these summaries take individual attributes and sometimes user contexts and preferences into account. But the objective evaluation of the quality of such summaries is an expensive task. In this paper we introduce a game-based approach aiming to establish a ground truth for the evaluation of entity summarization. We exemplify the applicability of the approach by evaluating two recent summarization approaches.</swrc:abstract>
     <rdfs:label>Evaluating Entity Summarization Using a Game-Based Ground Truth</rdfs:label>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/magnus-knuth"/>
+    <dc:identifier>76500342</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/magnus-knuth"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andreas-thalhammer"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
@@ -1691,6 +1707,8 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-15/authors"/>
     <dc:title>Composition of Linked Data-based RESTful Services</dc:title>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <swrc:idLncs>76500450</swrc:idLncs>
+    <dc:identifier>76500450</dc:identifier>
     <dcterms:title>Composition of Linked Data-based RESTful Services</dcterms:title>
     <swrc:listAuthor>Steffen Stadtmüller</swrc:listAuthor>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/steffen-stadtmuller"/>
@@ -2104,6 +2122,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/mounir-mokhtari"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thibaut-tiberghien"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/thibaut-tiberghien"/>
+    <swrc:idLncs>76500209</swrc:idLncs>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-10/authors"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jit-biswas"/>
     <dc:subject>Ambient Assisted Living</dc:subject>
@@ -2119,6 +2138,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/mounir-mokhtari"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/hamdi-aloulou"/>
     <swrc:abstract>Robust solutions for ambient assisted living are numerous, yet predominantly specific in their scope of usability. In this paper, we describe the potential contribution of semantic web technologies to building more versatile solutions - a step towards adaptable context-aware engines and simplified deployments. Our conception and deployment work in hindsight, we highlight some implementation challenges and requirements for semantic web tools that would help to ease the development of context-aware services and thus generalize real-life deployment of semantically driven assistive technologies. We also compare available tools with regard to these requirements and validate our choices by providing some results from a real-life deployment.</swrc:abstract>
+    <dc:identifier>76500209</dc:identifier>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-10"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jit-biswas"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/mounir-mokhtari"/>
@@ -2345,6 +2365,7 @@
     <rdfs:label>A Comparison of Hard Filters and Soft Evidence for Answer Typing in Watson</rdfs:label>
     <dc:title>A Comparison of Hard Filters and Soft Evidence for Answer Typing in Watson</dc:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/james-fan"/>
+    <dc:identifier>76500240</dc:identifier>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/chris-welty"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/j-william-murdock"/>
@@ -2354,6 +2375,7 @@
     <swrc:listKeyword>Question Answering,Answer Typing,Watson</swrc:listKeyword>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-32"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/j-william-murdock"/>
+    <swrc:idLncs>76500240</swrc:idLncs>
     <swrc:abstract>Questions often explicitly request a particular type of answer. One popular approach to answering natural language questions involves filtering candidate answers based on precompiled lists of instances of common answer types (e.g., countries, animals, foods, etc.). Such a strategy is poorly suited to an open domain in which there is an extremely broad range of types of answers, and the most frequently occurring types cover only a small fraction of all answers. In this paper we present an alternative approach called TyCor, that employs soft filtering of candidates using multiple strategies and sources. We find that TyCor significantly outperforms a single-source, single-strategy hard filtering approach, demonstrating both that multi-source multi-strategy outperforms a single source, single strategy, and that its fault tolerance yields significantly better performance than a hard filter.</swrc:abstract>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/chris-welty"/>
     <dc:subject>Watson</dc:subject>
@@ -3018,6 +3040,7 @@
     <dcterms:title>MORe: Modular Combination of OWL Reasoners for Ontology Classification</dcterms:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/bernardo-cuenca-grau"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ana-armas"/>
+    <dc:identifier>76490001</dc:identifier>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ian-horrocks"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/ian-horrocks"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/bernardo-cuenca-grau"/>
@@ -3026,6 +3049,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bernardo-cuenca-grau"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-05"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ian-horrocks"/>
+    <swrc:idLncs>76490001</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ian-horrocks"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ana-armas"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-05/authors"/>
@@ -3125,43 +3149,45 @@
     <rdfs:label>Charalampos Nikolaou</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-35">
-    <dc:subject>Verification</dc:subject>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-35/authors"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
-    <dc:subject>Interoperability</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
-    <dc:subject>Composition</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
+    <dcterms:subject>Interoperability</dcterms:subject>
+    <dcterms:title>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</dcterms:title>
+    <dc:subject>Universal Instant Messaging</dc:subject>
+    <dc:title>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</dc:title>
+    <dcterms:subject>Verification</dcterms:subject>
+    <rdfs:label>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</rdfs:label>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
+    <swrc:listKeyword>Interoperability,Composition,Ontology,Verification,Mediation,Universal Instant Messaging</swrc:listKeyword>
+    <dcterms:subject>Universal Instant Messaging</dcterms:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
+    <dc:identifier>76500017</dc:identifier>
+    <dcterms:subject>Mediation</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
-    <dcterms:subject>Ontology</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
+    <dc:subject>Composition</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
     <dc:subject>Ontology</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
-    <dcterms:subject>Verification</dcterms:subject>
-    <dcterms:subject>Interoperability</dcterms:subject>
-    <swrc:listKeyword>Interoperability,Composition,Ontology,Verification,Mediation,Universal Instant Messaging</swrc:listKeyword>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
     <swrc:listAuthor>Amel Bennaceur, Valerie Issarny, Romina Spalazzese and Shashank Tyagi</swrc:listAuthor>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
-    <dcterms:title>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</dcterms:title>
-    <dcterms:subject>Mediation</dcterms:subject>
-    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-35"/>
-    <dcterms:subject>Universal Instant Messaging</dcterms:subject>
-    <dcterms:subject>Composition</dcterms:subject>
-    <dc:title>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</dc:title>
-    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
-    <swrc:abstract>The success of pervasive computing depends on the ability to compose a multitude of networked applications dynamically in order to achieve user goals. However, applications from different providers are not able to interoperate due to incompatible interaction protocols or disparate data models. Instant messaging is a representative example of the current situation, where various competing applications keep emerging. To enforce interoperability at runtime and in a non-intrusive manner, mediators are used to perform the necessary translations and coordination between the heterogeneous applications. Nevertheless, the design of mediators requires considerable knowledge about each application as well as a substantial development effort. In this paper we present an approach based on ontology reasoning and model checking in order to generate correct-by-construction mediators automatically. We demonstrate the feasibility of our approach through a prototype tool and show that it synthesises mediators that achieve efficient interoperation of instant messaging applications.</swrc:abstract>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
     <dc:subject>Mediation</dc:subject>
-    <dc:subject>Universal Instant Messaging</dc:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
-    <rdfs:label>Achieving Interoperability through Semantics-based Technologies: The Instant Messaging Case</rdfs:label>
+    <dcterms:subject>Composition</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
+    <swrc:abstract>The success of pervasive computing depends on the ability to compose a multitude of networked applications dynamically in order to achieve user goals. However, applications from different providers are not able to interoperate due to incompatible interaction protocols or disparate data models. Instant messaging is a representative example of the current situation, where various competing applications keep emerging. To enforce interoperability at runtime and in a non-intrusive manner, mediators are used to perform the necessary translations and coordination between the heterogeneous applications. Nevertheless, the design of mediators requires considerable knowledge about each application as well as a substantial development effort. In this paper we present an approach based on ontology reasoning and model checking in order to generate correct-by-construction mediators automatically. We demonstrate the feasibility of our approach through a prototype tool and show that it synthesises mediators that achieve efficient interoperation of instant messaging applications.</swrc:abstract>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-35"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/valerie-issarny"/>
+    <dc:subject>Verification</dc:subject>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/amel-bennaceur"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/shashank-tyagi"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dcterms:subject>Ontology</dcterms:subject>
+    <dc:subject>Interoperability</dc:subject>
+    <swrc:idLncs>76500017</swrc:idLncs>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/romina-spalazzese"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/ian-horrocks">
@@ -3208,6 +3234,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/markus-krotzsch"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-04/authors"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/markus-krotzsch"/>
+    <dc:identifier>76490273</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/markus-krotzsch"/>
     <swrc:abstract>The lightweight ontology language OWL RL is used for reasoning with large amounts of data. To this end, the W3C standard provides a simple system of deduction rules, which operate directly on the RDF syntax of OWL. Several similar systems have been studied. However, these approaches are usually complete for instance retrieval only. This paper asks if and how such methods could also be used for computing entailed subclass relationships. Checking entailment for arbitrary OWL RL class subsumptions is co-NP-hard, but tractable rule-based reasoning is possible when restricting to subsumptions between atomic classes. Surprisingly, however, this cannot be achieved in any RDF-based rule system, i.e., the W3C calculus cannot be extended to compute all atomic class subsumptions. We identify syntactic restrictions to mitigate this problem, and propose a rule system that is sound and complete for many OWL RL ontologies.</swrc:abstract>
     <dcterms:title>The Not-So-Easy Task of Computing Class Subsumptions in OWL RL</dcterms:title>
@@ -3216,6 +3243,7 @@
     <dc:title>The Not-So-Easy Task of Computing Class Subsumptions in OWL RL</dc:title>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-04"/>
     <swrc:listAuthor>Markus Krötzsch</swrc:listAuthor>
+    <swrc:idLncs>76490273</swrc:idLncs>
     <rdfs:label>The Not-So-Easy Task of Computing Class Subsumptions in OWL RL</rdfs:label>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
   </rdf:Description>
@@ -3239,11 +3267,13 @@
     <swrc:abstract>To realize the Smart Cities vision, applications can leverage the large availability of open datasets related to urban environments. Those datasets need to be integrated, but it is often hard to automatically achieve a high-quality interlinkage. Human Computation approaches can be employed to solve such a task where machines are ineffective. We argue that in this case not only people's background knowledge is useful to solve the task, but also people's physical presence and direct experience can be successfully exploited. In this paper we present UrbanMatch, a Game with a Purpose for players in mobility aimed at validating links between points of interest and their photos; we discuss the design choices and we show the high throughput and accuracy achieved in the interlinking task.</swrc:abstract>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/irene-celino"/>
     <rdfs:label>Linking Smart Cities Datasets with Human Computation -- the case of UrbanMatch</rdfs:label>
+    <dc:identifier>76500033</dc:identifier>
     <dcterms:subject>Game with Purpose</dcterms:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
     <dcterms:subject>Mobility</dcterms:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/thorsten-krueger"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/daniele-dellaglio"/>
+    <swrc:idLncs>76500033</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/daniele-dellaglio"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/marta-corubolo"/>
     <dc:subject>Mobility</dc:subject>
@@ -3385,6 +3415,8 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/marco-sbodio"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/anika-schumann"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dc:identifier>76500113</dc:identifier>
+    <swrc:idLncs>76500113</swrc:idLncs>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/marco-sbodio"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:subject>Applied Description Logics</dcterms:subject>
@@ -3432,6 +3464,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andreas-zankl"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/razan-paul"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/tudor-groza"/>
+    <dc:identifier>76500161</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jane-hunter"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/tudor-groza"/>
     <dc:subject>Decision support</dc:subject>
@@ -3440,6 +3473,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/andreas-zankl"/>
     <dc:title>Semantic similarity-driven decision support in the skeletal dysplasia domain</dc:title>
     <swrc:listKeyword>Semantic similarity,Decision support,Ontologies</swrc:listKeyword>
+    <swrc:idLncs>76500161</swrc:idLncs>
     <dcterms:subject>Decision support</dcterms:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/tudor-groza"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
@@ -3533,6 +3567,8 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/annika-hinze"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/markus-luczak-rosch"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/annika-hinze"/>
+    <swrc:idLncs>76490161</swrc:idLncs>
+    <dc:identifier>76490161</dc:identifier>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/adrian-paschke"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ralf-heese"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/annika-hinze"/>
@@ -3643,6 +3679,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/jane-hunter"/>
     <dcterms:subject>Knowledge representation</dcterms:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/tudor-groza"/>
+    <dc:identifier>76500081</dc:identifier>
     <rdfs:label>Experiences with modeling composite phenotypes in the SKELETOME project</rdfs:label>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <swrc:listAuthor>Tudor Groza, Andreas Zankl and Jane Hunter</swrc:listAuthor>
@@ -3653,6 +3690,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-18"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/tudor-groza"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/andreas-zankl"/>
+    <swrc:idLncs>76500081</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jane-hunter"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/andreas-zankl"/>
     <dc:title>Experiences with modeling composite phenotypes in the SKELETOME project</dc:title>
@@ -3694,12 +3732,14 @@
     <dc:title>Concept-Based Semantic Difference in Expressive Description Logics</dc:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
+    <swrc:idLncs>76490097</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-06/authors"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/rafael-s-goncalves"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <swrc:abstract>Detecting, much less understanding, the difference between two description logic based ontologies is challenging for ontology engineers due, in part, to the possibility of complex, non-local logic effects of axiom changes. First, it is often quite difficult to even determine which concepts have had their meaning altered by a change. Second, once a concept change is pinpointed, the problem of distinguishing whether the concept is directly or indirectly affected by a change has yet to be tackled. To address the first issue, various principled notions of ``semantic diff'' (based on deductive inseparability) have been proposed in the literature and shown to be computationally practical for the expressively restricted case of ELHr-terminologies. However, problems arise even for such limited logics as ALC: First, computation gets more difficult, becoming undecidable for logics such as SROIQ which underly the Web Ontology Language (OWL). Second, the presence of negation and disjunction make the standard semantic difference too sensitive to change: essentially, any logically effectual change always affects all terms in the ontology. In order to tackle these issues, we formulate the central notion of finding the minimal change set based on model inseparability, and present a method to differentiate changes which are specific to (thus directly affect) particular concept names. Subsequently we devise a series of computable approximations, and compare the variously approximated change sets over a series of versions of the NCI Thesaurus (NCIt).</swrc:abstract>
+    <dc:identifier>76490097</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/rafael-s-goncalves"/>
   </rdf:Description>
@@ -3720,6 +3760,7 @@
     <dcterms:subject>linked data</dcterms:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/spyros-kotoulas"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/spyros-kotoulas"/>
+    <dc:identifier>76500145</dc:identifier>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-39/authors"/>
     <dcterms:subject>content platform</dcterms:subject>
     <swrc:listAuthor>Vanessa Lopez, Spyros Kotoulas, Marco Luca Sbodio, Martin Stephenson, Aris Gkoulalas-Divanis and Pol Mac Aonghusa</swrc:listAuthor>
@@ -3727,6 +3768,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/aris-gkoulalas-divanis"/>
     <dc:subject>urban data</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/marco-luca-sbodio"/>
+    <swrc:idLncs>76500145</swrc:idLncs>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/aris-gkoulalas-divanis"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/aris-gkoulalas-divanis"/>
@@ -3893,8 +3935,10 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/yasuhiro-fujiwara"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/makoto-nakatsuji"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/yasuhiro-fujiwara"/>
+    <swrc:idLncs>76490353</swrc:idLncs>
     <swrc:abstract>Tracking user interests over time is important for making accurate recommendations. However, the widely-used time-decay-based approach worsens the sparsity problem because it deemphasizes old item transactions. We introduce two ideas to solve the sparsity problem. First, we divide the users' transactions into epochs i.e. time periods, and identify epochs that are dominated by interests similar to the current interests of the active user. Thus, it can eliminate dissimilar transactions while making use of similar transactions that exist in prior epochs. Second, we use a taxonomy of items to model user item transactions in each epoch. This well captures the interests of users in each epoch even if there are few transactions. It suits the situations in which the items transacted by users dynamically change over time; the semantics behind classes do not change so often while individual items often appear and disappear. Fortunately, many taxonomies are now available on the web because of the spread of the Linked Open Data vision. We can now use those to understand dynamic user interests semantically. We evaluate our method using a dataset, a music listening history, extracted from users' tweets and one containing a restaurant visit history gathered from a gourmet guide site. The results show that our method predicts user interests much more accurately than the previous time-decay-based method.</swrc:abstract>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/toshio-uchiyama"/>
+    <dc:identifier>76490353</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/toshio-uchiyama"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/toshio-uchiyama"/>
   </rdf:Description>
@@ -4008,6 +4052,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/paul-alexander"/>
     <swrc:listKeyword>Ontologies,SPARQL,RDF,Biomedical,Linked Data</swrc:listKeyword>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/matthew-horridge"/>
+    <swrc:idLncs>76500177</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/paul-alexander"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/mark-musen"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/matthew-horridge"/>
@@ -4019,6 +4064,7 @@
     <dcterms:subject>RDF</dcterms:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/natasha-f-noy"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ray-w-fergerson"/>
+    <dc:identifier>76500177</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/ray-w-fergerson"/>
     <dc:subject>RDF</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/paul-alexander"/>
@@ -4046,6 +4092,7 @@
     <swrc:abstract>Ontology mappings are often assigned a weight or confidence factor by matchers. Nonetheless, few semantic accounts have been given so far for such weights. This paper presents a formal semantics for weighted mappings between different ontologies. It is based on a classificational interpretation of mappings: if O1 and O2 are two ontologies used to classify a common set X , then mappings between O1 and O2 are interpreted to encode how elements of X classified in the concepts of O1 are re-classified in the concepts of O2, and weights are interpreted to measure how precise and complete re-classifications are. This semantics is justifiable by extensional practice of ontology matching. It is a conservative extension of a semantics of crisp mappings. The paper also includes properties that relate mapping entailment with description logic constructors.</swrc:abstract>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/alexander-borgida"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/alexander-borgida"/>
+    <dc:identifier>76490017</dc:identifier>
     <dcterms:title>A Formal Semantics for Weighted Ontology Mappings</dcterms:title>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:title>A Formal Semantics for Weighted Ontology Mappings</dc:title>
@@ -4058,6 +4105,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jerome-euzenat"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/manuel-atencia"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/luciano-serafini"/>
+    <swrc:idLncs>76490017</swrc:idLncs>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/chiara-ghidini"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/luciano-serafini"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/chiara-ghidini"/>
@@ -4120,44 +4168,46 @@
     <rdfs:label>track/poster-demo</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-08">
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
-    <dc:subject>Web APIs</dc:subject>
-    <dc:title>Personalised Graph-based Selection of Web APIs</dc:title>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
-    <dc:subject> ranking</dc:subject>
-    <dc:subject> social network</dc:subject>
-    <dcterms:subject> service selection</dcterms:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
-    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
-    <dc:subject> Web services</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
-    <swrc:abstract>Modelling and understanding various contexts of users is important to enable personalised selection of Web APIs in directories such as Programmable Web. Currently, relationships between users and Web APIs are not clearly understood and utilized by existing selection approaches. In this paper, we present a semantic model of a Web API directory graph that captures relationships such as Web APIs, mashups, developers, and categories. We describe a novel configurable graph-based method for selection of Web APIs with personalised and temporal aspects. The method allows users to get more control over their preferences and recommended Web APIs while they can exploit information about their social links and preferences. We evaluate the method on a real-world dataset from ProgrammableWeb.com, and show that it provides more contextualised results than currently available popularity based rankings.</swrc:abstract>
-    <swrc:listAuthor>Milan Dojchinovski, Jaroslav Kuchar, Tomas Vitvar and Maciej Zaremba</swrc:listAuthor>
-    <swrc:listKeyword>Web APIs, Web services, personalisation, ranking, service selection, social network</swrc:listKeyword>
-    <dcterms:title>Personalised Graph-based Selection of Web APIs</dcterms:title>
-    <dcterms:subject> personalisation</dcterms:subject>
-    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-08/authors"/>
-    <dcterms:subject> social network</dcterms:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
-    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-08"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
-    <dc:subject> service selection</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
-    <dcterms:subject> Web services</dcterms:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
-    <rdfs:label>Personalised Graph-based Selection of Web APIs</rdfs:label>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
-    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
-    <dcterms:subject> ranking</dcterms:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
+    <swrc:listAuthor>Milan Dojchinovski, Jaroslav Kuchar, Tomas Vitvar and Maciej Zaremba</swrc:listAuthor>
+    <dc:subject>Web APIs</dc:subject>
+    <dc:subject> social network</dc:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
     <dcterms:subject>Web APIs</dcterms:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dcterms:subject> service selection</dcterms:subject>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
+    <dcterms:title>Personalised Graph-based Selection of Web APIs</dcterms:title>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-08"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
+    <dc:subject> Web services</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
+    <dcterms:subject> social network</dcterms:subject>
+    <dc:title>Personalised Graph-based Selection of Web APIs</dc:title>
+    <dcterms:subject> Web services</dcterms:subject>
+    <dc:subject> service selection</dc:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/tomas-vitvar"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/milan-dojchinovski"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/maciej-zaremba"/>
+    <rdfs:label>Personalised Graph-based Selection of Web APIs</rdfs:label>
+    <swrc:idLncs>76490033</swrc:idLncs>
+    <dc:identifier>76490033</dc:identifier>
+    <dcterms:subject> personalisation</dcterms:subject>
+    <dcterms:subject> ranking</dcterms:subject>
+    <swrc:listKeyword>Web APIs, Web services, personalisation, ranking, service selection, social network</swrc:listKeyword>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-08/authors"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:subject> personalisation</dc:subject>
+    <swrc:abstract>Modelling and understanding various contexts of users is important to enable personalised selection of Web APIs in directories such as Programmable Web. Currently, relationships between users and Web APIs are not clearly understood and utilized by existing selection approaches. In this paper, we present a semantic model of a Web API directory graph that captures relationships such as Web APIs, mashups, developers, and categories. We describe a novel configurable graph-based method for selection of Web APIs with personalised and temporal aspects. The method allows users to get more control over their preferences and recommended Web APIs while they can exploit information about their social links and preferences. We evaluate the method on a real-world dataset from ProgrammableWeb.com, and show that it provides more contextualised results than currently available popularity based rankings.</swrc:abstract>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
+    <dc:subject> ranking</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/jaroslav-kuchar"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/arantza-illarramendi">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
@@ -4265,6 +4315,7 @@
     <rdfs:label>Discovering Concept Coverings in Ontologies of Linked Data Sources</rdfs:label>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/rahul-parundekar"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jose-luis-ambite"/>
+    <dc:identifier>76490417</dc:identifier>
     <swrc:listAuthor>Rahul Parundekar, Craig Knoblock and José Luis Ambite</swrc:listAuthor>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jose-luis-ambite"/>
     <swrc:abstract>Despite the increase in the number of linked instances in the Linked Data Cloud in recent times, the absence of links at the concept level has resulted in heterogenous schemas, challenging the interoperability goal of the Semantic Web. In this paper, we address this problem by finding alignments between concepts from multiple Linked Data sources. Instead of only considering the existing concepts present in each ontology, we hypothesize new composite concepts defined as disjunctions of conjunctions of (RDF) types and value restrictions, which we call restriction classes, and generate alignments between these composite concepts. This extended concept language enables us to find more complete definitions and to even align sources that have rudimentary ontologies, such as those that are simple renderings of relational databases. Our concept alignment approach is based on analyzing the extensions of these concepts and their linked instances. Having explored the alignment of conjunctive concepts in our previous work, in this paper, we focus on concept coverings (disjunctions of restriction classes). We present an evaluation of this new algorithm to Geospatial, Biological Classification, and Genetics domains. The resulting alignments are useful for refining existing ontologies and determining the alignments between concepts in the ontologies, thus increasing the interoperability in the Linked Open Data Cloud.</swrc:abstract>
@@ -4279,6 +4330,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-28"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/craig-knoblock"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-28/authors"/>
+    <swrc:idLncs>76490417</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/craig-knoblock"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/craig-knoblock"/>
   </rdf:Description>
@@ -4373,6 +4425,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/peter-edwards"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-bouttaz"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/alan-eckhardt"/>
+    <swrc:idLncs>76500049</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/peter-edwards"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/chris-mellish"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/chris-mellish"/>
@@ -4381,6 +4434,7 @@
     <rdfs:label>ourSpaces - Design and Deployment of a Semantic Virtual Research Environment</rdfs:label>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/edoardo-pignotti"/>
+    <dc:identifier>76500049</dc:identifier>
     <dc:subject>Policies</dc:subject>
     <dcterms:subject>Virtual Research Environment</dcterms:subject>
   </rdf:Description>
@@ -4708,10 +4762,12 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/bert-van-nuffelen"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/orri-erling"/>
+    <swrc:idLncs>76500001</swrc:idLncs>
     <dc:title>Managing the life-cycle of Linked Data with the LOD2 Stack</dc:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/claus-stadler"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
     <dc:subject>application integration</dc:subject>
+    <dc:identifier>76500001</dc:identifier>
     <dc:subject>Provenance</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/soren-auer"/>
@@ -5269,7 +5325,9 @@
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:title>Strabon: A Semantic Geospatial DBMS</dcterms:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/kostis-kyzirakos"/>
+    <dc:identifier>76490289</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/manolis-koubarakis"/>
+    <swrc:idLncs>76490289</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/manos-karpathiotakis"/>
     <dc:subject>RDF</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/manos-karpathiotakis"/>
@@ -5420,6 +5478,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/oscar-corcho"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/maria-esther-vidal"/>
     <rdfs:label>Benchmarking Federated SPARQL Query Engines: Are Existing Testbeds Enough?</rdfs:label>
+    <dc:identifier>76500306</dc:identifier>
     <dc:title>Benchmarking Federated SPARQL Query Engines: Are Existing Testbeds Enough?</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/carlos-buil-aranda"/>
     <dcterms:title>Benchmarking Federated SPARQL Query Engines: Are Existing Testbeds Enough?</dcterms:title>
@@ -5437,6 +5496,7 @@
     <dcterms:subject>Federated Semantic Data Query Processing Strategies</dcterms:subject>
     <swrc:listKeyword>Benchmarking,Federated Semantic Data Query Processing Strategies,SPARQL Endpoints</swrc:listKeyword>
     <dc:subject>SPARQL Endpoints</dc:subject>
+    <swrc:idLncs>76500306</swrc:idLncs>
     <dc:subject>Benchmarking</dc:subject>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/laurens-rietveld">
@@ -5501,12 +5561,14 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/yannis-tzitzikas"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/dimitris-zeginis"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-24/authors"/>
+    <swrc:idLncs>76490577</swrc:idLncs>
     <rdfs:label>Blank Node Matching and RDF/S Comparison Functions</rdfs:label>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-24"/>
     <swrc:abstract>In RDF, a blank node (or anonymous resource or bnode) is a node in an RDF graph which is not identified by a URI and is not a literal. Several RDF/S Knowledge Bases (KBs) rely heavily on blank nodes as they are convenient for representing complex attributes or resources whose identity is unknown but their attributes (either literals or associations with other resources) are known. In this paper we show how we can exploit blank nodes anonymity in order to reduce the delta (diff) size when comparing such KBs. The main idea of the proposed method is to build a mapping between the bnodes of the compared KBs for reducing the delta size. We prove that finding the optimal mapping is NP-Hard in the general case, and polynomial in case there are not directly connected bnodes. Subsequently we present various polynomial algorithms returning approximate solutions for the general case. For making the application of our method feasible also to large KBs we present a signature-based mapping algorithm with n logn complexity. Finally, we report experimental results over real and synthetic datasets that demonstrate significant reductions in the sizes of the computed deltas. For the proposed algorithms we also provide comparative results regarding delta reduction, equivalence detection and time efficiency.</swrc:abstract>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/christina-lantzaki"/>
     <dc:title>Blank Node Matching and RDF/S Comparison Functions</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/dimitris-zeginis"/>
+    <dc:identifier>76490577</dc:identifier>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/siegfried-handschuh">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
@@ -5747,12 +5809,14 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/minh-duc-pham"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jean-paul-calbimonte"/>
+    <dc:identifier>76490625</dc:identifier>
     <swrc:listAuthor>Ying Zhang, Minh-Duc Pham, Oscar Corcho and Jean Paul Calbimonte</swrc:listAuthor>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-27"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/minh-duc-pham"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/jean-paul-calbimonte"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/minh-duc-pham"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/oscar-corcho"/>
+    <swrc:idLncs>76490625</swrc:idLncs>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ying-zhang"/>
     <dcterms:title>SRBench: A Streaming RDF/SPARQL Benchmark</dcterms:title>
   </rdf:Description>
@@ -6087,6 +6151,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/cory-henson"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/amit-sheth"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/krishnaprasad-thirunarayan"/>
+    <swrc:idLncs>76490145</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/cory-henson"/>
     <rdfs:label>An Efficient Bit Vector Approach to Semantics-based Machine Perception in Resource-Constrained Devices</rdfs:label>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/krishnaprasad-thirunarayan"/>
@@ -6105,6 +6170,7 @@
     <dc:subject> Sensor Data</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/krishnaprasad-thirunarayan"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-26"/>
+    <dc:identifier>76490145</dc:identifier>
     <dcterms:subject> Mobile Device</dcterms:subject>
     <swrc:listAuthor>Cory Henson, Krishnaprasad Thirunarayan and Amit Sheth</swrc:listAuthor>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/amit-sheth"/>
@@ -6286,6 +6352,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-21">
     <swrc:author rdf:resource="http://data.semanticweb.org/person/daniel-gerber"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
+    <dc:identifier>76490305</dc:identifier>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-21/authors"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
     <dc:title>DeFacto - Deep Fact Validation</dc:title>
@@ -6307,6 +6374,7 @@
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jens-lehmann"/>
     <rdfs:label>DeFacto - Deep Fact Validation</rdfs:label>
+    <swrc:idLncs>76490305</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jens-lehmann"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jens-lehmann"/>
   </rdf:Description>
@@ -6420,6 +6488,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/kavi-mahesh"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-01">
+    <swrc:idLncs>76490481</swrc:idLncs>
     <swrc:abstract>An increasing amount of data is published and consumed on the Web according to the Linked Data paradigm. In consideration of both publishers and consumers, the temporal dimension of data is important. In this paper we investigate the characterisation and availability of temporal information in Linked Data at large scale. Based on an abstract definition of temporal information we conduct experiments to evaluate the availability of such information using the data from the 2011 Billion Triple Challenge (BTC) dataset. Focusing in particular on the representation of temporal meta-information, i.e., temporal information associated with RDF statements and graphs, we investigate the approaches proposed in the literature, performing both a quantitative and a qualitative analysis and proposing guidelines for data consumers and publishers. Our experiments show that the amount of temporal information available in the LOD cloud is still very small; several different models have been used on different datasets, with a prevalence of approaches based on the annotation of RDF documents.</swrc:abstract>
     <swrc:listKeyword>temporal information, temporal annotation, linked data</swrc:listKeyword>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/andrea-maurino"/>
@@ -6436,6 +6505,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/palmonari-matteo"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/steffen-stadtmuller"/>
     <dc:subject>temporal information</dc:subject>
+    <dc:identifier>76490481</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andreas-harth"/>
     <dc:subject> linked data</dc:subject>
     <dcterms:subject>temporal information</dcterms:subject>
@@ -6515,6 +6585,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-20">
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-20"/>
+    <dc:identifier>76490609</dc:identifier>
     <rdfs:label>Provenance for SPARQL queries</rdfs:label>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/carlos-viegas-damasio"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/anastasia-analyti"/>
@@ -6533,6 +6604,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/grigoris-antoniou"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/grigoris-antoniou"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/grigoris-antoniou"/>
+    <swrc:idLncs>76490609</swrc:idLncs>
     <swrc:abstract>Determining trust of data available in the Semantic Web is fundamental for applications and users, in particular for linked open data obtained from SPARQL endpoints. There exist several proposals in the literature to annotate SPARQL query results with values from abstract models, adapting the seminal works on provenance for annotated relational databases. We provide an approach capable of providing provenance information for a large and significant fragment of SPARQL 1.1, including for the first time the major non-monotonic constructs under multiset semantics. The approach is based on the translation of SPARQL into relational queries over annotated relations with values of the most general m-semiring, and in this way also refuting a claim in the literature that the OPTIONAL construct of SPARQL cannot be captured appropriately with the known abstract models.</swrc:abstract>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/carlos-viegas-damasio"/>
   </rdf:Description>
@@ -6721,12 +6793,14 @@
     <rdfs:label>Giovanni Tummarello</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-41">
+    <swrc:idLncs>76490513</swrc:idLncs>
     <swrc:listAuthor>Cristina Sarasua, Elena Simperl and Natasha F. Noy</swrc:listAuthor>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/natasha-f-noy"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-41"/>
     <dcterms:title>CrowdMAP: Crowdsourcing Ontology Alignment with Microtasks</dcterms:title>
     <swrc:abstract>The last decade of research in ontology alignment has brought a variety of computational techniques to discover correspondences between ontologies. While the accuracy of automatic approaches has continuously improved, human contributions remain a key ingredient of the process: this input serves as a valuable source of domain knowledge that is used to train the algorithms and to validate and augment automatically computed alignments. In this paper, we introduce CROWDMAP, a model to acquire such human contributions via microtask crowdsourcing. For a given pair of ontologies, CROWDMAP translates the alignment problem into microtasks that address individual alignment questions, publishes the microtasks on an online labor market, and evaluates the quality of the results obtained from the crowd. We evaluated the current implementation of CROWDMAP in a series of experiments using ontologies and reference alignments from the Ontology Alignment Evaluation Initiative and the crowdsourcing platform CrowdFlower. The experiments clearly demonstrated that the overall approach is feasible, and can improve the accuracy of existing ontology alignment solutions in a fast, scalable, and cost-effective manner.</swrc:abstract>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/cristina-sarasua"/>
+    <dc:identifier>76490513</dc:identifier>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/natasha-f-noy"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/cristina-sarasua"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/elena-simperl"/>
@@ -6819,10 +6893,12 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/oktie-hassanzadeh"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/songyun-duan"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/oktie-hassanzadeh"/>
+    <swrc:idLncs>76490048</swrc:idLncs>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/michael-ward"/>
     <swrc:listKeyword>Ontology Alignment, Schema Matching, Linked Data, Semantic Web</swrc:listKeyword>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/kavitha-srinivas"/>
     <dc:title>Instance-Based Matching of Large Ontologies Using Locality-Sensitive Hashing</dc:title>
+    <dc:identifier>76490048</dc:identifier>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/michael-ward"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/michael-ward"/>
     <swrc:listAuthor>Songyun Duan, Achille Fokoue, Oktie Hassanzadeh, Anastasios Kementsietsidis, Kavitha Srinivas and Michael Ward</swrc:listAuthor>
@@ -6951,9 +7027,11 @@
     <rdfs:label>L3S Research Center</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-40">
+    <swrc:idLncs>76490497</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/yulan-he"/>
     <dcterms:subject>Sentiment analysis</dcterms:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/hassan-saif"/>
+    <dc:identifier>76490497</dc:identifier>
     <dc:title>Semantic Sentiment Analysis of Twitter</dc:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/hassan-saif"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
@@ -7059,12 +7137,14 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-71/authors"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/david-liu"/>
     <dcterms:subject>Conceptual Framework</dcterms:subject>
+    <dc:identifier>76500129</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/david-liu"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/daniel-gerber"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/christina-unger"/>
     <dc:subject>Conceptual Framework</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/david-liu"/>
+    <swrc:idLncs>76500129</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/lorenz-buhmann"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/giovanni-grasso"/>
@@ -7084,7 +7164,9 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
     <dc:title>Link Discovery with Guaranteed Reduction Ratio in Affine Spaces with Minkowski Measures</dc:title>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dc:identifier>76490369</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
+    <swrc:idLncs>76490369</swrc:idLncs>
     <swrc:abstract>Time-efficient algorithms are essential to address the complex linking tasks that arise when trying to discover links on the Web of Data. Although several lossless approaches have been developed for this exact purpose, they do not offer theoretical guarantees with respect to their performance. In this paper, we address this drawback by presenting the first Link Discovery approach with theoretical quality guarantees. In particular, we prove that given an achievable reduction ratio r, our Link Discovery approach HR3 can achieve a reduction ratio r'&lt;=r in a metric space where distances are measured by the means of a Minkowski metric of any order p &gt;= 2. We compare HR3 and the HYPPO algorithm implemented in LIMES 0.5 with respect to the number of comparisons they carry out. In addition, we compare our approach with the algorithms implemented in the state-of-the-art frameworks LIMES 0.5 and SILK 2.5 with respect to runtime. We show that HR3 outperforms these previous approaches with respect to runtime in each of our four experimental setups.</swrc:abstract>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
   </rdf:Description>
@@ -7151,6 +7233,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-22">
     <swrc:author rdf:resource="http://data.semanticweb.org/person/haofen-wang"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/shu-rong"/>
+    <dc:identifier>76490449</dc:identifier>
     <swrc:abstract>The Linking Open Data (LOD) project is an ongoing effort to construct a global data space, i.e. the Web of Data. One important part of this project is to establish owl:sameAs links among structured data sources. Such links indicate equivalent instances that refer to the same real-world object. The problem of discovering owl:sameAs links between pairwise data sources is called instance matching. Most of the existing approaches addressing this problem rely on the quality of prior schema matching, which is not always good enough in the LOD scenario. In this paper, we propose a schema-independent instance-pair similarity metric based on several general descriptive features. We transform the instance matching problem to the binary classification problem and solve it by machine learning algorithms. Furthermore, we employ some transfer learning methods to utilize the existing owl:sameAs links in LOD to reduce the demand for labeled data. We carry out experiments on some datasets of OAEI2010. The results show that our method performs well on real-world LOD data and outperforms the participants of OAEI2010.</swrc:abstract>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/evan-wei-xiang"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-22/authors"/>
@@ -7177,6 +7260,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/qiang-yang"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/evan-wei-xiang"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-22"/>
+    <swrc:idLncs>76490449</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/yong-yu"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/yong-yu"/>
     <dc:title>A Machine Learning Approach for Instance Matching Based on Similarity Metrics</dc:title>
@@ -7236,12 +7320,14 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/qunzhi-zhou"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-72"/>
     <swrc:listKeyword>Semantic Web,complex event processing,smart grid</swrc:listKeyword>
+    <swrc:idLncs>76500254</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/qunzhi-zhou"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/viktor-prasanna"/>
     <dcterms:subject>Semantic Web</dcterms:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/viktor-prasanna"/>
     <dcterms:subject>complex event processing</dcterms:subject>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dc:identifier>76500254</dc:identifier>
     <dcterms:subject>smart grid</dcterms:subject>
     <dc:subject>smart grid</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/yogesh-simmhan"/>
@@ -7314,6 +7400,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/pedro-szekely"/>
     <dcterms:subject> service modeling</dcterms:subject>
     <dcterms:subject> linked API</dcterms:subject>
+    <dc:identifier>76490545</dc:identifier>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/pedro-szekely"/>
     <dc:subject> service modeling</dc:subject>
     <swrc:listAuthor>Mohsen Taheriyan, Craig Knoblock, Pedro Szekely and José Luis Ambite</swrc:listAuthor>
@@ -7321,6 +7408,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/craig-knoblock"/>
     <dc:subject>linked data</dc:subject>
     <rdfs:label>Rapidly Integrating Services into the Linked Data Cloud</rdfs:label>
+    <swrc:idLncs>76490545</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/craig-knoblock"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <swrc:listKeyword>linked data, linked API, service modeling</swrc:listKeyword>
@@ -7345,6 +7433,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/peter-mika"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/peter-mika"/>
     <rdfs:label>Robust Runtime Optimization and Skew-Resistant Execution of Analytical SPARQL Queries on Pig</rdfs:label>
+    <dc:identifier>76490241</dc:identifier>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-31"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/peter-boncz"/>
     <dcterms:title>Robust Runtime Optimization and Skew-Resistant Execution of Analytical SPARQL Queries on Pig</dcterms:title>
@@ -7364,6 +7453,7 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jacopo-urbani"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/peter-boncz"/>
+    <swrc:idLncs>76490241</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/spyros-kotoulas"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/spyros-kotoulas"/>
   </rdf:Description>
@@ -7509,6 +7599,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/matthias-thimm"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/steffen-staab"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/steffen-staab"/>
+    <dc:identifier>76490113</dc:identifier>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/olaf-gorlitz"/>
     <dcterms:title>SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data</dcterms:title>
@@ -7516,6 +7607,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/matthias-thimm"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/olaf-gorlitz"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-32"/>
+    <swrc:idLncs>76490113</swrc:idLncs>
     <dc:title>SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/matthias-thimm"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/matthias-thimm"/>
@@ -7717,6 +7809,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/norman-heino"/>
     <dcterms:title>RDFS Reasoning on Massively Parallel Hardware</dcterms:title>
     <swrc:listAuthor>Norman Heino and Jeff Z. Pan</swrc:listAuthor>
+    <swrc:idLncs>76490129</swrc:idLncs>
     <dc:subject>computational geometry</dc:subject>
     <dc:title>RDFS Reasoning on Massively Parallel Hardware</dc:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jeff-z-pan"/>
@@ -7724,6 +7817,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jeff-z-pan"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/norman-heino"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/norman-heino"/>
+    <dc:identifier>76490129</dc:identifier>
     <rdfs:label>RDFS Reasoning on Massively Parallel Hardware</rdfs:label>
     <dc:subject> Hamilton cycles</dc:subject>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
@@ -7934,10 +8028,12 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/birte-glimm"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/birte-glimm"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-34/authors"/>
+    <swrc:idLncs>76490385</swrc:idLncs>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-34"/>
     <dcterms:title>Hitting the Sweetspot: Economic Rewriting of Knowledge Bases</dcterms:title>
     <dc:title>Hitting the Sweetspot: Economic Rewriting of Knowledge Bases</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/nadeschda-nikitina"/>
+    <dc:identifier>76490385</dc:identifier>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/line-pouchard">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/lisc/2012/chair"/>
@@ -8143,12 +8239,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-35">
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/rafael-s-goncalves"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/rafael-s-goncalves"/>
+    <swrc:idLncs>76490081</swrc:idLncs>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-35"/>
     <swrc:abstract>Due to the high worst case complexity of the core reasoning problem for the expressive profiles of OWL 2, ontology engineers are often surprised and confused by the performance behaviour of reasoners on their ontologies. Even very experienced modellers with a sophisticated grasp of reasoning algorithms do not have a good mental model of reasoner performance behaviour. Seemingly innocuous changes to an OWL ontology can degrade classification time from instantaneous to too long to wait for. Similarly, switching reasoners (e.g., to take advantage of specific features) can result in wildly different classification times. In this paper we investigate performance variability phenomena in OWL ontologies, and present methods to identify subsets of an ontology which are performance-degrading for a given reasoner. When such (ideally small) subsets are removed from an ontology, and the remainder is much easier for the given reasoner to reason over, we designate them âhot spotsâ?. The identification of these hot spots allows users to isolate difficult portions of the ontology in a principled and systematic way. Moreover, we devise and compare various methods for approximate reasoning and knowledge compilation based on hot spots. We verify our techniques with a select set of varyingly difficult ontologies from the NCBO BioPortal, and were able to, firstly, successfully identify performance hot spots against the major freely available DL reasoners, and, secondly, significantly improve classification time using approximate reasoning based on hot spots.</swrc:abstract>
     <dc:title>Performance Heterogeneity and Approximate Reasoning in Description Logic Ontologies</dc:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
     <dcterms:title>Performance Heterogeneity and Approximate Reasoning in Description Logic Ontologies</dcterms:title>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dc:identifier>76490081</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ulrike-sattler"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/bijan-parsia"/>
@@ -8337,6 +8435,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/yong-bin-kang"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/yuan-fang-li"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/yuan-fang-li"/>
+    <dc:identifier>76490193</dc:identifier>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <rdfs:label>Predicting Reasoning Performance Using Ontology Metrics</rdfs:label>
     <swrc:listAuthor>Yong-Bin Kang, Yuan-Fang Li and Shonali Krishnaswamy</swrc:listAuthor>
@@ -8345,6 +8444,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/shonali-krishnaswamy"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/yuan-fang-li"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-36/authors"/>
+    <swrc:idLncs>76490193</swrc:idLncs>
     <dcterms:title>Predicting Reasoning Performance Using Ontology Metrics</dcterms:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-munster">
@@ -8563,11 +8663,13 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/trond-aalberg"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-37/authors"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <swrc:idLncs>76490561</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/trond-aalberg"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/fabien-duchateau"/>
     <dcterms:subject> Knowledge Extraction</dcterms:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/fabien-duchateau"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dc:identifier>76490561</dc:identifier>
     <dcterms:subject> Machine Learning</dcterms:subject>
     <dcterms:title>An Evidence-based Verification Approach to Extract Entities and Relations for Knowledge Base Population</dcterms:title>
     <dc:subject> Knowledge Extraction</dc:subject>
@@ -8838,10 +8940,12 @@
     <swrc:listAuthor>Sebastian Krause, Hong Li, Hans Uszkoreit and Feiyu Xu</swrc:listAuthor>
     <dc:subject> relation extraction</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/hans-uszkoreit"/>
+    <dc:identifier>76490257</dc:identifier>
     <dc:subject> IE</dc:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/sebastian-krause"/>
     <dcterms:subject> RE</dcterms:subject>
     <dc:subject> RE</dc:subject>
+    <swrc:idLncs>76490257</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/feiyu-xu"/>
     <dc:subject> rule based RE</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/sebastian-krause"/>
@@ -9089,6 +9193,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/francesco-osborne"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-39/authors"/>
     <dcterms:subject>Bibliographic Data</dcterms:subject>
+    <dc:identifier>76490401</dc:identifier>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/francesco-osborne"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/francesco-osborne"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/enrico-motta"/>
@@ -9106,6 +9211,7 @@
     <dc:title>Mining Semantic Relations between Research Areas</dc:title>
     <dc:subject>Scholarly Ontologies</dc:subject>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-39"/>
+    <swrc:idLncs>76490401</swrc:idLncs>
     <dcterms:subject>Scholarly Ontologies</dcterms:subject>
     <dcterms:subject>Research Data</dcterms:subject>
     <dc:subject> Data Mining</dc:subject>
@@ -9258,6 +9364,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-03">
     <swrc:listAuthor>Valentina Maccatrozzo</swrc:listAuthor>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-03/authors"/>
+    <dc:identifier>76500382</dc:identifier>
     <rdfs:label>Burst the Filter Bubble: Using Semantic Web to Enable Serendipity</rdfs:label>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/valentina-maccatrozzo"/>
     <swrc:abstract>Personalization techniques aim at helping people dealing with the ever growing amount of information by filtering it according to their interests. However, to avoid the information overload, such techniques often create an over-personalization effect, i.e. users are exposed only to the content systems assume they would like. To break this "personalization bubble" we introduce the notion of serendipity as a performance measure for recommendation algorithms. For this, we first identify aspects from the user perspective, which can determine level and type of serendipity desired by users. Then, we propose a user model that can facilitate such user requirements, and enables serendipitous recommendations. The use case for this work focuses on TV recommender systems, however the ultimate goal is to explore the transferability of this method to different domains. This paper covers the work done in the first eight months of research and describes the plan for the entire PhD trajectory.</swrc:abstract>
@@ -9266,6 +9373,7 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/valentina-maccatrozzo"/>
+    <swrc:idLncs>76500382</swrc:idLncs>
     <dc:title>Burst the Filter Bubble: Using Semantic Web to Enable Serendipity</dc:title>
     <dcterms:title>Burst the Filter Bubble: Using Semantic Web to Enable Serendipity</dcterms:title>
   </rdf:Description>
@@ -9426,10 +9534,12 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-04">
     <swrc:listAuthor>Sara Magliacane</swrc:listAuthor>
     <dcterms:title>Reconstructing Provenance</dcterms:title>
+    <dc:identifier>76500390</dc:identifier>
     <swrc:abstract>Provenance is an increasingly important aspect of data management that is often underestimated and neglected by practitioners. In our work, we target the problem of reconstructing provenance of files in a shared folder setting, assuming that only standard filesystem metadata are available. We propose a content-based approach that is able to reconstruct provenance automatically, leveraging several similarity measures and edit distance algorithms, adapting and integrating them into a multi-signal pipeline. We discuss our research methodology and show some promising preliminary results.</swrc:abstract>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/sara-magliacane"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:subject>provenance reconstruction</dc:subject>
+    <swrc:idLncs>76500390</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/sara-magliacane"/>
     <rdfs:label>Reconstructing Provenance</rdfs:label>
     <dcterms:subject> multimodal similarity</dcterms:subject>
@@ -9813,10 +9923,12 @@
     <rdfs:label>Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures</rdfs:label>
     <swrc:abstract>Since 2001, the semantic web community has been working hard towards creating standards which will increase the accessibility of available information on the web. Yahoo research recently reported that 30% of all HTML pages contain structured data such as microdata, RDFa, or microformat. Although multilinguality of the web is a hurdle in information access, the rapid growth of the semantic web enables us to retrieve fine grained information across the language barrier. In this thesis, firstly, we focus on developing a methodology to perform cross-lingual semantic search over structured data (knowledge base), by transforming natural language queries into SPARQL. Secondly, we focus on improving the semantic similarity and relatedness measures, to overcome the semantic gap between the vocabulary in the knowledge base and the terms appearing in the query. The preliminary results are evaluated against the QALD-2 test dataset, which achieved a F1 score of 0.46, an average precision of 0.44, and an average recall of 0.48.</swrc:abstract>
     <dcterms:title>Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures</dcterms:title>
+    <swrc:idLncs>76500366</swrc:idLncs>
     <swrc:listAuthor>Nitish Aggarwal</swrc:listAuthor>
     <dc:title>Cross Lingual Semantic Search by Improving Semantic Similarity and Relatedness Measures</dc:title>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-01/authors"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/nitish-aggarwal"/>
+    <dc:identifier>76500366</dc:identifier>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-09">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
@@ -9961,6 +10073,7 @@
     <rdfs:label>Quality Reasoning in the Semantic Web</rdfs:label>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:title>Quality Reasoning in the Semantic Web</dc:title>
+    <dc:identifier>76500374</dc:identifier>
     <dcterms:title>Quality Reasoning in the Semantic Web</dcterms:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/chris-baillie"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-02/authors"/>
@@ -9969,6 +10082,7 @@
     <dcterms:subject> linked data</dcterms:subject>
     <dcterms:subject>provenance</dcterms:subject>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <swrc:idLncs>76500374</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/chris-baillie"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/feroz-farazi">
@@ -10300,13 +10414,15 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-41">
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/giulia-masotti"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/riccardo-rosati"/>
+    <dc:identifier>76500330</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/riccardo-rosati"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/marco-ruzzi"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-41"/>
     <rdfs:label>Evaluation of techniques for inconsistency handling in OWL 2 QL ontologies</rdfs:label>
     <dc:title>Evaluation of techniques for inconsistency handling in OWL 2 QL ontologies</dc:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/marco-ruzzi"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-41"/>
+    <swrc:idLncs>76500330</swrc:idLncs>
     <swrc:abstract>In this paper we present the Quonto Inconsistent Data handler (QuID). QuID is a reasoner for OWL 2 QL that is based on the system Quonto and is able to deal with inconsistent ontologies. The central aspect of QuID is that it implements two different, orthogonal strategies for dealing with inconsistency: ABox repairing techniques, based on data manipulation, and consistent query answering techniques, based on query rewriting. Moreover, by exploiting the ability of Quonto to delegate the management of the ABox to a relational database system (DBMS), such techniques are potentially able to handle very large inconsistent ABoxes. For the above reasons, QuID allows for experimentally comparing the above two different strategies for inconsistency handling in the context of OWL 2 QL. We thus report on the experimental evaluation that we have conducted using QuID. Our results clearly point out that inconsistency-tolerance in OWL 2 QL ontologies is feasible in practical cases. Moreover, our evaluation singles out the different sources of complexity for the data manipulation technique and the query rewriting technique, and allows for identifying the conditions under which one method is more efficient than the other.</swrc:abstract>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/mirko-graziosi"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/marco-ruzzi"/>
@@ -11164,6 +11280,7 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-27">
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dc:identifier>76500193</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/daniela-ferrari"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/pavel-shvaiko"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/veronica-rizzi"/>
@@ -11210,6 +11327,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/giuliana-ucelli"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/feroz-farazi"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/vincenzo-maltese"/>
+    <swrc:idLncs>76500193</swrc:idLncs>
     <dcterms:subject>semantic geo-catalogue</dcterms:subject>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-de-chile">
@@ -11285,6 +11403,7 @@
     <dcterms:subject>industrial diagnostics</dcterms:subject>
     <swrc:abstract>Many industrial use cases, such as machine diagnostics, can benefit from embedded reasoning, the task of running knowledge-based reasoning techniques on embedded controllers as widely used in industrial automation. However, due to the memory and CPU restrictions of embedded devices like programmable logic controllers (PLCs), state-of-the-art reasoning tools and methods cannot be easily migrated to industrial automation environments. In this paper, we describe an approach to porting lightweight OWL 2 EL reasoning to a PLC platform to run in an industrial automation environment. We report on initial runtime experiments carried out on a prototypical implementation of a PLC-based EL+ -reasoner in the context of a use case about turbine diagnostics.</swrc:abstract>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/michael-watzke"/>
+    <swrc:idLncs>76500065</swrc:idLncs>
     <swrc:listKeyword>industrial diagnostics,description logic reasoning,programmable logic controllers</swrc:listKeyword>
     <dc:subject>programmable logic controllers</dc:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-hubauer"/>
@@ -11302,6 +11421,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-09"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/stephan-grimm"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/stephan-grimm"/>
+    <dc:identifier>76500065</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/michael-watzke"/>
     <dcterms:subject>programmable logic controllers</dcterms:subject>
     <dc:subject>description logic reasoning</dc:subject>
@@ -11409,6 +11529,7 @@
     <dc:title>Reusing XML Schemas' Information as a Foundation for Designing Domain Ontologies</dc:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-bosch"/>
     <dcterms:subject> XML</dcterms:subject>
+    <swrc:idLncs>76500426</swrc:idLncs>
     <dc:subject> XSLT</dc:subject>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:subject>Semantic Web</dc:subject>
@@ -11419,6 +11540,7 @@
     <dcterms:subject>Semantic Web</dcterms:subject>
     <swrc:abstract>Designing domain ontologies from scratch is a time-consuming endeavor requiring a lot of close collaboration with domain experts. However, domain descriptions such as XML Schemas are often available in early stages of the ontology development process. For my dissertation, I propose a method to convert XML Schemas to OWL ontologies in an automatic way. The approach addresses the transformation of any XML Schema documents by using the XML Schema metamodel, which is completely represented by the XML Schema Metamodel Ontology. Automatically, all Schema declarations and definitions are converted to class axioms, which are intended to be enriched with additional domain-specific semantic information in form of domain ontologies.</swrc:abstract>
     <dc:subject> OWL</dc:subject>
+    <dc:identifier>76500426</dc:identifier>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <swrc:listKeyword>Semantic Web, Ontology Design, OWL, XML, XSD, XSLT</swrc:listKeyword>
     <dc:subject> XML</dc:subject>
@@ -11689,12 +11811,14 @@
     <rdfs:label>Formal Verification of Data Provenance Records</rdfs:label>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/luciano-serafini"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/szymon-klarman"/>
+    <swrc:idLncs>76490209</swrc:idLncs>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-19/authors"/>
     <swrc:listAuthor>Szymon Klarman, Stefan Schlobach and Luciano Serafini</swrc:listAuthor>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/stefan-schlobach"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/szymon-klarman"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/stefan-schlobach"/>
     <dcterms:title>Formal Verification of Data Provenance Records</dcterms:title>
+    <dc:identifier>76490209</dc:identifier>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:title>Formal Verification of Data Provenance Records</dc:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/szymon-klarman"/>
@@ -11726,6 +11850,7 @@
     <rdfs:label>EPFL</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-08">
+    <swrc:idLncs>76500422</swrc:idLncs>
     <swrc:abstract>Data streams are being continually generated in diverse application domains such as traffic monitoring, smart buildings, and so on. Stream Reasoning is the area that aims to combine reasoning techniques with data streams. In this paper, we present our approach to enable rule-based reasoning on semantic data streams using data flow networks in a distributed manner.</swrc:abstract>
     <dc:subject>Stream reasoning</dc:subject>
     <swrc:listAuthor>Rehab Albeladi</swrc:listAuthor>
@@ -11738,6 +11863,7 @@
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/rehab-albeladi"/>
     <dc:title>Distributed Reasoning on Semantic Data Streams</dc:title>
+    <dc:identifier>76500422</dc:identifier>
     <dc:subject> XMPP</dc:subject>
     <dcterms:title>Distributed Reasoning on Semantic Data Streams</dcterms:title>
     <dc:subject> Rete networks</dc:subject>
@@ -11801,6 +11927,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ken-barker"/>
     <dc:subject>NLP and RDF graphs</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/shilpa-arora"/>
+    <dc:identifier>76500225</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/chris-welty"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/lora-aroyo"/>
@@ -11809,6 +11936,7 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-26/authors"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/lora-aroyo"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ken-barker"/>
+    <swrc:idLncs>76500225</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ken-barker"/>
     <dcterms:subject>NLP and RDF graphs</dcterms:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/shilpa-arora"/>
@@ -12010,6 +12138,7 @@
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <rdfs:label>Scalable Geo-thematic Query Answering</rdfs:label>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-18/authors"/>
+    <dc:identifier>76490641</dc:identifier>
     <dcterms:subject> GIS</dcterms:subject>
     <dc:subject> description logics</dc:subject>
     <dc:subject> GIS</dc:subject>
@@ -12018,6 +12147,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-18"/>
     <dcterms:subject> description logics</dcterms:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ralf-moller"/>
+    <swrc:idLncs>76490641</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/ralf-moller"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ralf-moller"/>
     <dcterms:subject>FOL rewritability</dcterms:subject>
@@ -12097,6 +12227,7 @@
     <rdfs:label>Thomas Steiner</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-07">
+    <swrc:idLncs>76500414</swrc:idLncs>
     <dc:subject> Pruning</dc:subject>
     <swrc:listKeyword>Entity Coreference, Linked Data, Domain-Independence, Scalability, Candidate Selection, Pruning</swrc:listKeyword>
     <swrc:abstract>Due to the decentralized nature of the Semantic Web, the same real world entity may be described in various data sources and assigned syntactically distinct identifiers. In order to facilitate data utilization in the Semantic Web, without compromising the freedom of people to publish their data, one critical problem is to appropriately interlink such heterogeneous data. This interlinking process can also be referred to as Entity Coreference, i.e., finding which identifiers refer to the same real world entity. This proposal will investigate algorithms to solve this entity coreference problem in the Semantic Web in several aspects. The essence of entity coreference is to compute the similarity of instance pairs. Given the diversity of domains of existing datasets, it is important that an entity coreference algorithm be able to achieve good precision and recall across domains represented in various ways. Furthermore, in order to scale to large datasets, an algorithm should be able to intelligently select what information to utilize for comparison and determine whether to compare a pair of instances to reduce the overall complexity. Finally, appropriate evaluation strategies need to be chosen to verify the effectiveness of the algorithms.</swrc:abstract>
@@ -12122,6 +12253,7 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-07/authors"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
     <dcterms:subject> Candidate Selection</dcterms:subject>
+    <dc:identifier>76500414</dc:identifier>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/freddy-lecue">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
@@ -12253,6 +12385,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/peter-patel-schneider"/>
     <dcterms:title>Ontology Constraints in Incomplete and Complete Data</dcterms:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/peter-patel-schneider"/>
+    <swrc:idLncs>76490433</swrc:idLncs>
     <rdfs:label>Ontology Constraints in Incomplete and Complete Data</rdfs:label>
     <dc:title>Ontology Constraints in Incomplete and Complete Data</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/enrico-franconi"/>
@@ -12264,6 +12397,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/enrico-franconi"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/peter-patel-schneider"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dc:identifier>76490433</dc:identifier>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-06">
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/laurens-rietveld"/>
@@ -12272,6 +12406,8 @@
     <swrc:listKeyword>synchronization, replication, decentralized triple-stores, read-write Web</swrc:listKeyword>
     <rdfs:label>Replication for Linked Data</rdfs:label>
     <dcterms:title>Replication for Linked Data</dcterms:title>
+    <swrc:idLncs>76500406</swrc:idLncs>
+    <dc:identifier>76500406</dc:identifier>
     <dc:subject>synchronization</dc:subject>
     <dc:subject> decentralized triple-stores</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/laurens-rietveld"/>
@@ -12429,6 +12565,8 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/raghava-mutharaju"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-05/authors"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/raghava-mutharaju"/>
+    <dc:identifier>76500398</dc:identifier>
+    <swrc:idLncs>76500398</swrc:idLncs>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/payam-barnaghi">
@@ -12454,13 +12592,15 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/carsten-lutz"/>
     <swrc:listAuthor>Jean Christoph Jung and Carsten Lutz</swrc:listAuthor>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/carsten-lutz"/>
+    <swrc:idLncs>76490177</swrc:idLncs>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jean-christoph-jung"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/carsten-lutz"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/jean-christoph-jung"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jean-christoph-jung"/>
-    <dc:title>Ontology-Based Access to Probabilistic Data with OWL QL</dc:title>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-16"/>
+    <dc:title>Ontology-Based Access to Probabilistic Data with OWL QL</dc:title>
+    <dc:identifier>76490177</dc:identifier>
     <dcterms:title>Ontology-Based Access to Probabilistic Data with OWL QL</dcterms:title>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/carsten-lutz"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
@@ -12502,6 +12642,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/yulan-he"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/chenghua-lin"/>
+    <swrc:idLncs>76490321</swrc:idLncs>
     <dc:title>Feature LDA: a Supervised Topic Model for Automatic Detection of Web API Documentations from the Web</dc:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/chenghua-lin"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/chenghua-lin"/>
@@ -12517,6 +12658,7 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/yulan-he"/>
     <swrc:abstract>Web APIs have gained increasing popularity in recent Web service technology development owing to its simplicity of technology stack and the proliferation of mashups. However, efficiently discovering Web APIs and the relevant documentations on the Web is still a challenging task even with the best resources available on the Web. In this paper we cast the problem of detecting the Web API documentations as a text classification problem of classifying a given Web page as Web API associated or not. We propose a supervised generative topic model called feature latent Dirichlet allocation (feaLDA) which offers a generic probabilistic framework for automatic detection of Web APIs. feaLDA not only captures the correspondence between data and the associated class labels, but also provides a mechanism for incorporating side information such as labeled features automatically learned from data that can effectively help improving classification performance. Extensive experiments on our Web APIs documentation dataset shows that the feaLDA model outperforms three strong supervised baselines including naive Bayes, support vector machines, and the maximum entropy model, by over 3% in classification accuracy. In addition, feaLDA also gives superior performance when compared against other existing supervised topic models.</swrc:abstract>
+    <dc:identifier>76490321</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/carlos-pedrinaci"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/carlos-pedrinaci"/>
   </rdf:Description>
@@ -12850,7 +12992,9 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-14/authors"/>
     <dc:title>Who will follow whom? Exploiting Semantics for Link Prediction in Attention-Information Networks</dc:title>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/milan-stankovic"/>
+    <dc:identifier>76490465</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/harith-alani"/>
+    <swrc:idLncs>76490465</swrc:idLncs>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/matthew-rowe"/>
     <dcterms:title>Who will follow whom? Exploiting Semantics for Link Prediction in Attention-Information Networks</dcterms:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/harith-alani"/>
@@ -13082,6 +13226,7 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/alberto-musetti"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andrea-giovanni-nuzzolese"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/aldo-gangemi"/>
+    <dc:identifier>76490065</dc:identifier>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/paolo-ciancarin"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/aldo-gangemi"/>
     <dc:title>Automatic typing of DBpedia entities</dc:title>
@@ -13110,6 +13255,7 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/aldo-gangemi"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-13"/>
+    <swrc:idLncs>76490065</swrc:idLncs>
     <dcterms:title>Automatic typing of DBpedia entities</dcterms:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/session/inuse-01">
@@ -13414,8 +13560,10 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-12"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
     <rdfs:label>Hybrid SPARQL queries: fresh vs. fast results</rdfs:label>
+    <swrc:idLncs>76490593</swrc:idLncs>
     <swrc:listAuthor>Jürgen Umbrich, Marcel Karnstedt, Aidan Hogan and Josiane Xavier Parreira</swrc:listAuthor>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
+    <dc:identifier>76490593</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/josiane-xavier-parreira"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/josiane-xavier-parreira"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
@@ -13798,12 +13946,14 @@
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:title>Cost based Query Ordering over OWL Ontologies</dcterms:title>
     <swrc:listAuthor>Ilianna Kollia and Birte Glimm</swrc:listAuthor>
+    <swrc:idLncs>76490225</swrc:idLncs>
     <swrc:abstract>The paper presents an approach for cost-based query planning for SPARQL queries issued over an OWL ontology using the OWL Direct Semantics entailment regime of SPARQL 1.1. The costs are based on information about the instances of classes and properties that are extracted from a model abstraction built by an OWL reasoner. A static and a dynamic algorithm are presented which use these costs to find optimal or near optimal execution orders for the atoms of a query. For the dynamic case, we improve the performance by exploiting an individual clustering approach that allows for computing the cost functions based on one individual sample from a cluster. Our experimental study shows that the static ordering usually outperforms the dynamic one when accurate statistics are available. This changes, however, when the statistics are less accurate, e.g., due to non-deterministic reasoning decisions.</swrc:abstract>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/ilianna-kollia"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/ilianna-kollia"/>
     <dc:title>Cost based Query Ordering over OWL Ontologies</dc:title>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-11"/>
     <rdfs:label>Cost based Query Ordering over OWL Ontologies</rdfs:label>
+    <dc:identifier>76490225</dc:identifier>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/birte-glimm"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ilianna-kollia"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
@@ -13937,6 +14087,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/fabio-ciravegna"/>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/fabio-ciravegna"/>
+    <swrc:idLncs>76500270</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/fabio-ciravegna"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-18"/>
     <dcterms:title>Evaluating Semantic Search Query Approaches with Expert and Casual Users</dcterms:title>
@@ -13954,6 +14105,7 @@
     <dcterms:subject>query approaches</dcterms:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/khadija-elbedweihy"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/stuart-wrigley"/>
+    <dc:identifier>76500270</dc:identifier>
     <dc:subject>semantic search</dc:subject>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/stuart-wrigley"/>
     <dcterms:subject>usability</dcterms:subject>
@@ -14069,6 +14221,8 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-10"/>
     <swrc:abstract>Top-k queries, i.e. queries returning the top k results ordered by a user-defined scoring function, are an important category of queries. Order is an important property of data that can be exploited to speed up query processing. State-of-the-art SPARQL engines underuse order, and top-k queries are mostly managed with a materialize-then-sort processing scheme that computes all the matching solutions (e.g. thousands) even if only a limited number k (e.g. ten) are requested. The SPARQL-RANK algebra is an extended SPARQL algebra that treats order as a first class citizen, enabling efficient split-and-interleave processing schemes that can be adopted to improve the performance of top-k SPARQL queries. In this paper we propose an incremental execution model for SPARQL-RANK queries, we compare the performance of alternative physical operators, and we propose a rank-aware join algorithm optimized for native RDF stores. Experiments conducted with an open source implementation of a SPARQL-RANK query engine based on ARQ show that the evaluation of top-k queries can be sped up by orders of magnitude.</swrc:abstract>
     <dcterms:title>Efficient Execution of Top-K SPARQL Queries</dcterms:title>
+    <swrc:idLncs>76490337</swrc:idLncs>
+    <dc:identifier>76490337</dc:identifier>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/alessandro-bozzon"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
@@ -14196,6 +14350,8 @@
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-17/authors"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dcterms:subject>Ontology-Based Information Systems</dcterms:subject>
+    <dc:identifier>76500318</dc:identifier>
+    <swrc:idLncs>76500318</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/gianluca-demartini"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/oleg-ruchayskiy"/>
     <dc:subject>Ontology-Based Information Systems</dc:subject>
@@ -14468,6 +14624,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/takahiro-kawamura"/>
     <dcterms:subject>AR</dcterms:subject>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-04/authors"/>
+    <swrc:idLncs>76500097</swrc:idLncs>
     <dcterms:title>Toward an ecosystem of LOD in the field: LOD content generation and its consuming service</dcterms:title>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/takahiro-kawamura"/>
@@ -14482,6 +14639,7 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dcterms:subject>Sensor</dcterms:subject>
     <dcterms:subject>Plant</dcterms:subject>
+    <dc:identifier>76500097</dc:identifier>
     <dc:subject>LOD</dc:subject>
     <dc:subject>Plant</dc:subject>
     <swrc:abstract>This paper proposes to apply semantic technologies in a new domain, Field research. It is said that if "raw data" is openly available on the Web, it will be used by other people to do wonderful things. But, it would be better to show a use case together with that data, especially in the dawn of LOD. Therefore, we are proceeding with both of LOD content generation and its application for a specific domain. The application addresses an issue of information retrieval in the field, and the mechanism of LOD generation from the Web might be applied to the other domain. Firstly, we demonstrate the use of our mobile application, which searches a plant fitting the environmental conditions obtained by the smartphone's sensors. Then, we introduce our approach of the LOD generation, and present an evaluation showing its practical effectiveness.</swrc:abstract>
@@ -14495,6 +14653,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/laura-hollink"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/kristian-slabbekoorn"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/kristian-slabbekoorn"/>
+    <swrc:idLncs>76490529</swrc:idLncs>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/kristian-slabbekoorn"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-30/authors"/>
     <swrc:listAuthor>Kristian Slabbekoorn, Laura Hollink and Geert-Jan Houben</swrc:listAuthor>
@@ -14508,6 +14667,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/laura-hollink"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/kristian-slabbekoorn"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/laura-hollink"/>
+    <dc:identifier>76490529</dc:identifier>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-30"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/geert-jan-houben"/>
   </rdf:Description>
@@ -14733,6 +14893,7 @@
     <dcterms:subject>question answering</dcterms:subject>
     <rdfs:label>Evaluation of a layered approach to question answering over linked data</rdfs:label>
     <dc:subject>question answering</dc:subject>
+    <dc:identifier>76500354</dc:identifier>
     <swrc:listKeyword>question answering,linked data,layered approach,experimental evaluation</swrc:listKeyword>
     <dc:subject>experimental evaluation</dc:subject>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/christina-unger"/>
@@ -14755,6 +14916,7 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/daniel-bar"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/philipp-cimiano"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/philipp-cimiano"/>
+    <swrc:idLncs>76500354</swrc:idLncs>
     <dc:title>Evaluation of a layered approach to question answering over linked data</dc:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/sebastian-walter"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-15/authors"/>
