@@ -43,6 +43,7 @@ swc:ConferenceVenuePlace,rdfs:comment,
 swc:ConferenceVenuePlace,rdfs:label,
 swc:ConferenceVenuePlace,foaf:homepage,
 swc:KeynoteSpeaker,swc:heldBy,foaf:Person
+swc:KeynoteSpeaker,swc:isRoleAt,swc:SpecialEvent
 swc:KeynoteSpeaker,swc:isRoleAt,swc:TalkEvent
 swc:KeynoteSpeaker,rdf:type,
 swc:KeynoteSpeaker,rdfs:label,
@@ -65,6 +66,7 @@ swc:Panellist,swc:heldBy,foaf:Person
 swc:Panellist,swc:isRoleAt,swc:PanelEvent
 swc:Panellist,rdf:type,
 swc:Panellist,rdfs:label,
+swc:Proceedings,dcterms:identifier,
 swc:Proceedings,swrc:booktitle,
 swc:Proceedings,swrc:editor,foaf:Person
 swc:Proceedings,swrc:listEditor,
@@ -72,9 +74,11 @@ swc:Proceedings,swrc:month,
 swc:Proceedings,swrc:year,
 swc:Proceedings,rdf:type,
 swc:Proceedings,rdfs:label,
+swc:Proceedings,foaf:homepage,
 swc:Proceedings,foaf:maker,foaf:Person
 swc:ProgrammeCommitteeMember,swc:heldBy,foaf:Person
 swc:ProgrammeCommitteeMember,swc:isRoleAt,
+swc:ProgrammeCommitteeMember,swc:isRoleAt,swc:TrackEvent
 swc:ProgrammeCommitteeMember,rdf:type,
 swc:ProgrammeCommitteeMember,rdfs:label,
 swc:SessionEvent,swc:hasLocation,swc:MeetingRoomPlace
@@ -96,6 +100,7 @@ swc:SocialEvent,iCal:dtEnd,
 swc:SocialEvent,iCal:dtStart,
 swc:SpecialEvent,swc:hasLocation,swc:MeetingRoomPlace
 swc:SpecialEvent,swc:hasRole,swc:Chair
+swc:SpecialEvent,swc:hasRole,swc:KeynoteSpeaker
 swc:SpecialEvent,swc:isSubEventOf,swc:ConferenceEvent
 swc:SpecialEvent,swrc:abstract,
 swc:SpecialEvent,rdf:type,
@@ -111,6 +116,7 @@ swc:TalkEvent,rdfs:label,
 swc:TalkEvent,iCal:dtEnd,
 swc:TalkEvent,iCal:dtStart,
 swc:TrackEvent,swc:hasLocation,swc:MeetingRoomPlace
+swc:TrackEvent,swc:hasRole,swc:ProgrammeCommitteeMember
 swc:TrackEvent,swc:isSubEventOf,swc:ConferenceEvent
 swc:TrackEvent,swrc:abstract,
 swc:TrackEvent,rdf:type,
@@ -121,7 +127,10 @@ swc:TutorialEvent,swc:hasAcronym,
 swc:TutorialEvent,swc:hasLocation,swc:MeetingRoomPlace
 swc:TutorialEvent,swc:hasRole,swc:Chair
 swc:TutorialEvent,swc:isSubEventOf,swc:ConferenceEvent
+swc:TutorialEvent,dc:subject,
+swc:TutorialEvent,dcterms:subject,
 swc:TutorialEvent,swrc:abstract,
+swc:TutorialEvent,swrc:listKeyword,
 swc:TutorialEvent,rdf:type,
 swc:TutorialEvent,rdfs:label,
 swc:TutorialEvent,iCal:dtEnd,
@@ -130,7 +139,10 @@ swc:WorkshopEvent,swc:hasAcronym,
 swc:WorkshopEvent,swc:hasLocation,swc:MeetingRoomPlace
 swc:WorkshopEvent,swc:hasRole,swc:Chair
 swc:WorkshopEvent,swc:isSubEventOf,swc:ConferenceEvent
+swc:WorkshopEvent,dc:subject,
+swc:WorkshopEvent,dcterms:subject,
 swc:WorkshopEvent,swrc:abstract,
+swc:WorkshopEvent,swrc:listKeyword,
 swc:WorkshopEvent,rdf:type,
 swc:WorkshopEvent,rdfs:label,
 swc:WorkshopEvent,iCal:dtEnd,
@@ -138,7 +150,9 @@ swc:WorkshopEvent,iCal:dtStart,
 swrc:InProceedings,swc:isPartOf,
 swrc:InProceedings,swc:relatedToEvent,
 swrc:InProceedings,swc:relatedToEvent,swc:SpecialEvent
+swrc:InProceedings,swc:relatedToEvent,swc:TrackEvent
 swrc:InProceedings,dc:creator,foaf:Person
+swrc:InProceedings,dc:identifier,
 swrc:InProceedings,dc:subject,
 swrc:InProceedings,dc:title,
 swrc:InProceedings,dcterms:creator,foaf:Person
@@ -147,6 +161,7 @@ swrc:InProceedings,dcterms:title,
 swrc:InProceedings,bibo:authorList,rdf:Seq
 swrc:InProceedings,swrc:abstract,
 swrc:InProceedings,swrc:author,foaf:Person
+swrc:InProceedings,swrc:idLncs,
 swrc:InProceedings,swrc:listAuthor,
 swrc:InProceedings,swrc:listKeyword,
 swrc:InProceedings,rdf:type,

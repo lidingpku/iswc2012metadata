@@ -3,7 +3,7 @@ PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
 PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
 PREFIX ical:  <http://www.w3.org/2002/12/cal/ical#>
-select ?start ?end ?c ?locationLabel ?eventLabel ?s  ?roleLabel ?personLabel
+select distinct ?start ?end ?c ?locationLabel ?eventLabel ?s  ?roleLabel ?personLabel ?keywords ?abstract
 where {
 ?s a ?c.
 ?s rdfs:label ?eventLabel .
@@ -19,5 +19,7 @@ OPTIONAL{
 ?role swc:heldBy ?person .
 ?person rdfs:label ?personLabel .
 }
+OPTIONAL { ?s swrc:listKeyword ?keywords.}
+OPTIONAL { ?s swrc:abstract ?abstract. }
 }
 order by ?start
