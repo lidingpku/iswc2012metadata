@@ -1,7 +1,8 @@
-select distinct ?domain ?p ?range
+select ?domain ?p ?range (count(*) as ?cnt)
 where {
 ?s ?p ?o .
 ?s a ?domain  .
 OPTIONAL {?o a ?range }.
 }
+group by ?domain ?p ?range
 order by ?domain ?p ?range

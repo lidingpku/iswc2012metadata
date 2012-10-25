@@ -3,11 +3,13 @@ PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
 PREFIX swc:    <http://data.semanticweb.org/ns/swc/ontology#>
 
-select ?p ?o
+select ?p ?o ?p1 ?o1
 where {
 ?s a swc:ConferenceEvent .
 ?s ?p ?o .
-OPTIONAL { ?o ?p1 ?o1. }
-filter( !bound(?p1))
+OPTIONAL { ?o ?p1 ?o1. 
+	OPTIONAL { ?o1 ?p2 ?o2. }
+	filter( !bound(?p2))
 }
-order by ?p ?o
+}
+order by ?p ?o ?p1 ?o1

@@ -3,7 +3,7 @@ PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
 PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
 PREFIX ical:  <http://www.w3.org/2002/12/cal/ical#>
-select distinct ?start ?end ?c ?locationLabel ?eventLabel ?s  ?roleLabel ?personLabel ?keywords ?abstract
+select distinct ?start ?end ?c ?locationLabel ?eventLabel ?s  ?roleLabel ?personLabel ?affliationLabel ?keywords ?homepage ?abstract
 where {
 ?s a ?c.
 ?s rdfs:label ?eventLabel .
@@ -18,8 +18,12 @@ OPTIONAL{
 ?role rdfs:label ?roleLabel .
 ?role swc:heldBy ?person .
 ?person rdfs:label ?personLabel .
+?role a ?roleType .
+filter ( ?roleType != swc:ProgrammeCommitteeMember )
+OPTIONAL { ?person swrc:affiliation ?affiliation. ?affiliation rdfs:label ?affiliationLabel .}
 }
 OPTIONAL { ?s swrc:listKeyword ?keywords.}
 OPTIONAL { ?s swrc:abstract ?abstract. }
+OPTIONAL { ?s foaf:homepage ?homepage. }
 }
-order by ?start
+order by ?start ?eventLabel ?personLabel

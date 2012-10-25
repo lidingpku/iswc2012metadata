@@ -1,17 +1,16 @@
 PREFIX foaf:   <http://xmlns.com/foaf/0.1/>
 PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
-select distinct ?s ?personLabel ?affiliationLabel  
+select ?s ?personLabel ?firstName ?lastName ?listAffiliation ?affiliationLabel  
 where {
 ?s a foaf:Person.
 ?s rdfs:label ?personLabel .
 OPTIONAL{ 
+	?s swrc:listAffiliation ?listAffiliation .
 	?s swrc:affiliation ?affiliation .
 	?affiliation rdfs:label ?affiliationLabel .
 }
-OPTIONAL{ ?s foaf:homepage ?homepage . }
 OPTIONAL{ ?s foaf:firstName ?firstName. 
-		  ?s foaf:family_name ?lastName. }
-
+		  ?s foaf:surname ?lastName. }
 }
 order by ?s

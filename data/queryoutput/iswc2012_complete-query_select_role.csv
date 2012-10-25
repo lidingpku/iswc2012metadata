@@ -1,40 +1,37 @@
 ﻿eventLabel,roleLabel,personLabel,affiliationLabel
-11th International Semantic Web Conference,Doctoral Consortium Chair at ISWC 2012,Guus Schreiber,VU University Amsterdam
-11th International Semantic Web Conference,Doctoral Consortium Chair at ISWC 2012,Jim Hendler,RPI
-11th International Semantic Web Conference,Evaluation Chair at ISWC 2012,Jérôme Euzenat,INRIA
-11th International Semantic Web Conference,Evaluation Chair at ISWC 2012,Jérôme Euzenat,INRIA & LIG
-11th International Semantic Web Conference,Evaluation Chair at ISWC 2012,Josiane Xavier Parreira,"DERI, NUI Galway"
-11th International Semantic Web Conference,Evaluation Chair at ISWC 2012,Manfred Hauswirth,"DERI, NUI Galway"
-11th International Semantic Web Conference,Fellowship Chair at ISWC 2012,Jennifer Golbeck,University of Maryland
-11th International Semantic Web Conference,General Chair at ISWC 2012,Abraham Bernstein,University of Zurich
-11th International Semantic Web Conference,Industry Chair at ISWC 2012,Ivan Herman,W3C
-11th International Semantic Web Conference,Industry Chair at ISWC 2012,Tim Berners-Lee,W3C
-11th International Semantic Web Conference,Industry Chair at ISWC 2012,Tom Heath,Talis
-11th International Semantic Web Conference,Semantic Web In Use Chair at ISWC 2012,Evren Sirin,Clark & Parsia
-11th International Semantic Web Conference,Semantic Web In Use Chair at ISWC 2012,Tania Tudorache,Stanford University
-11th International Semantic Web Conference,Local Chair at ISWC 2012,Lalana Kagal,MIT
-11th International Semantic Web Conference,Metadata Chair at ISWC 2012,Li Ding,Qualcomm
-11th International Semantic Web Conference,Poster and Demo Chair at ISWC 2012,Birte Glimm,University of Ulm
-11th International Semantic Web Conference,Poster and Demo Chair at ISWC 2012,David Huynh,Google
-11th International Semantic Web Conference,Proceedings Chair at ISWC 2012,Eva Blomqvist,Linköping University
-11th International Semantic Web Conference,Proceedings Chair at ISWC 2012,Eva Blomqvist,STLab (ISTC-CNR)
-11th International Semantic Web Conference,Publicity Chair at ISWC 2012,Oshani Seneviratne,MIT
-11th International Semantic Web Conference,Program Chair at ISWC 2012,Jeff Heflin,Lehigh University
-11th International Semantic Web Conference,Program Chair at ISWC 2012,Philippe Cudré-Mauroux,University of Fribourg
-11th International Semantic Web Conference,Semantic Web Challenge Chair at ISWC 2012,Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
-11th International Semantic Web Conference,Semantic Web Challenge Chair at ISWC 2012,Diana Maynard,University of Sheffield
-11th International Semantic Web Conference,Sponsorship Chair at ISWC 2012,David Wood,3roundstones
-11th International Semantic Web Conference,Sponsorship Chair at ISWC 2012,Peter Mika,Yahoo! Research
-11th International Semantic Web Conference,Webmaster Chair at ISWC 2012,Stéphane Corlosquet,Massachusetts General Hospital
-11th International Semantic Web Conference,Worshop and Tutorial Chair at ISWC 2012,Claudia d'Amato,University of Bari
-11th International Semantic Web Conference,Worshop and Tutorial Chair at ISWC 2012,Thomas Scharrenbach,University of Zurich
+11th International Semantic Web Conference,ISWC2012 Doctoral Consortium Chair,Guus Schreiber,VU Amsterdam
+11th International Semantic Web Conference,ISWC2012 Doctoral Consortium Chair,Jim Hendler,RPI
+11th International Semantic Web Conference,ISWC2012 Evaluation Chair,Jérôme Euzenat,INRIA & LIG
+11th International Semantic Web Conference,ISWC2012 Evaluation Chair,Josiane Xavier Parreira,"DERI, NUI Galway"
+11th International Semantic Web Conference,ISWC2012 Evaluation Chair,Manfred Hauswirth,"DERI, NUI Galway"
+11th International Semantic Web Conference,ISWC2012 Fellowship Chair,Jennifer Golbeck,University of Maryland
+11th International Semantic Web Conference,ISWC2012 General Chair,Abraham Bernstein,University of Zurich
+11th International Semantic Web Conference,ISWC2012 Industry Chair,Ivan Herman,W3C
+11th International Semantic Web Conference,ISWC2012 Industry Chair,Tim Berners-Lee,W3C
+11th International Semantic Web Conference,ISWC2012 Industry Chair,Tom Heath,Talis
+11th International Semantic Web Conference,ISWC2012 Semantic Web In Use Chair,Evren Sirin,Clark & Parsia
+11th International Semantic Web Conference,ISWC2012 Semantic Web In Use Chair,Tania Tudorache,Stanford University
+11th International Semantic Web Conference,ISWC2012 Local Chair,Lalana Kagal,MIT
+11th International Semantic Web Conference,ISWC2012 Metadata Chair,Li Ding,Qualcomm
+11th International Semantic Web Conference,ISWC2012 Poster and Demo Chair,Birte Glimm,University of Ulm
+11th International Semantic Web Conference,ISWC2012 Poster and Demo Chair,David Huynh,Google
+11th International Semantic Web Conference,ISWC2012 Proceedings Chair,Eva Blomqvist,Linköping University
+11th International Semantic Web Conference,ISWC2012 Publicity Chair,Oshani Seneviratne,MIT
+11th International Semantic Web Conference,ISWC2012 Program Chair,Jeff Heflin,Lehigh University
+11th International Semantic Web Conference,ISWC2012 Program Chair,Philippe Cudré-Mauroux,University of Fribourg
+11th International Semantic Web Conference,ISWC2012 Semantic Web Challenge Chair,Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
+11th International Semantic Web Conference,ISWC2012 Semantic Web Challenge Chair,Diana Maynard,University of Sheffield
+11th International Semantic Web Conference,ISWC2012 Sponsorship Chair,David Wood,3roundstones
+11th International Semantic Web Conference,ISWC2012 Sponsorship Chair,Peter Mika,Yahoo! Research
+11th International Semantic Web Conference,ISWC2012 Webmaster Chair,Stéphane Corlosquet,Massachusetts General Hospital
+11th International Semantic Web Conference,ISWC2012 Worshop and Tutorial Chair,Claudia d'Amato,University of Bari
+11th International Semantic Web Conference,ISWC2012 Worshop and Tutorial Chair,Thomas Scharrenbach,University of Zurich
 Big Graph Data Panel,ISWC2012 Panellist,Bryan Thompson,Systap
-Big Graph Data Panel,ISWC2012 Panellist,Frank van Harmelen,VU University Amsterdam
+Big Graph Data Panel,ISWC2012 Panellist,Frank van Harmelen,VU Amsterdam
 Big Graph Data Panel,ISWC2012 Panellist,John Gianandrea,Google
 Big Graph Data Panel,ISWC2012 Panellist,Mike Stonebreaker,MIT
 Big Graph Data Panel,ISWC2012 Panellist,Tim Berners-Lee,W3C
 "Search, question answering and entity summarization",ISWC2012 Session Chair,Manfred Hauswirth,"DERI, NUI Galway"
-Evaluation of reasoning with ontologies,ISWC2012 Session Chair,Jérôme Euzenat,INRIA
 Evaluation of reasoning with ontologies,ISWC2012 Session Chair,Jérôme Euzenat,INRIA & LIG
 Federated and Stream Query Processing,ISWC2012 Session Chair,Josiane Xavier Parreira,"DERI, NUI Galway"
 Industry Track I,ISWC2012 Session Chair,Ivan Herman,W3C
@@ -52,8 +49,8 @@ Description Logic,ISWC2012 Session Chair,Pascal Hitzler,"Kno.e.sis Center, Wrigh
 User Interfaces and Personalization,ISWC2012 Session Chair,Natasha F. Noy,Stanford University
 Queries,ISWC2012 Session Chair,Maria-Esther Vidal,Universidad Simon Bolivar
 Knowledge Discovery,ISWC2012 Session Chair,Jens Lehmann,University of Leipzig
-Alternative Knowledge Representation Approaches,ISWC2012 Session Chair,Jeff Pan,University of Aberdeen
-Provenance and Verification,ISWC2012 Session Chair,Paul Groth,VU University Amsterdam
+Alternative Knowledge Representation Approaches,ISWC2012 Session Chair,Jeff Pan,
+Provenance and Verification,ISWC2012 Session Chair,Paul Groth,VU Amsterdam
 Instance matching,ISWC2012 Session Chair,Mathieu d'Aquin,"KMi, The Open University"
 Streaming and Geospatial DBMSs,ISWC2012 Session Chair,Freddy Lecue,IBM Research
 Ontology Mapping,ISWC2012 Session Chair,Raphaël Troncy,EURECOM
@@ -62,344 +59,343 @@ Ontology Engineering and Optimization,ISWC2012 Session Chair,Peter Patel-Schneid
 Information Extraction,ISWC2012 Session Chair,Diana Maynard,University of Sheffield
 Social and Collaborative Semantics,ISWC2012 Session Chair,Gianluca Demartini,University of Fribourg
 Town Hall Meeting,ISWC2012 Session Mediator,Abraham Bernstein,University of Zurich
+The Trials and Tribulations of a Semantic Technology Evangelist,ISWC2012 Keynote Speaker,Nigel Shadbolt,University of Southampton
 schema.org update,ISWC2012 Session Chair,Peter Mika,Yahoo! Research
 The Semantic Web and Collective Intelligence,ISWC2012 Keynote Speaker,Thomas Malone,MIT Sloan School of Management
 Driving Innovation with Open Data and Interoperability,ISWC2012 Keynote Speaker,Jeanne Holm,"Data.gov, U.S. General Services Administration"
-Semantic Web Challenge,ISWC2012 Keynote Speaker,Jeanne Holm,"Data.gov, U.S. General Services Administration"
-"Tackling Climate Change:  Unfinished Business from the Last ""Winter""",ISWC2012 Keynote Speaker,Mark Musen,Stanford University
+"Tackling Climate Change:  Unfinished Business from the Last ""Winter""",ISWC2012 Keynote Speaker,Mark A. Musen,Stanford University
+Doctoral Consortium,ISWC2012 Doctoral Consortium Chair,Guus Schreiber,VU Amsterdam
+Doctoral Consortium,ISWC2012 Doctoral Consortium Chair,Jim Hendler,RPI
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Diana Maynard,University of Sheffield
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Elena Simperl,"AIFB, Karlsruhe Institute of Technology"
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Fausto Guinchiliglia,University of Trento
-Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Frank van Harmelen,VU University Amsterdam
+Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Frank van Harmelen,VU Amsterdam
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Harith Alani,"KMi, The Open University"
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Ian Horrocks,University of Oxford
 Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Natasha F. Noy,Stanford University
-Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Oscar Corcho,Universidad Politécnica de Madrid
-Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Steffen Staab,University of Koblenz-Landau
-track/evaluation,Evaluation Chair at ISWC 2012,Jérôme Euzenat,INRIA
-track/evaluation,Evaluation Chair at ISWC 2012,Jérôme Euzenat,INRIA & LIG
-track/evaluation,Evaluation Chair at ISWC 2012,Josiane Xavier Parreira,"DERI, NUI Galway"
-track/evaluation,Evaluation Chair at ISWC 2012,Manfred Hauswirth,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Alois Haselboeck,Siemens AG
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Antoine Isaac,VU University Amsterdam
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Asunción Gómez-Pérez,Universidad Politécnica de Madrid
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Christian Meilicke,University of Mannheim
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Christos Tryfonopoulos,University of Peloponnese
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Conor Hayes,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Denilson Barbosa,University of Alberta
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Francois Scharffe,"LIRMM, University of Montpellier"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Giovanni Tummarello,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Jérôme Euzenat,INRIA
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Jérôme Euzenat,INRIA & LIG
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Josiane Xavier Parreira,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Kai-Uwe Sattler,TU Ilmenau
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Manfred Hauswirth,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Manolis Koubarakis,National and Kapodistrian University of Athens
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Maria-Esther Vidal,Universidad Simon Bolivar
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Marta Sabou,MODUL University Vienna
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Martin Theobald,Max Planck Institute for Informatics
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Ondrej Svab-Zamazal,"University of Economics, Prague"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Oscar Corcho,Universidad Politécnica de Madrid
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Payam Barnaghi,University of Surrey
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Raúl García-Castro,Universidad Politécnica de Madrid
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Renaud Delbru,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Ryutaro Ichise,National Institute of Informatics
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Shenghui Wang,OCLC
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Shenghui Wang,VU Amsterdam
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Sherif Sakr,University of New South Wales
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Siegfried Handschuh,"DERI, NUI Galway"
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Thierry Declerck,DFKI GmbH
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Thomas Krennwallner,Vienna University of Technology
-track/evaluation,PC Member at ISWC2012(Evaluation Track),Willem Robert Van Hage,VU University Amsterdam
-track/industry,Industry Chair at ISWC 2012,Ivan Herman,W3C
-track/industry,Industry Chair at ISWC 2012,Tim Berners-Lee,W3C
-track/industry,Industry Chair at ISWC 2012,Tom Heath,Talis
-track/industry,PC Member at ISWC2012(Industry Track),Amit Sheth,"Kno.e.sis Center, Wright State University"
-track/industry,PC Member at ISWC2012(Industry Track),Christopher Brewster,"Aston Business School, Aston University"
-track/industry,PC Member at ISWC2012(Industry Track),Dave Reynolds,Epimorphics
-track/industry,PC Member at ISWC2012(Industry Track),David Norheim,Computas
-track/industry,PC Member at ISWC2012(Industry Track),Ian Davis,
-track/industry,PC Member at ISWC2012(Industry Track),Lin Clark,"DERI, NUI Galway"
-track/industry,PC Member at ISWC2012(Industry Track),Natasha F. Noy,Stanford University
-track/industry,PC Member at ISWC2012(Industry Track),Ora Lassila,Nokia Services
-track/industry,PC Member at ISWC2012(Industry Track),Robert Engels,
-track/industry,PC Member at ISWC2012(Industry Track),Steve Harris,Garlik
-track/industry,PC Member at ISWC2012(Industry Track),York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences & Universität Koblenz-Landau
-track/inuse,Semantic Web In Use Chair at ISWC 2012,Evren Sirin,Clark & Parsia
-track/inuse,Semantic Web In Use Chair at ISWC 2012,Tania Tudorache,Stanford University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Adrian Mocan,SAP
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Alexandre Passant,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Amal Zouaq,Royal Military College of Canada
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Anupriya Ankolekar,HP Labs
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Armin Haller,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Carlos Pedrinaci,"KMi, The Open University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Cartic Ramakrishnan,"Kno.e.sis Center, Wright State University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Cecile Bothorel,Telecom Bretagne
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Christian Bizer,Freie Universität Berlin
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Federico Michele Facca,Create-Net
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Fouad Zablith,"KMi, The Open University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Gianluca Correndo,University of Southampton
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Giovanni Tummarello,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Héctor Pérez-Urbina,Clark & Parsia
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Holger Wache,University of Applied Science Northweastern Switzerland
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Hugh Glaser,University of Southampton
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Ivan Cantador,Universidad Autonoma de Madrid
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Ivan Herman,W3C
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Jacco Van Ossenbruggen,Centre for Mathematics and Computer Sciences (CWI)
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Jamie Taylor,Metaweb
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Jans Aasman,Franz
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Jens Lehmann,University of Leipzig
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Kewen Wang,Griffith University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Krzysztof Janowicz,UC Santa Barbara
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Leigh Dodds,Ingenta
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Lyndon Nixon,STI International
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Manuel Salvadores,Stanford University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Marco Rospocher,Fondazione Bruno Kessler
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Mark Greaves,Vulcan
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Markus Strohmaier,Knowledge Management Institute - Graz University of Technology
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Marta Sabou,MODUL University Vienna
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Massimo Paolucci,DoCoMo Euro labs
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Mathieu d'Aquin,"KMi, The Open University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Horridge,Stanford University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Rowe,"KMi, The Open University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Matthias Klusch,DFKI
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Michael Hausenblas,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Michael Uschold,Reinvent Technology
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Mike Dean,Raytheon BBN Technologies
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Milan Stankovic,"Hypios & STIH, Université Paris-Sorbonne"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Natasha F. Noy,Stanford University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Nenad Stojanovic,FZI Research Center for Information Technology
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Oscar Corcho,Universidad Politécnica de Madrid
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Patrick Sinclair,BBC
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Pavel Klinov,Clark & Parsia
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Pavel Klinov,University of Arizona
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Peter Haase,fluid Operations
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Rinke Hoekstra,VU University Amsterdam
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Shenghui Wang,OCLC
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Shenghui Wang,VU Amsterdam
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Siegfried Handschuh,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Sören Auer,TU Chemnitz
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Sören Auer,University of Leipzig
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Thorsten Liebig,Derivo
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Tom Heath,Talis
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Tudor Groza,University of Queensland
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Vinay Chaudhri,SRI International
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Vit Novacek,"DERI, NUI Galway"
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Wei Hu,Nanjing University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Willem Robert Van Hage,VU University Amsterdam
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Yuan-Fang Li,Monash University
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Yves Raimond,BBC
-track/inuse,PC Member at ISWC2012(Semantic Web In Use Track),Zhe Wu,Oracle
-track/poster-demo,Poster and Demo Chair at ISWC 2012,Birte Glimm,University of Ulm
-track/poster-demo,Poster and Demo Chair at ISWC 2012,David Huynh,Google
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Aidan Hogan,"DERI, NUI Galway"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Alexandre Passant,"DERI, NUI Galway"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Axel Polleres,"DERI, NUI Galway"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Axel Polleres,Siemens AG Österreich
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Bernhard Schandl,Gnowsis.com
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Eva Blomqvist,Linköping University
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Eva Blomqvist,STLab (ISTC-CNR)
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Frantisek Simancik,University of Oxford
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Gianluca Correndo,University of Southampton
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Giorgos Stoilos,National Technical University of Athens
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Haofen Wang,Shanghai Jiao Tong University
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Jürgen Umbrich,"DERI, NUI Galway"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Klaas Dellschaft,University Koblenz-Landau
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Maria-Esther Vidal,Universidad Simon Bolivar
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Mathieu d'Aquin,"KMi, The Open University"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Matthew Horridge,Stanford University
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Michael Hausenblas,"DERI, NUI Galway"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Miriam Fernandez,"KMi, The Open University"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Nadeschda Nikitina,"AIFB, Karlsruhe Institute of Technology"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Nenad Stojanovic,FZI Research Center for Information Technology
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Peter Haase,fluid Operations
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Raphaël Troncy,EURECOM
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Tania Tudorache,Stanford University
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Wolf Siberski,L3S Research Center
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Yuan Ni,IBM China Research Laboratory
-track/poster-demo,PC Member at ISWC2012(Poster and Demo),Yue Ma,LIPN - UMR 7030 Universit Paris 13 - CNRS
-track/research,Program Chair at ISWC 2012,Jeff Heflin,Lehigh University
-track/research,Program Chair at ISWC 2012,Philippe Cudré-Mauroux,University of Fribourg
-track/research,PC Member at ISWC2012(Research Track),Abir Qasem,Bridgewater College
-track/research,PC Member at ISWC2012(Research Track),Achille Fokoue,IBM Research
-track/research,PC Member at ISWC2012(Research Track),Adila A. Krisnadhi,"Kno.e.sis Center, Wright State University"
-track/research,PC Member at ISWC2012(Research Track),Aidan Hogan,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Alasdair J. G. Gray,University of Manchester
-track/research,PC Member at ISWC2012(Research Track),Aldo Gangemi,CNR-ISTC
-track/research,PC Member at ISWC2012(Research Track),Alexander Löser,Technische Universität Berlin
-track/research,PC Member at ISWC2012(Research Track),Alexandra Poulovassilis,"Birkbeck College, University of London"
-track/research,PC Member at ISWC2012(Research Track),Alexandre Passant,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Amit Sheth,"Kno.e.sis Center, Wright State University"
-track/research,PC Member at ISWC2012(Research Track),Anastasios Kementsietsidis,IBM Research
-track/research,PC Member at ISWC2012(Research Track),Andreas Hotho,University of Wuerzburg
-track/research,PC Member at ISWC2012(Research Track),Antoine Zimmermann,École des Mines de Saint-Étienne
-track/research,PC Member at ISWC2012(Research Track),Arantza Illarramendi,Basque Country University
-track/research,PC Member at ISWC2012(Research Track),Avigdor Gal,Technion
-track/research,PC Member at ISWC2012(Research Track),Benoit Christophe,Alcatel-Lucent Bell Labs France
-track/research,PC Member at ISWC2012(Research Track),Bernardo Cuenca Grau,University of Oxford
-track/research,PC Member at ISWC2012(Research Track),Bernhard Schandl,Gnowsis.com
-track/research,PC Member at ISWC2012(Research Track),Bijan Parsia,University of Manchester
-track/research,PC Member at ISWC2012(Research Track),Birte Glimm,University of Ulm
-track/research,PC Member at ISWC2012(Research Track),Bo Fu,"University of Victoria, British Columbia, Canada"
-track/research,PC Member at ISWC2012(Research Track),Boris Motik,University of Oxford
-track/research,PC Member at ISWC2012(Research Track),Brian Kettler,Lockheed Martin
-track/research,PC Member at ISWC2012(Research Track),Carlo Curino,Yahoo! Research
-track/research,PC Member at ISWC2012(Research Track),Christian Bizer,Freie Universität Berlin
-track/research,PC Member at ISWC2012(Research Track),Christophe Guéret,VU University Amsterdam
-track/research,PC Member at ISWC2012(Research Track),Christopher Matheus,Bell Labs Research
-track/research,PC Member at ISWC2012(Research Track),Christos Tryfonopoulos,University of Peloponnese
-track/research,PC Member at ISWC2012(Research Track),Claudia d'Amato,University of Bari
-track/research,PC Member at ISWC2012(Research Track),Craig Knoblock,"Information Sciences Institute, University of Southern California"
-track/research,PC Member at ISWC2012(Research Track),Dan Brickley,FOAF project
-track/research,PC Member at ISWC2012(Research Track),Daniel Schwabe,PUC-Rio
-track/research,PC Member at ISWC2012(Research Track),David De Roure,University of Oxford
-track/research,PC Member at ISWC2012(Research Track),Diego Calvanese,Free University of Bozen-Bolzano
-track/research,PC Member at ISWC2012(Research Track),Dimitris Plexousakis,University of Crete
-track/research,PC Member at ISWC2012(Research Track),Elena Simperl,"AIFB, Karlsruhe Institute of Technology"
-track/research,PC Member at ISWC2012(Research Track),Enrico Franconi,Free University of Bozen-Bolzano
-track/research,PC Member at ISWC2012(Research Track),Esteban Zimanyi,Université Libre de Bruxelles
-track/research,PC Member at ISWC2012(Research Track),Eva Blomqvist,Linköping University
-track/research,PC Member at ISWC2012(Research Track),Eva Blomqvist,STLab (ISTC-CNR)
-track/research,PC Member at ISWC2012(Research Track),Fabien Gandon,INRIA
-track/research,PC Member at ISWC2012(Research Track),Fabio Ciravegna,University of Sheffield
-track/research,PC Member at ISWC2012(Research Track),Francois Scharffe,"LIRMM, University of Montpellier"
-track/research,PC Member at ISWC2012(Research Track),Frank van Harmelen,VU University Amsterdam
-track/research,PC Member at ISWC2012(Research Track),Freddy Lecue,IBM Research
-track/research,PC Member at ISWC2012(Research Track),Gerd Gröner,University of Koblenz
-track/research,PC Member at ISWC2012(Research Track),Gianluca Demartini,University of Fribourg
-track/research,PC Member at ISWC2012(Research Track),Giorgos Flouris,FORTH-ICS
-track/research,PC Member at ISWC2012(Research Track),Grigoris Antoniou,FORTH-ICS
-track/research,PC Member at ISWC2012(Research Track),Guilin Qi,Southeast University
-track/research,PC Member at ISWC2012(Research Track),Haofen Wang,Shanghai Jiao Tong University
-track/research,PC Member at ISWC2012(Research Track),Harry Halpin,University of Edinburgh
-track/research,PC Member at ISWC2012(Research Track),Huajun Chen,Zhejiang University
-track/research,PC Member at ISWC2012(Research Track),Ian Dickinson,Epimorphics
-track/research,PC Member at ISWC2012(Research Track),Isabel Cruz,University of Illinois at Chicago
-track/research,PC Member at ISWC2012(Research Track),Jeff Pan,University of Aberdeen
-track/research,PC Member at ISWC2012(Research Track),Jennifer Golbeck,University of Maryland
-track/research,PC Member at ISWC2012(Research Track),Jie Bao,Samsung Information Systems America
-track/research,PC Member at ISWC2012(Research Track),John Breslin,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),John Domingue,"KMi, The Open University"
-track/research,PC Member at ISWC2012(Research Track),José Luis Ambite,University of Southern California
-track/research,PC Member at ISWC2012(Research Track),Josiane Xavier Parreira,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Juan F. Sequeda,University of Texas at Austin
-track/research,PC Member at ISWC2012(Research Track),Karl Aberer,EPFL
-track/research,PC Member at ISWC2012(Research Track),Kavitha Srinivas,IBM Research
-track/research,PC Member at ISWC2012(Research Track),Kemafor Anyanwu,North Carolina State University
-track/research,PC Member at ISWC2012(Research Track),Kerry Taylor,CSIRO
-track/research,PC Member at ISWC2012(Research Track),Key-Sun Choi,KAIST
-track/research,PC Member at ISWC2012(Research Track),Krzysztof Janowicz,UC Santa Barbara
-track/research,PC Member at ISWC2012(Research Track),Letizia Tanca,Politecnico di Milano
-track/research,PC Member at ISWC2012(Research Track),Li Ding,Qualcomm
-track/research,PC Member at ISWC2012(Research Track),Lin Clark,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Lina Zhou,University of Maryland Baltimore County
-track/research,PC Member at ISWC2012(Research Track),Luc Moreau,University of Southampton
-track/research,PC Member at ISWC2012(Research Track),Luciano Serafini,FBK-IRST
-track/research,PC Member at ISWC2012(Research Track),Manuel Salvadores,Stanford University
-track/research,PC Member at ISWC2012(Research Track),Maria-Esther Vidal,Universidad Simon Bolivar
-track/research,PC Member at ISWC2012(Research Track),Marie-Christine Rousset,University of Grenoble
-track/research,PC Member at ISWC2012(Research Track),Markus Krötzsch,University of Oxford
-track/research,PC Member at ISWC2012(Research Track),Marta Sabou,MODUL University Vienna
-track/research,PC Member at ISWC2012(Research Track),Martin Hepp,"Bundeswehr University Munich, Germany"
-track/research,PC Member at ISWC2012(Research Track),Mathieu d'Aquin,"KMi, The Open University"
-track/research,PC Member at ISWC2012(Research Track),Matthew Horridge,Stanford University
-track/research,PC Member at ISWC2012(Research Track),Michael Benedikt,Oxford University
-track/research,PC Member at ISWC2012(Research Track),Michael Gruninger,University of Toronto
-track/research,PC Member at ISWC2012(Research Track),Michael Hausenblas,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Michael Sintek,DFKI GmbH
-track/research,PC Member at ISWC2012(Research Track),Michiel Hildebrand,VU University Amsterdam
-track/research,PC Member at ISWC2012(Research Track),Mike Dean,Raytheon BBN Technologies
-track/research,PC Member at ISWC2012(Research Track),Miriam Fernandez,"KMi, The Open University"
-track/research,PC Member at ISWC2012(Research Track),Nicola Guarino,ISTC-CNR
-track/research,PC Member at ISWC2012(Research Track),Oscar Corcho,Universidad Politécnica de Madrid
-track/research,PC Member at ISWC2012(Research Track),Paolo Bouquet,University of Trento
-track/research,PC Member at ISWC2012(Research Track),Paul Buitelaar,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Paul Groth,VU University Amsterdam
-track/research,PC Member at ISWC2012(Research Track),Paulo Pinheiro Da Silva,University of Texas at El Paso
-track/research,PC Member at ISWC2012(Research Track),Pavel Klinov,Clark & Parsia
-track/research,PC Member at ISWC2012(Research Track),Pavel Klinov,University of Arizona
-track/research,PC Member at ISWC2012(Research Track),Pavel Shvaiko,"TasLab, Informatica Trentina"
-track/research,PC Member at ISWC2012(Research Track),Pavel Shvaiko,"TasLab, Informatica Trentina SpA"
-track/research,PC Member at ISWC2012(Research Track),Peter Mika,Yahoo! Research
-track/research,PC Member at ISWC2012(Research Track),Philippe Thiran,"PReCISE Research Center, University of Namur"
-track/research,PC Member at ISWC2012(Research Track),Prasenjit Mitra,The Pennsylvania State University
-track/research,PC Member at ISWC2012(Research Track),Raphaël Troncy,EURECOM
-track/research,PC Member at ISWC2012(Research Track),Renaud Delbru,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Richard Cyganiak,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Rudi Studer,"AIFB, Karlsruhe Institute of Technology"
-track/research,PC Member at ISWC2012(Research Track),Sandro Hawke,W3C
-track/research,PC Member at ISWC2012(Research Track),Satya Sahoo,Case Western Reserve University
-track/research,PC Member at ISWC2012(Research Track),Sebastian Rudolph,"AIFB, Karlsruhe Institute of Technology"
-track/research,PC Member at ISWC2012(Research Track),Sergio Tessaris,Free University of Bozen-Bolzano
-track/research,PC Member at ISWC2012(Research Track),Siegfried Handschuh,"DERI, NUI Galway"
-track/research,PC Member at ISWC2012(Research Track),Sonia Bergamaschi,Universita` di Modena e Reggio Emilia
-track/research,PC Member at ISWC2012(Research Track),Sören Auer,TU Chemnitz
-track/research,PC Member at ISWC2012(Research Track),Sören Auer,University of Leipzig
-track/research,PC Member at ISWC2012(Research Track),Spiros Skiadopoulos,University of Peloponnese
-track/research,PC Member at ISWC2012(Research Track),Stefan Decker,DERI Galway
-track/research,PC Member at ISWC2012(Research Track),Stefan Dietze,L3S Research Center
-track/research,PC Member at ISWC2012(Research Track),Stefan Schlobach,VU Amsterdam
-track/research,PC Member at ISWC2012(Research Track),Steffen Staab,University of Koblenz-Landau
-track/research,PC Member at ISWC2012(Research Track),Tania Tudorache,Stanford University
-track/research,PC Member at ISWC2012(Research Track),Thanh Tran,"AIFB, Karlsruhe Institute of Technology"
-track/research,PC Member at ISWC2012(Research Track),Tim Finin,University of Maryland Baltimore County
-track/research,PC Member at ISWC2012(Research Track),Tom Heath,Talis
-track/research,PC Member at ISWC2012(Research Track),Tudor Groza,University of Queensland
-track/research,PC Member at ISWC2012(Research Track),Umberto Straccia,ISTI-CNR
-track/research,PC Member at ISWC2012(Research Track),Valentina Presutti,STLab (ISTC-CNR)
-track/research,PC Member at ISWC2012(Research Track),Valentina Tamma,University of Liverpool
-track/research,PC Member at ISWC2012(Research Track),Vasant Honavar,Iowa State University
-track/research,PC Member at ISWC2012(Research Track),Vassilis Christophides,FORTH-ICS
-track/research,PC Member at ISWC2012(Research Track),Volker Haarslev,Concordia University
-track/research,PC Member at ISWC2012(Research Track),Wei Hu,Nanjing University
-track/research,PC Member at ISWC2012(Research Track),Wolf Siberski,L3S Research Center
-track/research,PC Member at ISWC2012(Research Track),Wolfgang Nejdl,L3S and University of Hannover
-track/research,PC Member at ISWC2012(Research Track),Yannis Kalfoglou,
-track/research,PC Member at ISWC2012(Research Track),Yohei Murakami,NICT
-track/research,PC Member at ISWC2012(Research Track),York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences & Universität Koblenz-Landau
-track/research,PC Member at ISWC2012(Research Track),Yuan Ni,IBM China Research Laboratory
-track/research,PC Member at ISWC2012(Research Track),Yutaka Matsuo,The University of Tokyo
-track/research,PC Member at ISWC2012(Research Track),Yuzhong Qu,Nanjing University
-track/research,Senior PC Member at ISWC2012(Research Track),Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
-track/research,Senior PC Member at ISWC2012(Research Track),Axel Polleres,"DERI, NUI Galway"
-track/research,Senior PC Member at ISWC2012(Research Track),Axel Polleres,Siemens AG Österreich
-track/research,Senior PC Member at ISWC2012(Research Track),David Karger,MIT
-track/research,Senior PC Member at ISWC2012(Research Track),Deborah L. McGuinness,RPI
-track/research,Senior PC Member at ISWC2012(Research Track),Diana Maynard,University of Sheffield
-track/research,Senior PC Member at ISWC2012(Research Track),Hai Zhuge,Chinese Academy of Sciences
-track/research,Senior PC Member at ISWC2012(Research Track),Harith Alani,"KMi, The Open University"
-track/research,Senior PC Member at ISWC2012(Research Track),Heiner Stuckenschmidt,University of Mannheim
-track/research,Senior PC Member at ISWC2012(Research Track),Ian Horrocks,University of Oxford
-track/research,Senior PC Member at ISWC2012(Research Track),Jérôme Euzenat,INRIA
-track/research,Senior PC Member at ISWC2012(Research Track),Jérôme Euzenat,INRIA & LIG
-track/research,Senior PC Member at ISWC2012(Research Track),Jie Tang,Tsinghua University
-track/research,Senior PC Member at ISWC2012(Research Track),Lalana Kagal,MIT
-track/research,Senior PC Member at ISWC2012(Research Track),Lora Aroyo,VU University Amsterdam
-track/research,Senior PC Member at ISWC2012(Research Track),Manolis Koubarakis,National and Kapodistrian University of Athens
-track/research,Senior PC Member at ISWC2012(Research Track),Natasha F. Noy,Stanford University
-track/research,Senior PC Member at ISWC2012(Research Track),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
-track/research,Senior PC Member at ISWC2012(Research Track),Peter Patel-Schneider,Nuance Communications
+Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Oscar Corcho,Universidad Politecnica de Madrid
+Doctoral Consortium,PC Member at ISWC2012(Doctoral Consortium),Steffen Staab,University of Koblenz and Landau
+Evaluations and Experiments Track,ISWC2012 Evaluation Chair,Jérôme Euzenat,INRIA & LIG
+Evaluations and Experiments Track,ISWC2012 Evaluation Chair,Josiane Xavier Parreira,"DERI, NUI Galway"
+Evaluations and Experiments Track,ISWC2012 Evaluation Chair,Manfred Hauswirth,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Alois Haselboeck,Siemens AG
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Antoine Isaac,VU Amsterdam
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Asunción Gómez-Pérez,Universidad Politecnica de Madrid
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Christian Meilicke,University of Mannheim
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Christos Tryfonopoulos,University of Peloponnese
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Conor Hayes,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Denilson Barbosa,University of Alberta
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Francois Scharffe,"LIRMM, University of Montpellier"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Giovanni Tummarello,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Jérôme Euzenat,INRIA & LIG
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Josiane Xavier Parreira,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Kai-Uwe Sattler,TU Ilmenau
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Manfred Hauswirth,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Manolis Koubarakis,National and Kapodistrian University of Athens
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Maria-Esther Vidal,Universidad Simon Bolivar
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Marta Sabou,MODUL University Vienna
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Martin Theobald,Max Planck Institute for Informatics
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Ondrej Svab-Zamazal,"University of Economics, Prague"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Oscar Corcho,Universidad Politecnica de Madrid
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Payam Barnaghi,University of Surrey
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Raúl García-Castro,Universidad Politecnica de Madrid
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Renaud Delbru,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Ryutaro Ichise,National Institute of Informatics
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Shenghui Wang,OCLC
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Sherif Sakr,University of New South Wales
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Siegfried Handschuh,"DERI, NUI Galway"
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Thierry Declerck,DFKI
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Thomas Krennwallner,Vienna University of Technology
+Evaluations and Experiments Track,PC Member at ISWC2012(Evaluation Track),Willem Robert Van Hage,VU Amsterdam
+Industry Track,ISWC2012 Industry Chair,Ivan Herman,W3C
+Industry Track,ISWC2012 Industry Chair,Tim Berners-Lee,W3C
+Industry Track,ISWC2012 Industry Chair,Tom Heath,Talis
+Industry Track,PC Member at ISWC2012(Industry Track),Amit Sheth,"Kno.e.sis Center, Wright State University"
+Industry Track,PC Member at ISWC2012(Industry Track),Christopher Brewster,Aston University
+Industry Track,PC Member at ISWC2012(Industry Track),Dave Reynolds,Epimorphics
+Industry Track,PC Member at ISWC2012(Industry Track),David Norheim,Computas
+Industry Track,PC Member at ISWC2012(Industry Track),Ian Davis,self
+Industry Track,PC Member at ISWC2012(Industry Track),Lin Clark,"DERI, NUI Galway"
+Industry Track,PC Member at ISWC2012(Industry Track),Natasha F. Noy,Stanford University
+Industry Track,PC Member at ISWC2012(Industry Track),Ora Lassila,Nokia Services
+Industry Track,PC Member at ISWC2012(Industry Track),Robert Engels,self
+Industry Track,PC Member at ISWC2012(Industry Track),Steve Harris,Garlik
+Industry Track,PC Member at ISWC2012(Industry Track),York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences; University of Koblenz and Landau
+In-Use Track,ISWC2012 Semantic Web In Use Chair,Evren Sirin,Clark & Parsia
+In-Use Track,ISWC2012 Semantic Web In Use Chair,Tania Tudorache,Stanford University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Adrian Mocan,SAP
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Alexandre Passant,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Amal Zouaq,Royal Military College of Canada
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Anupriya Ankolekar,HP Labs
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Armin Haller,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Carlos Pedrinaci,"KMi, The Open University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Cartic Ramakrishnan,"Kno.e.sis Center, Wright State University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Cecile Bothorel,Telecom Bretagne
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Christian Bizer,Free University of Berlin
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Federico Michele Facca,Create-Net
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Fouad Zablith,"KMi, The Open University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Gianluca Correndo,University of Southampton
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Giovanni Tummarello,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Héctor Pérez-Urbina,Clark & Parsia
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Holger Wache,University of Applied Sciences and Arts Northwestern Switzerland
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Hugh Glaser,University of Southampton
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Ivan Cantador,Universidad Autonoma de Madrid
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Ivan Herman,W3C
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Jacco Van Ossenbruggen,Centrum Wiskunde & Informatica (CWI)
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Jamie Taylor,Metaweb
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Jans Aasman,Franz
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Jens Lehmann,University of Leipzig
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Kewen Wang,Griffith University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Krzysztof Janowicz,UC Santa Barbara
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Leigh Dodds,Ingenta
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Lyndon Nixon,STI International
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Manuel Salvadores,Stanford University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Marco Rospocher,Fondazione Bruno Kessler
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mark Greaves,Vulcan
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Markus Strohmaier,Graz University of Technology
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Marta Sabou,MODUL University Vienna
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Massimo Paolucci,DoCoMo Euro labs
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mathieu d'Aquin,"KMi, The Open University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Horridge,Stanford University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Rowe,"KMi, The Open University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthias Klusch,DFKI
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Michael Hausenblas,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Michael Uschold,Reinvent Technology
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mike Dean,Raytheon BBN Technologies
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Milan Stankovic,Hypios
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Natasha F. Noy,Stanford University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Nenad Stojanovic,FZI Research Center for Information Technology
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Oscar Corcho,Universidad Politecnica de Madrid
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Patrick Sinclair,BBC
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Pavel Klinov,University of Ulm
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Peter Haase,fluid Operations
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Rinke Hoekstra,VU Amsterdam
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Shenghui Wang,OCLC
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Siegfried Handschuh,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Sören Auer,TU Chemnitz
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Thorsten Liebig,Derivo
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Tom Heath,Talis
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Tudor Groza,University of Queensland
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Vinay Chaudhri,SRI International
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Vit Novacek,"DERI, NUI Galway"
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Wei Hu,Nanjing University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Willem Robert Van Hage,VU Amsterdam
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Yuan-Fang Li,Monash University
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Yves Raimond,BBC
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Zhe Wu,Oracle
+Posters and Demos,ISWC2012 Poster and Demo Chair,Birte Glimm,University of Ulm
+Posters and Demos,ISWC2012 Poster and Demo Chair,David Huynh,Google
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Aidan Hogan,"DERI, NUI Galway"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Alexandre Passant,"DERI, NUI Galway"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Axel Polleres,"Siemens AG Österreich; DERI, NUI Galway"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Bernhard Schandl,Gnowsis.com
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Eva Blomqvist,Linköping University
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Frantisek Simancik,University of Oxford
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Gianluca Correndo,University of Southampton
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Giorgos Stoilos,National Technical University of Athens
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Haofen Wang,Shanghai Jiao Tong University
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Jürgen Umbrich,"DERI, NUI Galway"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Klaas Dellschaft,University of Koblenz-Landau
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Maria-Esther Vidal,Universidad Simon Bolivar
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Mathieu d'Aquin,"KMi, The Open University"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Matthew Horridge,Stanford University
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Michael Hausenblas,"DERI, NUI Galway"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Miriam Fernandez,"KMi, The Open University"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Nadeschda Nikitina,"AIFB, Karlsruhe Institute of Technology"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Nenad Stojanovic,FZI Research Center for Information Technology
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Peter Haase,fluid Operations
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Raphaël Troncy,EURECOM
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Tania Tudorache,Stanford University
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Wolf Siberski,L3S Research Center; University of Hannover
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Yuan Ni,IBM China Research Laboratory
+Posters and Demos,PC Member at ISWC2012(Poster and Demo),Yue Ma,LIPN - UMR 7030 Universit Paris 13 - CNRS
+Research Track,ISWC2012 Program Chair,Jeff Heflin,Lehigh University
+Research Track,ISWC2012 Program Chair,Philippe Cudré-Mauroux,University of Fribourg
+Research Track,PC Member at ISWC2012(Research Track),Abir Qasem,Bridgewater College
+Research Track,PC Member at ISWC2012(Research Track),Achille Fokoue,IBM Research
+Research Track,PC Member at ISWC2012(Research Track),Adila A. Krisnadhi,"Kno.e.sis Center, Wright State University"
+Research Track,PC Member at ISWC2012(Research Track),Aidan Hogan,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Alasdair J. G. Gray,University of Manchester
+Research Track,PC Member at ISWC2012(Research Track),Aldo Gangemi,"STLab, ISTC-CNR"
+Research Track,PC Member at ISWC2012(Research Track),Alexander Löser,Berlin Institute of Technology
+Research Track,PC Member at ISWC2012(Research Track),Alexandra Poulovassilis,"Birkbeck College, University of London"
+Research Track,PC Member at ISWC2012(Research Track),Alexandre Passant,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Amit Sheth,"Kno.e.sis Center, Wright State University"
+Research Track,PC Member at ISWC2012(Research Track),Anastasios Kementsietsidis,IBM Research
+Research Track,PC Member at ISWC2012(Research Track),Andreas Hotho,University of Wuerzburg
+Research Track,PC Member at ISWC2012(Research Track),Antoine Zimmermann,École des Mines de Saint-Étienne
+Research Track,PC Member at ISWC2012(Research Track),Arantza Illarramendi,Basque Country University
+Research Track,PC Member at ISWC2012(Research Track),Avigdor Gal,Technion
+Research Track,PC Member at ISWC2012(Research Track),Benoit Christophe,Alcatel-Lucent Bell Labs France
+Research Track,PC Member at ISWC2012(Research Track),Bernardo Cuenca Grau,University of Oxford
+Research Track,PC Member at ISWC2012(Research Track),Bernhard Schandl,Gnowsis.com
+Research Track,PC Member at ISWC2012(Research Track),Bijan Parsia,University of Manchester
+Research Track,PC Member at ISWC2012(Research Track),Birte Glimm,University of Ulm
+Research Track,PC Member at ISWC2012(Research Track),Bo Fu,University of Victoria
+Research Track,PC Member at ISWC2012(Research Track),Boris Motik,University of Oxford
+Research Track,PC Member at ISWC2012(Research Track),Brian Kettler,Lockheed Martin
+Research Track,PC Member at ISWC2012(Research Track),Carlo Curino,Yahoo! Research
+Research Track,PC Member at ISWC2012(Research Track),Christian Bizer,Free University of Berlin
+Research Track,PC Member at ISWC2012(Research Track),Christophe Guéret,VU Amsterdam
+Research Track,PC Member at ISWC2012(Research Track),Christopher Matheus,Bell Labs Research
+Research Track,PC Member at ISWC2012(Research Track),Christos Tryfonopoulos,University of Peloponnese
+Research Track,PC Member at ISWC2012(Research Track),Claudia d'Amato,University of Bari
+Research Track,PC Member at ISWC2012(Research Track),Craig Knoblock,"Information Sciences Institute, University of Southern California"
+Research Track,PC Member at ISWC2012(Research Track),Dan Brickley,FOAF project
+Research Track,PC Member at ISWC2012(Research Track),Daniel Schwabe,PUC-Rio
+Research Track,PC Member at ISWC2012(Research Track),David De Roure,University of Oxford
+Research Track,PC Member at ISWC2012(Research Track),Diego Calvanese,Free University of Bozen-Bolzano
+Research Track,PC Member at ISWC2012(Research Track),Dimitris Plexousakis,University of Crete; FORTH-ICS
+Research Track,PC Member at ISWC2012(Research Track),Elena Simperl,"AIFB, Karlsruhe Institute of Technology"
+Research Track,PC Member at ISWC2012(Research Track),Enrico Franconi,Free University of Bozen-Bolzano
+Research Track,PC Member at ISWC2012(Research Track),Esteban Zimanyi,Université Libre de Bruxelles
+Research Track,PC Member at ISWC2012(Research Track),Eva Blomqvist,Linköping University
+Research Track,PC Member at ISWC2012(Research Track),Fabien Gandon,INRIA
+Research Track,PC Member at ISWC2012(Research Track),Fabio Ciravegna,University of Sheffield
+Research Track,PC Member at ISWC2012(Research Track),Francois Scharffe,"LIRMM, University of Montpellier"
+Research Track,PC Member at ISWC2012(Research Track),Frank van Harmelen,VU Amsterdam
+Research Track,PC Member at ISWC2012(Research Track),Freddy Lecue,IBM Research
+Research Track,PC Member at ISWC2012(Research Track),Gerd Gröner,University of Koblenz and Landau
+Research Track,PC Member at ISWC2012(Research Track),Gianluca Demartini,University of Fribourg
+Research Track,PC Member at ISWC2012(Research Track),Giorgos Flouris,FORTH-ICS
+Research Track,PC Member at ISWC2012(Research Track),Grigoris Antoniou,FORTH-ICS
+Research Track,PC Member at ISWC2012(Research Track),Guilin Qi,Southeast University
+Research Track,PC Member at ISWC2012(Research Track),Haofen Wang,Shanghai Jiao Tong University
+Research Track,PC Member at ISWC2012(Research Track),Harry Halpin,University of Edinburgh
+Research Track,PC Member at ISWC2012(Research Track),Huajun Chen,Zhejiang University
+Research Track,PC Member at ISWC2012(Research Track),Ian Dickinson,Epimorphics
+Research Track,PC Member at ISWC2012(Research Track),Isabel Cruz,University of Illinois at Chicago
+Research Track,PC Member at ISWC2012(Research Track),Jeff Z. Pan,University of Aberdeen
+Research Track,PC Member at ISWC2012(Research Track),Jennifer Golbeck,University of Maryland
+Research Track,PC Member at ISWC2012(Research Track),Jie Bao,Samsung Information Systems America
+Research Track,PC Member at ISWC2012(Research Track),John Breslin,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),John Domingue,"KMi, The Open University"
+Research Track,PC Member at ISWC2012(Research Track),José Luis Ambite,"Information Sciences Institute, University of Southern California"
+Research Track,PC Member at ISWC2012(Research Track),Josiane Xavier Parreira,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Juan F. Sequeda,University of Texas at Austin
+Research Track,PC Member at ISWC2012(Research Track),Karl Aberer,EPFL
+Research Track,PC Member at ISWC2012(Research Track),Kavitha Srinivas,IBM Research
+Research Track,PC Member at ISWC2012(Research Track),Kemafor Anyanwu,North Carolina State University
+Research Track,PC Member at ISWC2012(Research Track),Kerry Taylor,CSIRO
+Research Track,PC Member at ISWC2012(Research Track),Key-Sun Choi,KAIST
+Research Track,PC Member at ISWC2012(Research Track),Krzysztof Janowicz,UC Santa Barbara
+Research Track,PC Member at ISWC2012(Research Track),Letizia Tanca,Politecnico di Milano
+Research Track,PC Member at ISWC2012(Research Track),Li Ding,Qualcomm
+Research Track,PC Member at ISWC2012(Research Track),Lin Clark,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Lina Zhou,University of Maryland Baltimore County
+Research Track,PC Member at ISWC2012(Research Track),Luc Moreau,University of Southampton
+Research Track,PC Member at ISWC2012(Research Track),Luciano Serafini,Fondazione Bruno Kessler
+Research Track,PC Member at ISWC2012(Research Track),Manuel Salvadores,Stanford University
+Research Track,PC Member at ISWC2012(Research Track),Maria-Esther Vidal,Universidad Simon Bolivar
+Research Track,PC Member at ISWC2012(Research Track),Marie-Christine Rousset,University of Grenoble
+Research Track,PC Member at ISWC2012(Research Track),Markus Krötzsch,University of Oxford
+Research Track,PC Member at ISWC2012(Research Track),Marta Sabou,MODUL University Vienna
+Research Track,PC Member at ISWC2012(Research Track),Martin Hepp,Bundeswehr University Munich
+Research Track,PC Member at ISWC2012(Research Track),Mathieu d'Aquin,"KMi, The Open University"
+Research Track,PC Member at ISWC2012(Research Track),Matthew Horridge,Stanford University
+Research Track,PC Member at ISWC2012(Research Track),Michael Benedikt,University of Oxford
+Research Track,PC Member at ISWC2012(Research Track),Michael Gruninger,University of Toronto
+Research Track,PC Member at ISWC2012(Research Track),Michael Hausenblas,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Michael Sintek,DFKI
+Research Track,PC Member at ISWC2012(Research Track),Michiel Hildebrand,VU Amsterdam
+Research Track,PC Member at ISWC2012(Research Track),Mike Dean,Raytheon BBN Technologies
+Research Track,PC Member at ISWC2012(Research Track),Miriam Fernandez,"KMi, The Open University"
+Research Track,PC Member at ISWC2012(Research Track),Nicola Guarino,ISTC-CNR
+Research Track,PC Member at ISWC2012(Research Track),Oscar Corcho,Universidad Politecnica de Madrid
+Research Track,PC Member at ISWC2012(Research Track),Paolo Bouquet,University of Trento
+Research Track,PC Member at ISWC2012(Research Track),Paul Buitelaar,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Paul Groth,VU Amsterdam
+Research Track,PC Member at ISWC2012(Research Track),Paulo Pinheiro Da Silva,University of Texas at El Paso
+Research Track,PC Member at ISWC2012(Research Track),Pavel Klinov,University of Ulm
+Research Track,PC Member at ISWC2012(Research Track),Pavel Shvaiko,"TasLab, Informatica Trentina SpA"
+Research Track,PC Member at ISWC2012(Research Track),Peter Mika,Yahoo! Research
+Research Track,PC Member at ISWC2012(Research Track),Philippe Thiran,University of Namur
+Research Track,PC Member at ISWC2012(Research Track),Prasenjit Mitra,Pennsylvania State University
+Research Track,PC Member at ISWC2012(Research Track),Raphaël Troncy,EURECOM
+Research Track,PC Member at ISWC2012(Research Track),Renaud Delbru,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Richard Cyganiak,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Rudi Studer,"AIFB, Karlsruhe Institute of Technology"
+Research Track,PC Member at ISWC2012(Research Track),Sandro Hawke,W3C
+Research Track,PC Member at ISWC2012(Research Track),Satya Sahoo,Case Western Reserve University
+Research Track,PC Member at ISWC2012(Research Track),Sebastian Rudolph,"AIFB, Karlsruhe Institute of Technology"
+Research Track,PC Member at ISWC2012(Research Track),Sergio Tessaris,Free University of Bozen-Bolzano
+Research Track,PC Member at ISWC2012(Research Track),Siegfried Handschuh,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Sonia Bergamaschi,University of Modena and Reggio Emilia
+Research Track,PC Member at ISWC2012(Research Track),Sören Auer,TU Chemnitz
+Research Track,PC Member at ISWC2012(Research Track),Spiros Skiadopoulos,University of Peloponnese
+Research Track,PC Member at ISWC2012(Research Track),Stefan Decker,"DERI, NUI Galway"
+Research Track,PC Member at ISWC2012(Research Track),Stefan Dietze,L3S Research Center
+Research Track,PC Member at ISWC2012(Research Track),Stefan Schlobach,VU Amsterdam
+Research Track,PC Member at ISWC2012(Research Track),Steffen Staab,University of Koblenz and Landau
+Research Track,PC Member at ISWC2012(Research Track),Tania Tudorache,Stanford University
+Research Track,PC Member at ISWC2012(Research Track),Thanh Tran,"AIFB, Karlsruhe Institute of Technology"
+Research Track,PC Member at ISWC2012(Research Track),Tim Finin,University of Maryland Baltimore County
+Research Track,PC Member at ISWC2012(Research Track),Tom Heath,Talis
+Research Track,PC Member at ISWC2012(Research Track),Tudor Groza,University of Queensland
+Research Track,PC Member at ISWC2012(Research Track),Umberto Straccia,ISTI-CNR
+Research Track,PC Member at ISWC2012(Research Track),Valentina Presutti,"STLab, ISTC-CNR"
+Research Track,PC Member at ISWC2012(Research Track),Valentina Tamma,University of Liverpool
+Research Track,PC Member at ISWC2012(Research Track),Vasant Honavar,Iowa State University
+Research Track,PC Member at ISWC2012(Research Track),Vassilis Christophides,FORTH-ICS
+Research Track,PC Member at ISWC2012(Research Track),Volker Haarslev,Concordia University
+Research Track,PC Member at ISWC2012(Research Track),Wei Hu,Nanjing University
+Research Track,PC Member at ISWC2012(Research Track),Wolf Siberski,L3S Research Center; University of Hannover
+Research Track,PC Member at ISWC2012(Research Track),Wolfgang Nejdl,L3S Research Center; University of Hannover
+Research Track,PC Member at ISWC2012(Research Track),Yannis Kalfoglou,self
+Research Track,PC Member at ISWC2012(Research Track),Yohei Murakami,NICT
+Research Track,PC Member at ISWC2012(Research Track),York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences; University of Koblenz and Landau
+Research Track,PC Member at ISWC2012(Research Track),Yuan Ni,IBM China Research Laboratory
+Research Track,PC Member at ISWC2012(Research Track),Yutaka Matsuo,University of Tokyo
+Research Track,PC Member at ISWC2012(Research Track),Yuzhong Qu,Nanjing University
+Research Track,Senior PC Member at ISWC2012(Research Track),Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
+Research Track,Senior PC Member at ISWC2012(Research Track),Axel Polleres,"Siemens AG Österreich; DERI, NUI Galway"
+Research Track,Senior PC Member at ISWC2012(Research Track),David Karger,MIT
+Research Track,Senior PC Member at ISWC2012(Research Track),Deborah L. McGuinness,RPI
+Research Track,Senior PC Member at ISWC2012(Research Track),Diana Maynard,University of Sheffield
+Research Track,Senior PC Member at ISWC2012(Research Track),Hai Zhuge,Chinese Academy of Sciences
+Research Track,Senior PC Member at ISWC2012(Research Track),Harith Alani,"KMi, The Open University"
+Research Track,Senior PC Member at ISWC2012(Research Track),Heiner Stuckenschmidt,University of Mannheim
+Research Track,Senior PC Member at ISWC2012(Research Track),Ian Horrocks,University of Oxford
+Research Track,Senior PC Member at ISWC2012(Research Track),Jérôme Euzenat,INRIA & LIG
+Research Track,Senior PC Member at ISWC2012(Research Track),Jie Tang,Tsinghua University
+Research Track,Senior PC Member at ISWC2012(Research Track),Lalana Kagal,MIT
+Research Track,Senior PC Member at ISWC2012(Research Track),Lora Aroyo,VU Amsterdam
+Research Track,Senior PC Member at ISWC2012(Research Track),Manolis Koubarakis,National and Kapodistrian University of Athens
+Research Track,Senior PC Member at ISWC2012(Research Track),Natasha F. Noy,Stanford University
+Research Track,Senior PC Member at ISWC2012(Research Track),Pascal Hitzler,"Kno.e.sis Center, Wright State University"
+Research Track,Senior PC Member at ISWC2012(Research Track),Peter Patel-Schneider,Nuance Communications
+Semantic Web Challenge,ISWC2012 Semantic Web Challenge Chair,Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
+Semantic Web Challenge,ISWC2012 Semantic Web Challenge Chair,Diana Maynard,University of Sheffield
+Semantic Web Challenge,PC Member at ISWC2012,Amit Sheth,"Kno.e.sis Center, Wright State University"
+Semantic Web Challenge,PC Member at ISWC2012,Christopher Brewster,Aston University
+Semantic Web Challenge,PC Member at ISWC2012,Dave Reynolds,Epimorphics
+Semantic Web Challenge,PC Member at ISWC2012,David Norheim,Computas
+Semantic Web Challenge,PC Member at ISWC2012,Lin Clark,"DERI, NUI Galway"
+Semantic Web Challenge,PC Member at ISWC2012,Natasha F. Noy,Stanford University
+Semantic Web Challenge,PC Member at ISWC2012,Ora Lassila,Nokia Services
+Semantic Web Challenge,PC Member at ISWC2012,Robert Engels,self
+Semantic Web Challenge,PC Member at ISWC2012,Steve Harris,Garlik
+Semantic Web Challenge,PC Member at ISWC2012,York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences; University of Koblenz and Landau
 RDF Query Processing in the Cloud,Tutorial Organizer,Kemafor Anyanwu,North Carolina State University
 RDF Query Processing in the Cloud,Tutorial Organizer,Padmashree Ravindra,North Carolina State University
 "Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Benjamin Grosof,Vulcan
 "Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Michael Kifer,Stony Brook University
 "Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Mike Dean,Raytheon BBN Technologies
 Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Maximilian Nickel,Ludwig Maximilians University of Munich
-Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Volker Tresp,Ludwig Maximilians University of Munich
-Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Volker Tresp,Siemens
+Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Volker Tresp,Ludwig Maximilians University of Munich; Siemens
 LL-NLP Tutorial: What to do with long literals? Ask the NLP community...,Tutorial Organizer,Caroline Barrière,Université de Montréal
-The Web of Data for E-Commerce in Brief,Tutorial Organizer,Hepp Martin,University of Mynuch
-The Web of Data for E-Commerce in Brief,Tutorial Organizer,Stolz Alex,University of Mynuch
-The Web of Data for E-Commerce in Brief,Tutorial Organizer,Török Laszlo,University of Mynuch
+The Web of Data for E-Commerce in Brief,Tutorial Organizer,Alex Stolz,University of Mynuch
+The Web of Data for E-Commerce in Brief,Tutorial Organizer,Laszlo Török,University of Mynuch
+The Web of Data for E-Commerce in Brief,Tutorial Organizer,Martin Hepp,Bundeswehr University Munich
 Financial Information Management Using the Semantic Web,Tutorial Organizer,Benjamin Grosof,Vulcan
 Financial Information Management Using the Semantic Web,Tutorial Organizer,David Newman,Wells Fargo Bank
-Financial Information Management Using the Semantic Web,Tutorial Organizer,Leora Morgenstern,"Autonomy and Analytics, SAIC"
+Financial Information Management Using the Semantic Web,Tutorial Organizer,Leora Morgenstern,SAIC
 Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Jun Zhao,University of Oxford
 Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Luc Moreau,University of Southampton
-Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Paul Groth,VU University Amsterdam
+Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Paul Groth,VU Amsterdam
 Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Timothy Lebo,RPI
 "Scalable semantic processing of huge, distributed real-time streams: Semantics Between Event Processing and Cloud Computing",Tutorial Organizer,Francoise Baude,INRIA
 "Scalable semantic processing of huge, distributed real-time streams: Semantics Between Event Processing and Cloud Computing",Tutorial Organizer,Ljiljana Stojanovic,FZI Research Center for Information Technology
@@ -412,13 +408,13 @@ LD4D: Linked Data for Development,Tutorial Organizer,Victor de Boer,VU Amsterdam
 LD4D: Linked Data for Development,Tutorial Organizer,Walter Bender,Sugar Labs
 Third International Workshop on Consuming Linked Data,Workshop Chair,Andreas Harth,"AIFB, Karlsruhe Institute of Technology"
 Third International Workshop on Consuming Linked Data,Workshop Chair,Juan F. Sequeda,University of Texas at Austin
-Third International Workshop on Consuming Linked Data,Workshop Chair,Olaf Hartig,Humboldt-Universität zu Berlin
+Third International Workshop on Consuming Linked Data,Workshop Chair,Olaf Hartig,Humboldt University of Berlin
 "Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,David Shamma,Yahoo! Research Silicon Valley
-"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Laura Hollink,VU University Amsterdam
-"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Marieke Van Erp,VU University Amsterdam
+"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Laura Hollink,VU Amsterdam
+"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Marieke Van Erp,VU Amsterdam
 "Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Raphaël Troncy,EURECOM
-"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Willem Robert Van Hage,VU University Amsterdam
-2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics,Workshop Chair,Dimitris Plexousakis,University of Crete
+"Detection, Representation, and Exploitation of Events in the Semantic Web",Workshop Chair,Willem Robert Van Hage,VU Amsterdam
+2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics,Workshop Chair,Dimitris Plexousakis,University of Crete; FORTH-ICS
 2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics,Workshop Chair,Tudor Groza,University of Queensland
 2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics,Workshop Chair,Vit Novacek,"DERI, NUI Galway"
 Knowledge Extraction and Consolidation from Social media,Workshop Chair,Diana Maynard,University of Sheffield
@@ -427,7 +423,7 @@ Knowledge Extraction and Consolidation from Social media,Workshop Chair,Stefan D
 Knowledge Extraction and Consolidation from Social media,Workshop Chair,Wim Peters,University of Sheffield
 Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Andriana Gkaniatsou,University of Edinburgh
 Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Fiona McNeill,University of Edinburgh
-Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Frank van Harmelen,VU University Amsterdam
+Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Frank van Harmelen,VU Amsterdam
 Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Harry Halpin,University of Edinburgh
 Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Jie Bao,Samsung Information Systems America
 Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web,Workshop Chair,Jim Hendler,RPI
@@ -442,16 +438,14 @@ The 2nd International Workshop on Linked Science 2012Tackling Big Data,Worksho
 3rd Workshop on the Multilingual Semantic Web,Workshop Chair,Philipp Cimiano,Bielefeld University
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Anastasios Kementsietsidis,IBM Research
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Heiner Stuckenschmidt,University of Mannheim
-The Seventh International Workshop on Ontology Matching,Workshop Chair,Jérôme Euzenat,INRIA
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Jérôme Euzenat,INRIA & LIG
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Ming Mao,SAP Labs USA
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Natasha F. Noy,Stanford University
-The Seventh International Workshop on Ontology Matching,Workshop Chair,Pavel Shvaiko,"TasLab, Informatica Trentina"
 The Seventh International Workshop on Ontology Matching,Workshop Chair,Pavel Shvaiko,"TasLab, Informatica Trentina SpA"
 First Workshop on Programming the Semantic Web,Workshop Chair,Evelyne Viegas,Microsoft Research
 First Workshop on Programming the Semantic Web,Workshop Chair,Jan Vitek,Purdue University
 First Workshop on Programming the Semantic Web,Workshop Chair,Karin Breitman,EMC R&D Brazil
-First Workshop on Programming the Semantic Web,Workshop Chair,Steffen Staab,University of Koblenz-Landau
+First Workshop on Programming the Semantic Web,Workshop Chair,Steffen Staab,University of Koblenz and Landau
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Alejandro Rodríguez González,Bioinformatics at Centre for Plant Biotechnology and Genomics UPM-INIA
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Angel García Crespo,University Carlos III of Madrid
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Jyotishman Pathak,Mayo Clinic
@@ -459,7 +453,7 @@ Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and In
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Nigam Shah,Stanford University
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Richard Boyce,University of Pittstburgh
 Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012),Workshop Chair,Robert Stevens,University of Manchester
-International Workshop on Semantic Technologies meet Recommender Systems & Big Data,Workshop Chair,Giovanni Semeraro,
+International Workshop on Semantic Technologies meet Recommender Systems & Big Data,Workshop Chair,Giovanni Semeraro,University of Bari
 International Workshop on Semantic Technologies meet Recommender Systems & Big Data,Workshop Chair,Marco de Gemmis,University of Bari
 International Workshop on Semantic Technologies meet Recommender Systems & Big Data,Workshop Chair,Pasquale Lops,University of Bari
 International Workshop on Semantic Technologies meet Recommender Systems & Big Data,Workshop Chair,Thomas Lukasiewicz,University of Oxford
@@ -468,16 +462,16 @@ International Workshop on Semantic Technologies meet Recommender Systems & Big D
 5th International Workshop on Semantic Sensor Networks,Workshop Chair,Cory Henson,"Kno.e.sis Center, Wright State University"
 5th International Workshop on Semantic Sensor Networks,Workshop Chair,Kerry Taylor,CSIRO
 5th International Workshop on Semantic Sensor Networks,Workshop Chair,Manfred Hauswirth,"DERI, NUI Galway"
-5th International Workshop on Semantic Sensor Networks,Workshop Chair,Oscar Corcho,Universidad Politécnica de Madrid
+5th International Workshop on Semantic Sensor Networks,Workshop Chair,Oscar Corcho,Universidad Politecnica de Madrid
 The Semantic Web in 2022,Workshop Chair,Denny Vrandecic,"AIFB, Karlsruhe Institute of Technology"
-The Semantic Web in 2022,Workshop Chair,Frank van Harmelen,VU University Amsterdam
+The Semantic Web in 2022,Workshop Chair,Frank van Harmelen,VU Amsterdam
 The Semantic Web in 2022,Workshop Chair,Jim Hendler,RPI
 The Semantic Web in 2022,Workshop Chair,Krzysztof Janowicz,UC Santa Barbara
 The Semantic Web in 2022,Workshop Chair,Pascal Hitzler,"Kno.e.sis Center, Wright State University"
 Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Achille Fokoue,IBM Research
 Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,David Mizell,YarcData
 Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Eric Goodman,Sandia National Laboratories
-Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Jacopo Urbani,VU University Amsterdam
+Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Jacopo Urbani,VU Amsterdam
 Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Jesse Weaver,RPI
 Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Chair,Thorsten Liebig,Derivo
 5th International Terra Cognita Workshop 2012,Workshop Chair,Dave Kolas,Raytheon BBN Technologies
@@ -494,10 +488,9 @@ Joint Workshop on Scalable and High-Performance Semantic Web Systems,Workshop Ch
 Web of Linked Entities,Workshop Chair,Aditya Kalyanpur,IBM Research
 Web of Linked Entities,Workshop Chair,Eric Charton,CRIM
 Web of Linked Entities,Workshop Chair,Giuseppe Rizzo,EURECOM
-Web of Linked Entities,Workshop Chair,Pablo Mendes,Freie Universität Berlin
+Web of Linked Entities,Workshop Chair,Pablo Mendes,Free University of Berlin
 Web of Linked Entities,Workshop Chair,Sebastian Hellmann,AKSW
-3rd Workshop on Ontology Patterns,Workshop Chair,Aldo Gangemi,CNR-ISTC
+3rd Workshop on Ontology Patterns,Workshop Chair,Aldo Gangemi,"STLab, ISTC-CNR"
 3rd Workshop on Ontology Patterns,Workshop Chair,Eva Blomqvist,Linköping University
-3rd Workshop on Ontology Patterns,Workshop Chair,Eva Blomqvist,STLab (ISTC-CNR)
 3rd Workshop on Ontology Patterns,Workshop Chair,Karl Hammar,Jönköping University
-3rd Workshop on Ontology Patterns,Workshop Chair,Mari Carmen Suárez-Figueroa,Universidad Politécnica de Madrid
+3rd Workshop on Ontology Patterns,Workshop Chair,Mari Carmen Suárez-Figueroa,Universidad Politecnica de Madrid

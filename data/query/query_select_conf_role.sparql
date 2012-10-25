@@ -11,8 +11,7 @@ where {
 ?role swc:heldBy ?person.
 ?person rdfs:label ?personLabel .
 OPTIONAL{
-?person swrc:affiliation ?affiliation.
-?affiliation rdfs:label ?affiliationLabel .
+?person swrc:listAffiliation ?affiliationLabel .
 }
 }
 order by ?roleLabel ?personLabel ?affiliationLabel

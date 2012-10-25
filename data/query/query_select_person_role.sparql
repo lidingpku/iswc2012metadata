@@ -1,0 +1,19 @@
+PREFIX foaf:   <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
+PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
+select ?s ?personLabel ?paper ?roleLabel  ?event ?listAffiliation
+where {
+?s a foaf:Person.
+?s rdfs:label ?personLabel .
+OPTIONAL{
+ {?s foaf:made  ?paper. }
+ UNION
+ {?s swc:holdsRole ?role. ?role rdfs:label ?roleLabel .  ?role swc:isRoleAt ?event .}
+}
+OPTIONAL{ 
+	?s swrc:listAffiliation ?listAffiliation .
+}
+
+}
+order by ?s  ?paper  ?event

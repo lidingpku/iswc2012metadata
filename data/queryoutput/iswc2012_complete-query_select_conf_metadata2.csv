@@ -1,0 +1,891 @@
+﻿p,o,p1,o1
+swc:completeGraph,iswc2012:complete,dgtwc:number_of_triples,15295
+swc:completeGraph,iswc2012:complete,dcterms:hasVersion,iswc2012 metadata v20121025
+swc:completeGraph,iswc2012:complete,dcterms:modified,2012-10-25T03:17:10-0700
+swc:completeGraph,iswc2012:complete,rdf:type,dgtwc:Dataset
+swc:hasAcronym,ISWC2012,,
+swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:booktitle,Proceedings of the ISWC 2012 Industry Track
+swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:listEditor,"Tim Berners-Lee,Tom Heath, Ivan Herman"
+swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:month,Nov
+swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:year,2012
+swc:hasRelatedDocument,iswc2012:industry-proceedings,rdf:type,swc:Proceedings
+swc:hasRelatedDocument,iswc2012:industry-proceedings,rdfs:label,Proceedings of the ISWC 2012 Industry Track
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,dcterms:identifier,urn:nbn:de:0074-914-3
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,swrc:booktitle,Proceedings of the ISWC 2012 Posters & Demonstrations Track
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,swrc:listEditor,"Birte Glimm, David Huynh"
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,swrc:month,Nov
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,swrc:year,2012
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,rdf:type,swc:Proceedings
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,rdfs:label,Proceedings of the ISWC 2012 Posters & Demonstrations Track
+swc:hasRelatedDocument,iswc2012:poster-demo-proceedings,foaf:homepage,http://ceur-ws.org/Vol-914/
+swc:hasRelatedDocument,iswc2012:proceedings,swrc:booktitle,"Proceedings of 11th International Semantic Web Conference (ISWC2012), November 11 - November 15, 2012"
+swc:hasRelatedDocument,iswc2012:proceedings,swrc:listEditor,"Philippe Cudré-Mauroux, Jeff Heflin, Evren Sirin, Tania Tudorache, Jérôme Euzenat, Manfred Hauswirth, Josiane Xavier Parreira, Jim Hendler, Guus Schreiber, Abraham Bernstein, Eva Blomqvist"
+swc:hasRelatedDocument,iswc2012:proceedings,swrc:month,Nov
+swc:hasRelatedDocument,iswc2012:proceedings,swrc:year,2012
+swc:hasRelatedDocument,iswc2012:proceedings,rdf:type,swc:Proceedings
+swc:hasRelatedDocument,iswc2012:proceedings,rdfs:label,Proceedings of ISWC 2012
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,swrc:booktitle,Proceedings of the Semantic Web Challenge 2012
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,swrc:listEditor,"Diana Maynard, Andreas Harth"
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,swrc:month,Nov
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,swrc:year,2012
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,rdf:type,swc:Proceedings
+swc:hasRelatedDocument,iswc2012:semantic-web-challenge-proceedings,rdfs:label,Proceedings of the Semantic Web Challenge 2012
+swc:hasRole,iswc2012:chair/doctoral-consortium,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/doctoral-consortium,rdfs:label,ISWC2012 Doctoral Consortium Chair
+swc:hasRole,iswc2012:chair/evaluation,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/evaluation,rdfs:label,ISWC2012 Evaluation Chair
+swc:hasRole,iswc2012:chair/fellowship,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/fellowship,rdfs:label,ISWC2012 Fellowship Chair
+swc:hasRole,iswc2012:chair/general,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/general,rdfs:label,ISWC2012 General Chair
+swc:hasRole,iswc2012:chair/industry,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/industry,rdfs:label,ISWC2012 Industry Chair
+swc:hasRole,iswc2012:chair/inuse,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/inuse,rdfs:label,ISWC2012 Semantic Web In Use Chair
+swc:hasRole,iswc2012:chair/local,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/local,rdfs:label,ISWC2012 Local Chair
+swc:hasRole,iswc2012:chair/metadata,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/metadata,rdfs:label,ISWC2012 Metadata Chair
+swc:hasRole,iswc2012:chair/poster-demo,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/poster-demo,rdfs:label,ISWC2012 Poster and Demo Chair
+swc:hasRole,iswc2012:chair/proceedings,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/proceedings,rdfs:label,ISWC2012 Proceedings Chair
+swc:hasRole,iswc2012:chair/publicity,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/publicity,rdfs:label,ISWC2012 Publicity Chair
+swc:hasRole,iswc2012:chair/research,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/research,rdfs:label,ISWC2012 Program Chair
+swc:hasRole,iswc2012:chair/semantic-web-challenge,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/semantic-web-challenge,rdfs:label,ISWC2012 Semantic Web Challenge Chair
+swc:hasRole,iswc2012:chair/sponsorship,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/sponsorship,rdfs:label,ISWC2012 Sponsorship Chair
+swc:hasRole,iswc2012:chair/webmaster,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/webmaster,rdfs:label,ISWC2012 Webmaster Chair
+swc:hasRole,iswc2012:chair/workshop-tutorial,rdf:type,swc:Chair
+swc:hasRole,iswc2012:chair/workshop-tutorial,rdfs:label,ISWC2012 Worshop and Tutorial Chair
+swc:isSuperEventOf,iswc2012:break-2012-11-13-1,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-13-1,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-13-1,iCal:dtEnd,2012-11-13T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-13-1,iCal:dtStart,2012-11-13T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-13-2,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-13-2,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-13-2,iCal:dtEnd,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-13-2,iCal:dtStart,2012-11-13T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-13-3,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-13-3,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-13-3,iCal:dtEnd,2012-11-13T18:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-13-3,iCal:dtStart,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-1,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-14-1,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-14-1,iCal:dtEnd,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-1,iCal:dtStart,2012-11-14T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-2,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-14-2,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-14-2,iCal:dtEnd,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-2,iCal:dtStart,2012-11-14T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-3,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-14-3,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-14-3,iCal:dtEnd,2012-11-14T19:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-14-3,iCal:dtStart,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-15-1,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-15-1,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-15-1,iCal:dtEnd,2012-11-15T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-15-1,iCal:dtStart,2012-11-15T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-15-2,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:break-2012-11-15-2,rdfs:label,Coffee Break
+swc:isSuperEventOf,iswc2012:break-2012-11-15-2,iCal:dtEnd,2012-11-15T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:break-2012-11-15-2,iCal:dtStart,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-13,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:lunch-2012-11-13,rdfs:label,Lunch
+swc:isSuperEventOf,iswc2012:lunch-2012-11-13,iCal:dtEnd,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-13,iCal:dtStart,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-14,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:lunch-2012-11-14,rdfs:label,Lunch
+swc:isSuperEventOf,iswc2012:lunch-2012-11-14,iCal:dtEnd,2012-11-14T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-14,iCal:dtStart,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-15,rdf:type,swc:BreakEvent
+swc:isSuperEventOf,iswc2012:lunch-2012-11-15,rdfs:label,Lunch
+swc:isSuperEventOf,iswc2012:lunch-2012-11-15,iCal:dtEnd,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:lunch-2012-11-15,iCal:dtStart,2012-11-15T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,swrc:abstract,"The Semantic Web / Linked Data has grown immensely over the past years. When the Semantic Web community started working over a decade ago the main question was where to get the data from. By now the question of how to process ever increasing amount of semantic/linked data has come to people's utmost attention. The goal of this panel is to shed light on the various approaches/options for Big Graph Data processing. Possible questions include: (1)Does the Semantic Web need any central infrastructures? (It's a Web, after all?) (2)Or will a handful of large single-owner infrastructures dominate the Semantic Web, just as they now dominate the current Web? (3)And if so, will such infrastructures be based on the standard relational model? (4)Or on MapReduce-centric key/value-pairs? (5)Is Google's (centralised) Knowledge Graph anathema to the Semantic *Web* ? (6)Are triplestore vendors just reinventing the old database wheels? (7)What is the role of clustered MapReduce-like solutions and where are their limits for processing semantic web data? "
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,rdf:type,swc:PanelEvent
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,rdfs:label,Big Graph Data Panel
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,iCal:dtEnd,2012-11-14T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,iCal:dtStart,2012-11-14T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:panel/big-graph-data,foaf:homepage,http://iswc2012.semanticweb.org/big-graph-data-panel
+swc:isSuperEventOf,iswc2012:session/evaluation-01,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/evaluation-01,rdfs:label,"Search, question answering and entity summarization"
+swc:isSuperEventOf,iswc2012:session/evaluation-01,iCal:dtEnd,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/evaluation-01,iCal:dtStart,2012-11-13T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/evaluation-02,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/evaluation-02,rdfs:label,Evaluation of reasoning with ontologies
+swc:isSuperEventOf,iswc2012:session/evaluation-02,iCal:dtEnd,2012-11-13T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/evaluation-02,iCal:dtStart,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/evaluation-03,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/evaluation-03,rdfs:label,Federated and Stream Query Processing
+swc:isSuperEventOf,iswc2012:session/evaluation-03,iCal:dtEnd,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/evaluation-03,iCal:dtStart,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-01,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/industry-01,rdfs:label,Industry Track I
+swc:isSuperEventOf,iswc2012:session/industry-01,iCal:dtEnd,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-01,iCal:dtStart,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-02,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/industry-02,rdfs:label,Industry Track II
+swc:isSuperEventOf,iswc2012:session/industry-02,iCal:dtEnd,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-02,iCal:dtStart,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-03,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/industry-03,rdfs:label,Industry Track III
+swc:isSuperEventOf,iswc2012:session/industry-03,iCal:dtEnd,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-03,iCal:dtStart,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-04,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/industry-04,rdfs:label,Industry Track IV
+swc:isSuperEventOf,iswc2012:session/industry-04,iCal:dtEnd,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/industry-04,iCal:dtStart,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-01,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-01,rdfs:label,Infrastructure
+swc:isSuperEventOf,iswc2012:session/inuse-01,iCal:dtEnd,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-01,iCal:dtStart,2012-11-13T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-02,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-02,rdfs:label,eGov and Smart Cities
+swc:isSuperEventOf,iswc2012:session/inuse-02,iCal:dtEnd,2012-11-13T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-02,iCal:dtStart,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-03,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-03,rdfs:label,Applications
+swc:isSuperEventOf,iswc2012:session/inuse-03,iCal:dtEnd,2012-11-13T17:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-03,iCal:dtStart,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-04,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-04,rdfs:label,Question Answering and NLP
+swc:isSuperEventOf,iswc2012:session/inuse-04,iCal:dtEnd,2012-11-15T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-04,iCal:dtStart,2012-11-15T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-05,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-05,rdfs:label,Semantic Web in Biomedicine
+swc:isSuperEventOf,iswc2012:session/inuse-05,iCal:dtEnd,2012-11-15T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-05,iCal:dtStart,2012-11-15T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-06,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/inuse-06,rdfs:label,Applied Reasoning and Querying 
+swc:isSuperEventOf,iswc2012:session/inuse-06,iCal:dtEnd,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/inuse-06,iCal:dtStart,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-01,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-01,rdfs:label,Linked Data
+swc:isSuperEventOf,iswc2012:session/research-01,iCal:dtEnd,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-01,iCal:dtStart,2012-11-13T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-02,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-02,rdfs:label,Description Logic
+swc:isSuperEventOf,iswc2012:session/research-02,iCal:dtEnd,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-02,iCal:dtStart,2012-11-13T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-03,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-03,rdfs:label,User Interfaces and Personalization
+swc:isSuperEventOf,iswc2012:session/research-03,iCal:dtEnd,2012-11-13T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-03,iCal:dtStart,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-04,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-04,rdfs:label,Queries
+swc:isSuperEventOf,iswc2012:session/research-04,iCal:dtEnd,2012-11-13T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-04,iCal:dtStart,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-05,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-05,rdfs:label,Knowledge Discovery
+swc:isSuperEventOf,iswc2012:session/research-05,iCal:dtEnd,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-05,iCal:dtStart,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-06,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-06,rdfs:label,Alternative Knowledge Representation Approaches
+swc:isSuperEventOf,iswc2012:session/research-06,iCal:dtEnd,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-06,iCal:dtStart,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-07,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-07,rdfs:label,Provenance and Verification
+swc:isSuperEventOf,iswc2012:session/research-07,iCal:dtEnd,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-07,iCal:dtStart,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-08,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-08,rdfs:label,Instance matching
+swc:isSuperEventOf,iswc2012:session/research-08,iCal:dtEnd,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-08,iCal:dtStart,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-09,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-09,rdfs:label,Streaming and Geospatial DBMSs
+swc:isSuperEventOf,iswc2012:session/research-09,iCal:dtEnd,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-09,iCal:dtStart,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-10,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-10,rdfs:label,Ontology Mapping
+swc:isSuperEventOf,iswc2012:session/research-10,iCal:dtEnd,2012-11-15T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-10,iCal:dtStart,2012-11-15T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-11,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-11,rdfs:label,Scalability and Parallel Processing
+swc:isSuperEventOf,iswc2012:session/research-11,iCal:dtEnd,2012-11-15T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-11,iCal:dtStart,2012-11-15T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-12,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-12,rdfs:label,Ontology Engineering and Optimization
+swc:isSuperEventOf,iswc2012:session/research-12,iCal:dtEnd,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-12,iCal:dtStart,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-13,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-13,rdfs:label,Information Extraction
+swc:isSuperEventOf,iswc2012:session/research-13,iCal:dtEnd,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-13,iCal:dtStart,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-14,rdf:type,swc:SessionEvent
+swc:isSuperEventOf,iswc2012:session/research-14,rdfs:label,Social and Collaborative Semantics
+swc:isSuperEventOf,iswc2012:session/research-14,iCal:dtEnd,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:session/research-14,iCal:dtStart,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:social/dinner-2012-11-14,rdf:type,swc:SocialEvent
+swc:isSuperEventOf,iswc2012:social/dinner-2012-11-14,rdfs:label,Conference Dinner
+swc:isSuperEventOf,iswc2012:social/dinner-2012-11-14,iCal:dtEnd,2012-11-15T01:00:00+05:00
+swc:isSuperEventOf,iswc2012:social/dinner-2012-11-14,iCal:dtStart,2012-11-14T19:30:00+05:00
+swc:isSuperEventOf,iswc2012:social/town-hall-meeting,swrc:abstract,Introduced at ISWC 2009 it has become a tradition at ISWC to come together in a town hall meeting to have conference participants share ideas on what they would like to see at the future ISWCs and to discuss what works and what does not work at the conference. Please join the members of the conference organizing committee in an informal discussion about all the new events that we added to the conference program this year and tell us what you would like to see in the future and what you liked and didn't like this year.
+swc:isSuperEventOf,iswc2012:social/town-hall-meeting,rdf:type,swc:SocialEvent
+swc:isSuperEventOf,iswc2012:social/town-hall-meeting,rdfs:label,Town Hall Meeting
+swc:isSuperEventOf,iswc2012:social/town-hall-meeting,iCal:dtEnd,2012-11-14T18:45:00+05:00
+swc:isSuperEventOf,iswc2012:social/town-hall-meeting,iCal:dtStart,2012-11-14T17:45:00+05:00
+swc:isSuperEventOf,iswc2012:special/awards-and-closing,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/awards-and-closing,rdfs:label,Awards and Closing Ceremony
+swc:isSuperEventOf,iswc2012:special/awards-and-closing,iCal:dtEnd,2012-11-15T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/awards-and-closing,iCal:dtStart,2012-11-15T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,swrc:abstract,"The world is changing fast and so is Elsevier. To build and deploy future research tools we need to seriously collaborate in a linked and distributed environment. Building on earlier developer events such as Executable Paper Challenge, Life Sciences Challenge and Apps for Science, Elsevier and the 11th International Semantic Web Conference are co-hosting CodeForScience Boston, a competition for building a tool that best extends how scientific researchers search, process, integrate and share. The application concept formulation and submission will take place online, followed by a live coding day on Saturday, November 10th at MIT Stata Center in Cambridge, MA. Prizes will be awarded. Registration for CodeForScience Boston will open in early October."
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,rdfs:label,Code for Science Linked Datathon
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,iCal:dtEnd,2012-11-10T17:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,iCal:dtStart,2012-11-10T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/code-for-science-linked-datathon,foaf:homepage,http://www.codeforscience.com/boston
+swc:isSuperEventOf,iswc2012:special/dinner-talk,swrc:abstract,This talk will attempt to be a humorous reprise of attempts to realise the web of Open Linked Data. What have been the great successes and failures and what does the future hold? Will the empire strike back? All will be revealed in the banquet after Dinner speech.
+swc:isSuperEventOf,iswc2012:special/dinner-talk,rdf:type,swc:TalkEvent
+swc:isSuperEventOf,iswc2012:special/dinner-talk,rdfs:label,The Trials and Tribulations of a Semantic Technology Evangelist
+swc:isSuperEventOf,iswc2012:special/dinner-talk,iCal:dtEnd,2012-11-15T01:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/dinner-talk,iCal:dtStart,2012-11-14T19:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,swrc:abstract,"The ISWC 2012 Doctoral Consortium will take place as part of the 11th International Semantic Web Conference in Boston, US. This forum will provide PhD students an opportunity to share and develop their research ideas in a critical but supportive environment, get feedback from mentors who are senior members of the Semantic Web research community, explore issues related to academic and research careers, and build relationships with other Semantic Web PhD students from around the world. The Consortium aims to broaden the perspectives and improve the research and communication skills of these students as a way to contribute both to the individuals as well as to the broader research community."
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,rdfs:label,Doctoral Consortium
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/doctoral-consortium,foaf:homepage,http://iswc2012.semanticweb.org/doctoral-consortium
+swc:isSuperEventOf,iswc2012:special/journal-workshop,swrc:abstract,"Workshop participants will discuss sketches of their papers with editors and eidtorial board members of the top Semantic Web jorunals as well as other workshop participants. The goal is to help attendees to turn the sketches into successful submissions and avoid common stumbling blocks. People who wish to participate will be asked to submit a paper sketch (see cfp). The accepted sketeches will be read by the editors and the other chosen participants prior the workshop. Prior to the workshop, participants whose sketches have been accepted to will receive one to three other sketches to read and review. During the workshop, participants will meet in small groups which includes an editorial board memeber. During this discussion, participants will receive specific feedback on on the possible issues to address in order to turn the sketch into a possibly successful submission. Selection for the Journal Workshop Session is competitive. Papers currently under review or revision are excluded."
+swc:isSuperEventOf,iswc2012:special/journal-workshop,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/journal-workshop,rdfs:label,Journal Workshop Session
+swc:isSuperEventOf,iswc2012:special/journal-workshop,iCal:dtEnd,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/journal-workshop,iCal:dtStart,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/jws-lunch,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/jws-lunch,rdfs:label,JWS Lunch
+swc:isSuperEventOf,iswc2012:special/jws-lunch,iCal:dtEnd,2012-11-13T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/jws-lunch,iCal:dtStart,2012-11-13T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/lightning,swrc:abstract,This session provides an open forum for participants to present a topic of their choosing. Each presenter is limited to one slide and two minutes time. Presenters must submit the title and one pdf slide to an email address announced in the conference's opening session. Limited presentation slots will be awarded on a first-come-first-serve basis.
+swc:isSuperEventOf,iswc2012:special/lightning,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/lightning,rdfs:label,Lightning Talks
+swc:isSuperEventOf,iswc2012:special/lightning,iCal:dtEnd,2012-11-14T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/lightning,iCal:dtStart,2012-11-14T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/mentor-lunch,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/mentor-lunch,rdfs:label,Mentor Lunch
+swc:isSuperEventOf,iswc2012:special/mentor-lunch,iCal:dtEnd,2012-11-14T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/mentor-lunch,iCal:dtStart,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/minute-mandess,swrc:abstract,"In this session, authors of a submission to the posters and demonstration track as well as the Semantic Web Challenge provide a 1 minute teaser for their poster or demo. This year, we have an exciting mix of submissions treating questions such as ""How can we interact efficiently with Linked Data?"", ""How can we visualize data in the Semantic Web?"" or ""How can we query and analyze Semantic Web data?"
+swc:isSuperEventOf,iswc2012:special/minute-mandess,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/minute-mandess,rdfs:label,"Poster, Demo, and SWC Minute Mandess"
+swc:isSuperEventOf,iswc2012:special/minute-mandess,iCal:dtEnd,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/minute-mandess,iCal:dtStart,2012-11-13T16:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/opening-ceremony,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/opening-ceremony,rdfs:label,Opening Ceremony
+swc:isSuperEventOf,iswc2012:special/opening-ceremony,iCal:dtEnd,2012-11-13T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/opening-ceremony,iCal:dtStart,2012-11-13T08:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/poster-demo-swc-reception,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/poster-demo-swc-reception,rdfs:label,"Poster/Demo Session, Semantic Web Challenge and Reception"
+swc:isSuperEventOf,iswc2012:special/poster-demo-swc-reception,iCal:dtEnd,2012-11-13T21:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/poster-demo-swc-reception,iCal:dtStart,2012-11-13T18:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-13,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-13,rdfs:label,Registration
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-13,iCal:dtEnd,2012-11-13T21:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-13,iCal:dtStart,2012-11-13T08:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-14,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-14,rdfs:label,Registration
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-14,iCal:dtEnd,2012-11-14T19:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/registration-2012-11-14,iCal:dtStart,2012-11-14T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/schema-org,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/schema-org,rdfs:label,schema.org update
+swc:isSuperEventOf,iswc2012:special/schema-org,iCal:dtEnd,2012-11-13T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/schema-org,iCal:dtStart,2012-11-13T17:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/semantic-web-challenge,swrc:abstract,"The Semantic Web Challenge, now in its 10th year, aims to demonstrate practical progress towards achieving the vision of the Semantic Web. The competition, organised in 3 rounds, enables practitioners and scientists to showcase leading-edge real world applications of Semantic Web technology."
+swc:isSuperEventOf,iswc2012:special/semantic-web-challenge,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/semantic-web-challenge,rdfs:label,Semantic Web Challenge
+swc:isSuperEventOf,iswc2012:special/semantic-web-challenge,iCal:dtEnd,2012-11-14T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/semantic-web-challenge,iCal:dtStart,2012-11-14T11:00:00+05:00
+swc:isSuperEventOf,iswc2012:special/sw-journal-lunch,rdf:type,swc:SpecialEvent
+swc:isSuperEventOf,iswc2012:special/sw-journal-lunch,rdfs:label,SW Journal Lunch
+swc:isSuperEventOf,iswc2012:special/sw-journal-lunch,iCal:dtEnd,2012-11-15T15:30:00+05:00
+swc:isSuperEventOf,iswc2012:special/sw-journal-lunch,iCal:dtStart,2012-11-15T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:talk/evaluation-10,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/evaluation-15,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/evaluation-17,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/evaluation-18,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/evaluation-27,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/evaluation-35,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/evaluation-37,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/evaluation-41,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/industry-01,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/industry-02,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/industry-03,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/industry-04,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/industry-05,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/industry-06,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/industry-07,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/industry-08,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/industry-09,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/industry-10,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/industry-11,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/industry-12,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/inuse-04,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-09,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-10,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/inuse-17,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-18,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-26,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/inuse-27,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-32,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-35,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/inuse-39,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-51,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/inuse-53,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-54,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-58,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-71,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/inuse-72,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/inuse-78,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/keynote-1,swrc:abstract,"The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence."
+swc:isSuperEventOf,iswc2012:talk/keynote-1,rdf:type,swc:TalkEvent
+swc:isSuperEventOf,iswc2012:talk/keynote-1,rdfs:label,The Semantic Web and Collective Intelligence
+swc:isSuperEventOf,iswc2012:talk/keynote-1,iCal:dtEnd,2012-11-13T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:talk/keynote-1,iCal:dtStart,2012-11-13T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:talk/keynote-2,swrc:abstract,"Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators."
+swc:isSuperEventOf,iswc2012:talk/keynote-2,rdf:type,swc:TalkEvent
+swc:isSuperEventOf,iswc2012:talk/keynote-2,rdfs:label,Driving Innovation with Open Data and Interoperability
+swc:isSuperEventOf,iswc2012:talk/keynote-2,iCal:dtEnd,2012-11-14T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:talk/keynote-2,iCal:dtStart,2012-11-14T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:talk/keynote-3,swrc:abstract,"In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web."
+swc:isSuperEventOf,iswc2012:talk/keynote-3,rdf:type,swc:TalkEvent
+swc:isSuperEventOf,iswc2012:talk/keynote-3,rdfs:label,"Tackling Climate Change:  Unfinished Business from the Last ""Winter"""
+swc:isSuperEventOf,iswc2012:talk/keynote-3,iCal:dtEnd,2012-11-15T10:30:00+05:00
+swc:isSuperEventOf,iswc2012:talk/keynote-3,iCal:dtStart,2012-11-15T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:talk/research-01,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-02,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-03,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-04,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-05,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-06,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-07,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-08,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-09,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-10,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-11,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-12,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-13,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-14,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-15,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-16,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-17,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-18,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-19,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-20,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-21,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-22,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-23,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-24,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-25,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-26,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-27,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-28,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-29,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-30,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-31,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-32,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-33,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-34,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-35,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-36,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-37,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-38,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:talk/research-39,swrc:orderInSession,3
+swc:isSuperEventOf,iswc2012:talk/research-40,swrc:orderInSession,1
+swc:isSuperEventOf,iswc2012:talk/research-41,swrc:orderInSession,2
+swc:isSuperEventOf,iswc2012:track/doctoral-consortium,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/doctoral-consortium,rdfs:label,Doctoral Consortium
+swc:isSuperEventOf,iswc2012:track/evaluation,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/evaluation,rdfs:label,Evaluations and Experiments Track
+swc:isSuperEventOf,iswc2012:track/industry,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/industry,rdfs:label,Industry Track
+swc:isSuperEventOf,iswc2012:track/inuse,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/inuse,rdfs:label,In-Use Track
+swc:isSuperEventOf,iswc2012:track/poster-demo,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/poster-demo,rdfs:label,Posters and Demos
+swc:isSuperEventOf,iswc2012:track/research,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/research,rdfs:label,Research Track
+swc:isSuperEventOf,iswc2012:track/semantic-web-challenge,rdf:type,swc:TrackEvent
+swc:isSuperEventOf,iswc2012:track/semantic-web-challenge,rdfs:label,Semantic Web Challenge
+swc:isSuperEventOf,iswc2012:tutorial-1,swc:hasAcronym,CLOUD
+swc:isSuperEventOf,iswc2012:tutorial-1,dc:subject, Cloud Systems
+swc:isSuperEventOf,iswc2012:tutorial-1,dc:subject, MapReduce
+swc:isSuperEventOf,iswc2012:tutorial-1,dc:subject, Query Optimization
+swc:isSuperEventOf,iswc2012:tutorial-1,dc:subject, RDF Query Processing
+swc:isSuperEventOf,iswc2012:tutorial-1,dc:subject,RDF Query Processing
+swc:isSuperEventOf,iswc2012:tutorial-1,dcterms:subject, Cloud Systems
+swc:isSuperEventOf,iswc2012:tutorial-1,dcterms:subject, MapReduce
+swc:isSuperEventOf,iswc2012:tutorial-1,dcterms:subject, Query Optimization
+swc:isSuperEventOf,iswc2012:tutorial-1,dcterms:subject, RDF Query Processing
+swc:isSuperEventOf,iswc2012:tutorial-1,dcterms:subject,RDF Query Processing
+swc:isSuperEventOf,iswc2012:tutorial-1,swrc:abstract,"Cloud computing platforms such as Amazons EC2 and Hadoop have had significant adoption as large scale data processing platforms. Their attraction is the possibility of fault-tolerant execution and elastic scaling up or down of resources based on user requirements with minimal administrative burden to users. The rapid surge in volume of available RDF data has sharpened focus on the issue of large scale processing of RDF, making RDF query processing in the cloud an important topic. RDF data processing in the cloud requires considerations about appropriate storage models and computing environments and the impact of their underlying assumptions on RDFs schema-last and join-intensive workloads. Some example considerations are the absence of indexes and statistics usually relied on by traditional query optimization techniques and the heavy materialization in runtime execution environments such as Hadoop vs. pipelined execution plans used in traditional data processing systems. This tutorial will cover RDF query processing in the cloud, particularly MapReduce execution platforms such as Hadoop. It will overview the basics of cloud computing and cloud data storage systems, optimization issues and the state-of-the-art in RDF query optimization for cloud systems. It will also discuss future directions and open issues in query optimization for MapReduce environments."
+swc:isSuperEventOf,iswc2012:tutorial-1,swrc:listKeyword,"RDF Query Processing, Cloud Systems, MapReduce, Query Optimization, RDF Query Processing"
+swc:isSuperEventOf,iswc2012:tutorial-1,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-1,rdfs:label,RDF Query Processing in the Cloud
+swc:isSuperEventOf,iswc2012:tutorial-1,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-1,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-1,foaf:homepage,http://research.csc.ncsu.edu/coul/RAPID/RDFQPCloud
+swc:isSuperEventOf,iswc2012:tutorial-2,swc:hasAcronym,SW Rules
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject, OWL
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject, RIF
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject, SPARQL
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject, declarative logic programs
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject, ontologies
+swc:isSuperEventOf,iswc2012:tutorial-2,dc:subject,rules
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject, OWL
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject, RIF
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject, SPARQL
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject, declarative logic programs
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject, ontologies
+swc:isSuperEventOf,iswc2012:tutorial-2,dcterms:subject,rules
+swc:isSuperEventOf,iswc2012:tutorial-2,swrc:abstract,"The area of semantic rules is perhaps the most important frontier today for the Semantic Webs core technology and standards. Recent progress includes major initial industry standards from W3C and OMG, and fundamental advances in the underlying knowledge representation techniques in declarative logic programs, including most recently for efficient higher-order defaults with sound integration of first order logic ontologies (OWL). Recent progress also includes methods to use rules for, or with, more expressive OWL ontologies; increasing integration of rules with query /search in SPARQL and relational databases; substantive translations between heterogeneous types of commercial rule engines; development of open-source tools for inferencing and interoperability; performance benchmarking of rule systems; a wide range of emerging applications including in business, science, and trust; and accelerating industry investments / acquisitions in the technology including by integrated software companies such as Oracle, IBM, and Microsoft. This tutorial will provide a comprehensive and up-to-date introduction to these developments and to the fundamentals of the key technologies and outstanding research issues involved. It will explore example application scenarios, overall requirements and challenges, and touch upon business /social value and strategy considerations."
+swc:isSuperEventOf,iswc2012:tutorial-2,swrc:listKeyword,"rules, ontologies, RIF, SPARQL, declarative logic programs, OWL"
+swc:isSuperEventOf,iswc2012:tutorial-2,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-2,rdfs:label,"Semantic Web Rules: Fundamentals, Applications, and Standards"
+swc:isSuperEventOf,iswc2012:tutorial-2,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-2,iCal:dtStart,2012-11-11T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-2,foaf:homepage,http://semwebcentral.org/iswc2012-rules-tutorial/
+swc:isSuperEventOf,iswc2012:tutorial-3,swc:hasAcronym,TAG
+swc:isSuperEventOf,iswc2012:tutorial-3,dc:subject, Graph
+swc:isSuperEventOf,iswc2012:tutorial-3,dc:subject, Linked Data
+swc:isSuperEventOf,iswc2012:tutorial-3,dc:subject, Tensor
+swc:isSuperEventOf,iswc2012:tutorial-3,dc:subject,Machine Learning
+swc:isSuperEventOf,iswc2012:tutorial-3,dcterms:subject, Graph
+swc:isSuperEventOf,iswc2012:tutorial-3,dcterms:subject, Linked Data
+swc:isSuperEventOf,iswc2012:tutorial-3,dcterms:subject, Tensor
+swc:isSuperEventOf,iswc2012:tutorial-3,dcterms:subject,Machine Learning
+swc:isSuperEventOf,iswc2012:tutorial-3,swrc:abstract,"Machine learning has become increasingly important in the context of Linked Data as it is an enabling technology for many important tasks such as link prediction, information retrieval or group detection. The fundamental data structure of Linked Data is a graph. Graphs are also ubiquitous in many other fields of application, such as social networks, bioinformatics or the World Wide Web. Recently, tensor factorizations have emerged as a highly promising approach to machine learning on graph-structured data, showing both scalability and excellent results on benchmark data sets, while matching perfectly to the triple structure of RDF. This tutorial will provide an introduction to tensor factorizations and their applications for machine learning on graphs. By the means of concrete tasks such as link prediction we will discuss several factorization methods in-depth and also provide necessary theoretical background on tensors in general. Emphasis is put on tensor models that are of interest to Linked Data, which will include models that are able to factorize large-scale graphs with millions of entities and known facts or models that can handle the open-world assumption of Linked Data. Furthermore, we will discuss tensor models for temporal and sequential graph data, e.g. to analyze social networks over time."
+swc:isSuperEventOf,iswc2012:tutorial-3,swrc:listKeyword,"Machine Learning, Tensor, Graph, Linked Data"
+swc:isSuperEventOf,iswc2012:tutorial-3,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-3,rdfs:label,Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains
+swc:isSuperEventOf,iswc2012:tutorial-3,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-3,iCal:dtStart,2012-11-11T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-3,foaf:homepage,http://www.cip.ifi.lmu.de/~nickel/iswc2012-learning-on-linked-data-with-tensors
+swc:isSuperEventOf,iswc2012:tutorial-4,swc:hasAcronym,LL-NLP
+swc:isSuperEventOf,iswc2012:tutorial-4,dc:subject, Machine Learning for NLP
+swc:isSuperEventOf,iswc2012:tutorial-4,dc:subject, Named entities
+swc:isSuperEventOf,iswc2012:tutorial-4,dc:subject, Semantic web literals
+swc:isSuperEventOf,iswc2012:tutorial-4,dc:subject, Text processing
+swc:isSuperEventOf,iswc2012:tutorial-4,dc:subject,Natural Language Processing (NLP)
+swc:isSuperEventOf,iswc2012:tutorial-4,dcterms:subject, Machine Learning for NLP
+swc:isSuperEventOf,iswc2012:tutorial-4,dcterms:subject, Named entities
+swc:isSuperEventOf,iswc2012:tutorial-4,dcterms:subject, Semantic web literals
+swc:isSuperEventOf,iswc2012:tutorial-4,dcterms:subject, Text processing
+swc:isSuperEventOf,iswc2012:tutorial-4,dcterms:subject,Natural Language Processing (NLP)
+swc:isSuperEventOf,iswc2012:tutorial-4,swrc:abstract,"In this tutorial, we will start with the basics of natural language processing (NLP) and will explain different levels of analysis (segmentation, morphology, lexicon, syntax, semantic). We will then look at the specific tasks involved in mining sentences to extract resource description framework (RDF) triples and show the importance that each level of language analysis can play in such tasks. NLP researchers have been working on such tasks for many years and have developed many algorithms to perform part-of-speech tagging, parsing, semantic disambiguation, named entity recognition and relation extraction. We will present baseline algorithms for these tasks to show expected results from state-of-the-art research. As many algorithms use machine learning (ML) techniques, we will provide a simple introduction to the aims and general principles behind such techniques and explain why they are so important to the NLP community. We will also explore problems that arise when extracting knowledge from multiple sentences and how that is closely related to concept mapping problems, which are familiar to the semantic web community. Since fully automatic text mining is quite a difficult task, we will emphasize that semi-automatic approaches can be effective and viable solutions for facilitating the RDFization of textual data."
+swc:isSuperEventOf,iswc2012:tutorial-4,swrc:listKeyword,"Natural Language Processing (NLP), Named entities, Machine Learning for NLP, Semantic web literals, Text processing"
+swc:isSuperEventOf,iswc2012:tutorial-4,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-4,rdfs:label,LL-NLP Tutorial: What to do with long literals? Ask the NLP community...
+swc:isSuperEventOf,iswc2012:tutorial-4,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-4,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-4,foaf:homepage,http://www.crim.ca/en/r-d/iswc2012-tutorial-LLNLP.html
+swc:isSuperEventOf,iswc2012:tutorial-5,swc:hasAcronym,WoD E-Commerce
+swc:isSuperEventOf,iswc2012:tutorial-5,swrc:abstract,"A Hands-on Introduction to the GoodRelations Ontology, Schema.org, RDFa and Microdata Authoring, Google Rich Snippets for Products, Yahoo, Bing, and Linked Open Commerce. The Good Relations ontology (http://purl.org/goodrelations/) is one huge success story of applying Semantic Web technology to business challenges. In this tutorial, we will (1) give a comprehensive overview and hands-on training on the conceptual structures of the GoodRelations ontology including patterns for ownership and demand, (2) present the full tool chain for producing and consuming GoodRelations- related data, (3) explain the long-term vision of linked open commerce, (4) describe the main challenges for future research in the field, and (5) discuss advanced topics, like access control, identity and authentication (e.g. with WebID); micropayment services (like Payswarm), and data management issues from the publisher and consumer perspective."
+swc:isSuperEventOf,iswc2012:tutorial-5,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-5,rdfs:label,The Web of Data for E-Commerce in Brief
+swc:isSuperEventOf,iswc2012:tutorial-5,iCal:dtEnd,2012-11-12T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-5,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-5,foaf:homepage,http://wiki.goodrelations-vocabulary.org/Events/ISWC2012
+swc:isSuperEventOf,iswc2012:tutorial-6,swc:hasAcronym,Financial IM
+swc:isSuperEventOf,iswc2012:tutorial-6,swrc:abstract,"Recent financial crises have demonstrated the need for sophisticated modeling of and deep reasoning about financial events and associated financial information. These tasks present foundational and technical challenges which are best addressed using open standards developed by the Semantic Web community. The tutorial will explains foundational concepts in finance and semantic web technologies, present relevant standards and languages, and work through several use cases and motivating examples in detail."
+swc:isSuperEventOf,iswc2012:tutorial-6,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-6,rdfs:label,Financial Information Management Using the Semantic Web
+swc:isSuperEventOf,iswc2012:tutorial-6,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-6,iCal:dtStart,2012-11-12T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-6,foaf:homepage,https://wiki.umiacs.umd.edu/clip/ngfci/index.php/ISWC2012Tutorial
+swc:isSuperEventOf,iswc2012:tutorial-7,swc:hasAcronym,provenance
+swc:isSuperEventOf,iswc2012:tutorial-7,dc:subject, interchange 
+swc:isSuperEventOf,iswc2012:tutorial-7,dc:subject, metadata
+swc:isSuperEventOf,iswc2012:tutorial-7,dc:subject, web
+swc:isSuperEventOf,iswc2012:tutorial-7,dc:subject,provenance
+swc:isSuperEventOf,iswc2012:tutorial-7,dcterms:subject, interchange 
+swc:isSuperEventOf,iswc2012:tutorial-7,dcterms:subject, metadata
+swc:isSuperEventOf,iswc2012:tutorial-7,dcterms:subject, web
+swc:isSuperEventOf,iswc2012:tutorial-7,dcterms:subject,provenance
+swc:isSuperEventOf,iswc2012:tutorial-7,swrc:abstract,"Provenance (the origin or source) of information is critical in deciding whether information is to be trusted, how it should be integrated with other diverse information sources, and how to give credit to its originators when reusing it. In order to promote the widespread publication of provenance information on the Web, the W3C is producing the W3C PROV set of specifications. These specifications provide a basis for the common exchange of provenance information on the Web. This half- day tutorial provides you with an indepth dive into these specifications including handson information on how to publish, query and access provenance information. You will learn how to model your provenance data using the PROV data model and ontology, how to produce provenance information that enables integrity checking and inferences, as well as how to expose and acquire provenance information using PROV access mechanisms and services."
+swc:isSuperEventOf,iswc2012:tutorial-7,swrc:listKeyword,"provenance, interchange , web, metadata"
+swc:isSuperEventOf,iswc2012:tutorial-7,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-7,rdfs:label,Getting to know PROV - the W3C Provenance Specifications
+swc:isSuperEventOf,iswc2012:tutorial-7,iCal:dtEnd,2012-11-12T12:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-7,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-7,foaf:homepage,http://www.w3.org/2011/prov/wiki/ISWCProvTutorial
+swc:isSuperEventOf,iswc2012:tutorial-8,swc:hasAcronym,Streams
+swc:isSuperEventOf,iswc2012:tutorial-8,swrc:abstract,"Processing of real-time data streams has become a very important mechanism in many application areas: Smart cities, Smart grid, eHealth, to name but a few. Although semantic technologies have been recognized as one of very important enablers for this type of applications, there are still several challenges to be resolved in order to apply them in real-world applications. Two most important challenges are: an expressive query language that enables the description of complex situations to be detected (considering real-time and historical data) and an efficient asynchronous retrieval mechanism for the large distributed data streams. Beside elaborating on the importance of these challenges for the real-time aware applications, in this tutorial we give an overview of existing approaches for the semantic processing of real-time streams and present a novel approach based on the recent development in two emerging research areas, Complex Event Processing, that enables an efficient in memory processing of huge real-time data and Cloud Computing, that supports an elastic storage of enormous data volumes. Two studies will be demonstrated: We will show conceptual and technical details of the public-available Platform PLAY, that realizes presented approach. We will demonstrate its usage through two applications that combine real-time events coming from Smartphone (geo position, incoming /outgoing /missing calls), Social media (Facebook wall updates and recent tweets) and real-time sensors. The approach for writing semantic adapters for new event sources and semantic patterns to be detected in event streams will be introduced."
+swc:isSuperEventOf,iswc2012:tutorial-8,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-8,rdfs:label,"Scalable semantic processing of huge, distributed real-time streams: Semantics Between Event Processing and Cloud Computing"
+swc:isSuperEventOf,iswc2012:tutorial-8,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-8,iCal:dtStart,2012-11-12T14:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-8,foaf:homepage,http://tutorial-iswc12.fzi.de/
+swc:isSuperEventOf,iswc2012:tutorial-9,swc:hasAcronym,LD4D
+swc:isSuperEventOf,iswc2012:tutorial-9,dc:subject, Digital divide
+swc:isSuperEventOf,iswc2012:tutorial-9,dc:subject, Global change
+swc:isSuperEventOf,iswc2012:tutorial-9,dc:subject, Linked Data
+swc:isSuperEventOf,iswc2012:tutorial-9,dc:subject,ICT4D
+swc:isSuperEventOf,iswc2012:tutorial-9,dcterms:subject, Digital divide
+swc:isSuperEventOf,iswc2012:tutorial-9,dcterms:subject, Global change
+swc:isSuperEventOf,iswc2012:tutorial-9,dcterms:subject, Linked Data
+swc:isSuperEventOf,iswc2012:tutorial-9,dcterms:subject,ICT4D
+swc:isSuperEventOf,iswc2012:tutorial-9,swrc:abstract,"Linked Data have by-and-large been designed around centralized, powerful Web servers and the (mobile) clients accessing them. As a direct consequence of these design decisions, the usage of data- sharing technologies depends on the availability of a Web infrastructure comprised of data-centers, high-speed, reliable Internet connections, and modern client devices. Four-billion people currently have no access to such an infrastructure and are thus deprived of the benefits Linked (Open) Data provides. This tutorial will show how the design principles and technologies of Linked Data can be adapted to distributed networks, and thus contribute to closing this digital data divide. Join us to learn how not to forget the majority of the world population when thinking of the potential users of Linked Data and discuss the challenges this represents for the research community."
+swc:isSuperEventOf,iswc2012:tutorial-9,swrc:listKeyword,"ICT4D, Linked Data, Global change, Digital divide"
+swc:isSuperEventOf,iswc2012:tutorial-9,rdf:type,swc:TutorialEvent
+swc:isSuperEventOf,iswc2012:tutorial-9,rdfs:label,LD4D: Linked Data for Development
+swc:isSuperEventOf,iswc2012:tutorial-9,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-9,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,iswc2012:tutorial-9,foaf:homepage,http://worldwidesemanticweb.wordpress.com/ld4d-2012
+swc:isSuperEventOf,workshop:cold/2012,swc:hasAcronym,COLD-2012
+swc:isSuperEventOf,workshop:cold/2012,dc:subject, Consuming
+swc:isSuperEventOf,workshop:cold/2012,dc:subject, Data Management
+swc:isSuperEventOf,workshop:cold/2012,dc:subject, Query Processing
+swc:isSuperEventOf,workshop:cold/2012,dc:subject, Reasoning
+swc:isSuperEventOf,workshop:cold/2012,dc:subject, Search
+swc:isSuperEventOf,workshop:cold/2012,dc:subject,Linked Data
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject, Consuming
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject, Data Management
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject, Query Processing
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject, Reasoning
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject, Search
+swc:isSuperEventOf,workshop:cold/2012,dcterms:subject,Linked Data
+swc:isSuperEventOf,workshop:cold/2012,swrc:abstract,"The quantity of published Linked Data is increasing dramatically. However, applications that consume Linked Data are not yet widespread. Current approaches lack methods for seamless integration of Linked Data from multiple sources, dynamic discovery of available data and data sources, provenance and information quality assessment, application development environments, and appropriate end user interfaces. Addressing these issues requires well-founded research, including the development and investigation of concepts that can be applied in systems which consume Linked Data from the Web. Following the success of the 1st and the 2nd International Workshop on Consuming Linked Data, we organize the third edition of this workshop in order to provide a platform for discussion and work on these open research problems. The main objective is to provide a venue for scientific discourse  including systematic analysis and rigorous evaluation  of concepts, algorithms and approaches for consuming Linked Data."
+swc:isSuperEventOf,workshop:cold/2012,swrc:listKeyword,"Linked Data, Consuming, Data Management, Query Processing, Search, Reasoning"
+swc:isSuperEventOf,workshop:cold/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:cold/2012,rdfs:label,Third International Workshop on Consuming Linked Data
+swc:isSuperEventOf,workshop:cold/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:cold/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:cold/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/COLD2012
+swc:isSuperEventOf,workshop:derive/2012,swc:hasAcronym,DeRiVE-2012
+swc:isSuperEventOf,workshop:derive/2012,dc:subject, event exploitation
+swc:isSuperEventOf,workshop:derive/2012,dc:subject, event representation
+swc:isSuperEventOf,workshop:derive/2012,dc:subject, multimedia
+swc:isSuperEventOf,workshop:derive/2012,dc:subject, social media
+swc:isSuperEventOf,workshop:derive/2012,dc:subject,event detection
+swc:isSuperEventOf,workshop:derive/2012,dcterms:subject, event exploitation
+swc:isSuperEventOf,workshop:derive/2012,dcterms:subject, event representation
+swc:isSuperEventOf,workshop:derive/2012,dcterms:subject, multimedia
+swc:isSuperEventOf,workshop:derive/2012,dcterms:subject, social media
+swc:isSuperEventOf,workshop:derive/2012,dcterms:subject,event detection
+swc:isSuperEventOf,workshop:derive/2012,swrc:abstract,"The goal of this workshop is to strengthen the participation of the semantic web community in the recent surge of research on the use of events as a key concept for representing knowledge and organising and structuring media on the web. The workshop invites contributions to three central themes: event detection, event representation, and event exploitation. Its goal is to formulate answers to questions in these themes that advance and reflect the current state of understanding. Each submission will be expected to address at least two themes explicitly, if possible including a system demonstration. This year, we specifically invite contributions that address both event and conversation semantics in multimedia and social media."
+swc:isSuperEventOf,workshop:derive/2012,swrc:listKeyword,"event detection, event representation, event exploitation, multimedia, social media"
+swc:isSuperEventOf,workshop:derive/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:derive/2012,rdfs:label,"Detection, Representation, and Exploitation of Events in the Semantic Web"
+swc:isSuperEventOf,workshop:derive/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:derive/2012,iCal:dtStart,2012-11-12T14:00:00+05:00
+swc:isSuperEventOf,workshop:derive/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/derive2012
+swc:isSuperEventOf,workshop:evodyn/2012,swc:hasAcronym,EvoDyn
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject, Knowledge Evolution
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject, Knowledge Integration and Analysis over Time
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject, Representation of and Reasoning on Evolving Knowledge
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject, Temporality in Knowledge Capturing
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject, Visualization and Presenation of Evolving Knowledge
+swc:isSuperEventOf,workshop:evodyn/2012,dc:subject,Ontology Dynamics
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject, Knowledge Evolution
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject, Knowledge Integration and Analysis over Time
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject, Representation of and Reasoning on Evolving Knowledge
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject, Temporality in Knowledge Capturing
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject, Visualization and Presenation of Evolving Knowledge
+swc:isSuperEventOf,workshop:evodyn/2012,dcterms:subject,Ontology Dynamics
+swc:isSuperEventOf,workshop:evodyn/2012,swrc:abstract,"EvoDyn 2012 continues the tradition of EvoDyn 2011 and the IWOD workshop series in being the core annual event to discuss advances in the broad area of ontology dynamics, and to track recent work directly or indirectly related to the problem of evolving knowledge. The workshop focuses on analysis of trends and change in formal descriptions, but also in associated raw sources of knowledge (scientific publications, unstructured or semi-structured Web content, traditional data stores, e-mail or on-line discussion threads, etc.). We are especially interested in research targeted on various states of knowledge evolution, such as (a) conflicts, (b) consolidation, (c) discovery, (d) paradigm shifts, and (e) breakthroughs. We would like to trigger a comprehensive and coherent approach to studying the process of knowledge evolution by bringing together researchers and practitioners from the following fields: (i) Data mining and knowledge discovery in dynamic resources; (ii) Ontology dynamics and versioning; (iii) Trend analysis (in multiple applications, including internet search, corpus evaluation, etc.); (iv) Natural Language Processing (evolution of terminology, language use, semantics); (v) Knowledge Representation (temporal ontologies, temporal logics, belief revision, etc.); (vi) Discourse Analysis and Philosophy of Science (the definition and understanding of what particular phases of the knowledge evolution are, and how can we delimit, identify or even trigger them)."
+swc:isSuperEventOf,workshop:evodyn/2012,swrc:listKeyword,"Ontology Dynamics, Knowledge Evolution, Temporality in Knowledge Capturing, Knowledge Integration and Analysis over Time, Visualization and Presenation of Evolving Knowledge, Representation of and Reasoning on Evolving Knowledge"
+swc:isSuperEventOf,workshop:evodyn/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:evodyn/2012,rdfs:label,2nd Joint Workshop on Knowledge Evolution and Ontology Dynamics
+swc:isSuperEventOf,workshop:evodyn/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:evodyn/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:evodyn/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/evodyn2012
+swc:isSuperEventOf,workshop:kecsm/2012,swc:hasAcronym,KECSM-2012
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject, data enrichment
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject, information consolidation
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject, linked data
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject, social media
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject, text  mining
+swc:isSuperEventOf,workshop:kecsm/2012,dc:subject,information extraction
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject, data enrichment
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject, information consolidation
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject, linked data
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject, social media
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject, text  mining
+swc:isSuperEventOf,workshop:kecsm/2012,dcterms:subject,information extraction
+swc:isSuperEventOf,workshop:kecsm/2012,swrc:abstract,"This workshop aims to gather innovative approaches for knowledge extraction and consolidation from unstructured social media, in particular from degraded user-generated content (text, images, video) such as tweets, blog posts, forums and user-generated visual media. KECSM will gather novel works from the fields of (a) data analysis and knowledge extraction, and (b) data enrichment, interlinking and consolidation. It will equally consider the application perspective, such as the innovative use of extracted knowledge to navigate, explore or visualise previously unstructured and disparate Web content. The workshop will provide a highly interactive forum for researchers in the fields of semantic and social Web, text mining and NLP, multimedia data analysis, clustering and integration, and ontology and data mapping."
+swc:isSuperEventOf,workshop:kecsm/2012,swrc:listKeyword,"information extraction, information consolidation, social media, data enrichment, text  mining, linked data"
+swc:isSuperEventOf,workshop:kecsm/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:kecsm/2012,rdfs:label,Knowledge Extraction and Consolidation from Social media
+swc:isSuperEventOf,workshop:kecsm/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:kecsm/2012,iCal:dtStart,2012-11-12T14:00:00+05:00
+swc:isSuperEventOf,workshop:kecsm/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/kecsm2012
+swc:isSuperEventOf,workshop:lhd-semquant/2012,swc:hasAcronym,LHD+SemQuant
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Dynamic matching
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Matching
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Meaning
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Ontology
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Semantic Information Theory
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, Semantic Web
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, analytics
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, metrics
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, quantitative
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject, similarity
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dc:subject,Large data
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Dynamic matching
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Matching
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Meaning
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Ontology
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Semantic Information Theory
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, Semantic Web
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, analytics
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, metrics
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, quantitative
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject, similarity
+swc:isSuperEventOf,workshop:lhd-semquant/2012,dcterms:subject,Large data
+swc:isSuperEventOf,workshop:lhd-semquant/2012,swrc:abstract,"One part of this workshop (LHD) is designed to bring together people from different fields working in the area of dynamic matching, interpretation, and integration of heterogeneous data, so that ideas, techniques and problems can be shared and discussed in a broad context. A key part of this workshop is bringing together those from industry and government as well as those from academia. In order to interact successfully in an open and heterogeneous environment, being able to dynamically and adaptively integrate data from other systems on the go is necessary. This may not be a precise process but a matter of finding a good enough understanding to allow interaction to proceed successfully. With the advent of the Web, there are massive amounts of information available online that can assist in this task, but this information is often chaotically organised, stored in a wide variety of data-formats, and difficult to interpret. The other part of this workshop (SemQuant) aims to unlock a new paradigm in Semantic Web research, and even in KR research in general, by adding a quantitative research paradigm to the traditionally predominant qualitative logic-based paradigm. This is motivated in part by the significant growth in Semantic Web data, including ontologies and Linked Data, over recent years. To efficiently manage the vast quantities of knowledge and data on the Semantic Web, we need theories and tools to address questions like: How can we measure knowledge? How are these measurements different from measurements of information? How can we efficiently store knowledge? How can we efficiently and accurately transform knowledge on noisy channels like the Web? How can we measure the quality of ontologies and other forms of knowledge? How can we determine the quality of approximate methods for inference, similarity, soundness, completeness, etc.? How can such quantitative formalization help the engineering and realization of the Semantic Web?"
+swc:isSuperEventOf,workshop:lhd-semquant/2012,swrc:listKeyword,"Large data, Matching, Meaning, Ontology, Dynamic matching, Semantic Web, quantitative, metrics, analytics, Semantic Information Theory, similarity"
+swc:isSuperEventOf,workshop:lhd-semquant/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:lhd-semquant/2012,rdfs:label,Joint Workshop on Large and Heterogeneous Data and Quantitative Formalization in the Semantic Web
+swc:isSuperEventOf,workshop:lhd-semquant/2012,iCal:dtEnd,2012-11-12T12:30:00+05:00
+swc:isSuperEventOf,workshop:lhd-semquant/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:lhd-semquant/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/lhd%2Bsemquant
+swc:isSuperEventOf,workshop:lisc/2012,swc:hasAcronym,LISC-2012
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject, Big Data
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject, Linked Data
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject, Open Science
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject, Scalability
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject, Scientific Communication
+swc:isSuperEventOf,workshop:lisc/2012,dc:subject,Linked Science
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject, Big Data
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject, Linked Data
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject, Open Science
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject, Scalability
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject, Scientific Communication
+swc:isSuperEventOf,workshop:lisc/2012,dcterms:subject,Linked Science
+swc:isSuperEventOf,workshop:lisc/2012,swrc:abstract,"Scientific communication has traditionally relied upon publications and presentations, with an estimate of millions of publications worldwide per year; the growth rate of PubMed alone is now 1 paper per minute. The results described in these articles are often backed by large amounts of diverse data produced by complex experiments, computer simulations, and observations of physical phenomena. Because of this avalanche of data, it is increasingly hard to validate, reproduce, reuse and leverage scientific data. In addition, although publications, methods and datasets are very related, they are not easily accessible and interlinked. The notable exception is omics research where journals require deposit of sequences in databanks as a condition of publication. Even where data is discoverable and accessible, significant challenges remain in data reuse and sharing, in facilitating the necessary correlation, integration and synthesis of data across levels of theory, techniques and disciplines. In the 2nd International Workshop on Linked Science (LISC2012) we will discuss and present results of new ways of publishing, sharing and linking scientific data together, and reasoning over such data to discover interesting new links to validate research. The theme of this years workshop will focus on research addressing these issues with respect to big data. Big Data is loosely characterized by the size and/or number of individual files, the number of represented variables, a range of physical scales, a range of scientific disciplines, heterogeneous metadata and data formats, in short data that cannot easily be accessed and manipulated from a thumb-drive."
+swc:isSuperEventOf,workshop:lisc/2012,swrc:listKeyword,"Linked Science, Big Data, Linked Data, Open Science, Scientific Communication, Scalability"
+swc:isSuperEventOf,workshop:lisc/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:lisc/2012,rdfs:label,The 2nd International Workshop on Linked Science 2012Tackling Big Data
+swc:isSuperEventOf,workshop:lisc/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:lisc/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:lisc/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/LISC2012
+swc:isSuperEventOf,workshop:msw/2012,swc:hasAcronym,MSW3
+swc:isSuperEventOf,workshop:msw/2012,dc:subject, Multilingual Linked Data
+swc:isSuperEventOf,workshop:msw/2012,dc:subject, Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dc:subject, cross-lingual and multilingual NLP for the Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dc:subject, cross-lingual haromonization and reconciliation
+swc:isSuperEventOf,workshop:msw/2012,dc:subject, localization in the Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dc:subject,multilinguality
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject, Multilingual Linked Data
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject, Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject, cross-lingual and multilingual NLP for the Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject, cross-lingual haromonization and reconciliation
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject, localization in the Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,dcterms:subject,multilinguality
+swc:isSuperEventOf,workshop:msw/2012,swrc:abstract,"The vision of the Multilingual Semantic Web workshop series is the creation of a Semantic Web where semantically structured information can be aligned, integrated and used across languages. The workshops are concerned with research questions on how current Semantic Web infrastructure can and should be extended to support this vision. Ontologies and linked data vocabularies are defined often in one language only (English), with a biased semantics and a corresponding world view. An infrastructure should be in place for defining ontologies and vocabularies in multiple languages with a transparent semantics across them. Current Semantic Web representation languages (RDF, OWL, SKOS) are limited in regard of the representation of natural language semantics, leaving much of the semantics hidden in textual web content out of scope for the developing Web of Data. NLP and machine learning for Linked Data can benefit from exploiting linguistic resources such as annotated corpora, Wordnets etc. if they are themselves formally represented and linked by use of Linked Data principles. In addressing such research questions, the workshop aims at providing a forum for researchers at the intersection of NLP, multilingual information access, Linked Data and the Semantic Web to exchange ideas on realizing the Multilingual Semantic Web."
+swc:isSuperEventOf,workshop:msw/2012,swrc:listKeyword,"multilinguality, Semantic Web, Multilingual Linked Data, cross-lingual haromonization and reconciliation, cross-lingual and multilingual NLP for the Semantic Web, localization in the Semantic Web"
+swc:isSuperEventOf,workshop:msw/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:msw/2012,rdfs:label,3rd Workshop on the Multilingual Semantic Web
+swc:isSuperEventOf,workshop:msw/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:msw/2012,iCal:dtStart,2012-11-11T14:00:00+05:00
+swc:isSuperEventOf,workshop:msw/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/msw3
+swc:isSuperEventOf,workshop:om/2012,swc:hasAcronym,OM-2012
+swc:isSuperEventOf,workshop:om/2012,dc:subject, Ontology Alignment Evaluation Initiative (OAEI)
+swc:isSuperEventOf,workshop:om/2012,dc:subject, data interlinking
+swc:isSuperEventOf,workshop:om/2012,dc:subject, ontology alignment
+swc:isSuperEventOf,workshop:om/2012,dc:subject, schema matching
+swc:isSuperEventOf,workshop:om/2012,dc:subject, semantic heterogeneity
+swc:isSuperEventOf,workshop:om/2012,dc:subject,ontology matching
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject, Ontology Alignment Evaluation Initiative (OAEI)
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject, data interlinking
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject, ontology alignment
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject, schema matching
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject, semantic heterogeneity
+swc:isSuperEventOf,workshop:om/2012,dcterms:subject,ontology matching
+swc:isSuperEventOf,workshop:om/2012,swrc:abstract,"Ontology matching is a key interoperability enabler for the Semantic Web, as well as a useful tactic in some classical data integration tasks dealing with the semantic heterogeneity problem. It takes the ontologies as input and determines as output an alignment, that is, a set of correspondences between the semantically related entities of those ontologies. These correspondences can be used for various tasks, such as ontology merging, data translation, query answering or navigation on the web of data. Thus, matching ontologies enables the knowledge and data expressed in the matched ontologies to interoperate."
+swc:isSuperEventOf,workshop:om/2012,swrc:listKeyword,"ontology matching, semantic heterogeneity, Ontology Alignment Evaluation Initiative (OAEI), ontology alignment, schema matching, data interlinking"
+swc:isSuperEventOf,workshop:om/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:om/2012,rdfs:label,The Seventh International Workshop on Ontology Matching
+swc:isSuperEventOf,workshop:om/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:om/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:om/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/ontology-matching
+swc:isSuperEventOf,workshop:psw/2012,swc:hasAcronym,PSW
+swc:isSuperEventOf,workshop:psw/2012,dc:subject, Information and Data Management
+swc:isSuperEventOf,workshop:psw/2012,dc:subject, Semantic Web Technology Stack
+swc:isSuperEventOf,workshop:psw/2012,dc:subject,Programming languages for the Semantic Web
+swc:isSuperEventOf,workshop:psw/2012,dcterms:subject, Information and Data Management
+swc:isSuperEventOf,workshop:psw/2012,dcterms:subject, Semantic Web Technology Stack
+swc:isSuperEventOf,workshop:psw/2012,dcterms:subject,Programming languages for the Semantic Web
+swc:isSuperEventOf,workshop:psw/2012,swrc:abstract,"The Semantic Web is growing at an enormous pace. However, the development of semantic web software applications is not yet mainstream. Reasons for that include one (or more) of the following research issues: lack of integrated development environments (IDEs, such as Visual Studio and Eclipse), poor programming language support, lack of standard testbeds and/or benchmarks, inadequate training, and perhaps the need for curricula revision. Properly addressing these issues requires interdisciplinary skills, and the collaboration between academia and industry. The First Workshop on Programming the Semantic Web invites submissions that explore the gap between todays semantic web challenges, particularly the ones related to dealing with large amounts of data, with the lack of adequate tools. We are looking for contributions that discuss, promote and further advance the programming facet of the semantic web, including the development of new languages, extension of existing ones, and the inclusion of semantic enabled capabilities into existing IDEs."
+swc:isSuperEventOf,workshop:psw/2012,swrc:listKeyword,"Programming languages for the Semantic Web, Information and Data Management, Semantic Web Technology Stack"
+swc:isSuperEventOf,workshop:psw/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:psw/2012,rdfs:label,First Workshop on Programming the Semantic Web
+swc:isSuperEventOf,workshop:psw/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:psw/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:psw/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/psw12.inf.puc-rio.br
+swc:isSuperEventOf,workshop:satbi-swim/2012,swc:hasAcronym,SATBI-SWIM
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject, clinical informatics
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject, linked data
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject, ontology
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject, personalized medicine
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject, semantic
+swc:isSuperEventOf,workshop:satbi-swim/2012,dc:subject,bioinformatics
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject, clinical informatics
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject, linked data
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject, ontology
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject, personalized medicine
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject, semantic
+swc:isSuperEventOf,workshop:satbi-swim/2012,dcterms:subject,bioinformatics
+swc:isSuperEventOf,workshop:satbi-swim/2012,swrc:abstract,"The Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine, co-located with the 11th International Semantic Web Conference, will bring together researchers, developers and practitioners actively applying Semantic technologies to Biological and Medical Informatics problems. The workshop aims to attract researchers from Computer Science, Information Science, Biomedicine, Bioinformatics, and related areas to share research challenges, results, methods and advances in the appliance of Semantic Web technologies to two domains within Clinical and Translational research  bioinformatics and individualized medicine."
+swc:isSuperEventOf,workshop:satbi-swim/2012,swrc:listKeyword,"bioinformatics, semantic, ontology, clinical informatics, linked data, personalized medicine"
+swc:isSuperEventOf,workshop:satbi-swim/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:satbi-swim/2012,rdfs:label,Joint Workshop on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine (SATBI+SWIM 2012)
+swc:isSuperEventOf,workshop:satbi-swim/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:satbi-swim/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:satbi-swim/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/SATBI%2BSWIM2012
+swc:isSuperEventOf,workshop:sersy/2012,swc:hasAcronym,SeRSy
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject, big data
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject, linked data
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject, personalization
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject, semantic technologies
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject, social web
+swc:isSuperEventOf,workshop:sersy/2012,dc:subject,recommender systems
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject, big data
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject, linked data
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject, personalization
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject, semantic technologies
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject, social web
+swc:isSuperEventOf,workshop:sersy/2012,dcterms:subject,recommender systems
+swc:isSuperEventOf,workshop:sersy/2012,swrc:abstract,"More and more semantic data are published following the Linked Data principles, that enable to set up links between objects in different data sources, by connecting information in a single global data space: the Web of Data. Today, Web of Data includes different types of knowledge represented in a homogeneous form: sedimentary one (encyclopedic, cultural, linguistic, common-sense) and real-time one (news, data streams, ...). This data might be useful to interlink diverse information about users, items, and their relations and implement reasoning mechanisms that can support and improve the recommendation process.  The challenge is to investigate whether and how this large amount of wide-coverage and linked semantic knowledge can be automatically introduced into systems that perform tasks requiring human-level intelligence. Examples of such tasks include understanding a health problem in order to make a medical decision, or simply deciding which laptop to buy. Recommender systems support users exactly in those complex tasks.  The primary goal of the workshop is to showcase cutting edge research on the intersection of Semantic Technologies and Recommender Systems, by taking the best of the two worlds. This combination may provide the Semantic Web community with important real-world scenarios where its potential can be effectively exploited into systems performing complex tasks."
+swc:isSuperEventOf,workshop:sersy/2012,swrc:listKeyword,"recommender systems, linked data, social web, semantic technologies, personalization, big data"
+swc:isSuperEventOf,workshop:sersy/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:sersy/2012,rdfs:label,International Workshop on Semantic Technologies meet Recommender Systems & Big Data
+swc:isSuperEventOf,workshop:sersy/2012,iCal:dtEnd,2012-11-11T12:30:00+05:00
+swc:isSuperEventOf,workshop:sersy/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:sersy/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/sersy2012
+swc:isSuperEventOf,workshop:ssn/2012,swc:hasAcronym,SSN
+swc:isSuperEventOf,workshop:ssn/2012,dc:subject, SWE
+swc:isSuperEventOf,workshop:ssn/2012,dc:subject, sensor data
+swc:isSuperEventOf,workshop:ssn/2012,dc:subject, sensor web
+swc:isSuperEventOf,workshop:ssn/2012,dc:subject, ssn
+swc:isSuperEventOf,workshop:ssn/2012,dc:subject,semantic sensor networks
+swc:isSuperEventOf,workshop:ssn/2012,dcterms:subject, SWE
+swc:isSuperEventOf,workshop:ssn/2012,dcterms:subject, sensor data
+swc:isSuperEventOf,workshop:ssn/2012,dcterms:subject, sensor web
+swc:isSuperEventOf,workshop:ssn/2012,dcterms:subject, ssn
+swc:isSuperEventOf,workshop:ssn/2012,dcterms:subject,semantic sensor networks
+swc:isSuperEventOf,workshop:ssn/2012,swrc:abstract,"The workshop aims to provide an inter-disciplinary forum to explore and promote the technologies related to a combination of semantic web and sensor networking. Specifically, to develop an understanding of the ways semantic web technologies can contribute to the growth, application and deployment of large-scale sensor networks on the one hand, and the ways that sensor networks can contribute to the emerging semantic web, on the other."
+swc:isSuperEventOf,workshop:ssn/2012,swrc:listKeyword,"semantic sensor networks, ssn, sensor web, SWE, sensor data"
+swc:isSuperEventOf,workshop:ssn/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:ssn/2012,rdfs:label,5th International Workshop on Semantic Sensor Networks
+swc:isSuperEventOf,workshop:ssn/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:ssn/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:ssn/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/ssn2012
+swc:isSuperEventOf,workshop:sw2022/2012,swc:hasAcronym,SW2022
+swc:isSuperEventOf,workshop:sw2022/2012,dc:subject, Semantic Technologies
+swc:isSuperEventOf,workshop:sw2022/2012,dc:subject, future development
+swc:isSuperEventOf,workshop:sw2022/2012,dc:subject,Semantic Web
+swc:isSuperEventOf,workshop:sw2022/2012,dcterms:subject, Semantic Technologies
+swc:isSuperEventOf,workshop:sw2022/2012,dcterms:subject, future development
+swc:isSuperEventOf,workshop:sw2022/2012,dcterms:subject,Semantic Web
+swc:isSuperEventOf,workshop:sw2022/2012,swrc:abstract,"The Semantic Web, as a field, is undergoing a major shift. After 10 years of mainly foundations-driven research, we now see strong indicators that Semantic Web methods are entering mainstream technology, in a number of forms. The consequent rise in commercial interest will likely have a fundamental impact on the field. Some established research results will make it into mainstream applications. Others will become obsolete. Radically new ideas will emerge. It is thus the right time for the community to contemplate the way ahead. In this workshop, we will provide an exciting forum for the discussion of the future of the Semantic Web. Researchers and practitioners from all corners of the field are invited to provide their insights and projections. The event will focus on discussions and the exchange of ideas, and will use a mix of different styles of interaction between the participants. It is always good to try to look ahead and anticipate the development of a field. For the Semantic Web, it is now particularly important because recent developments indicate that Semantic Web technologies are entering the industrial mainstream. Schema.org and the Facebook Open Graph Protocol are bringing metadata to bear on the Web large-scale. IBMs Watson and Apples Siri incorporate Semantic Technologies. Google is revamping its search approach and is going more semantic in implementing their knowledge graph. And these are just a few of the prominent examples. The commercial uptake will be a game-changer for the field. It seems that only a fraction of the research results of the past ten years are currently being picked up. It seems that shallow semantics brings added value in many, but not all, application areas. In others it seems that there are roadblocks for which deep semantics is required for added value  but current approaches are still limited. Linked Data and Big Data are popular buzzwords right now, but could they be hitting a peak on the expectation curve? If so, what is going to happen in the subsequent dive? If not, how will those areas affect the fields future? In this workshop, we intend to bring together researchers from all corners of the broader Semantic Web community, to share and discuss projections of the way ahead in Semantic Web technologies and knowledge engineering in general."
+swc:isSuperEventOf,workshop:sw2022/2012,swrc:listKeyword,"Semantic Web, Semantic Technologies, future development"
+swc:isSuperEventOf,workshop:sw2022/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:sw2022/2012,rdfs:label,The Semantic Web in 2022
+swc:isSuperEventOf,workshop:sw2022/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:sw2022/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:sw2022/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/sw2022
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,swc:hasAcronym,SSWS_HPCSW
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject, High-Performance computing
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject, Linked Data
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject, RDF
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject, SPARQL
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject, Supercomputing
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dc:subject,OWL
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject, High-Performance computing
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject, Linked Data
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject, RDF
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject, SPARQL
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject, Supercomputing
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,dcterms:subject,OWL
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,swrc:abstract,"The 2012 Joint Workshop on Scalable and High-Performance Semantic Web Systems (SSWS+HPCSW 2012) focuses on addressing the scalability issue with respect to the development and deployment of systems on the Semantic Web. Typically, such systems deal with information described in Semantic Web languages like OWL and RDF(S), and provide services such as storing, reasoning, querying, analysis, etc. There are two basic requirements for these systems. First, they have to satisfy an applications semantic requirements. Second, they must scale well in order to be of practical use. Given the sheer size and distributed nature of the Semantic Web, these requirements impose new challenges beyond those addressed by previous systems. This joint workshop consists of two tracks regarding scalability: one for knowledge base systems, and another for high-performance computing. We expect that the issue of scalability is going to challenge the Semantic Web for a long period of time and significant effort is needed in order to tackle the problem. This joint workshop seeks to bring together researchers and practitioners to share their recent ideas and progress towards building scalable systems for the Semantic Web; participants from related disciplines such as Supercomputing, and High-Performance Computing, Artificial Intelligence, Databases, Information Integration, are welcome."
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,swrc:listKeyword,"OWL, RDF, Supercomputing, SPARQL, Linked Data, High-Performance computing"
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,rdfs:label,Joint Workshop on Scalable and High-Performance Semantic Web Systems
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:swws_hpcsw/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/SSWS_HPCSW
+swc:isSuperEventOf,workshop:terra/2012,swc:hasAcronym,Terra Cognita
+swc:isSuperEventOf,workshop:terra/2012,dc:subject, OGC
+swc:isSuperEventOf,workshop:terra/2012,dc:subject, geoSPARQL
+swc:isSuperEventOf,workshop:terra/2012,dc:subject, linked data
+swc:isSuperEventOf,workshop:terra/2012,dc:subject,geospatial
+swc:isSuperEventOf,workshop:terra/2012,dcterms:subject, OGC
+swc:isSuperEventOf,workshop:terra/2012,dcterms:subject, geoSPARQL
+swc:isSuperEventOf,workshop:terra/2012,dcterms:subject, linked data
+swc:isSuperEventOf,workshop:terra/2012,dcterms:subject,geospatial
+swc:isSuperEventOf,workshop:terra/2012,swrc:abstract,"The wide availability of technologies such as GPS, map services and social networks has resulted in the proliferation of geospatial data on the Web. In addition to material produced by professionals (e.g., maps), the public has also been encouraged to make geospatial content, including their geographical location and a record of their outdoor activities, available online. The volume of such user- generated geospatial content is constantly growing. Similarly, the amount of data extracted from the Web and published as Linked Open Data is increasing. Linked Open Data include many data sets with geospatial properties such as coordinates, feature class or topological relations. The geo-referencing of Web resources and users has given rise to various services and applications that exploit it. With the location of users being made available widely, new issues such as those pertaining to security and privacy arise. Likewise, emergency response, context sensitive user applications, and complex GIS tasks all lend themselves toward solutions that combine both the Geospatial Web and the Semantic Web. The workshop will bring together researchers and practitioners from various disciplines, as well as interested parties from industry and government, to advance the frontiers of this exciting research area."
+swc:isSuperEventOf,workshop:terra/2012,swrc:listKeyword,"geospatial, linked data, geoSPARQL, OGC"
+swc:isSuperEventOf,workshop:terra/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:terra/2012,rdfs:label,5th International Terra Cognita Workshop 2012
+swc:isSuperEventOf,workshop:terra/2012,iCal:dtEnd,2012-11-12T17:30:00+05:00
+swc:isSuperEventOf,workshop:terra/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:terra/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/TerraCognita
+swc:isSuperEventOf,workshop:ursw/2012,swc:hasAcronym,URSW
+swc:isSuperEventOf,workshop:ursw/2012,dc:subject, Fuzzy ontologies
+swc:isSuperEventOf,workshop:ursw/2012,dc:subject, Imperfect knowledge
+swc:isSuperEventOf,workshop:ursw/2012,dc:subject, Probabilistic ontologies
+swc:isSuperEventOf,workshop:ursw/2012,dc:subject, Uncertainty representation
+swc:isSuperEventOf,workshop:ursw/2012,dc:subject,Uncertainty reasoning
+swc:isSuperEventOf,workshop:ursw/2012,dcterms:subject, Fuzzy ontologies
+swc:isSuperEventOf,workshop:ursw/2012,dcterms:subject, Imperfect knowledge
+swc:isSuperEventOf,workshop:ursw/2012,dcterms:subject, Probabilistic ontologies
+swc:isSuperEventOf,workshop:ursw/2012,dcterms:subject, Uncertainty representation
+swc:isSuperEventOf,workshop:ursw/2012,dcterms:subject,Uncertainty reasoning
+swc:isSuperEventOf,workshop:ursw/2012,swrc:abstract,"This workshop will discuss different approach to deal with uncertainty (in a wide sense) in the Semantic Web. Uncertainty is an unavoidable factor in several processes, such as knowledge interchange and application interoperability, and Semantic Web data, which are usually incomplete, inconsistent, and inaccurate. This suggests the need to apply different formalisms (probability,  fuzzy logic, decision theory, etc.) to enrich Semantic Web technologies and applications."
+swc:isSuperEventOf,workshop:ursw/2012,swrc:listKeyword,"Uncertainty reasoning, Uncertainty representation, Imperfect knowledge, Probabilistic ontologies, Fuzzy ontologies"
+swc:isSuperEventOf,workshop:ursw/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:ursw/2012,rdfs:label,8th International Workshop on Uncertainty Reasoning for the Semantic Web
+swc:isSuperEventOf,workshop:ursw/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:ursw/2012,iCal:dtStart,2012-11-11T09:00:00+05:00
+swc:isSuperEventOf,workshop:ursw/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/URSW2012
+swc:isSuperEventOf,workshop:wole/2012,swc:hasAcronym,WoLE
+swc:isSuperEventOf,workshop:wole/2012,dc:subject, Knowledge extraction
+swc:isSuperEventOf,workshop:wole/2012,dc:subject, Knowledge modeling
+swc:isSuperEventOf,workshop:wole/2012,dc:subject, Linked Data
+swc:isSuperEventOf,workshop:wole/2012,dc:subject, NLP evaluation metrics
+swc:isSuperEventOf,workshop:wole/2012,dc:subject, Semantic Web
+swc:isSuperEventOf,workshop:wole/2012,dc:subject,NLP
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject, Knowledge extraction
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject, Knowledge modeling
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject, Linked Data
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject, NLP evaluation metrics
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject, Semantic Web
+swc:isSuperEventOf,workshop:wole/2012,dcterms:subject,NLP
+swc:isSuperEventOf,workshop:wole/2012,swrc:abstract,"Most of the knowledge available on the Web is encoded in natural language texts or Web documents aimed primarily at human consumption. A promising approach to have programmatic access to such knowledge uses information extraction techniques that aim to extract machine readable structures from free texts, from which it is possible to retrieve entities and categories. These entities can potentially be linked to each other, creating de facto a global knowledge graph of linked entities. The WoLE2012 workshop envisions the Web as a Web of Linked Entities (WoLE), which transparently connects the World Wide Web (WWW) and the Giant Global Graph (GGG) using methods from Information Retrieval (IR) and Natural Language Processing (NLP). The focus of this workshop is to bring together the Information Retrieval, Semantic Web and NLP communities. The primary goal is to strengthen research techniques that provide access to textual information published on the Web to further improve the adoption of Semantic Web technology."
+swc:isSuperEventOf,workshop:wole/2012,swrc:listKeyword,"NLP, Linked Data, Semantic Web, Knowledge extraction, NLP evaluation metrics, Knowledge modeling"
+swc:isSuperEventOf,workshop:wole/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:wole/2012,rdfs:label,Web of Linked Entities
+swc:isSuperEventOf,workshop:wole/2012,iCal:dtEnd,2012-11-11T17:30:00+05:00
+swc:isSuperEventOf,workshop:wole/2012,iCal:dtStart,2012-11-11T14:00:00+05:00
+swc:isSuperEventOf,workshop:wole/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/web-of-linked-entities
+swc:isSuperEventOf,workshop:wop/2012,swc:hasAcronym,WOP2012
+swc:isSuperEventOf,workshop:wop/2012,dc:subject, design patterns
+swc:isSuperEventOf,workshop:wop/2012,dc:subject, knowledge patterns
+swc:isSuperEventOf,workshop:wop/2012,dc:subject, linked data patterns
+swc:isSuperEventOf,workshop:wop/2012,dc:subject, ontology engineering
+swc:isSuperEventOf,workshop:wop/2012,dc:subject, semantic web design patterns
+swc:isSuperEventOf,workshop:wop/2012,dc:subject,ontology patterns
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject, design patterns
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject, knowledge patterns
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject, linked data patterns
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject, ontology engineering
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject, semantic web design patterns
+swc:isSuperEventOf,workshop:wop/2012,dcterms:subject,ontology patterns
+swc:isSuperEventOf,workshop:wop/2012,swrc:abstract,"The Workshop on Ontology Patterns is an arena for sharing ideas, innovations, and novel research results concerning patterns for semantic technologies. Patterns for ontology engineering is a large part, but we also welcome reports on other kinds of knowledge and data patterns, design patterns for Semantic Web applications, as well as best practices in general. Patterns need to be shared by a community in order to provide a common language, and to stimulate pattern usage and development - therefore we hope to see you at WOP to discuss your patterns!"
+swc:isSuperEventOf,workshop:wop/2012,swrc:listKeyword,"ontology patterns, ontology engineering, linked data patterns, knowledge patterns, semantic web design patterns, design patterns"
+swc:isSuperEventOf,workshop:wop/2012,rdf:type,swc:WorkshopEvent
+swc:isSuperEventOf,workshop:wop/2012,rdfs:label,3rd Workshop on Ontology Patterns
+swc:isSuperEventOf,workshop:wop/2012,iCal:dtEnd,2012-11-12T12:30:00+05:00
+swc:isSuperEventOf,workshop:wop/2012,iCal:dtStart,2012-11-12T09:00:00+05:00
+swc:isSuperEventOf,workshop:wop/2012,foaf:homepage,http://iswc2012.semanticweb.org/workshops/wop2012
+rdf:type,swc:ConferenceEvent,,
+rdfs:label,11th International Semantic Web Conference,,
+rdfs:seeAlso,iswc2012:rdf,,
+owl:sameAs,http://semanticweb.org/id/ISWC2012,,
+foaf:based_near,http://dbpedia.org/resource/Boston,,
+foaf:homepage,http://iswc2012.semanticweb.org/,,
+foaf:logo,http://iswc2012.semanticweb.org/sites/default/files/iswc_logo.jpg,,
