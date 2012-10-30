@@ -1,0 +1,7 @@
+﻿<span resource="___uri___">
+<span class="title" property="rdfs:label" style="font-style:italic">___title___</span>,
+<span class="author"  property="dcterms:creator">___author___</span>,
+<span class="note" style="color:red">___note___,</span>
+<span class="pdf"><a href="___pdf___">[PDF]</a></span>
+<a href="___id___.html">[abstract and citation]</a>
+</span>
