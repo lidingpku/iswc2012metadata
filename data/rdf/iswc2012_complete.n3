@@ -430,7 +430,7 @@ iswc2012:complete
               "15654"^^<http://www.w3.org/2001/XMLSchema#long> ;
       dcterms:creator person:li-ding ;
       dcterms:hasVersion "iswc2012 metadata v20121029" ;
-      dcterms:modified "2012-10-29T20:52:13-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+      dcterms:modified "2012-10-29T23:44:36-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 <http://data.semanticweb.org/workshop/lisc/2012>
       a       swc:WorkshopEvent ;
@@ -1983,7 +1983,7 @@ person:seema-sundara
 <http://data.semanticweb.org/workshop/wole/2012/chair>
       a       swc:Chair ;
       rdfs:label "Workshop Chair" ;
-      swc:heldBy person:giuseppe-rizzo , person:pablo-mendes , person:sebastian-hellmann , person:aditya-kalyanpur , person:eric-charton ;
+      swc:heldBy person:giuseppe-rizzo , person:pablo-n-mendes , person:sebastian-hellmann , person:aditya-kalyanpur , person:eric-charton ;
       swc:isRoleAt <http://data.semanticweb.org/workshop/wole/2012> .
 
 person:david-norheim
@@ -2875,7 +2875,7 @@ person:martin-stephenson
       rdf:_6  person:robert-isele ;
       rdf:_7  person:jens-lehmann ;
       rdf:_8  person:michael-martin ;
-      rdf:_9  person:pablo-mendes .
+      rdf:_9  person:pablo-n-mendes .
 
 person:ian-davis
       a       foaf:Person ;
@@ -4736,21 +4736,21 @@ iswc2012paper:inuse-51
       rdfs:label "Managing the life-cycle of Linked Data with the LOD2 Stack" ;
       swc:isPartOf iswc2012:proceedings ;
       swc:relatedToEvent iswc2012talk:inuse-51 ;
-      dc:creator person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
+      dc:creator person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-n-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
       dc:identifier "76500001" ;
       dc:subject "Linked Data" , "application integration" , "Provenance" ;
       dc:title "Managing the life-cycle of Linked Data with the LOD2 Stack" ;
-      dcterms:creator person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
+      dcterms:creator person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-n-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
       dcterms:subject "Linked Data" , "application integration" , "Provenance" ;
       dcterms:title "Managing the life-cycle of Linked Data with the LOD2 Stack" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51/authors> ;
       swrc:abstract "The LOD2 Stack is an integrated distribution of aligned tools which support the whole life cycle of Linked Data from extraction, authoring/creation via enrichment, interlinking, fusing to maintenance. The LOD2 Stack comprises new and substantially extended existing tools from the LOD2 project partners and third parties. The stack is designed to be versatile; for all functionality we define clear interfaces, which enable the plugging in of alternative third-party implementations. The architecture of the LOD2 Stack is based on three pillars: (1) Software integration and deployment using the Debian packaging system. (2) Use of a central SPARQL endpoint and standardized vocabularies for knowledge base access and integration between the different tools of the LOD2 Stack. (3) Integration of the LOD2 Stack user interfaces based on REST enabled Web Applications. These three pillars comprise the methodological and technological framework for integrating the very heterogeneous LOD2 Stack components into a consistent framework. In this article we describe these pillars in more detail and give an overview of the individual LOD2 Stack components. The article also includes a description of a real-world usage scenario in the publishing domain." ;
-      swrc:author person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
+      swrc:author person:robert-isele , person:claus-stadler , person:michael-hausenblas , person:jens-lehmann , person:bert-van-nuffelen , person:soren-auer , person:sebastian-tramp , person:michael-martin , person:pablo-n-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl ;
       swrc:idLncs "76500001" ;
-      swrc:listAuthor "Sören Auer, Lorenz Bühmann, Christian Dirschl, Orri Erling, Michael Hausenblas, Robert Isele, Jens Lehmann, Michael Martin, Pablo Mendes, Bert van Nuffelen, Claus Stadler, Sebastian Tramp and Hugh Williams" ;
+      swrc:listAuthor "Sören Auer, Lorenz Bühmann, Christian Dirschl, Orri Erling, Michael Hausenblas, Robert Isele, Jens Lehmann, Michael Martin, Pablo N. Mendes, Bert van Nuffelen, Claus Stadler, Sebastian Tramp and Hugh Williams" ;
       swrc:listKeyword "Linked Data,application integration,Provenance" ;
       swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76500001.pdf> ;
-      foaf:maker person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl .
+      foaf:maker person:claus-stadler , person:robert-isele , person:michael-hausenblas , person:bert-van-nuffelen , person:jens-lehmann , person:soren-auer , person:michael-martin , person:sebastian-tramp , person:pablo-n-mendes , person:lorenz-buhmann , person:orri-erling , person:hugh-williams , person:christian-dirschl .
 
 organization:kaist
       a       foaf:Organization ;
@@ -8075,15 +8075,15 @@ organization:university-of-ulm
 
 iswc2012paper:industry-07
       a       swrc:InProceedings ;
-      rdfs:label "Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle" ;
+      rdfs:label "Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle" ;
       swc:isPartOf iswc2012:industry-proceedings ;
       swc:relatedToEvent iswc2012talk:industry-07 ;
       dc:creator person:matthew-perry , person:souripriya-das , person:jagannathan-srinivasan , person:seema-sundara ;
       dc:subject "Semantic Web applications" , "Customer experience" , "Adoption of Semantic Web technologies" ;
-      dc:title "Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle" ;
+      dc:title "Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle" ;
       dcterms:creator person:matthew-perry , person:souripriya-das , person:jagannathan-srinivasan , person:seema-sundara ;
       dcterms:subject "Semantic Web applications" , "Customer experience" , "Adoption of Semantic Web technologies" ;
-      dcterms:title "Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle" ;
+      dcterms:title "Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/industry-07/authors> ;
       swrc:author person:matthew-perry , person:souripriya-das , person:jagannathan-srinivasan , person:seema-sundara ;
       swrc:listAuthor "Souripriya Das, Jagannathan Srinivasan, Matthew Perry and Seema Sundara" ;
@@ -10178,19 +10178,6 @@ organization:talis
       rdf:_4  person:edna-ruckhaus ;
       rdf:_5  person:carlos-buil-aranda .
 
-person:pablo-mendes
-      a       foaf:Person ;
-      rdfs:label "Pablo Mendes" ;
-      swc:holdsRole <http://data.semanticweb.org/workshop/wole/2012/chair> ;
-      swrc:affiliation organization:free-university-of-berlin ;
-      swrc:listAffiliation
-              "Free University of Berlin" ;
-      foaf:firstName "Pablo" ;
-      foaf:homepage <http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/team/MendesPablo.htm> ;
-      foaf:made iswc2012paper:inuse-51 ;
-      foaf:mbox_sha1sum "467cb6194e0a82c752859ae77d13978aff3681d1" , "c3b37be7c4da969483f536ef3f3e47378ae4df1c" ;
-      foaf:surname "Mendes" .
-
 iswc2012talk:industry-05
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-02 ;
       swrc:orderInSession 2 .
@@ -12232,7 +12219,7 @@ organization:aalto-university
 organization:free-university-of-berlin
       a       foaf:Organization ;
       rdfs:label "Free University of Berlin" ;
-      foaf:member person:robert-isele , person:christian-bizer , person:pablo-mendes , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese .
+      foaf:member person:robert-isele , person:pablo-n-mendes , person:christian-bizer , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese .
 
 organization:fraunhofer
       a       foaf:Organization ;
@@ -12435,6 +12422,19 @@ iswc2012:break-2012-11-14-3
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> ;
       iCal:dtEnd "2012-11-14T19:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-14T17:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+person:pablo-n-mendes
+      a       foaf:Person ;
+      rdfs:label "Pablo N. Mendes" ;
+      swc:holdsRole <http://data.semanticweb.org/workshop/wole/2012/chair> ;
+      swrc:affiliation organization:free-university-of-berlin ;
+      swrc:listAffiliation
+              "Free University of Berlin" ;
+      foaf:firstName "Pablo" ;
+      foaf:homepage <http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/team/MendesPablo.htm> ;
+      foaf:made iswc2012paper:inuse-51 ;
+      foaf:mbox_sha1sum "467cb6194e0a82c752859ae77d13978aff3681d1" , "c3b37be7c4da969483f536ef3f3e47378ae4df1c" ;
+      foaf:surname "Mendes" .
 
 <http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-10/authors>
       a       rdf:Seq ;

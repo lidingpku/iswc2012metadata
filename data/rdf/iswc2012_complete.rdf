@@ -461,7 +461,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/complete">
     <dgtwc:number_of_triples rdf:datatype="http://www.w3.org/2001/XMLSchema#long">15654</dgtwc:number_of_triples>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/li-ding"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-29T20:52:13-0700</dcterms:modified>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-29T23:44:36-0700</dcterms:modified>
     <dcterms:hasVersion>iswc2012 metadata v20121029</dcterms:hasVersion>
     <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#Dataset"/>
   </rdf:Description>
@@ -2329,7 +2329,7 @@
     <swc:heldBy rdf:resource="http://data.semanticweb.org/person/aditya-kalyanpur"/>
     <swc:heldBy rdf:resource="http://data.semanticweb.org/person/sebastian-hellmann"/>
     <swc:heldBy rdf:resource="http://data.semanticweb.org/person/eric-charton"/>
-    <swc:heldBy rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
+    <swc:heldBy rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#Chair"/>
     <rdfs:label>Workshop Chair</rdfs:label>
     <swc:heldBy rdf:resource="http://data.semanticweb.org/person/giuseppe-rizzo"/>
@@ -3305,7 +3305,6 @@
     <rdf:_3 rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
     <rdf:_13 rdf:resource="http://data.semanticweb.org/person/hugh-williams"/>
     <rdf:_10 rdf:resource="http://data.semanticweb.org/person/bert-van-nuffelen"/>
-    <rdf:_9 rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <rdf:_8 rdf:resource="http://data.semanticweb.org/person/michael-martin"/>
     <rdf:_1 rdf:resource="http://data.semanticweb.org/person/soren-auer"/>
     <rdf:_5 rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
@@ -3315,6 +3314,7 @@
     <rdf:_2 rdf:resource="http://data.semanticweb.org/person/lorenz-buhmann"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
     <rdf:_6 rdf:resource="http://data.semanticweb.org/person/robert-isele"/>
+    <rdf:_9 rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <rdf:_12 rdf:resource="http://data.semanticweb.org/person/sebastian-tramp"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/ian-davis">
@@ -5730,25 +5730,25 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51">
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bert-van-nuffelen"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/robert-isele"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/claus-stadler"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/sebastian-tramp"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jens-lehmann"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <swrc:pdf rdf:resource="http://iswc2012.semanticweb.org/sites/default/files/76500001.pdf"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/lorenz-buhmann"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-51"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
     <rdfs:label>Managing the life-cycle of Linked Data with the LOD2 Stack</rdfs:label>
     <dc:subject>Linked Data</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/claus-stadler"/>
     <swrc:abstract>The LOD2 Stack is an integrated distribution of aligned tools which support the whole life cycle of Linked Data from extraction, authoring/creation via enrichment, interlinking, fusing to maintenance. The LOD2 Stack comprises new and substantially extended existing tools from the LOD2 project partners and third parties. The stack is designed to be versatile; for all functionality we define clear interfaces, which enable the plugging in of alternative third-party implementations. The architecture of the LOD2 Stack is based on three pillars: (1) Software integration and deployment using the Debian packaging system. (2) Use of a central SPARQL endpoint and standardized vocabularies for knowledge base access and integration between the different tools of the LOD2 Stack. (3) Integration of the LOD2 Stack user interfaces based on REST enabled Web Applications. These three pillars comprise the methodological and technological framework for integrating the very heterogeneous LOD2 Stack components into a consistent framework. In this article we describe these pillars in more detail and give an overview of the individual LOD2 Stack components. The article also includes a description of a real-world usage scenario in the publishing domain.</swrc:abstract>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/michael-martin"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
     <dcterms:subject>Linked Data</dcterms:subject>
@@ -5768,6 +5768,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/orri-erling"/>
     <dcterms:title>Managing the life-cycle of Linked Data with the LOD2 Stack</dcterms:title>
     <dcterms:subject>application integration</dcterms:subject>
+    <swrc:listAuthor>Sören Auer, Lorenz Bühmann, Christian Dirschl, Orri Erling, Michael Hausenblas, Robert Isele, Jens Lehmann, Michael Martin, Pablo N. Mendes, Bert van Nuffelen, Claus Stadler, Sebastian Tramp and Hugh Williams</swrc:listAuthor>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/robert-isele"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/lorenz-buhmann"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
@@ -5778,13 +5779,12 @@
     <swrc:author rdf:resource="http://data.semanticweb.org/person/claus-stadler"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/christian-dirschl"/>
     <dc:subject>application integration</dc:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <dc:identifier>76500001</dc:identifier>
     <dc:subject>Provenance</dc:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/soren-auer"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/lorenz-buhmann"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/michael-hausenblas"/>
-    <swrc:listAuthor>Sören Auer, Lorenz Bühmann, Christian Dirschl, Orri Erling, Michael Hausenblas, Robert Isele, Jens Lehmann, Michael Martin, Pablo Mendes, Bert van Nuffelen, Claus Stadler, Sebastian Tramp and Hugh Williams</swrc:listAuthor>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/soren-auer"/>
     <dcterms:subject>Provenance</dcterms:subject>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/hugh-williams"/>
@@ -10409,7 +10409,6 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/industry-proceedings"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/matthew-perry"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/seema-sundara"/>
-    <dc:title>Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle</dc:title>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/industry-07"/>
     <dcterms:subject>Customer experience</dcterms:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/seema-sundara"/>
@@ -10418,7 +10417,8 @@
     <dcterms:subject>Adoption of Semantic Web technologies</dcterms:subject>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/jagannathan-srinivasan"/>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/souripriya-das"/>
-    <rdfs:label>Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle</rdfs:label>
+    <rdfs:label>Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle</rdfs:label>
+    <dc:title>Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle</dc:title>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/souripriya-das"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
     <dc:subject>Adoption of Semantic Web technologies</dc:subject>
@@ -10430,8 +10430,8 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/matthew-perry"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jagannathan-srinivasan"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/jagannathan-srinivasan"/>
+    <dcterms:title>Customer Adoption of Semantic Web Technologies - Sharing our Experience at Oracle</dcterms:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/seema-sundara"/>
-    <dcterms:title>Customer Adoption of Semantic Web Technologies  Sharing our Experience at Oracle</dcterms:title>
     <swrc:listAuthor>Souripriya Das, Jagannathan Srinivasan, Matthew Perry and Seema Sundara</swrc:listAuthor>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/jagannathan-srinivasan"/>
     <swrc:listKeyword>Semantic Web applications,Adoption of Semantic Web technologies,Customer experience</swrc:listKeyword>
@@ -12813,19 +12813,6 @@
     <rdf:_2 rdf:resource="http://data.semanticweb.org/person/maria-esther-vidal"/>
     <rdf:_1 rdf:resource="http://data.semanticweb.org/person/gabriela-montoya"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/person/pablo-mendes">
-    <foaf:firstName>Pablo</foaf:firstName>
-    <foaf:surname>Mendes</foaf:surname>
-    <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/free-university-of-berlin"/>
-    <foaf:mbox_sha1sum>c3b37be7c4da969483f536ef3f3e47378ae4df1c</foaf:mbox_sha1sum>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:label>Pablo Mendes</rdfs:label>
-    <swrc:listAffiliation>Free University of Berlin</swrc:listAffiliation>
-    <foaf:homepage rdf:resource="http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/team/MendesPablo.htm"/>
-    <foaf:mbox_sha1sum>467cb6194e0a82c752859ae77d13978aff3681d1</foaf:mbox_sha1sum>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51"/>
-    <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/wole/2012/chair"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-05">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
@@ -15251,9 +15238,9 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/free-university-of-berlin">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/markus-luczak-rosch"/>
     <foaf:member rdf:resource="http://data.semanticweb.org/person/adrian-paschke"/>
+    <foaf:member rdf:resource="http://data.semanticweb.org/person/pablo-n-mendes"/>
     <foaf:member rdf:resource="http://data.semanticweb.org/person/ralf-heese"/>
     <foaf:member rdf:resource="http://data.semanticweb.org/person/robert-isele"/>
-    <foaf:member rdf:resource="http://data.semanticweb.org/person/pablo-mendes"/>
     <foaf:member rdf:resource="http://data.semanticweb.org/person/christian-bizer"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>Free University of Berlin</rdfs:label>
@@ -15496,6 +15483,19 @@
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#BreakEvent"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/corridor-foyer-railings"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/person/pablo-n-mendes">
+    <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/wole/2012/chair"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:surname>Mendes</foaf:surname>
+    <foaf:firstName>Pablo</foaf:firstName>
+    <foaf:homepage rdf:resource="http://www.wiwiss.fu-berlin.de/en/institute/pwo/bizer/team/MendesPablo.htm"/>
+    <rdfs:label>Pablo N. Mendes</rdfs:label>
+    <foaf:mbox_sha1sum>c3b37be7c4da969483f536ef3f3e47378ae4df1c</foaf:mbox_sha1sum>
+    <foaf:mbox_sha1sum>467cb6194e0a82c752859ae77d13978aff3681d1</foaf:mbox_sha1sum>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51"/>
+    <swrc:listAffiliation>Free University of Berlin</swrc:listAffiliation>
+    <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/free-university-of-berlin"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-10/authors">
     <rdf:_1 rdf:resource="http://data.semanticweb.org/person/bojan-bozic"/>
