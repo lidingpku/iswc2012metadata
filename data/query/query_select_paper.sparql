@@ -4,7 +4,7 @@ PREFIX swc:   <http://data.semanticweb.org/ns/swc/ontology#>
 PREFIX swrc:   <http://swrc.ontoware.org/ontology#>
 PREFIX ical:  <http://www.w3.org/2002/12/cal/ical#>
 
-select ?start ?sessionLabel ?sessionEvent ?paperLabel ?listAuthor  ?keywords  ?abstract ?proceedings
+select ?start ?end ?sessionLabel ?sessionEvent ?orderInSession ?paperLabel ?listAuthor  ?keywords  ?abstract ?proceedings ?pdf
 where {
 ?s a swrc:InProceedings .
 ?s rdfs:label ?paperLabel .
@@ -12,6 +12,7 @@ where {
 ?s swc:isPartOf ?proceedings .
 OPTIONAL{ ?s swrc:listKeyword ?keywords .}
 OPTIONAL{ ?s swrc:abstract ?abstract .}
+OPTIONAL{ ?s swrc:pdf ?pdf.}
 {
   { ?s swc:relatedToEvent ?event .
     ?event swc:isSubEventOf ?sessionEvent . 
@@ -21,7 +22,8 @@ OPTIONAL{ ?s swrc:abstract ?abstract .}
     ?s swc:relatedToEvent ?sessionEvent .
   }  
 	?sessionEvent rdfs:label ?sessionLabel . 
-	?sessionEvent ical:dtStart ?start
+	?sessionEvent ical:dtStart ?start .
+	?sessionEvent ical:dtStart ?end .
 }
 
 }

@@ -1,7 +1,7 @@
 ﻿p,o,p1,o1
-swc:completeGraph,iswc2012:complete,dgtwc:number_of_triples,15654
+swc:completeGraph,iswc2012:complete,dgtwc:number_of_triples,15865
 swc:completeGraph,iswc2012:complete,dcterms:hasVersion,iswc2012 metadata v20121029
-swc:completeGraph,iswc2012:complete,dcterms:modified,2012-10-29T23:44:36-0700
+swc:completeGraph,iswc2012:complete,dcterms:modified,2012-10-30T09:20:21-0700
 swc:completeGraph,iswc2012:complete,rdf:type,dgtwc:Dataset
 swc:hasAcronym,ISWC2012,,
 swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:booktitle,Proceedings of the ISWC 2012 Industry Track
@@ -339,19 +339,16 @@ swc:isSuperEventOf,iswc2012:talk/inuse-58,swrc:orderInSession,1
 swc:isSuperEventOf,iswc2012:talk/inuse-71,swrc:orderInSession,1
 swc:isSuperEventOf,iswc2012:talk/inuse-72,swrc:orderInSession,2
 swc:isSuperEventOf,iswc2012:talk/inuse-78,swrc:orderInSession,3
-swc:isSuperEventOf,iswc2012:talk/keynote-1,swrc:abstract,"The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence."
 swc:isSuperEventOf,iswc2012:talk/keynote-1,rdf:type,swc:TalkEvent
-swc:isSuperEventOf,iswc2012:talk/keynote-1,rdfs:label,The Semantic Web and Collective Intelligence
+swc:isSuperEventOf,iswc2012:talk/keynote-1,rdfs:label,Keynote 1
 swc:isSuperEventOf,iswc2012:talk/keynote-1,iCal:dtEnd,2012-11-13T10:30:00+05:00
 swc:isSuperEventOf,iswc2012:talk/keynote-1,iCal:dtStart,2012-11-13T09:00:00+05:00
-swc:isSuperEventOf,iswc2012:talk/keynote-2,swrc:abstract,"Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators."
 swc:isSuperEventOf,iswc2012:talk/keynote-2,rdf:type,swc:TalkEvent
-swc:isSuperEventOf,iswc2012:talk/keynote-2,rdfs:label,Driving Innovation with Open Data and Interoperability
+swc:isSuperEventOf,iswc2012:talk/keynote-2,rdfs:label,Keynote 2
 swc:isSuperEventOf,iswc2012:talk/keynote-2,iCal:dtEnd,2012-11-14T10:30:00+05:00
 swc:isSuperEventOf,iswc2012:talk/keynote-2,iCal:dtStart,2012-11-14T09:00:00+05:00
-swc:isSuperEventOf,iswc2012:talk/keynote-3,swrc:abstract,"In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web."
 swc:isSuperEventOf,iswc2012:talk/keynote-3,rdf:type,swc:TalkEvent
-swc:isSuperEventOf,iswc2012:talk/keynote-3,rdfs:label,"Tackling Climate Change:  Unfinished Business from the Last ""Winter"""
+swc:isSuperEventOf,iswc2012:talk/keynote-3,rdfs:label,Keynote 3
 swc:isSuperEventOf,iswc2012:talk/keynote-3,iCal:dtEnd,2012-11-15T10:30:00+05:00
 swc:isSuperEventOf,iswc2012:talk/keynote-3,iCal:dtStart,2012-11-15T09:00:00+05:00
 swc:isSuperEventOf,iswc2012:talk/research-01,swrc:orderInSession,1

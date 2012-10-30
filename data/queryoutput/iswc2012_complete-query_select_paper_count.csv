@@ -21,7 +21,7 @@ iswc2012:poster-demo-proceedings,http://data.semanticweb.org/conference/iswc/201
 iswc2012:poster-demo-proceedings,iswc2012:special/poster-demo-swc-reception,31
 iswc2012:poster-demo-proceedings,iswc2012:track/poster-demo,31
 iswc2012:poster-demo-proceedings,iswc2012:track/semantic-web-challenge,31
-iswc2012:proceedings,http://data.semanticweb.org/conference/iswc/2012,81
+iswc2012:proceedings,http://data.semanticweb.org/conference/iswc/2012,84
 iswc2012:proceedings,iswc2012:session/evaluation-01,3
 iswc2012:proceedings,iswc2012:session/evaluation-02,3
 iswc2012:proceedings,iswc2012:session/evaluation-03,2
@@ -71,6 +71,9 @@ iswc2012:proceedings,iswc2012:talk/inuse-58,1
 iswc2012:proceedings,iswc2012:talk/inuse-71,1
 iswc2012:proceedings,iswc2012:talk/inuse-72,1
 iswc2012:proceedings,iswc2012:talk/inuse-78,1
+iswc2012:proceedings,iswc2012:talk/keynote-1,1
+iswc2012:proceedings,iswc2012:talk/keynote-2,1
+iswc2012:proceedings,iswc2012:talk/keynote-3,1
 iswc2012:proceedings,iswc2012:talk/research-01,1
 iswc2012:proceedings,iswc2012:talk/research-02,1
 iswc2012:proceedings,iswc2012:talk/research-03,1
@@ -116,7 +119,7 @@ iswc2012:proceedings,iswc2012:track/doctoral-consortium,15
 iswc2012:proceedings,iswc2012:track/evaluation,8
 iswc2012:proceedings,iswc2012:track/inuse,17
 iswc2012:proceedings,iswc2012:track/research,41
-iswc2012:semantic-web-challenge-proceedings,http://data.semanticweb.org/conference/iswc/2012,36
-iswc2012:semantic-web-challenge-proceedings,iswc2012:special/poster-demo-swc-reception,36
-iswc2012:semantic-web-challenge-proceedings,iswc2012:track/poster-demo,36
-iswc2012:semantic-web-challenge-proceedings,iswc2012:track/semantic-web-challenge,36
+iswc2012:semantic-web-challenge-proceedings,http://data.semanticweb.org/conference/iswc/2012,24
+iswc2012:semantic-web-challenge-proceedings,iswc2012:special/poster-demo-swc-reception,24
+iswc2012:semantic-web-challenge-proceedings,iswc2012:track/poster-demo,24
+iswc2012:semantic-web-challenge-proceedings,iswc2012:track/semantic-web-challenge,24

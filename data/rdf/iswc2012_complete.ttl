@@ -34,6 +34,8 @@ iswc2012sessionchair:inuse-03
       swc:isRoleAt iswc2012session:inuse-03 .
 
 iswc2012talk:research-14
+      swc:hasRelatedDocument
+              iswc2012paper:research-14 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-05 ;
       swrc:orderInSession 2 .
 
@@ -89,7 +91,7 @@ person:sambhawa-priya
       swrc:listAffiliation
               "Lehigh University" ;
       foaf:firstName "Sambhawa" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 ;
       foaf:mbox_sha1sum "974b04e6905f6a70f94024e5973cb6722ea9ef60" ;
       foaf:surname "Priya" .
 
@@ -247,6 +249,8 @@ organization:clark-parsia
       foaf:member person:blazej-bulka , person:kendall-clark , person:evren-sirin , person:hector-perez-urbina .
 
 iswc2012talk:research-34
+      swc:hasRelatedDocument
+              iswc2012paper:research-34 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-12 ;
       swrc:orderInSession 1 .
 
@@ -310,6 +314,8 @@ person:tudor-groza
       foaf:surname "Groza" .
 
 iswc2012talk:research-15
+      swc:hasRelatedDocument
+              iswc2012paper:research-15 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-05 ;
       swrc:orderInSession 3 .
 
@@ -425,13 +431,17 @@ organization:siemens-ag-osterreich
       rdfs:label "Siemens AG Österreich" ;
       foaf:member person:axel-polleres .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:mark-a-musen .
+
 iswc2012:complete
       a       dgtwc:Dataset ;
       dgtwc:number_of_triples
-              "15654"^^<http://www.w3.org/2001/XMLSchema#long> ;
+              "15865"^^<http://www.w3.org/2001/XMLSchema#long> ;
       dcterms:creator person:li-ding ;
       dcterms:hasVersion "iswc2012 metadata v20121029" ;
-      dcterms:modified "2012-10-30T00:49:03-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+      dcterms:modified "2012-10-30T09:20:21-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 <http://data.semanticweb.org/workshop/lisc/2012>
       a       swc:WorkshopEvent ;
@@ -519,10 +529,14 @@ organization:forward-look
       foaf:member person:chito-jovellanos .
 
 iswc2012talk:research-35
+      swc:hasRelatedDocument
+              iswc2012paper:research-35 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-12 ;
       swrc:orderInSession 2 .
 
 iswc2012talk:research-16
+      swc:hasRelatedDocument
+              iswc2012paper:research-16 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-06 ;
       swrc:orderInSession 1 .
 
@@ -625,6 +639,8 @@ person:martin-hepp
       foaf:surname "Hepp" .
 
 iswc2012talk:research-12
+      swc:hasRelatedDocument
+              iswc2012paper:research-12 ;
       swc:isSubEventOf iswc2012track:research , iswc2012session:research-04 , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 3 .
 
@@ -763,6 +779,8 @@ person:razan-paul
       foaf:surname "Paul" .
 
 iswc2012talk:research-09
+      swc:hasRelatedDocument
+              iswc2012paper:research-09 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-03 ;
       swrc:orderInSession 3 .
 
@@ -777,6 +795,8 @@ person:bo-fu
       foaf:surname "Fu" .
 
 iswc2012talk:research-32
+      swc:hasRelatedDocument
+              iswc2012paper:research-32 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-11 ;
       swrc:orderInSession 2 .
 
@@ -824,6 +844,8 @@ iswc2012sessionchair:evaluation-03
       foaf:member person:jill-wegrzyn , person:hans-vasquez-gross , person:john-yu .
 
 iswc2012talk:research-13
+      swc:hasRelatedDocument
+              iswc2012paper:research-13 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-05 ;
       swrc:orderInSession 1 .
 
@@ -958,6 +980,8 @@ person:mariano-rodriguez-muro
       foaf:surname "Rodriguez-Muro" .
 
 iswc2012talk:research-33
+      swc:hasRelatedDocument
+              iswc2012paper:research-33 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-11 ;
       swrc:orderInSession 3 .
 
@@ -1067,6 +1091,8 @@ person:richard-cyganiak
       foaf:surname "Cyganiak" .
 
 iswc2012talk:research-10
+      swc:hasRelatedDocument
+              iswc2012paper:research-10 ;
       swc:isSubEventOf iswc2012track:research , iswc2012session:research-04 , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 1 .
 
@@ -1076,6 +1102,8 @@ organization:stanford-university
       foaf:member person:matthew-horridge , person:mark-a-musen , person:ray-w-fergerson , person:nigam-shah , person:tania-tudorache , person:natasha-f-noy , person:manuel-salvadores , person:paul-alexander .
 
 iswc2012talk:research-39
+      swc:hasRelatedDocument
+              iswc2012paper:research-39 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-13 ;
       swrc:orderInSession 3 .
 
@@ -1177,6 +1205,8 @@ iswc2012paper:doctor-consortium-14
       foaf:maker person:jennifer-sleeman .
 
 iswc2012talk:research-07
+      swc:hasRelatedDocument
+              iswc2012paper:research-07 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-03 ;
       swrc:orderInSession 1 .
 
@@ -1325,6 +1355,8 @@ person:alessio-palmero-aprosio
       foaf:surname "Palmero Aprosio" .
 
 iswc2012talk:evaluation-18
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-18 ;
       swc:isSubEventOf iswc2012session:evaluation-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 1 .
 
@@ -1334,6 +1366,8 @@ organization:university-of-arizona
       foaf:member person:damian-gessler .
 
 iswc2012talk:research-11
+      swc:hasRelatedDocument
+              iswc2012paper:research-11 ;
       swc:isSubEventOf iswc2012track:research , iswc2012session:research-04 , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 2 .
 
@@ -1413,6 +1447,8 @@ person:serena-villata
       foaf:surname "Villata" .
 
 iswc2012talk:research-08
+      swc:hasRelatedDocument
+              iswc2012paper:research-08 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-03 ;
       swrc:orderInSession 2 .
 
@@ -1462,6 +1498,8 @@ organization:sandia-national-laboratories
       foaf:member person:eric-goodman .
 
 iswc2012talk:research-04
+      swc:hasRelatedDocument
+              iswc2012paper:research-04 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-02 ;
       swrc:orderInSession 1 .
 
@@ -1489,6 +1527,8 @@ person:kai-uwe-sattler
       foaf:surname "Sattler" .
 
 iswc2012talk:evaluation-17
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-17 ;
       swc:isSubEventOf iswc2012session:evaluation-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 3 .
 
@@ -1574,6 +1614,8 @@ person:kathryn-laskey
       foaf:surname "Laskey" .
 
 iswc2012talk:research-36
+      swc:hasRelatedDocument
+              iswc2012paper:research-36 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-12 ;
       swrc:orderInSession 3 .
 
@@ -1604,6 +1646,8 @@ iswc2012paper:evaluation-37
       foaf:maker person:andreas-thalhammer , person:harald-sack , person:magnus-knuth .
 
 iswc2012talk:research-05
+      swc:hasRelatedDocument
+              iswc2012paper:research-05 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-02 ;
       swrc:orderInSession 2 .
 
@@ -1680,6 +1724,8 @@ iswc2012special:dinner-talk
       iCal:dtStart "2012-11-14T19:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 iswc2012talk:research-38
+      swc:hasRelatedDocument
+              iswc2012paper:research-38 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-13 ;
       swrc:orderInSession 2 .
 
@@ -1729,6 +1775,25 @@ iswc2012place:cambridge
       rdfs:label "Cambridge" ;
       swc:isPartOf iswc2012place:the-boston-park-plaza-hotel-towers .
 
+iswc2012paper:semantic-web-challenge-open-19
+      a       swrc:InProceedings ;
+      rdfs:label "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
+      swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
+      swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
+      dc:creator person:marco-balduini , person:emanuele-della-valle ;
+      dc:subject "crowd movements" , "csparql" , "crowd attention" , "twitter" , "streaming linked data" , "stream reasoning" , "social media analysis" , "london2012 olympic games" , "real time analysis" , "linked data" , "social media" ;
+      dc:title "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
+      dcterms:creator person:marco-balduini , person:emanuele-della-valle ;
+      dcterms:subject "crowd movements" , "csparql" , "twitter" , "streaming linked data" , "crowd attention" , "stream reasoning" , "london2012 olympic games" , "social media analysis" , "real time analysis" , "linked data" , "social media" ;
+      dcterms:title "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19/authors> ;
+      swrc:abstract "To manage a big event require tracking in real time the movement of crowds. Solution based on mobile network data analysis are effective, but expensive. Obtaining comparable results by analysing public social stream has a clear commercial potential, especially considering that, being able to access also the content of a micro-post, the analysis can also track the attention of crowds." ;
+      swrc:author person:marco-balduini , person:emanuele-della-valle ;
+      swrc:listAuthor "Marco Balduini and Emanuele Della Valle" ;
+      swrc:listKeyword "stream reasoning,real time analysis,crowd movements,crowd attention,csparql,streaming linked data,linked data,twitter,social media,social media analysis,london2012 olympic games" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_26.pdf> ;
+      foaf:maker person:marco-balduini , person:emanuele-della-valle .
+
 person:takahisa-fujino
       a       foaf:Person ;
       rdfs:label "Takahisa Fujino" ;
@@ -1775,6 +1840,8 @@ iswc2012paper:poster-demo-24
       foaf:maker person:bernardo-magnini , person:fabien-gandon , person:julien-cojan , person:elena-cabrio , person:alberto-lavelli , person:alessio-palmero-aprosio .
 
 iswc2012talk:research-37
+      swc:hasRelatedDocument
+              iswc2012paper:research-37 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-13 ;
       swrc:orderInSession 1 .
 
@@ -1790,10 +1857,14 @@ person:sudeshna-das
       foaf:surname "Das" .
 
 iswc2012talk:evaluation-15
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-15 ;
       swc:isSubEventOf iswc2012session:evaluation-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 2 .
 
 iswc2012talk:research-06
+      swc:hasRelatedDocument
+              iswc2012paper:research-06 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-02 ;
       swrc:orderInSession 3 .
 
@@ -2468,6 +2539,8 @@ iswc2012paper:inuse-32
       foaf:maker person:james-fan , person:j-william-murdock , person:chris-welty , person:aditya-kalyanpur .
 
 iswc2012talk:evaluation-10
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-10 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation , iswc2012session:evaluation-03 ;
       swrc:orderInSession 1 .
 
@@ -2483,6 +2556,8 @@ person:andreas-thor
       foaf:surname "Thor" .
 
 iswc2012talk:research-30
+      swc:hasRelatedDocument
+              iswc2012paper:research-30 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-10 ;
       swrc:orderInSession 3 .
 
@@ -2498,6 +2573,8 @@ person:guillermo-palma
       foaf:surname "Palma" .
 
 iswc2012talk:industry-11
+      swc:hasRelatedDocument
+              iswc2012paper:industry-11 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-04 ;
       swrc:orderInSession 2 .
 
@@ -2655,6 +2732,8 @@ organization:jacobs-university
       foaf:member person:stefan-mirea .
 
 iswc2012talk:research-31
+      swc:hasRelatedDocument
+              iswc2012paper:research-31 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-11 ;
       swrc:orderInSession 1 .
 
@@ -2702,6 +2781,8 @@ organization:university-of-waikato
       foaf:member person:annika-hinze .
 
 iswc2012talk:industry-10
+      swc:hasRelatedDocument
+              iswc2012paper:industry-10 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-04 ;
       swrc:orderInSession 1 .
 
@@ -2788,12 +2869,12 @@ person:chris-baillie
 person:jeanne-holm
       a       foaf:Person ;
       rdfs:label "Jeanne Holm" ;
-      swc:holdsRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2> ;
       swrc:affiliation organization:data-gov-u-s-general-services-administration ;
       swrc:bio "As the Evangelist for Data.Gov (an open government flagship project for the White House managed by GSA), Jeanne Holm leads collaboration and builds communities with the public, educators, developers, and international and state governments in using open government data. Jeanne is the Chief Knowledge Architect at NASAs Jet Propulsion Laboratory, driving innovation through social media, virtual worlds, gaming, ontologies, and collaborative systems, including the award-winning NASA public portal (www.nasa.gov) and pioneering knowledge architectures within DoD. She is a Fellow of the United Nations International Academy of Astronautics and a Distinguished Instructor at UCLA, with more than 130 publications on information systems, knowledge management, and innovation." ;
       swrc:listAffiliation
               "Data.gov, U.S. General Services Administration" ;
       foaf:firstName "Jeanne" ;
+      foaf:made iswc2012paper:keynote-2 ;
       foaf:mbox_sha1sum "5c8f5d03a924ab105d1dfd3cf1a7d0e66269f7f1" ;
       foaf:surname "Holm" .
 
@@ -3024,6 +3105,8 @@ person:nicola-fanizzi
       swc:isRoleAt <http://data.semanticweb.org/workshop/ssn/2012> .
 
 iswc2012talk:industry-12
+      swc:hasRelatedDocument
+              iswc2012paper:industry-12 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-04 ;
       swrc:orderInSession 3 .
 
@@ -3284,6 +3367,25 @@ person:yves-raimond
       foaf:mbox_sha1sum "c99a220cc2b8dacc4d4de0342a3909c73eb4e2be" ;
       foaf:surname "Raimond" .
 
+iswc2012paper:semantic-web-challenge-open-21
+      a       swrc:InProceedings ;
+      rdfs:label "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" ;
+      swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
+      swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
+      dc:creator person:raphael-troncy , person:houda-khrouf , person:vuk-milicic ;
+      dc:subject "semantic web" , "social services" , "reconciliation" , "events" , "media" ;
+      dc:title "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" ;
+      dcterms:creator person:raphael-troncy , person:houda-khrouf , person:vuk-milicic ;
+      dcterms:subject "semantic web" , "social services" , "reconciliation" , "events" , "media" ;
+      dcterms:title "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21/authors> ;
+      swrc:abstract "An ever increasing amount of event-centric knowledge is spread over multiple social services, either materialized as calendar of events or illustrated by media items shared by people. Crawling data and mining in real-time events connection between these heterogeneous services is a key challenge to enhance events views. In this paper, we present Event-Media, a web-based environment that exploits real-time connections to deliver rich content describing events associated with media, and interlined with the Linked Data cloud. EventMedia exploits semantic web technologies and provides user-friendly interface with the aim to meet the user needs: relive experiences based on media, and support decision making for attending upcoming events." ;
+      swrc:author person:raphael-troncy , person:houda-khrouf , person:vuk-milicic ;
+      swrc:listAuthor "Houda Khrouf, Vuk Milicic and Raphaël Troncy" ;
+      swrc:listKeyword "events,media,semantic web,reconciliation,social services" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_29.pdf> ;
+      foaf:maker person:raphael-troncy , person:houda-khrouf , person:vuk-milicic .
+
 organization:centre-for-research-and-technology-hellas-certh-
       a       foaf:Organization ;
       rdfs:label "Centre for Research and Technology Hellas (CERTH)" ;
@@ -3339,6 +3441,8 @@ organization:universidad-simon-bolivar
       foaf:member person:gabriela-montoya , person:maria-esther-vidal , person:guillermo-palma , person:edna-ruckhaus .
 
 iswc2012talk:inuse-53
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-53 ;
       swc:isSubEventOf iswc2012session:inuse-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 2 .
 
@@ -3550,6 +3654,25 @@ organization:ghent-university
       rdfs:label "Ghent University" ;
       foaf:member person:pedro-debevere , person:pieterjan-de-potter , person:sam-coppens , person:erik-mannens , person:miel-vander-sande , person:davy-van-deursen , person:rik-van-de-walle , person:laurens-de-vocht , person:ruben-verborgh , person:tom-de-nies .
 
+iswc2012paper:semantic-web-challenge-open-20
+      a       swrc:InProceedings ;
+      rdfs:label "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
+      swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
+      swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
+      dc:creator person:stefan-mirea , person:thomas-steiner ;
+      dc:subject "web scraping" , "browser extension" , "json-ld" , "knowledge extraction" , "seki@home" , "semantic lifting" ;
+      dc:title "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
+      dcterms:creator person:stefan-mirea , person:thomas-steiner ;
+      dcterms:subject "web scraping" , "json-ld" , "browser extension" , "knowledge extraction" , "seki@home" , "semantic lifting" ;
+      dcterms:title "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20/authors> ;
+      swrc:abstract "With SEKI@home, which stands for Search for Embedded Knowledge Items, we propose a generic, browser extension-based approach for crowdsourcing the task of knowledge extraction from arbitrary Web pages. As people with the extension installed browse a targeted Web page, the extension sends extracted knowledge items according to the customizable extraction rules to a centralized, optionally publicly accessible triple store. Thereby, simply by browsing the Web as usual, participants in the knowledge extraction task can help make previously locked-in knowledge openly accessible, e.g., via the standard SPARQL protocol. We have implemented and made available a prototype browser extension, which, after customization and adaptation, can serve as the basis for future knowledge extraction tasks." ;
+      swrc:author person:stefan-mirea , person:thomas-steiner ;
+      swrc:listAuthor "Thomas Steiner and Stefan Mirea" ;
+      swrc:listKeyword "knowledge extraction,browser extension,seki@home,web scraping,json-ld,semantic lifting" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_28.pdf> ;
+      foaf:maker person:stefan-mirea , person:thomas-steiner .
+
 person:riichiro-mizoguchi
       a       foaf:Person ;
       rdfs:label "Riichiro Mizoguchi" ;
@@ -3727,11 +3850,6 @@ person:trond-aalberg
       foaf:mbox_sha1sum "7f46d911cde461f8d17efb913a74d69739d5189d" ;
       foaf:surname "Aalberg" .
 
-organization:technical-university-of-hamburg
-      a       foaf:Organization ;
-      rdfs:label "Technical University of Hamburg" ;
-      foaf:member person:ozgur-lutfu-ozcep , person:ralf-moller .
-
 iswc2012paper:research-07
       a       swrc:InProceedings ;
       rdfs:label "Semantic Enrichment by Non-Experts: Usability of Manual Annotation Tools" ;
@@ -3753,6 +3871,11 @@ iswc2012paper:research-07
       swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76490161.pdf> ;
       swrc:spotlight "spotlight" ;
       foaf:maker person:annika-hinze , person:adrian-paschke , person:markus-luczak-rosch , person:ralf-heese .
+
+organization:technical-university-of-hamburg
+      a       foaf:Organization ;
+      rdfs:label "Technical University of Hamburg" ;
+      foaf:member person:ozgur-lutfu-ozcep , person:ralf-moller .
 
 organization:brandeis-university
       a       foaf:Organization ;
@@ -3852,7 +3975,7 @@ person:houda-khrouf
       swrc:listAffiliation
               "EURECOM" ;
       foaf:firstName "Houda" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-21 ;
       foaf:mbox_sha1sum "e39c392263ad57cf60842b95a317046560efd4d4" ;
       foaf:surname "Khrouf" .
 
@@ -4075,6 +4198,8 @@ person:rommel-n-carvalho
       foaf:surname "Carvalho" .
 
 iswc2012talk:inuse-54
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-54 ;
       swc:isSubEventOf iswc2012session:inuse-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 1 .
 
@@ -4183,6 +4308,8 @@ iswc2012session:research-05
       iCal:dtStart "2012-11-13T16:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 iswc2012talk:inuse-58
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-58 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:inuse-03 , iswc2012track:inuse ;
       swrc:orderInSession 1 .
 
@@ -4235,10 +4362,14 @@ person:robert-engels
       foaf:homepage <http://iswc2012.semanticweb.org/workshops/evodyn2012> .
 
 iswc2012talk:inuse-78
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-78 ;
       swc:isSubEventOf iswc2012session:inuse-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 3 .
 
 iswc2012talk:inuse-17
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-17 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-05 ;
       swrc:orderInSession 2 .
 
@@ -4416,7 +4547,7 @@ person:thomas-gottron
       swrc:listAffiliation
               "University of Koblenz and Landau" ;
       foaf:firstName "Thomas" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-01 ;
       foaf:mbox_sha1sum "9c5c70601201113cdb69fc9026b89b5ea04067f0" ;
       foaf:surname "Gottron" .
 
@@ -4584,6 +4715,8 @@ organization:sapienza-universita-di-roma
       foaf:member person:mirko-graziosi , person:marco-ruzzi , person:giulia-masotti , person:riccardo-rosati .
 
 iswc2012talk:inuse-18
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-18 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-05 ;
       swrc:orderInSession 1 .
 
@@ -4658,6 +4791,8 @@ organization:university-of-hannover
       foaf:member person:wolfgang-nejdl , person:wolf-siberski .
 
 iswc2012talk:inuse-39
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-39 ;
       swc:isSubEventOf iswc2012session:inuse-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 1 .
 
@@ -4814,6 +4949,10 @@ organization:nict
       rdfs:label "NICT" ;
       foaf:member person:yohei-murakami .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:jeanne-holm .
+
 person:roger-hall
       a       foaf:Person ;
       rdfs:label "Roger Hall" ;
@@ -4918,8 +5057,12 @@ person:holger-wache
 
 <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02/authors>
       a       rdf:Seq ;
-      rdf:_1  person:thomas-steiner ;
-      rdf:_2  person:stefan-mirea .
+      rdf:_1  person:xingjian-zhang ;
+      rdf:_2  person:dezhao-song ;
+      rdf:_3  person:sambhawa-priya ;
+      rdf:_4  person:zachary-daniels ;
+      rdf:_5  person:kelly-reynolds ;
+      rdf:_6  person:jeff-heflin .
 
 person:qunzhi-zhou
       a       foaf:Person ;
@@ -4998,6 +5141,8 @@ person:oktie-hassanzadeh
       foaf:surname "Hassanzadeh" .
 
 iswc2012talk:inuse-32
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-32 ;
       swc:isSubEventOf iswc2012session:inuse-04 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 2 .
 
@@ -5227,6 +5372,8 @@ person:wei-hu
       foaf:surname "Hu" .
 
 iswc2012talk:evaluation-41
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-41 ;
       swc:isSubEventOf iswc2012session:evaluation-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 1 .
 
@@ -5248,6 +5395,8 @@ person:zhe-wu
       foaf:surname "Wu" .
 
 iswc2012talk:research-03
+      swc:hasRelatedDocument
+              iswc2012paper:research-03 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-01 ;
       swrc:orderInSession 3 .
 
@@ -5541,6 +5690,8 @@ person:karl-aberer
       foaf:surname "Aberer" .
 
 iswc2012talk:research-02
+      swc:hasRelatedDocument
+              iswc2012paper:research-02 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-01 ;
       swrc:orderInSession 2 .
 
@@ -5782,15 +5933,19 @@ person:kelly-reynolds
       swrc:listAffiliation
               "Lehigh University" ;
       foaf:firstName "Kelly" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 ;
       foaf:mbox_sha1sum "a47e5aefc4755f4f150b16741fb248eb1bde8daf" ;
       foaf:surname "Reynolds" .
 
 iswc2012talk:inuse-35
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-35 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-06 ;
       swrc:orderInSession 3 .
 
 iswc2012talk:research-01
+      swc:hasRelatedDocument
+              iswc2012paper:research-01 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-01 ;
       swrc:orderInSession 1 .
 
@@ -5801,7 +5956,7 @@ person:xingjian-zhang
       swrc:listAffiliation
               "Lehigh University" ;
       foaf:firstName "Xingjian" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 ;
       foaf:mbox_sha1sum "a50f4191e3e209b66518184da03845c8a3a4a475" ;
       foaf:surname "Zhang" .
 
@@ -6116,10 +6271,32 @@ person:olivier-cure
       foaf:mbox_sha1sum "33cd62b318bd504dde9eea1cdcf0095394e4ba40" ;
       foaf:surname "Curé" .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:thomas-malone .
+
 <http://data.semanticweb.org/organization/yahoo!-research-silicon-valley>
       a       foaf:Organization ;
       rdfs:label "Yahoo! Research Silicon Valley" ;
       foaf:member person:david-shamma .
+
+iswc2012paper:keynote-1
+      a       swrc:InProceedings ;
+      rdfs:label "The Semantic Web and Collective Intelligence" ;
+      swc:isPartOf iswc2012:proceedings ;
+      swc:relatedToEvent iswc2012talk:keynote-1 ;
+      dc:creator person:thomas-malone ;
+      dc:identifier "76500454" ;
+      dc:title "The Semantic Web and Collective Intelligence" ;
+      dcterms:creator person:thomas-malone ;
+      dcterms:title "The Semantic Web and Collective Intelligence" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1/authors> ;
+      swrc:abstract "The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence." ;
+      swrc:author person:thomas-malone ;
+      swrc:idLncs "76500454" ;
+      swrc:listAuthor "Thomas Malone" ;
+      swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76500454.pdf> ;
+      foaf:maker person:thomas-malone .
 
 <http://data.semanticweb.org/conference/iswc/2012/paper/industry-04/authors>
       a       rdf:Seq ;
@@ -6178,6 +6355,7 @@ iswc2012sessionchair:research-04
 iswc2012:proceedings
       a       swc:Proceedings ;
       rdfs:label "Proceedings of ISWC 2012" ;
+      swc:relatedToEvent <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:booktitle "Proceedings of 11th International Semantic Web Conference (ISWC2012), November 11 - November 15, 2012" ;
       swrc:editor person:philippe-cudre-mauroux , person:tania-tudorache , person:guus-schreiber , person:josiane-xavier-parreira , person:abraham-bernstein , person:jeff-heflin , person:jerome-euzenat , person:manfred-hauswirth , person:evren-sirin , person:jim-hendler , person:eva-blomqvist ;
       swrc:listEditor "Philippe Cudré-Mauroux, Jeff Heflin, Evren Sirin, Tania Tudorache, Jérôme Euzenat, Manfred Hauswirth, Josiane Xavier Parreira, Jim Hendler, Guus Schreiber, Abraham Bernstein, Eva Blomqvist" ;
@@ -6200,6 +6378,8 @@ iswc2012special:doctoral-consortium
       a       swc:SpecialEvent ;
       rdfs:label "Doctoral Consortium" ;
       swc:hasLocation iswc2012place:whittier ;
+      swc:hasRelatedDocument
+              iswc2012paper:doctor-consortium-03 , iswc2012paper:doctor-consortium-13 , iswc2012paper:doctor-consortium-04 , iswc2012paper:doctor-consortium-12 , iswc2012paper:doctor-consortium-11 , iswc2012paper:doctor-consortium-10 , iswc2012paper:doctor-consortium-09 , iswc2012paper:doctor-consortium-14 , iswc2012paper:doctor-consortium-05 , iswc2012paper:doctor-consortium-02 , iswc2012paper:doctor-consortium-08 , iswc2012paper:doctor-consortium-15 , iswc2012paper:doctor-consortium-01 , iswc2012paper:doctor-consortium-07 , iswc2012paper:doctor-consortium-06 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:doctoral-consortium ;
       swrc:abstract "The ISWC 2012 Doctoral Consortium will take place as part of the 11th International Semantic Web Conference in Boston, US. This forum will provide PhD students an opportunity to share and develop their research ideas in a critical but supportive environment, get feedback from mentors who are senior members of the Semantic Web research community, explore issues related to academic and research careers, and build relationships with other Semantic Web PhD students from around the world. The Consortium aims to broaden the perspectives and improve the research and communication skills of these students as a way to contribute both to the individuals as well as to the broader research community." ;
       iCal:dtEnd "2012-11-12T17:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
@@ -6400,6 +6580,8 @@ iswc2012paper:research-20
       rdf:_4  person:shilpa-arora .
 
 iswc2012talk:research-19
+      swc:hasRelatedDocument
+              iswc2012paper:research-19 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-07 ;
       swrc:orderInSession 1 .
 
@@ -6677,8 +6859,28 @@ iswc2012paper:research-23
       foaf:maker person:achille-fokoue , person:songyun-duan , person:kavitha-srinivas , person:anastasios-kementsietsidis , person:michael-ward , person:oktie-hassanzadeh .
 
 iswc2012talk:research-18
+      swc:hasRelatedDocument
+              iswc2012paper:research-18 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-06 ;
       swrc:orderInSession 3 .
+
+iswc2012paper:keynote-3
+      a       swrc:InProceedings ;
+      rdfs:label "Tackling Climate Change:  Unfinished Business from the Last \"Winter\"" ;
+      swc:isPartOf iswc2012:proceedings ;
+      swc:relatedToEvent iswc2012talk:keynote-3 ;
+      dc:creator person:mark-a-musen ;
+      dc:identifier "76500456" ;
+      dc:title "Tackling Climate Change:  Unfinished Business from the Last \"Winter\"" ;
+      dcterms:creator person:mark-a-musen ;
+      dcterms:title "Tackling Climate Change:  Unfinished Business from the Last \"Winter\"" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3/authors> ;
+      swrc:abstract "In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web." ;
+      swrc:author person:mark-a-musen ;
+      swrc:idLncs "76500456" ;
+      swrc:listAuthor "Mark A. Musen" ;
+      swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76500456.pdf> ;
+      foaf:maker person:mark-a-musen .
 
 person:bert-van-nuffelen
       a       foaf:Person ;
@@ -6848,6 +7050,8 @@ person:konstantina-bereta
       foaf:surname "Bereta" .
 
 iswc2012talk:inuse-10
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-10 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-05 ;
       swrc:orderInSession 3 .
 
@@ -6997,8 +7201,28 @@ iswc2012paper:research-22
       foaf:maker person:haofen-wang , person:yong-yu , person:evan-wei-xiang , person:shu-rong , person:qiang-yang , person:xing-niu .
 
 iswc2012talk:research-17
+      swc:hasRelatedDocument
+              iswc2012paper:research-17 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-06 ;
       swrc:orderInSession 2 .
+
+iswc2012paper:keynote-2
+      a       swrc:InProceedings ;
+      rdfs:label "Driving Innovation with Open Data and Interoperability" ;
+      swc:isPartOf iswc2012:proceedings ;
+      swc:relatedToEvent iswc2012talk:keynote-2 ;
+      dc:creator person:jeanne-holm ;
+      dc:identifier "76500455" ;
+      dc:title "Driving Innovation with Open Data and Interoperability" ;
+      dcterms:creator person:jeanne-holm ;
+      dcterms:title "Driving Innovation with Open Data and Interoperability" ;
+      bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2/authors> ;
+      swrc:abstract "Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators." ;
+      swrc:author person:jeanne-holm ;
+      swrc:idLncs "76500455" ;
+      swrc:listAuthor "Jeanne Holm" ;
+      swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76500455.pdf> ;
+      foaf:maker person:jeanne-holm .
 
 organization:garlik
       a       foaf:Organization ;
@@ -7233,6 +7457,8 @@ person:dimitris-plexousakis
       foaf:surname "Plexousakis" .
 
 iswc2012talk:research-24
+      swc:hasRelatedDocument
+              iswc2012paper:research-24 ;
       swc:isSubEventOf iswc2012session:research-08 , iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 3 .
 
@@ -7316,22 +7542,22 @@ person:avigdor-gal
 
 iswc2012paper:semantic-web-challenge-btc-02
       a       swrc:InProceedings ;
-      rdfs:label "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
+      rdfs:label "Exploring the Linked Data Cloud via Contextual Tag Cloud" ;
       swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
       swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
-      dc:creator person:stefan-mirea , person:thomas-steiner ;
-      dc:subject "web scraping" , "json-ld" , "browser extension" , "knowledge extraction" , "seki@home" , "semantic lifting" ;
-      dc:title "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
-      dcterms:creator person:stefan-mirea , person:thomas-steiner ;
-      dcterms:subject "web scraping" , "browser extension" , "json-ld" , "knowledge extraction" , "seki@home" , "semantic lifting" ;
-      dcterms:title "SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages" ;
+      dc:creator person:kelly-reynolds , person:jeff-heflin , person:zachary-daniels , person:sambhawa-priya , person:xingjian-zhang , person:dezhao-song ;
+      dc:subject "Billion Triples Challenge" , "Tag Cloud Browsing" , "Semantic Web Exploration" , "Linked Open Data" ;
+      dc:title "Exploring the Linked Data Cloud via Contextual Tag Cloud" ;
+      dcterms:creator person:jeff-heflin , person:zachary-daniels , person:kelly-reynolds , person:sambhawa-priya , person:xingjian-zhang , person:dezhao-song ;
+      dcterms:subject "Billion Triples Challenge" , "Tag Cloud Browsing" , "Semantic Web Exploration" , "Linked Open Data" ;
+      dcterms:title "Exploring the Linked Data Cloud via Contextual Tag Cloud" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02/authors> ;
-      swrc:abstract "With SEKI@home, which stands for Search for Embedded Knowledge Items, we propose a generic, browser extension-based approach for crowdsourcing the task of knowledge extraction from arbitrary Web pages. As people with the extension installed browse a targeted Web page, the extension sends extracted knowledge items according to the customizable extraction rules to a centralized, optionally publicly accessible triple store. Thereby, simply by browsing the Web as usual, participants in the knowledge extraction task can help make previously locked-in knowledge openly accessible, e.g., via the standard SPARQL protocol. We have implemented and made available a prototype browser extension, which, after customization and adaptation, can serve as the basis for future knowledge extraction tasks." ;
-      swrc:author person:stefan-mirea , person:thomas-steiner ;
-      swrc:listAuthor "Thomas Steiner and Stefan Mirea" ;
-      swrc:listKeyword "knowledge extraction,browser extension,seki@home,web scraping,json-ld,semantic lifting" ;
-      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_28.pdf> ;
-      foaf:maker person:stefan-mirea , person:thomas-steiner .
+      swrc:abstract "We present the contextual tag cloud system, where the context defines a subset of instances, the tags are ontological terms (classes and properties), and the font sizes reflect the number of instances that use each tag. With our system, users can get familiar with the terms and understand how the dataset is populated; or they can dynamically add tags as context and investigate features or look at instances within the constrained subset. With a domain knowledge base, this system helps reveal the patterns of data. For the massive Linked Open Data cloud, it reveals the extent to which data are linked with regard to both the equivalent instances and ontology alignment. In order to achieve this function, we precompute the owl:sameAs closure, and support multiple levels of RDFS entailment. By using an inverted index and pruning algorithms, we design and implement a real time response system for the Billion Triple Challenge dataset.  This submission is for the Billion Triples track in Semantic Web Challenge. Our system is available at http://gimli.cse.lehigh.edu:8080/btc/" ;
+      swrc:author person:kelly-reynolds , person:zachary-daniels , person:jeff-heflin , person:sambhawa-priya , person:xingjian-zhang , person:dezhao-song ;
+      swrc:listAuthor "Xingjian Zhang, Dezhao Song, Sambhawa Priya, Zachary Daniels, Kelly Reynolds and Jeff Heflin" ;
+      swrc:listKeyword "Linked Open Data,Tag Cloud Browsing,Billion Triples Challenge,Semantic Web Exploration" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_27.pdf> ;
+      foaf:maker person:jeff-heflin , person:zachary-daniels , person:kelly-reynolds , person:sambhawa-priya , person:xingjian-zhang , person:dezhao-song .
 
 iswc2012sessionchair:research-11
       a       swc:Chair ;
@@ -7451,19 +7677,20 @@ person:william-hogan
       foaf:surname "Hogan" .
 
 iswc2012talk:research-25
+      swc:hasRelatedDocument
+              iswc2012paper:research-25 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-09 ;
       swrc:orderInSession 1 .
 
 person:mark-a-musen
       a       foaf:Person ;
       rdfs:label "Mark A. Musen" ;
-      swc:holdsRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3> ;
       swrc:affiliation organization:stanford-university ;
       swrc:bio "Mark Musen from Stanfords Center for Biomedical Informatics research has been confirmed as the second keynote speaker for ISWC 2012. Mark conducts research related to intelligent systems, the Semantic Web, reusable ontologies and knowledge representations, and biomedical decision support. His long-standing work on a system known as Protégé has led to an open-source technology now used by thousands of developers around the world to build intelligent computer systems and new computer applications for e-science and the Semantic Web. He is known for his research on the application of intelligent computer systems to assist health-care workers in guideline- directed therapy and in management of clinical trials. He is principal investigator of the National Center for Biomedical Ontology, one of the seven National Centers for Biomedical Computing supported by the Roadmap of the U.S. National Institutes of Health." ;
       swrc:listAffiliation
               "Stanford University" ;
       foaf:firstName "Mark" ;
-      foaf:made iswc2012paper:inuse-53 ;
+      foaf:made iswc2012paper:keynote-3 , iswc2012paper:inuse-53 ;
       foaf:mbox_sha1sum "60602b405f9d456ffc0e30d22d535100159b7874" ;
       foaf:surname "Musen" .
 
@@ -7491,27 +7718,29 @@ person:shilpa-arora
       foaf:surname "Arora" .
 
 iswc2012talk:industry-09
+      swc:hasRelatedDocument
+              iswc2012paper:industry-09 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-03 ;
       swrc:orderInSession 3 .
 
 iswc2012paper:semantic-web-challenge-btc-01
       a       swrc:InProceedings ;
-      rdfs:label "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
+      rdfs:label "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" ;
       swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
       swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
-      dc:creator person:marco-balduini , person:emanuele-della-valle ;
-      dc:subject "crowd movements" , "csparql" , "streaming linked data" , "twitter" , "crowd attention" , "stream reasoning" , "social media analysis" , "london2012 olympic games" , "real time analysis" , "social media" , "linked data" ;
-      dc:title "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
-      dcterms:creator person:marco-balduini , person:emanuele-della-valle ;
-      dcterms:subject "crowd movements" , "csparql" , "crowd attention" , "streaming linked data" , "twitter" , "stream reasoning" , "social media analysis" , "london2012 olympic games" , "real time analysis" , "social media" , "linked data" ;
-      dcterms:title "Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony" ;
+      dc:creator person:ansgar-scherp , person:thomas-gottron , person:arne-peters , person:bastian-krayer ;
+      dc:subject "retrieval" , "semantic search" , "user support" , "schema index" , "schema based LOD discovery" ;
+      dc:title "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" ;
+      dcterms:creator person:ansgar-scherp , person:thomas-gottron , person:bastian-krayer , person:arne-peters ;
+      dcterms:subject "retrieval" , "semantic search" , "user support" , "schema index" , "schema based LOD discovery" ;
+      dcterms:title "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01/authors> ;
-      swrc:abstract "To manage a big event require tracking in real time the movement of crowds. Solution based on mobile network data analysis are effective, but expensive. Obtaining comparable results by analysing public social stream has a clear commercial potential, especially considering that, being able to access also the content of a micro-post, the analysis can also track the attention of crowds." ;
-      swrc:author person:marco-balduini , person:emanuele-della-valle ;
-      swrc:listAuthor "Marco Balduini and Emanuele Della Valle" ;
-      swrc:listKeyword "stream reasoning,real time analysis,crowd movements,crowd attention,csparql,streaming linked data,linked data,twitter,social media,social media analysis,london2012 olympic games" ;
-      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_26.pdf> ;
-      foaf:maker person:marco-balduini , person:emanuele-della-valle .
+      swrc:abstract "Searching for Linked Open Data (LOD) has yet not reached the easiness and comfort we are accustomed with when using document search engines such as Google. To get closer to this \"Google feeling\" when searching for LOD, we have developed LODatio. Our system supports various kinds of queries on LOD such as searching for LOD sources containing specific types, properties, sets of types and properties, as well as their relations. The LOD sources are ranked along with the number of instances found that match the query. In addition, LODatio provides Google-style features such as \"Did you mean?\" and \"Related queries\" that allow the users for refining and broadening their queries." ;
+      swrc:author person:ansgar-scherp , person:thomas-gottron , person:bastian-krayer , person:arne-peters ;
+      swrc:listAuthor "Thomas Gottron, Ansgar Scherp, Bastian Krayer and Arne Peters" ;
+      swrc:listKeyword "retrieval,schema index,schema based LOD discovery,user support,semantic search" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_19.pdf> ;
+      foaf:maker person:ansgar-scherp , person:thomas-gottron , person:bastian-krayer , person:arne-peters .
 
 organization:swiss-federal-institute-for-forest-snow-and-landscape-research
       a       foaf:Organization ;
@@ -7551,7 +7780,7 @@ person:emanuele-della-valle
               "Politecnico di Milano" ;
       foaf:firstName "Emanuele" ;
       foaf:homepage <http://www.emanueledellavalle.org> ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-01 , iswc2012paper:inuse-78 , iswc2012paper:research-10 , iswc2012paper:semantic-web-challenge-open-13 ;
+      foaf:made iswc2012paper:inuse-78 , iswc2012paper:research-10 , iswc2012paper:semantic-web-challenge-open-13 , iswc2012paper:semantic-web-challenge-open-19 ;
       foaf:mbox_sha1sum "1ee386235c89959195075bc4944d5c68f8265f96" ;
       foaf:surname "Della Valle" .
 
@@ -7583,7 +7812,7 @@ person:zachary-daniels
       swrc:listAffiliation
               "Lehigh University" ;
       foaf:firstName "Zachary" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 ;
       foaf:mbox_sha1sum "b33acc5a64c946c76e5579fb0525a8a6bbd6cba5" ;
       foaf:surname "Daniels" .
 
@@ -7632,6 +7861,8 @@ organization:george-mason-university
       foaf:member person:kathryn-laskey , person:paulo-costa , person:rommel-n-carvalho .
 
 iswc2012talk:research-26
+      swc:hasRelatedDocument
+              iswc2012paper:research-26 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-09 ;
       swrc:orderInSession 2 .
 
@@ -7659,6 +7890,8 @@ person:adila-a-krisnadhi
       foaf:surname "Krisnadhi" .
 
 iswc2012talk:industry-07
+      swc:hasRelatedDocument
+              iswc2012paper:industry-07 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-03 ;
       swrc:orderInSession 1 .
 
@@ -7740,10 +7973,14 @@ iswc2012:tutorial-4
       foaf:homepage <http://www.crim.ca/en/r-d/iswc2012-tutorial-LLNLP.html> .
 
 iswc2012talk:industry-08
+      swc:hasRelatedDocument
+              iswc2012paper:industry-08 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-03 ;
       swrc:orderInSession 2 .
 
 iswc2012talk:research-27
+      swc:hasRelatedDocument
+              iswc2012paper:research-27 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-09 ;
       swrc:orderInSession 3 .
 
@@ -7867,6 +8104,8 @@ person:rehab-albeladi
       foaf:surname "Albeladi" .
 
 iswc2012talk:industry-06
+      swc:hasRelatedDocument
+              iswc2012paper:industry-06 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-02 ;
       swrc:orderInSession 3 .
 
@@ -7926,6 +8165,8 @@ person:christopher-matheus
       foaf:surname "Matheus" .
 
 iswc2012talk:research-28
+      swc:hasRelatedDocument
+              iswc2012paper:research-28 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-10 ;
       swrc:orderInSession 1 .
 
@@ -7964,22 +8205,22 @@ organization:university-of-zurich
 
 iswc2012paper:semantic-web-challenge-btc-03
       a       swrc:InProceedings ;
-      rdfs:label "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" , "Exploring the Linked Data Cloud via Contextual Tag Cloud" , "LODPeas: Like peas in a LOD (cloud)" , "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" ;
+      rdfs:label "LODPeas: Like peas in a LOD (cloud)" ;
       swc:isPartOf iswc2012:semantic-web-challenge-proceedings ;
       swc:relatedToEvent iswc2012special:poster-demo-swc-reception ;
-      dc:creator person:ansgar-scherp , person:raphael-troncy , person:jeff-heflin , person:emir-munoz , person:sambhawa-priya , person:thomas-gottron , person:vuk-milicic , person:bastian-krayer , person:arne-peters , person:aidan-hogan , person:kelly-reynolds , person:zachary-daniels , person:houda-khrouf , person:xingjian-zhang , person:jurgen-umbrich , person:dezhao-song ;
-      dc:subject "semantic search" , "Semantic Web Exploration" , "semantic web" , "Linked Open Data" , "social services" , "reconciliation" , "user support" , "events" , "similarity" , "entity search" , "Billion Triples Challenge" , "Tag Cloud Browsing" , "retrieval" , "linked data" , "schema index" , "media" , "schema based LOD discovery" ;
-      dc:title "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" , "Exploring the Linked Data Cloud via Contextual Tag Cloud" , "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" , "LODPeas: Like peas in a LOD (cloud)" ;
-      dcterms:creator person:ansgar-scherp , person:raphael-troncy , person:jeff-heflin , person:emir-munoz , person:sambhawa-priya , person:thomas-gottron , person:arne-peters , person:vuk-milicic , person:bastian-krayer , person:aidan-hogan , person:zachary-daniels , person:kelly-reynolds , person:xingjian-zhang , person:houda-khrouf , person:jurgen-umbrich , person:dezhao-song ;
-      dcterms:subject "semantic search" , "Semantic Web Exploration" , "Linked Open Data" , "semantic web" , "social services" , "user support" , "reconciliation" , "events" , "similarity" , "Billion Triples Challenge" , "entity search" , "Tag Cloud Browsing" , "retrieval" , "linked data" , "schema index" , "media" , "schema based LOD discovery" ;
-      dcterms:title "Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale" , "Exploring the Linked Data Cloud via Contextual Tag Cloud" , "LODPeas: Like peas in a LOD (cloud)" , "EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content" ;
+      dc:creator person:aidan-hogan , person:emir-munoz , person:jurgen-umbrich ;
+      dc:subject "similarity" , "entity search" , "semantic web" , "linked data" ;
+      dc:title "LODPeas: Like peas in a LOD (cloud)" ;
+      dcterms:creator person:aidan-hogan , person:emir-munoz , person:jurgen-umbrich ;
+      dcterms:subject "similarity" , "entity search" , "semantic web" , "linked data" ;
+      dcterms:title "LODPeas: Like peas in a LOD (cloud)" ;
       bibo:authorList <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03/authors> ;
-      swrc:abstract "An ever increasing amount of event-centric knowledge is spread over multiple social services, either materialized as calendar of events or illustrated by media items shared by people. Crawling data and mining in real-time events connection between these heterogeneous services is a key challenge to enhance events views. In this paper, we present Event-Media, a web-based environment that exploits real-time connections to deliver rich content describing events associated with media, and interlined with the Linked Data cloud. EventMedia exploits semantic web technologies and provides user-friendly interface with the aim to meet the user needs: relive experiences based on media, and support decision making for attending upcoming events." , "We present LODPeas: a system for browsing entities that are found to share many things in common in an RDF dataset. The system first offers standard keyword search to locate a focus entity. Once a focus entity has been found, other entities that share a lot in common with it are displayed in a graph-based visualisation. The degree to which two entities have a lot in common---their level of concurrence---is scored by looking at attributes (property--value pairs) that they share: attributes that are shared by few other entities are given higher weight, and additional shared attributes imply a stronger score. LODPeas is designed to scale for billions of triples and is built in an (almost) entirely domain-agnostic fashion, built on top of the RDF standards themselves and not requiring any domain-specific input. Herein, we describe the functionality of LODPeas, how the system was built over the BTC'12, and discuss possible applications." , "Searching for Linked Open Data (LOD) has yet not reached the easiness and comfort we are accustomed with when using document search engines such as Google. To get closer to this \"Google feeling\" when searching for LOD, we have developed LODatio. Our system supports various kinds of queries on LOD such as searching for LOD sources containing specific types, properties, sets of types and properties, as well as their relations. The LOD sources are ranked along with the number of instances found that match the query. In addition, LODatio provides Google-style features such as \"Did you mean?\" and \"Related queries\" that allow the users for refining and broadening their queries." , "We present the contextual tag cloud system, where the context defines a subset of instances, the tags are ontological terms (classes and properties), and the font sizes reflect the number of instances that use each tag. With our system, users can get familiar with the terms and understand how the dataset is populated; or they can dynamically add tags as context and investigate features or look at instances within the constrained subset. With a domain knowledge base, this system helps reveal the patterns of data. For the massive Linked Open Data cloud, it reveals the extent to which data are linked with regard to both the equivalent instances and ontology alignment. In order to achieve this function, we precompute the owl:sameAs closure, and support multiple levels of RDFS entailment. By using an inverted index and pruning algorithms, we design and implement a real time response system for the Billion Triple Challenge dataset.  This submission is for the Billion Triples track in Semantic Web Challenge. Our system is available at http://gimli.cse.lehigh.edu:8080/btc/" ;
-      swrc:author person:ansgar-scherp , person:raphael-troncy , person:jeff-heflin , person:sambhawa-priya , person:emir-munoz , person:thomas-gottron , person:arne-peters , person:bastian-krayer , person:vuk-milicic , person:aidan-hogan , person:zachary-daniels , person:kelly-reynolds , person:xingjian-zhang , person:houda-khrouf , person:jurgen-umbrich , person:dezhao-song ;
-      swrc:listAuthor "Thomas Gottron, Ansgar Scherp, Bastian Krayer and Arne Peters" , "Xingjian Zhang, Dezhao Song, Sambhawa Priya, Zachary Daniels, Kelly Reynolds and Jeff Heflin" , "Houda Khrouf, Vuk Milicic and Raphaël Troncy" , "Aidan Hogan, Emir Muñoz and Jürgen Umbrich" ;
-      swrc:listKeyword "Linked Open Data,Tag Cloud Browsing,Billion Triples Challenge,Semantic Web Exploration" , "retrieval,schema index,schema based LOD discovery,user support,semantic search" , "linked data,semantic web,similarity,entity search" , "events,media,semantic web,reconciliation,social services" ;
-      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_27.pdf> , <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_30.pdf> , <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_29.pdf> , <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_19.pdf> ;
-      foaf:maker person:ansgar-scherp , person:raphael-troncy , person:jeff-heflin , person:sambhawa-priya , person:emir-munoz , person:thomas-gottron , person:vuk-milicic , person:arne-peters , person:bastian-krayer , person:aidan-hogan , person:kelly-reynolds , person:zachary-daniels , person:houda-khrouf , person:xingjian-zhang , person:jurgen-umbrich , person:dezhao-song .
+      swrc:abstract "We present LODPeas: a system for browsing entities that are found to share many things in common in an RDF dataset. The system first offers standard keyword search to locate a focus entity. Once a focus entity has been found, other entities that share a lot in common with it are displayed in a graph-based visualisation. The degree to which two entities have a lot in common---their level of concurrence---is scored by looking at attributes (property--value pairs) that they share: attributes that are shared by few other entities are given higher weight, and additional shared attributes imply a stronger score. LODPeas is designed to scale for billions of triples and is built in an (almost) entirely domain-agnostic fashion, built on top of the RDF standards themselves and not requiring any domain-specific input. Herein, we describe the functionality of LODPeas, how the system was built over the BTC'12, and discuss possible applications." ;
+      swrc:author person:aidan-hogan , person:emir-munoz , person:jurgen-umbrich ;
+      swrc:listAuthor "Aidan Hogan, Emir Muñoz and Jürgen Umbrich" ;
+      swrc:listKeyword "linked data,semantic web,similarity,entity search" ;
+      swrc:pdf <http://challenge.semanticweb.org/2012/submissions/swc2012_submission_30.pdf> ;
+      foaf:maker person:aidan-hogan , person:emir-munoz , person:jurgen-umbrich .
 
 iswc2012paper:research-35
       a       swrc:InProceedings ;
@@ -8033,6 +8274,8 @@ organization:politecnico-di-milano
       foaf:member person:marco-balduini , person:marta-corubolo , person:dario-cerizza , person:daniele-dellaglio , person:stefano-fumeo , person:alessandro-bozzon , person:irene-celino , person:emanuele-della-valle , person:letizia-tanca , person:federico-piccinini , person:simone-contessa .
 
 iswc2012talk:research-20
+      swc:hasRelatedDocument
+              iswc2012paper:research-20 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-07 ;
       swrc:orderInSession 2 .
 
@@ -8067,12 +8310,6 @@ organization:university-of-ulm
       a       foaf:Organization ;
       rdfs:label "University of Ulm" ;
       foaf:member person:birte-glimm , person:pavel-klinov .
-
-<http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2>
-      a       swc:KeynoteSpeaker ;
-      rdfs:label "ISWC2012 Keynote Speaker" ;
-      swc:heldBy person:jeanne-holm ;
-      swc:isRoleAt iswc2012talk:keynote-2 .
 
 iswc2012paper:industry-07
       a       swrc:InProceedings ;
@@ -8233,6 +8470,8 @@ iswc2012paper:poster-demo-37
       foaf:maker <http://data.semanticweb.org/person/toma-knap> , person:jan-michelfeit .
 
 iswc2012talk:research-21
+      swc:hasRelatedDocument
+              iswc2012paper:research-21 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-07 ;
       swrc:orderInSession 3 .
 
@@ -8301,12 +8540,6 @@ organization:austrian-institute-of-technology
       a       foaf:Organization ;
       rdfs:label "Austrian Institute of Technology" ;
       foaf:member person:bojan-bozic .
-
-<http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1>
-      a       swc:KeynoteSpeaker ;
-      rdfs:label "ISWC2012 Keynote Speaker" ;
-      swc:heldBy person:thomas-malone ;
-      swc:isRoleAt iswc2012talk:keynote-1 .
 
 organization:siemens-ag
       a       foaf:Organization ;
@@ -8478,6 +8711,8 @@ person:enrico-daga
       rdf:_4  person:josiane-xavier-parreira .
 
 iswc2012talk:evaluation-27
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-27 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation , iswc2012session:evaluation-03 ;
       swrc:orderInSession 2 .
 
@@ -8522,6 +8757,8 @@ organization:university-of-turin
       foaf:member person:francesco-osborne .
 
 iswc2012talk:research-22
+      swc:hasRelatedDocument
+              iswc2012paper:research-22 ;
       swc:isSubEventOf iswc2012session:research-08 , iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 1 .
 
@@ -8561,7 +8798,7 @@ person:raphael-troncy
               "EURECOM" ;
       foaf:firstName "Raphaël" ;
       foaf:homepage <http://www.eurecom.fr/~troncy> ;
-      foaf:made iswc2012paper:poster-demo-54 , iswc2012paper:poster-demo-02 , iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-21 , iswc2012paper:poster-demo-54 , iswc2012paper:poster-demo-02 ;
       foaf:mbox_sha1sum "76b8645ac23d412d99c23dd95e0fbbe092d3f730" ;
       foaf:surname "Troncy" .
 
@@ -8606,6 +8843,8 @@ iswc2012special:poster-demo-swc-reception
       a       swc:SpecialEvent ;
       rdfs:label "Poster/Demo Session, Semantic Web Challenge and Reception" ;
       swc:hasLocation iswc2012place:plaza , iswc2012place:imperial ;
+      swc:hasRelatedDocument
+              iswc2012paper:poster-demo-48 , iswc2012paper:poster-demo-54 , iswc2012paper:semantic-web-challenge-open-15 , iswc2012paper:semantic-web-challenge-open-11 , iswc2012paper:poster-demo-64 , iswc2012paper:poster-demo-26 , iswc2012paper:semantic-web-challenge-open-21 , iswc2012paper:poster-demo-16 , iswc2012paper:poster-demo-23 , iswc2012paper:semantic-web-challenge-open-01 , iswc2012paper:semantic-web-challenge-btc-02 , iswc2012paper:semantic-web-challenge-open-05 , iswc2012paper:poster-demo-02 , iswc2012paper:semantic-web-challenge-open-06 , iswc2012paper:poster-demo-37 , iswc2012paper:semantic-web-challenge-open-14 , iswc2012paper:poster-demo-61 , iswc2012paper:semantic-web-challenge-open-10 , iswc2012paper:poster-demo-12 , iswc2012paper:poster-demo-18 , iswc2012paper:poster-demo-59 , iswc2012paper:poster-demo-45 , iswc2012paper:poster-demo-27 , iswc2012paper:semantic-web-challenge-open-20 , iswc2012paper:semantic-web-challenge-btc-01 , iswc2012paper:poster-demo-22 , iswc2012paper:poster-demo-51 , iswc2012paper:semantic-web-challenge-open-07 , iswc2012paper:poster-demo-41 , iswc2012paper:semantic-web-challenge-open-04 , iswc2012paper:poster-demo-01 , iswc2012paper:semantic-web-challenge-open-08 , iswc2012paper:semantic-web-challenge-open-17 , iswc2012paper:poster-demo-42 , iswc2012paper:poster-demo-28 , iswc2012paper:semantic-web-challenge-open-13 , iswc2012paper:poster-demo-11 , iswc2012paper:semantic-web-challenge-open-18 , iswc2012paper:poster-demo-29 , iswc2012paper:poster-demo-14 , iswc2012paper:semantic-web-challenge-open-03 , iswc2012paper:semantic-web-challenge-open-09 , iswc2012paper:semantic-web-challenge-open-16 , iswc2012paper:poster-demo-47 , iswc2012paper:poster-demo-39 , iswc2012paper:poster-demo-57 , iswc2012paper:poster-demo-43 , iswc2012paper:poster-demo-10 , iswc2012paper:semantic-web-challenge-open-19 , iswc2012paper:semantic-web-challenge-open-12 , iswc2012paper:poster-demo-24 , iswc2012paper:poster-demo-20 , iswc2012paper:semantic-web-challenge-open-02 , iswc2012paper:poster-demo-34 , iswc2012paper:semantic-web-challenge-btc-03 ;
       swc:isSubEventOf iswc2012track:poster-demo , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:semantic-web-challenge ;
       iCal:dtEnd "2012-11-13T21:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-13T18:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
@@ -8617,7 +8856,7 @@ person:arne-peters
       swrc:listAffiliation
               "University of Koblenz and Landau" ;
       foaf:firstName "Arne" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-01 ;
       foaf:mbox_sha1sum "b6bb83df9d222533f57914ce8deb43f53e7d5699" ;
       foaf:surname "Peters" .
 
@@ -8738,11 +8977,13 @@ person:dezhao-song
       swrc:listAffiliation
               "Lehigh University" ;
       foaf:firstName "Dezhao" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 , iswc2012paper:doctor-consortium-07 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 , iswc2012paper:doctor-consortium-07 ;
       foaf:mbox_sha1sum "4c3085b2c9a9fa05ddd0b0148fba4994b101ad7a" , "824fc6ddb4837dfb6a25ed5077be0bddce8aa377" ;
       foaf:surname "Song" .
 
 iswc2012talk:research-23
+      swc:hasRelatedDocument
+              iswc2012paper:research-23 ;
       swc:isSubEventOf iswc2012session:research-08 , iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 2 .
 
@@ -8849,13 +9090,13 @@ iswc2012paper:industry-08
 person:thomas-malone
       a       foaf:Person ;
       rdfs:label "Thomas Malone" ;
-      swc:holdsRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1> ;
       swrc:affiliation organization:mit-sloan-school-of-management ;
       swrc:bio "Thomas W. Malone from MITs Sloan School of Management has been confirmed as the first keynote speaker for ISWC 2012. Tom heads the Center for Collective Intelligence at MIT, where he investigates how new organizations can be designed to take advantage of the possibilities provided by information technology. Toms more recent research work studies the future or work and, in particular, the transformative capabilities of collective intelligence." ;
       swrc:listAffiliation
               "MIT Sloan School of Management" ;
       foaf:firstName "Thomas" ;
       foaf:homepage <http://cci.mit.edu/malone> ;
+      foaf:made iswc2012paper:keynote-1 ;
       foaf:mbox_sha1sum "7d4e8f673f0eddcb502e79be07481c507f9bc7f4" ;
       foaf:surname "Malone" .
 
@@ -8948,12 +9189,6 @@ person:hamdi-aloulou
       foaf:made iswc2012paper:inuse-10 ;
       foaf:mbox_sha1sum "9cd3a3a229fd15b337e3b1e63d5a46c5d28f3bb5" ;
       foaf:surname "Aloulou" .
-
-<http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3>
-      a       swc:KeynoteSpeaker ;
-      rdfs:label "ISWC2012 Keynote Speaker" ;
-      swc:heldBy person:mark-a-musen ;
-      swc:isRoleAt iswc2012talk:keynote-3 .
 
 iswc2012paper:research-39
       a       swrc:InProceedings ;
@@ -9274,6 +9509,8 @@ organization:oracle
       foaf:member person:jay-banerjee , person:karl-rieb , person:matthew-perry , person:souripriya-das , person:jagannathan-srinivasan , person:zhe-wu , person:seema-sundara .
 
 iswc2012talk:industry-01
+      swc:hasRelatedDocument
+              iswc2012paper:industry-01 ;
       swc:isSubEventOf iswc2012session:industry-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry ;
       swrc:orderInSession 1 .
 
@@ -9451,7 +9688,7 @@ person:vuk-milicic
       swrc:listAffiliation
               "EURECOM" ;
       foaf:firstName "Vuk" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-21 ;
       foaf:mbox_sha1sum "e5e23d019a366e4b781cd0e530c318f9b8c99fdb" ;
       foaf:surname "Milicic" .
 
@@ -9814,6 +10051,8 @@ person:gary-wills
       foaf:surname "Wills" .
 
 iswc2012talk:inuse-72
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-72 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-06 ;
       swrc:orderInSession 2 .
 
@@ -9841,6 +10080,8 @@ iswc2012paper:doctor-consortium-01
       foaf:maker person:nitish-aggarwal .
 
 iswc2012talk:inuse-09
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-09 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse , iswc2012session:inuse-06 ;
       swrc:orderInSession 1 .
 
@@ -10043,6 +10284,11 @@ person:feroz-farazi
       foaf:mbox_sha1sum "f081b9a3ccb822479c695aa8ffae4ca908ff09fa" ;
       foaf:surname "Farazi" .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:marco-balduini ;
+      rdf:_2  person:emanuele-della-valle .
+
 <http://data.semanticweb.org/workshop/wop/2012>
       a       swc:WorkshopEvent ;
       rdfs:label "3rd Workshop on Ontology Patterns" ;
@@ -10094,6 +10340,8 @@ person:stefan-dietze
       foaf:surname "Dietze" .
 
 iswc2012talk:research-40
+      swc:hasRelatedDocument
+              iswc2012paper:research-40 ;
       swc:isSubEventOf iswc2012session:research-14 , iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 1 .
 
@@ -10117,7 +10365,7 @@ person:jeff-heflin
               "Lehigh University" ;
       foaf:firstName "Jeff" ;
       foaf:homepage <http://www.cse.lehigh.edu/~heflin> , <http://www.cse.lehigh.edu/%7Eheflin> ;
-      foaf:made iswc2012:proceedings , iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-02 , iswc2012:proceedings ;
       foaf:mbox_sha1sum "1d8b1638f1c01384c2d034bb1853ecbe8952a4aa" ;
       foaf:surname "Heflin" .
 
@@ -10180,6 +10428,8 @@ organization:talis
       rdf:_5  person:carlos-buil-aranda .
 
 iswc2012talk:industry-05
+      swc:hasRelatedDocument
+              iswc2012paper:industry-05 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-02 ;
       swrc:orderInSession 2 .
 
@@ -10295,6 +10545,8 @@ person:valentina-tamma
       foaf:surname "Tamma" .
 
 iswc2012talk:inuse-51
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-51 ;
       swc:isSubEventOf iswc2012session:inuse-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 3 .
 
@@ -10321,6 +10573,8 @@ person:takeshi-imai
       foaf:surname "Imai" .
 
 iswc2012talk:research-41
+      swc:hasRelatedDocument
+              iswc2012paper:research-41 ;
       swc:isSubEventOf iswc2012session:research-14 , iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> ;
       swrc:orderInSession 2 .
 
@@ -10414,10 +10668,14 @@ person:david-wood
       foaf:surname "Wood" .
 
 iswc2012talk:industry-04
+      swc:hasRelatedDocument
+              iswc2012paper:industry-04 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry , iswc2012session:industry-02 ;
       swrc:orderInSession 1 .
 
 iswc2012talk:inuse-71
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-71 ;
       swc:isSubEventOf iswc2012session:inuse-04 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 1 .
 
@@ -10466,22 +10724,9 @@ person:david-mizell
 
 <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03/authors>
       a       rdf:Seq ;
-      rdf:_1  person:houda-khrouf ;
-      rdf:_10 person:sambhawa-priya ;
-      rdf:_11 person:zachary-daniels ;
-      rdf:_12 person:kelly-reynolds ;
-      rdf:_13 person:jeff-heflin ;
-      rdf:_14 person:aidan-hogan ;
-      rdf:_15 person:emir-munoz ;
-      rdf:_16 person:jurgen-umbrich ;
-      rdf:_2  person:vuk-milicic ;
-      rdf:_3  person:raphael-troncy ;
-      rdf:_4  person:thomas-gottron ;
-      rdf:_5  person:ansgar-scherp ;
-      rdf:_6  person:bastian-krayer ;
-      rdf:_7  person:arne-peters ;
-      rdf:_8  person:xingjian-zhang ;
-      rdf:_9  person:dezhao-song .
+      rdf:_1  person:aidan-hogan ;
+      rdf:_2  person:emir-munoz ;
+      rdf:_3  person:jurgen-umbrich .
 
 person:lalana-kagal
       a       foaf:Person ;
@@ -10562,7 +10807,7 @@ person:marco-balduini
       swrc:listAffiliation
               "Politecnico di Milano" ;
       foaf:firstName "Marco" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-01 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-19 ;
       foaf:mbox_sha1sum "1ddf92412fb64e39b877b6d8429552e62009f8cc" ;
       foaf:surname "Balduini" .
 
@@ -10623,6 +10868,8 @@ person:christian-bizer
       foaf:surname "Bizer" .
 
 iswc2012talk:industry-03
+      swc:hasRelatedDocument
+              iswc2012paper:industry-03 ;
       swc:isSubEventOf iswc2012session:industry-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry ;
       swrc:orderInSession 3 .
 
@@ -10779,6 +11026,12 @@ iswc2012track:industry
       a       rdf:Seq ;
       rdf:_1  person:peter-patel-schneider .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:houda-khrouf ;
+      rdf:_2  person:vuk-milicic ;
+      rdf:_3  person:raphael-troncy .
+
 organization:foaf-project
       a       foaf:Organization ;
       rdfs:label "FOAF project" ;
@@ -10842,6 +11095,8 @@ person:gueret-christophe
       foaf:surname "Knap" .
 
 iswc2012talk:industry-02
+      swc:hasRelatedDocument
+              iswc2012paper:industry-02 ;
       swc:isSubEventOf iswc2012session:industry-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry ;
       swrc:orderInSession 2 .
 
@@ -10931,10 +11186,19 @@ organization:massachusetts-general-hospital
 
 <http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01/authors>
       a       rdf:Seq ;
-      rdf:_1  person:marco-balduini ;
-      rdf:_2  person:emanuele-della-valle .
+      rdf:_1  person:thomas-gottron ;
+      rdf:_2  person:ansgar-scherp ;
+      rdf:_3  person:bastian-krayer ;
+      rdf:_4  person:arne-peters .
+
+<http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:thomas-steiner ;
+      rdf:_2  person:stefan-mirea .
 
 iswc2012talk:evaluation-35
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-35 ;
       swc:isSubEventOf iswc2012session:evaluation-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 2 .
 
@@ -11131,7 +11395,7 @@ person:ansgar-scherp
       swrc:listAffiliation
               "University of Koblenz and Landau" ;
       foaf:firstName "Ansgar" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-01 ;
       foaf:mbox_sha1sum "f144c701b207651bbbb291b782786e9ed0447e0f" ;
       foaf:surname "Scherp" .
 
@@ -11256,10 +11520,6 @@ person:gerd-zechmeister
       foaf:mbox_sha1sum "b7b120e3c73210e400c65f716e7270fb22cdb754" ;
       foaf:surname "Zechmeister" .
 
-iswc2012talk:inuse-04
-      swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:inuse-03 , iswc2012track:inuse ;
-      swrc:orderInSession 2 .
-
 iswc2012session:research-11
       a       swc:SessionEvent ;
       rdfs:label "Scalability and Parallel Processing" ;
@@ -11269,6 +11529,12 @@ iswc2012session:research-11
       swc:isSuperEventOf iswc2012talk:research-31 , iswc2012talk:research-32 , iswc2012talk:research-33 ;
       iCal:dtEnd "2012-11-15T12:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-15T11:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+iswc2012talk:inuse-04
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-04 ;
+      swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:inuse-03 , iswc2012track:inuse ;
+      swrc:orderInSession 2 .
 
 person:diana-maynard
       a       foaf:Person ;
@@ -11320,6 +11586,8 @@ person:anupriya-ankolekar
       foaf:surname "Ankolekar" .
 
 iswc2012talk:evaluation-37
+      swc:hasRelatedDocument
+              iswc2012paper:evaluation-37 ;
       swc:isSubEventOf iswc2012session:evaluation-01 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:evaluation ;
       swrc:orderInSession 3 .
 
@@ -11419,17 +11687,6 @@ organization:tenforce
       rdfs:label "Tenforce" ;
       foaf:member person:bert-van-nuffelen .
 
-person:riccardo-rosati
-      a       foaf:Person ;
-      rdfs:label "Riccardo Rosati" ;
-      swrc:affiliation organization:sapienza-universita-di-roma ;
-      swrc:listAffiliation
-              "Sapienza Università di Roma" ;
-      foaf:firstName "Riccardo" ;
-      foaf:made iswc2012paper:evaluation-41 ;
-      foaf:mbox_sha1sum "347c5f7b49d6802f343668845c30c5e610d28a7f" ;
-      foaf:surname "Rosati" .
-
 iswc2012paper:inuse-27
       a       swrc:InProceedings ;
       rdfs:label "Trentino government linked open geo-data: a case study" ;
@@ -11450,6 +11707,17 @@ iswc2012paper:inuse-27
       swrc:listKeyword "linked data,open government data,publishing pipeline,geographic datasets,semantic geo-catalogue" ;
       swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/76500193.pdf> ;
       foaf:maker person:vincenzo-maltese , person:alexander-ivanyukovich , person:veronica-rizzi , person:pavel-shvaiko , person:daniela-ferrari , person:giuliana-ucelli , person:feroz-farazi .
+
+person:riccardo-rosati
+      a       foaf:Person ;
+      rdfs:label "Riccardo Rosati" ;
+      swrc:affiliation organization:sapienza-universita-di-roma ;
+      swrc:listAffiliation
+              "Sapienza Università di Roma" ;
+      foaf:firstName "Riccardo" ;
+      foaf:made iswc2012paper:evaluation-41 ;
+      foaf:mbox_sha1sum "347c5f7b49d6802f343668845c30c5e610d28a7f" ;
+      foaf:surname "Rosati" .
 
 organization:universidad-de-chile
       a       foaf:Organization ;
@@ -11832,7 +12100,7 @@ person:stefan-mirea
       swrc:listAffiliation
               "Jacobs University" ;
       foaf:firstName "Stefan" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-02 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-20 ;
       foaf:mbox_sha1sum "12ca7341d1a4d555fe6130fc28c5b32acc78a97a" ;
       foaf:surname "Mirea" .
 
@@ -11908,6 +12176,8 @@ organization:case-western-reserve-university
       foaf:member person:satya-sahoo .
 
 iswc2012talk:inuse-27
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-27 ;
       swc:isSubEventOf iswc2012session:inuse-02 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 2 .
 
@@ -12116,11 +12386,11 @@ iswc2012place:plaza
 
 iswc2012talk:keynote-2
       a       swc:TalkEvent ;
-      rdfs:label "Driving Innovation with Open Data and Interoperability" ;
+      rdfs:label "Keynote 2" ;
       swc:hasLocation iswc2012place:imperial ;
-      swc:hasRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2> ;
+      swc:hasRelatedDocument
+              iswc2012paper:keynote-2 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> ;
-      swrc:abstract "Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators." ;
       iCal:dtEnd "2012-11-14T10:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-14T09:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
@@ -12285,11 +12555,11 @@ organization:trient-consulting-group-s-r-l-italy
 
 iswc2012talk:keynote-3
       a       swc:TalkEvent ;
-      rdfs:label "Tackling Climate Change:  Unfinished Business from the Last \"Winter\"" ;
+      rdfs:label "Keynote 3" ;
       swc:hasLocation iswc2012place:imperial ;
-      swc:hasRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3> ;
+      swc:hasRelatedDocument
+              iswc2012paper:keynote-3 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> ;
-      swrc:abstract "In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web." ;
       iCal:dtEnd "2012-11-15T10:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-15T09:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
@@ -12313,7 +12583,7 @@ person:thomas-steiner
               "Google" ;
       foaf:firstName "Thomas" ;
       foaf:homepage <http://blog.tomayac.com> ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-02 , iswc2012paper:poster-demo-02 ;
+      foaf:made iswc2012paper:semantic-web-challenge-open-20 , iswc2012paper:poster-demo-02 ;
       foaf:mbox_sha1sum "08e16fa0ce4602315e959303c0f2f0b26a7cd4c2" ;
       foaf:surname "Steiner" .
 
@@ -12353,11 +12623,11 @@ person:freddy-lecue
 
 iswc2012talk:keynote-1
       a       swc:TalkEvent ;
-      rdfs:label "The Semantic Web and Collective Intelligence" ;
+      rdfs:label "Keynote 1" ;
       swc:hasLocation iswc2012place:imperial ;
-      swc:hasRole <http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1> ;
+      swc:hasRelatedDocument
+              iswc2012paper:keynote-1 ;
       swc:isSubEventOf <http://data.semanticweb.org/conference/iswc/2012> ;
-      swrc:abstract "The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence." ;
       iCal:dtEnd "2012-11-13T10:30:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
       iCal:dtStart "2012-11-13T09:00:00+05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
@@ -12594,6 +12864,8 @@ organization:mayo-clinic
       foaf:member person:jyotishman-pathak .
 
 iswc2012talk:inuse-26
+      swc:hasRelatedDocument
+              iswc2012paper:inuse-26 ;
       swc:isSubEventOf iswc2012session:inuse-04 , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:inuse ;
       swrc:orderInSession 3 .
 
@@ -12691,6 +12963,7 @@ iswc2012session:research-13
 iswc2012:semantic-web-challenge-proceedings
       a       swc:Proceedings ;
       rdfs:label "Proceedings of the Semantic Web Challenge 2012" ;
+      swc:relatedToEvent <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:semantic-web-challenge ;
       swrc:booktitle "Proceedings of the Semantic Web Challenge 2012" ;
       swrc:editor person:andreas-harth , person:diana-maynard ;
       swrc:listEditor "Diana Maynard, Andreas Harth" ;
@@ -13855,6 +14128,7 @@ person:do-heon-jeong
 iswc2012:poster-demo-proceedings
       a       swc:Proceedings ;
       rdfs:label "Proceedings of the ISWC 2012 Posters & Demonstrations Track" ;
+      swc:relatedToEvent iswc2012track:poster-demo , <http://data.semanticweb.org/conference/iswc/2012> ;
       dcterms:identifier "urn:nbn:de:0074-914-3" ;
       swrc:booktitle "Proceedings of the ISWC 2012 Posters & Demonstrations Track" ;
       swrc:editor person:birte-glimm , person:david-huynh ;
@@ -13901,7 +14175,7 @@ person:bastian-krayer
       swrc:listAffiliation
               "University of Koblenz and Landau" ;
       foaf:firstName "Bastian" ;
-      foaf:made iswc2012paper:semantic-web-challenge-btc-03 ;
+      foaf:made iswc2012paper:semantic-web-challenge-btc-01 ;
       foaf:mbox_sha1sum "4f0a569208cda2c1b6e84d2ed1e6050b203320eb" ;
       foaf:surname "Krayer" .
 
@@ -13975,6 +14249,7 @@ person:marco-ruzzi
 iswc2012:industry-proceedings
       a       swc:Proceedings ;
       rdfs:label "Proceedings of the ISWC 2012 Industry Track" ;
+      swc:relatedToEvent <http://data.semanticweb.org/conference/iswc/2012> , iswc2012track:industry ;
       swrc:booktitle "Proceedings of the ISWC 2012 Industry Track" ;
       swrc:editor person:tom-heath , person:ivan-herman , person:tim-berners-lee ;
       swrc:listEditor "Tim Berners-Lee,Tom Heath, Ivan Herman" ;
@@ -14194,6 +14469,8 @@ organization:national-technical-university-of-athens
       foaf:member person:giorgos-stoilos , person:ilianna-kollia .
 
 iswc2012talk:research-29
+      swc:hasRelatedDocument
+              iswc2012paper:research-29 ;
       swc:isSubEventOf iswc2012track:research , <http://data.semanticweb.org/conference/iswc/2012> , iswc2012session:research-10 ;
       swrc:orderInSession 2 .
 
@@ -14646,6 +14923,10 @@ person:kavitha-srinivas
       foaf:mbox_sha1sum "3524dd31de79a544b21dd104327c3c7eb9a9f139" ;
       foaf:surname "Srinivas" .
 
+<http://data.semanticweb.org/conference/iswc/2012/paper/research-03/authors>
+      a       rdf:Seq ;
+      rdf:_1  person:axel-cyrille-ngonga-ngomo .
+
 iswc2012paper:poster-demo-47
       a       swrc:InProceedings ;
       rdfs:label "A Prototype for Semantic based Diagnosis of Road Traffic Congestions" ;
@@ -14664,10 +14945,6 @@ iswc2012paper:poster-demo-47
       swrc:listKeyword "Semantic Data Streams,Semantic Cities,Semantic Data Itegration,Automated Diagnosis,Real World Application of Semantic Web" ;
       swrc:pdf <http://iswc2012.semanticweb.org/sites/default/files/paper_47.pdf> ;
       foaf:maker person:freddy-lecue , person:anika-schumann , person:marco-luca-sbodio .
-
-<http://data.semanticweb.org/conference/iswc/2012/paper/research-03/authors>
-      a       rdf:Seq ;
-      rdf:_1  person:axel-cyrille-ngonga-ngomo .
 
 organization:shizuoka-university
       a       foaf:Organization ;

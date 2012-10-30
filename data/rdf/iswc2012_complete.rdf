@@ -37,6 +37,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-14">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-14"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-05"/>
   </rdf:Description>
@@ -85,7 +86,7 @@
     <rdfs:label>Monash University</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/sambhawa-priya">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <foaf:mbox_sha1sum>974b04e6905f6a70f94024e5973cb6722ea9ef60</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Lehigh University</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/lehigh-university"/>
@@ -270,6 +271,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-34">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-34"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-12"/>
   </rdf:Description>
@@ -340,6 +342,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-15">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-15"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-05"/>
   </rdf:Description>
@@ -458,10 +461,14 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>Siemens AG Österreich</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3/authors">
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/complete">
-    <dgtwc:number_of_triples rdf:datatype="http://www.w3.org/2001/XMLSchema#long">15654</dgtwc:number_of_triples>
+    <dgtwc:number_of_triples rdf:datatype="http://www.w3.org/2001/XMLSchema#long">15865</dgtwc:number_of_triples>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/li-ding"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-29T23:44:36-0700</dcterms:modified>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-30T09:20:21-0700</dcterms:modified>
     <dcterms:hasVersion>iswc2012 metadata v20121029</dcterms:hasVersion>
     <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#Dataset"/>
   </rdf:Description>
@@ -560,12 +567,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-35">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-35"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-12"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-16">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-16"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-06"/>
   </rdf:Description>
@@ -684,6 +693,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-12">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-12"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-04"/>
   </rdf:Description>
@@ -835,6 +845,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-09">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-09"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-03"/>
   </rdf:Description>
@@ -850,6 +861,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-32">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-32"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-11"/>
   </rdf:Description>
@@ -903,6 +915,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-13">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-13"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-05"/>
   </rdf:Description>
@@ -1069,6 +1082,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-33">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-33"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-11"/>
   </rdf:Description>
@@ -1172,6 +1186,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-10">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-10"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-04"/>
   </rdf:Description>
@@ -1190,6 +1205,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-39">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-39"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-13"/>
   </rdf:Description>
@@ -1314,6 +1330,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-07">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-07"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-03"/>
   </rdf:Description>
@@ -1477,6 +1494,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-18">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-18"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-01"/>
   </rdf:Description>
@@ -1488,6 +1506,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-11">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-11"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-04"/>
   </rdf:Description>
@@ -1581,6 +1600,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-08">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-08"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-03"/>
   </rdf:Description>
@@ -1634,6 +1654,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-04">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-04"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-02"/>
   </rdf:Description>
@@ -1662,6 +1683,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-17">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-17"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-02"/>
   </rdf:Description>
@@ -1800,6 +1822,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-36">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-36"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-12"/>
   </rdf:Description>
@@ -1850,6 +1873,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-05">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-05"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-02"/>
   </rdf:Description>
@@ -1923,6 +1947,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-38">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-38"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-13"/>
   </rdf:Description>
@@ -1974,6 +1999,49 @@
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/the-boston-park-plaza-hotel-towers"/>
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#MeetingRoomPlace"/>
     <rdfs:label>Cambridge</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19">
+    <dc:subject>streaming linked data</dc:subject>
+    <rdfs:label>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</rdfs:label>
+    <dc:subject>twitter</dc:subject>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
+    <dcterms:subject>stream reasoning</dcterms:subject>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <dcterms:subject>real time analysis</dcterms:subject>
+    <dc:subject>stream reasoning</dc:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
+    <dc:title>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</dc:title>
+    <dcterms:subject>crowd attention</dcterms:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <swrc:listKeyword>stream reasoning,real time analysis,crowd movements,crowd attention,csparql,streaming linked data,linked data,twitter,social media,social media analysis,london2012 olympic games</swrc:listKeyword>
+    <dc:subject>social media</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <dcterms:subject>streaming linked data</dcterms:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <dc:subject>london2012 olympic games</dc:subject>
+    <dcterms:subject>twitter</dcterms:subject>
+    <swrc:abstract>To manage a big event require tracking in real time the movement of crowds. Solution based on mobile network data analysis are effective, but expensive. Obtaining comparable results by analysing public social stream has a clear commercial potential, especially considering that, being able to access also the content of a micro-post, the analysis can also track the attention of crowds.</swrc:abstract>
+    <dcterms:subject>social media</dcterms:subject>
+    <swrc:listAuthor>Marco Balduini and Emanuele Della Valle</swrc:listAuthor>
+    <dc:subject>social media analysis</dc:subject>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
+    <dcterms:subject>csparql</dcterms:subject>
+    <dc:subject>crowd movements</dc:subject>
+    <dc:subject>crowd attention</dc:subject>
+    <dcterms:subject>linked data</dcterms:subject>
+    <dc:subject>real time analysis</dc:subject>
+    <dc:subject>csparql</dc:subject>
+    <dc:subject>linked data</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_26.pdf"/>
+    <dcterms:subject>social media analysis</dcterms:subject>
+    <dcterms:subject>london2012 olympic games</dcterms:subject>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
+    <dcterms:title>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</dcterms:title>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19/authors"/>
+    <dcterms:subject>crowd movements</dcterms:subject>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/takahisa-fujino">
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-57"/>
@@ -2048,6 +2116,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-37">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-37"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-13"/>
   </rdf:Description>
@@ -2064,12 +2133,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-15">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-15"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-01"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-06">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-06"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-02"/>
   </rdf:Description>
@@ -2900,6 +2971,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-10">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-10"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-03"/>
   </rdf:Description>
@@ -2916,6 +2988,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-30">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-30"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-10"/>
   </rdf:Description>
@@ -2932,6 +3005,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-11">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-11"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-04"/>
   </rdf:Description>
@@ -3084,6 +3158,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-31">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-31"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-11"/>
   </rdf:Description>
@@ -3141,6 +3216,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-10">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-10"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-04"/>
   </rdf:Description>
@@ -3227,7 +3303,7 @@
     <rdfs:label>Chris Baillie</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/jeanne-holm">
-    <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2"/>
     <foaf:mbox_sha1sum>5c8f5d03a924ab105d1dfd3cf1a7d0e66269f7f1</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Data.gov, U.S. General Services Administration</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/data-gov-u-s-general-services-administration"/>
@@ -3480,6 +3556,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-12">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-12"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-04"/>
   </rdf:Description>
@@ -3756,6 +3833,41 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Yves Raimond</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21">
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dc:subject>events</dc:subject>
+    <dc:title>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</dc:title>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
+    <dc:subject>reconciliation</dc:subject>
+    <dc:subject>semantic web</dc:subject>
+    <dcterms:subject>events</dcterms:subject>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <dc:subject>social services</dc:subject>
+    <dcterms:subject>social services</dcterms:subject>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_29.pdf"/>
+    <dcterms:subject>reconciliation</dcterms:subject>
+    <dc:subject>media</dc:subject>
+    <swrc:listAuthor>Houda Khrouf, Vuk Milicic and Raphaël Troncy</swrc:listAuthor>
+    <rdfs:label>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</rdfs:label>
+    <dcterms:title>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</dcterms:title>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <dcterms:subject>media</dcterms:subject>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21/authors"/>
+    <swrc:abstract>An ever increasing amount of event-centric knowledge is spread over multiple social services, either materialized as calendar of events or illustrated by media items shared by people. Crawling data and mining in real-time events connection between these heterogeneous services is a key challenge to enhance events views. In this paper, we present Event-Media, a web-based environment that exploits real-time connections to deliver rich content describing events associated with media, and interlined with the Linked Data cloud. EventMedia exploits semantic web technologies and provides user-friendly interface with the aim to meet the user needs: relive experiences based on media, and support decision making for attending upcoming events.</swrc:abstract>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
+    <dcterms:subject>semantic web</dcterms:subject>
+    <swrc:listKeyword>events,media,semantic web,reconciliation,social services</swrc:listKeyword>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/centre-for-research-and-technology-hellas-certh-">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/dimitris-zeginis"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
@@ -3814,6 +3926,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-53">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-53"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-01"/>
   </rdf:Description>
@@ -4100,6 +4213,39 @@
     <foaf:member rdf:resource="http://data.semanticweb.org/person/tom-de-nies"/>
     <foaf:member rdf:resource="http://data.semanticweb.org/person/pedro-debevere"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20">
+    <swrc:abstract>With SEKI@home, which stands for Search for Embedded Knowledge Items, we propose a generic, browser extension-based approach for crowdsourcing the task of knowledge extraction from arbitrary Web pages. As people with the extension installed browse a targeted Web page, the extension sends extracted knowledge items according to the customizable extraction rules to a centralized, optionally publicly accessible triple store. Thereby, simply by browsing the Web as usual, participants in the knowledge extraction task can help make previously locked-in knowledge openly accessible, e.g., via the standard SPARQL protocol. We have implemented and made available a prototype browser extension, which, after customization and adaptation, can serve as the basis for future knowledge extraction tasks.</swrc:abstract>
+    <dcterms:subject>knowledge extraction</dcterms:subject>
+    <dcterms:subject>browser extension</dcterms:subject>
+    <dcterms:subject>json-ld</dcterms:subject>
+    <rdfs:label>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</rdfs:label>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
+    <dcterms:subject>semantic lifting</dcterms:subject>
+    <dc:subject>web scraping</dc:subject>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20/authors"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
+    <dc:subject>semantic lifting</dc:subject>
+    <dc:subject>json-ld</dc:subject>
+    <dcterms:title>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</dcterms:title>
+    <swrc:listKeyword>knowledge extraction,browser extension,seki@home,web scraping,json-ld,semantic lifting</swrc:listKeyword>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_28.pdf"/>
+    <dc:subject>seki@home</dc:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
+    <dc:subject>knowledge extraction</dc:subject>
+    <dc:title>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</dc:title>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
+    <swrc:listAuthor>Thomas Steiner and Stefan Mirea</swrc:listAuthor>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
+    <dc:subject>browser extension</dc:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dcterms:subject>seki@home</dcterms:subject>
+    <dcterms:subject>web scraping</dcterms:subject>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/riichiro-mizoguchi">
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-51"/>
     <foaf:mbox_sha1sum>36f7c5e541fbc21084f8bc4c85215922ab342097</foaf:mbox_sha1sum>
@@ -4316,12 +4462,6 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Trond Aalberg</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/organization/technical-university-of-hamburg">
-    <foaf:member rdf:resource="http://data.semanticweb.org/person/ralf-moller"/>
-    <foaf:member rdf:resource="http://data.semanticweb.org/person/ozgur-lutfu-ozcep"/>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-    <rdfs:label>Technical University of Hamburg</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-07">
     <dcterms:title>Semantic Enrichment by Non-Experts: Usability of Manual Annotation Tools</dcterms:title>
     <swrc:author rdf:resource="http://data.semanticweb.org/person/annika-hinze"/>
@@ -4359,6 +4499,12 @@
     <dc:creator rdf:resource="http://data.semanticweb.org/person/markus-luczak-rosch"/>
     <dcterms:subject>manual semantic annotation</dcterms:subject>
     <swrc:listKeyword>manual semantic annotation,non-expert users,usability</swrc:listKeyword>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/technical-university-of-hamburg">
+    <foaf:member rdf:resource="http://data.semanticweb.org/person/ralf-moller"/>
+    <foaf:member rdf:resource="http://data.semanticweb.org/person/ozgur-lutfu-ozcep"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdfs:label>Technical University of Hamburg</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/brandeis-university">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/james-pustejovsky"/>
@@ -4448,7 +4594,7 @@
     <rdfs:label>Royal Military College of Canada</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/houda-khrouf">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21"/>
     <foaf:mbox_sha1sum>e39c392263ad57cf60842b95a317046560efd4d4</foaf:mbox_sha1sum>
     <swrc:listAffiliation>EURECOM</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/eurecom"/>
@@ -4732,6 +4878,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-54">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-54"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-01"/>
   </rdf:Description>
@@ -4865,6 +5012,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-58">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-58"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-03"/>
   </rdf:Description>
@@ -4927,12 +5075,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-78">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-78"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-02"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-17">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-17"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-05"/>
   </rdf:Description>
@@ -5182,7 +5332,7 @@
     <rdfs:label>Lehigh University</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/thomas-gottron">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
     <foaf:mbox_sha1sum>9c5c70601201113cdb69fc9026b89b5ea04067f0</foaf:mbox_sha1sum>
     <swrc:listAffiliation>University of Koblenz and Landau</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/university-of-koblenz-and-landau"/>
@@ -5434,6 +5584,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-18">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-18"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-05"/>
   </rdf:Description>
@@ -5512,6 +5663,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-39">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-39"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-02"/>
   </rdf:Description>
@@ -5861,6 +6013,10 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>NICT</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2/authors">
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/roger-hall">
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-48"/>
     <swrc:listAffiliation>UALR</swrc:listAffiliation>
@@ -5965,8 +6121,12 @@
     <rdfs:label>Holger Wache</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02/authors">
-    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
-    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
+    <rdf:_6 rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <rdf:_5 rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
+    <rdf:_4 rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
+    <rdf:_3 rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/qunzhi-zhou">
@@ -6242,6 +6402,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-32">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-32"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-04"/>
   </rdf:Description>
@@ -6537,6 +6698,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-41">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-41"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-02"/>
   </rdf:Description>
@@ -6560,6 +6722,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-03">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-03"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-01"/>
   </rdf:Description>
@@ -6918,6 +7081,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-02">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-02"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-01"/>
   </rdf:Description>
@@ -7274,7 +7438,7 @@
     <dcterms:subject>Semantic Web</dcterms:subject>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/kelly-reynolds">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <foaf:mbox_sha1sum>a47e5aefc4755f4f150b16741fb248eb1bde8daf</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Lehigh University</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/lehigh-university"/>
@@ -7286,17 +7450,19 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-35">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-35"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-06"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-01">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-01"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-01"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/xingjian-zhang">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <foaf:mbox_sha1sum>a50f4191e3e209b66518184da03845c8a3a4a475</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Lehigh University</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/lehigh-university"/>
@@ -7684,10 +7850,32 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Olivier Curé</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1/authors">
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/yahoo!-research-silicon-valley">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/david-shamma"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>Yahoo! Research Silicon Valley</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1">
+    <dc:identifier>76500454</dc:identifier>
+    <swrc:listAuthor>Thomas Malone</swrc:listAuthor>
+    <rdfs:label>The Semantic Web and Collective Intelligence</rdfs:label>
+    <swrc:abstract>The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence.</swrc:abstract>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-1"/>
+    <dc:title>The Semantic Web and Collective Intelligence</dc:title>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
+    <swrc:idLncs>76500454</swrc:idLncs>
+    <dcterms:title>The Semantic Web and Collective Intelligence</dcterms:title>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1/authors"/>
+    <swrc:pdf rdf:resource="http://iswc2012.semanticweb.org/sites/default/files/76500454.pdf"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/industry-04/authors">
     <rdf:_2 rdf:resource="http://data.semanticweb.org/person/michael-schmidt"/>
@@ -7766,6 +7954,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/proceedings">
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#Proceedings"/>
     <swrc:listEditor>Philippe Cudré-Mauroux, Jeff Heflin, Evren Sirin, Tania Tudorache, Jérôme Euzenat, Manfred Hauswirth, Josiane Xavier Parreira, Jim Hendler, Guus Schreiber, Abraham Bernstein, Eva Blomqvist</swrc:listEditor>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swrc:booktitle>Proceedings of 11th International Semantic Web Conference (ISWC2012), November 11 - November 15, 2012</swrc:booktitle>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/jerome-euzenat"/>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/evren-sirin"/>
@@ -7804,15 +7993,30 @@
     <rdfs:label>Mark Greaves</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/special/doctoral-consortium">
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-13"/>
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#SpecialEvent"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-08"/>
     <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-12T17:30:00+05:00</iCal:dtEnd>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-11"/>
     <foaf:homepage rdf:resource="http://iswc2012.semanticweb.org/doctoral-consortium"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-03"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-06"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-14"/>
     <swrc:abstract>The ISWC 2012 Doctoral Consortium will take place as part of the 11th International Semantic Web Conference in Boston, US. This forum will provide PhD students an opportunity to share and develop their research ideas in a critical but supportive environment, get feedback from mentors who are senior members of the Semantic Web research community, explore issues related to academic and research careers, and build relationships with other Semantic Web PhD students from around the world. The Consortium aims to broaden the perspectives and improve the research and communication skills of these students as a way to contribute both to the individuals as well as to the broader research community.</swrc:abstract>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-01"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-04"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-12"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-09"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-15"/>
     <rdfs:label>Doctoral Consortium</rdfs:label>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-07"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-10"/>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/whittier"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/doctoral-consortium"/>
     <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-12T09:00:00+05:00</iCal:dtStart>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-02"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/doctor-consortium-05"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/volker-haarslev">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
@@ -8076,6 +8280,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-19">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-19"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-07"/>
   </rdf:Description>
@@ -8457,8 +8662,27 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-18">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-18"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3">
+    <swrc:pdf rdf:resource="http://iswc2012.semanticweb.org/sites/default/files/76500456.pdf"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-3"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <dc:title>Tackling Climate Change:  Unfinished Business from the Last "Winter"</dc:title>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
+    <dcterms:title>Tackling Climate Change:  Unfinished Business from the Last "Winter"</dcterms:title>
+    <dc:identifier>76500456</dc:identifier>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
+    <swrc:idLncs>76500456</swrc:idLncs>
+    <swrc:abstract>In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web.</swrc:abstract>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3/authors"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
+    <rdfs:label>Tackling Climate Change:  Unfinished Business from the Last "Winter"</rdfs:label>
+    <swrc:listAuthor>Mark A. Musen</swrc:listAuthor>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/bert-van-nuffelen">
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51"/>
@@ -8650,6 +8874,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-10">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-10"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-05"/>
   </rdf:Description>
@@ -8904,8 +9129,27 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-17">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-17"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2">
+    <rdfs:label>Driving Innovation with Open Data and Interoperability</rdfs:label>
+    <dcterms:title>Driving Innovation with Open Data and Interoperability</dcterms:title>
+    <swrc:idLncs>76500455</swrc:idLncs>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-2"/>
+    <swrc:pdf rdf:resource="http://iswc2012.semanticweb.org/sites/default/files/76500455.pdf"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
+    <dc:identifier>76500455</dc:identifier>
+    <swrc:abstract>Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators.</swrc:abstract>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
+    <swrc:listAuthor>Jeanne Holm</swrc:listAuthor>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2/authors"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <dc:title>Driving Innovation with Open Data and Interoperability</dc:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/garlik">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/steve-harris"/>
@@ -9235,6 +9479,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-24">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-24"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-08"/>
   </rdf:Description>
@@ -9318,37 +9563,49 @@
     <rdfs:label>Avigdor Gal</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02">
-    <dcterms:subject>json-ld</dcterms:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
-    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02/authors"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
-    <dc:subject>knowledge extraction</dc:subject>
-    <dcterms:subject>knowledge extraction</dcterms:subject>
-    <swrc:listAuthor>Thomas Steiner and Stefan Mirea</swrc:listAuthor>
-    <dc:subject>semantic lifting</dc:subject>
-    <dc:subject>web scraping</dc:subject>
-    <rdfs:label>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</rdfs:label>
-    <swrc:listKeyword>knowledge extraction,browser extension,seki@home,web scraping,json-ld,semantic lifting</swrc:listKeyword>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
-    <dcterms:subject>seki@home</dcterms:subject>
-    <dcterms:title>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</dcterms:title>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
-    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
-    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_28.pdf"/>
-    <dc:title>SEKI@home, a Generic Approach for Crowdsourcing Knowledge Extraction from Arbitrary Web Pages</dc:title>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
-    <dcterms:subject>web scraping</dcterms:subject>
-    <dcterms:subject>browser extension</dcterms:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
+    <swrc:listAuthor>Xingjian Zhang, Dezhao Song, Sambhawa Priya, Zachary Daniels, Kelly Reynolds and Jeff Heflin</swrc:listAuthor>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
+    <rdfs:label>Exploring the Linked Data Cloud via Contextual Tag Cloud</rdfs:label>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <dcterms:subject>semantic lifting</dcterms:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
-    <dc:subject>seki@home</dc:subject>
-    <dc:subject>browser extension</dc:subject>
-    <swrc:abstract>With SEKI@home, which stands for Search for Embedded Knowledge Items, we propose a generic, browser extension-based approach for crowdsourcing the task of knowledge extraction from arbitrary Web pages. As people with the extension installed browse a targeted Web page, the extension sends extracted knowledge items according to the customizable extraction rules to a centralized, optionally publicly accessible triple store. Thereby, simply by browsing the Web as usual, participants in the knowledge extraction task can help make previously locked-in knowledge openly accessible, e.g., via the standard SPARQL protocol. We have implemented and made available a prototype browser extension, which, after customization and adaptation, can serve as the basis for future knowledge extraction tasks.</swrc:abstract>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
-    <dc:subject>json-ld</dc:subject>
+    <swrc:listKeyword>Linked Open Data,Tag Cloud Browsing,Billion Triples Challenge,Semantic Web Exploration</swrc:listKeyword>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
+    <dc:title>Exploring the Linked Data Cloud via Contextual Tag Cloud</dc:title>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
+    <dc:subject>Billion Triples Challenge</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
+    <dc:subject>Semantic Web Exploration</dc:subject>
+    <dc:subject>Tag Cloud Browsing</dc:subject>
+    <dcterms:title>Exploring the Linked Data Cloud via Contextual Tag Cloud</dcterms:title>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <dcterms:subject>Billion Triples Challenge</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
+    <dcterms:subject>Semantic Web Exploration</dcterms:subject>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_27.pdf"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
+    <dcterms:subject>Tag Cloud Browsing</dcterms:subject>
+    <dc:subject>Linked Open Data</dc:subject>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02/authors"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <dcterms:subject>Linked Open Data</dcterms:subject>
+    <swrc:abstract>We present the contextual tag cloud system, where the context defines a subset of instances, the tags are ontological terms (classes and properties), and the font sizes reflect the number of instances that use each tag. With our system, users can get familiar with the terms and understand how the dataset is populated; or they can dynamically add tags as context and investigate features or look at instances within the constrained subset. With a domain knowledge base, this system helps reveal the patterns of data. For the massive Linked Open Data cloud, it reveals the extent to which data are linked with regard to both the equivalent instances and ontology alignment. In order to achieve this function, we precompute the owl:sameAs closure, and support multiple levels of RDFS entailment. By using an inverted index and pruning algorithms, we design and implement a real time response system for the Billion Triple Challenge dataset.  This submission is for the Billion Triples track in Semantic Web Challenge. Our system is available at http://gimli.cse.lehigh.edu:8080/btc/</swrc:abstract>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/chair/session/research-11">
     <swc:isRoleAt rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-11"/>
@@ -9496,10 +9753,12 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-25">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-25"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-09"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/mark-a-musen">
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Mark A. Musen</rdfs:label>
     <swrc:listAffiliation>Stanford University</swrc:listAffiliation>
@@ -9509,7 +9768,6 @@
     <foaf:firstName>Mark</foaf:firstName>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/stanford-university"/>
     <foaf:mbox_sha1sum>60602b405f9d456ffc0e30d22d535100159b7874</foaf:mbox_sha1sum>
-    <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/tomi-kauppinen">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/lisc/2012/chair"/>
@@ -9535,51 +9793,48 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-09">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-09"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-03"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01">
+    <dc:title>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</dc:title>
+    <dcterms:subject>retrieval</dcterms:subject>
+    <swrc:listAuthor>Thomas Gottron, Ansgar Scherp, Bastian Krayer and Arne Peters</swrc:listAuthor>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
+    <dcterms:subject>schema based LOD discovery</dcterms:subject>
+    <dcterms:subject>schema index</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
+    <dc:subject>user support</dc:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
     <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <dc:title>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</dc:title>
-    <dc:subject>london2012 olympic games</dc:subject>
-    <dc:subject>stream reasoning</dc:subject>
-    <swrc:listAuthor>Marco Balduini and Emanuele Della Valle</swrc:listAuthor>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
-    <dcterms:subject>london2012 olympic games</dcterms:subject>
-    <dcterms:subject>stream reasoning</dcterms:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_26.pdf"/>
-    <dc:subject>linked data</dc:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
+    <dcterms:subject>semantic search</dcterms:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
+    <dc:subject>schema index</dc:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
+    <swrc:listKeyword>retrieval,schema index,schema based LOD discovery,user support,semantic search</swrc:listKeyword>
+    <dc:subject>schema based LOD discovery</dc:subject>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_19.pdf"/>
+    <dc:subject>semantic search</dc:subject>
+    <swrc:abstract>Searching for Linked Open Data (LOD) has yet not reached the easiness and comfort we are accustomed with when using document search engines such as Google. To get closer to this "Google feeling" when searching for LOD, we have developed LODatio. Our system supports various kinds of queries on LOD such as searching for LOD sources containing specific types, properties, sets of types and properties, as well as their relations. The LOD sources are ranked along with the number of instances found that match the query. In addition, LODatio provides Google-style features such as "Did you mean?" and "Related queries" that allow the users for refining and broadening their queries.</swrc:abstract>
+    <dcterms:title>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</dcterms:title>
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
-    <dc:subject>crowd attention</dc:subject>
-    <dcterms:subject>twitter</dcterms:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
-    <rdfs:label>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</rdfs:label>
-    <swrc:listKeyword>stream reasoning,real time analysis,crowd movements,crowd attention,csparql,streaming linked data,linked data,twitter,social media,social media analysis,london2012 olympic games</swrc:listKeyword>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
-    <dcterms:title>Tracking Movements and Attention of Crowds in Real Time Analysing Social Streams The case of London 2012 Open Ceremony</dcterms:title>
-    <dc:subject>twitter</dc:subject>
-    <dcterms:subject>streaming linked data</dcterms:subject>
-    <dc:subject>social media</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
-    <dcterms:subject>real time analysis</dcterms:subject>
-    <dcterms:subject>crowd attention</dcterms:subject>
-    <dcterms:subject>crowd movements</dcterms:subject>
-    <dc:subject>real time analysis</dc:subject>
-    <swrc:abstract>To manage a big event require tracking in real time the movement of crowds. Solution based on mobile network data analysis are effective, but expensive. Obtaining comparable results by analysing public social stream has a clear commercial potential, especially considering that, being able to access also the content of a micro-post, the analysis can also track the attention of crowds.</swrc:abstract>
-    <dc:subject>crowd movements</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
-    <dcterms:subject>linked data</dcterms:subject>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
     <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01/authors"/>
-    <dcterms:subject>social media</dcterms:subject>
-    <dc:subject>streaming linked data</dc:subject>
-    <dc:subject>csparql</dc:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
-    <dcterms:subject>csparql</dcterms:subject>
+    <rdfs:label>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</rdfs:label>
+    <dc:subject>retrieval</dc:subject>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
+    <dcterms:subject>user support</dcterms:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
-    <dcterms:subject>social media analysis</dcterms:subject>
-    <dc:subject>social media analysis</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/swiss-federal-institute-for-forest-snow-and-landscape-research">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/rolf-grutter"/>
@@ -9628,8 +9883,8 @@
     <foaf:homepage rdf:resource="http://www.emanueledellavalle.org"/>
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-13"/>
     <foaf:surname>Della Valle</foaf:surname>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
     <rdfs:label>Emanuele Della Valle</rdfs:label>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19"/>
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-78"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-33">
@@ -9662,7 +9917,7 @@
     <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-33"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/zachary-daniels">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <foaf:mbox_sha1sum>b33acc5a64c946c76e5579fb0525a8a6bbd6cba5</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Lehigh University</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/lehigh-university"/>
@@ -9722,6 +9977,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-26">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-26"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-09"/>
   </rdf:Description>
@@ -9751,6 +10007,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-07">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-07"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-03"/>
   </rdf:Description>
@@ -9854,12 +10111,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-08">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-08"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-03"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-27">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-27"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-09"/>
   </rdf:Description>
@@ -9997,6 +10256,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-06">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-06"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-02"/>
   </rdf:Description>
@@ -10098,6 +10358,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-28">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-28"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-10"/>
   </rdf:Description>
@@ -10143,136 +10404,37 @@
     <rdfs:label>University of Zurich</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03">
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
-    <rdfs:label>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</rdfs:label>
-    <dcterms:subject>schema based LOD discovery</dcterms:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
-    <dc:subject>schema index</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
-    <dcterms:subject>Linked Open Data</dcterms:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
-    <dc:title>LODPeas: Like peas in a LOD (cloud)</dc:title>
-    <dc:title>Exploring the Linked Data Cloud via Contextual Tag Cloud</dc:title>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
-    <dcterms:subject>user support</dcterms:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
-    <swrc:listAuthor>Xingjian Zhang, Dezhao Song, Sambhawa Priya, Zachary Daniels, Kelly Reynolds and Jeff Heflin</swrc:listAuthor>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
-    <dc:subject>semantic web</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
-    <dc:subject>reconciliation</dc:subject>
-    <dcterms:subject>Tag Cloud Browsing</dcterms:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
-    <dcterms:subject>reconciliation</dcterms:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
-    <dc:subject>entity search</dc:subject>
-    <rdfs:label>LODPeas: Like peas in a LOD (cloud)</rdfs:label>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
-    <dc:subject>linked data</dc:subject>
-    <dc:subject>Billion Triples Challenge</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
-    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
-    <dc:subject>Semantic Web Exploration</dc:subject>
-    <dcterms:title>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</dcterms:title>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
-    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03/authors"/>
-    <rdfs:label>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</rdfs:label>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
-    <dcterms:subject>social services</dcterms:subject>
-    <dcterms:subject>retrieval</dcterms:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
-    <dc:subject>semantic search</dc:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
-    <swrc:listKeyword>linked data,semantic web,similarity,entity search</swrc:listKeyword>
-    <dcterms:subject>entity search</dcterms:subject>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
-    <dcterms:subject>linked data</dcterms:subject>
-    <dc:subject>Linked Open Data</dc:subject>
-    <dcterms:title>Exploring the Linked Data Cloud via Contextual Tag Cloud</dcterms:title>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
-    <swrc:listAuthor>Thomas Gottron, Ansgar Scherp, Bastian Krayer and Arne Peters</swrc:listAuthor>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
-    <dc:subject>events</dc:subject>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_27.pdf"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_29.pdf"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
-    <dc:title>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</dc:title>
     <swrc:listAuthor>Aidan Hogan, Emir Muñoz and Jürgen Umbrich</swrc:listAuthor>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_19.pdf"/>
-    <dcterms:subject>schema index</dcterms:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
-    <swrc:listKeyword>retrieval,schema index,schema based LOD discovery,user support,semantic search</swrc:listKeyword>
-    <dc:subject>Tag Cloud Browsing</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
-    <dcterms:subject>semantic web</dcterms:subject>
-    <dc:subject>user support</dc:subject>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
-    <dc:subject>retrieval</dc:subject>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
-    <dcterms:title>LODPeas: Like peas in a LOD (cloud)</dcterms:title>
-    <rdfs:label>Exploring the Linked Data Cloud via Contextual Tag Cloud</rdfs:label>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
-    <dc:subject>social services</dc:subject>
-    <dcterms:subject>media</dcterms:subject>
-    <swrc:abstract>Searching for Linked Open Data (LOD) has yet not reached the easiness and comfort we are accustomed with when using document search engines such as Google. To get closer to this "Google feeling" when searching for LOD, we have developed LODatio. Our system supports various kinds of queries on LOD such as searching for LOD sources containing specific types, properties, sets of types and properties, as well as their relations. The LOD sources are ranked along with the number of instances found that match the query. In addition, LODatio provides Google-style features such as "Did you mean?" and "Related queries" that allow the users for refining and broadening their queries.</swrc:abstract>
-    <dc:title>EventMedia Live: Exploring Events Connections in Real-Time to Enhance Content</dc:title>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
-    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
-    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_30.pdf"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
-    <dcterms:subject>semantic search</dcterms:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
-    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
-    <dc:subject>media</dc:subject>
-    <swrc:abstract>An ever increasing amount of event-centric knowledge is spread over multiple social services, either materialized as calendar of events or illustrated by media items shared by people. Crawling data and mining in real-time events connection between these heterogeneous services is a key challenge to enhance events views. In this paper, we present Event-Media, a web-based environment that exploits real-time connections to deliver rich content describing events associated with media, and interlined with the Linked Data cloud. EventMedia exploits semantic web technologies and provides user-friendly interface with the aim to meet the user needs: relive experiences based on media, and support decision making for attending upcoming events.</swrc:abstract>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
-    <dcterms:subject>Billion Triples Challenge</dcterms:subject>
-    <swrc:listKeyword>Linked Open Data,Tag Cloud Browsing,Billion Triples Challenge,Semantic Web Exploration</swrc:listKeyword>
-    <dc:subject>schema based LOD discovery</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
-    <swrc:abstract>We present LODPeas: a system for browsing entities that are found to share many things in common in an RDF dataset. The system first offers standard keyword search to locate a focus entity. Once a focus entity has been found, other entities that share a lot in common with it are displayed in a graph-based visualisation. The degree to which two entities have a lot in common---their level of concurrence---is scored by looking at attributes (property--value pairs) that they share: attributes that are shared by few other entities are given higher weight, and additional shared attributes imply a stronger score. LODPeas is designed to scale for billions of triples and is built in an (almost) entirely domain-agnostic fashion, built on top of the RDF standards themselves and not requiring any domain-specific input. Herein, we describe the functionality of LODPeas, how the system was built over the BTC'12, and discuss possible applications.</swrc:abstract>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
-    <dcterms:subject>Semantic Web Exploration</dcterms:subject>
-    <swrc:listKeyword>events,media,semantic web,reconciliation,social services</swrc:listKeyword>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
-    <swrc:abstract>We present the contextual tag cloud system, where the context defines a subset of instances, the tags are ontological terms (classes and properties), and the font sizes reflect the number of instances that use each tag. With our system, users can get familiar with the terms and understand how the dataset is populated; or they can dynamically add tags as context and investigate features or look at instances within the constrained subset. With a domain knowledge base, this system helps reveal the patterns of data. For the massive Linked Open Data cloud, it reveals the extent to which data are linked with regard to both the equivalent instances and ontology alignment. In order to achieve this function, we precompute the owl:sameAs closure, and support multiple levels of RDFS entailment. By using an inverted index and pruning algorithms, we design and implement a real time response system for the Billion Triple Challenge dataset.  This submission is for the Billion Triples track in Semantic Web Challenge. Our system is available at http://gimli.cse.lehigh.edu:8080/btc/</swrc:abstract>
-    <dcterms:subject>events</dcterms:subject>
-    <dcterms:subject>similarity</dcterms:subject>
-    <dc:subject>similarity</dc:subject>
-    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
-    <foaf:maker rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
-    <swrc:listAuthor>Houda Khrouf, Vuk Milicic and Raphaël Troncy</swrc:listAuthor>
-    <dcterms:title>Get the Google Feeling: Supporting Users in Finding Relevant Sources of Linked Open Data at Web-Scale</dcterms:title>
-    <dc:creator rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
-    <swrc:author rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
+    <bibo:authorList rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03/authors"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
+    <swrc:pdf rdf:resource="http://challenge.semanticweb.org/2012/submissions/swc2012_submission_30.pdf"/>
     <dc:creator rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
+    <dcterms:subject>entity search</dcterms:subject>
+    <dc:subject>entity search</dc:subject>
+    <dcterms:subject>linked data</dcterms:subject>
+    <dc:subject>semantic web</dc:subject>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
+    <dc:title>LODPeas: Like peas in a LOD (cloud)</dc:title>
+    <dc:subject>similarity</dc:subject>
+    <dcterms:subject>similarity</dcterms:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#InProceedings"/>
+    <rdfs:label>LODPeas: Like peas in a LOD (cloud)</rdfs:label>
+    <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings"/>
+    <swrc:abstract>We present LODPeas: a system for browsing entities that are found to share many things in common in an RDF dataset. The system first offers standard keyword search to locate a focus entity. Once a focus entity has been found, other entities that share a lot in common with it are displayed in a graph-based visualisation. The degree to which two entities have a lot in common---their level of concurrence---is scored by looking at attributes (property--value pairs) that they share: attributes that are shared by few other entities are given higher weight, and additional shared attributes imply a stronger score. LODPeas is designed to scale for billions of triples and is built in an (almost) entirely domain-agnostic fashion, built on top of the RDF standards themselves and not requiring any domain-specific input. Herein, we describe the functionality of LODPeas, how the system was built over the BTC'12, and discuss possible applications.</swrc:abstract>
+    <swrc:author rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
+    <dcterms:subject>semantic web</dcterms:subject>
+    <dc:subject>linked data</dc:subject>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception"/>
+    <dc:creator rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
+    <swrc:listKeyword>linked data,semantic web,similarity,entity search</swrc:listKeyword>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
+    <foaf:maker rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
+    <dcterms:creator rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
+    <dcterms:title>LODPeas: Like peas in a LOD (cloud)</dcterms:title>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-35">
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/rafael-s-goncalves"/>
@@ -10353,6 +10515,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-20">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-20"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-07"/>
   </rdf:Description>
@@ -10398,12 +10561,6 @@
     <foaf:member rdf:resource="http://data.semanticweb.org/person/pavel-klinov"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>University of Ulm</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2">
-    <swc:isRoleAt rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-2"/>
-    <swc:heldBy rdf:resource="http://data.semanticweb.org/person/jeanne-holm"/>
-    <rdfs:label>ISWC2012 Keynote Speaker</rdfs:label>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#KeynoteSpeaker"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/industry-07">
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/industry-proceedings"/>
@@ -10634,6 +10791,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-21">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-21"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-07"/>
   </rdf:Description>
@@ -10700,12 +10858,6 @@
     <foaf:member rdf:resource="http://data.semanticweb.org/person/bojan-bozic"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>Austrian Institute of Technology</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1">
-    <swc:isRoleAt rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-1"/>
-    <swc:heldBy rdf:resource="http://data.semanticweb.org/person/thomas-malone"/>
-    <rdfs:label>ISWC2012 Keynote Speaker</rdfs:label>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#KeynoteSpeaker"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/siemens-ag">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/alois-haselboeck"/>
@@ -10948,6 +11100,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-27">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-27"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-03"/>
   </rdf:Description>
@@ -11009,6 +11162,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-22">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-22"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-08"/>
   </rdf:Description>
@@ -11045,13 +11199,13 @@
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/chair/session/research-10"/>
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-02"/>
     <foaf:homepage rdf:resource="http://www.eurecom.fr/~troncy"/>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/derive/2012/chair"/>
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
     <foaf:mbox_sha1sum>76b8645ac23d412d99c23dd95e0fbbe092d3f730</foaf:mbox_sha1sum>
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-54"/>
     <rdfs:label>Raphaël Troncy</rdfs:label>
     <swrc:listAffiliation>EURECOM</swrc:listAffiliation>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21"/>
     <foaf:surname>Troncy</foaf:surname>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/alessandro-bozzon">
@@ -11102,17 +11256,72 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/special/poster-demo-swc-reception">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/poster-demo"/>
-    <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T21:00:00+05:00</iCal:dtEnd>
-    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T18:30:00+05:00</iCal:dtStart>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#SpecialEvent"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-26"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-22"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-27"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-06"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-23"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-02"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-29"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-08"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-04"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-11"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-59"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-20"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-01"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-34"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-15"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-43"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-57"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
-    <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
-    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/semantic-web-challenge"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-64"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-10"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-14"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-28"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-07"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-24"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-03"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-09"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-05"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-10"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-12"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-02"/>
+    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#SpecialEvent"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-13"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-41"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-01"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20"/>
     <rdfs:label>Poster/Demo Session, Semantic Web Challenge and Reception</rdfs:label>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-47"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-54"/>
+    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T18:30:00+05:00</iCal:dtStart>
+    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/semantic-web-challenge"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-39"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-18"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-14"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-37"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-16"/>
+    <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-42"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-17"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-45"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-51"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-11"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-16"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-12"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-18"/>
+    <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T21:00:00+05:00</iCal:dtEnd>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-61"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-48"/>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/plaza"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/arne-peters">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
     <foaf:mbox_sha1sum>b6bb83df9d222533f57914ce8deb43f53e7d5699</foaf:mbox_sha1sum>
     <swrc:listAffiliation>University of Koblenz and Landau</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/university-of-koblenz-and-landau"/>
@@ -11259,15 +11468,16 @@
     <swrc:listAffiliation>Lehigh University</swrc:listAffiliation>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/lehigh-university"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <rdfs:label>Dezhao Song</rdfs:label>
     <foaf:firstName>Dezhao</foaf:firstName>
     <foaf:mbox_sha1sum>824fc6ddb4837dfb6a25ed5077be0bddce8aa377</foaf:mbox_sha1sum>
     <foaf:surname>Song</foaf:surname>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-23">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-23"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-08"/>
   </rdf:Description>
@@ -11403,11 +11613,11 @@
     <foaf:surname>Malone</foaf:surname>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/mit-sloan-school-of-management"/>
     <swrc:listAffiliation>MIT Sloan School of Management</swrc:listAffiliation>
-    <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1"/>
     <foaf:firstName>Thomas</foaf:firstName>
     <swrc:bio>Thomas W. Malone from MITs Sloan School of Management has been confirmed as the first keynote speaker for ISWC 2012. Tom heads the Center for Collective Intelligence at MIT, where he investigates how new organizations can be designed to take advantage of the possibilities provided by information technology. Toms more recent research work studies the future or work and, in particular, the transformative capabilities of collective intelligence.</swrc:bio>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <foaf:mbox_sha1sum>7d4e8f673f0eddcb502e79be07481c507f9bc7f4</foaf:mbox_sha1sum>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/chris-welty">
     <foaf:surname>Welty</foaf:surname>
@@ -11501,12 +11711,6 @@
     <foaf:firstName>Hamdi</foaf:firstName>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Hamdi Aloulou</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3">
-    <swc:isRoleAt rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-3"/>
-    <swc:heldBy rdf:resource="http://data.semanticweb.org/person/mark-a-musen"/>
-    <rdfs:label>ISWC2012 Keynote Speaker</rdfs:label>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#KeynoteSpeaker"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-39">
     <swrc:pdf rdf:resource="http://iswc2012.semanticweb.org/sites/default/files/76490401.pdf"/>
@@ -11876,6 +12080,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-01">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-01"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-01"/>
   </rdf:Description>
@@ -12047,7 +12252,7 @@
     <rdfs:label>SAIC</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/vuk-milicic">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21"/>
     <foaf:mbox_sha1sum>e5e23d019a366e4b781cd0e530c318f9b8c99fdb</foaf:mbox_sha1sum>
     <swrc:listAffiliation>EURECOM</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/eurecom"/>
@@ -12427,6 +12632,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-72">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-72"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-06"/>
   </rdf:Description>
@@ -12456,6 +12662,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-09">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-09"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-06"/>
   </rdf:Description>
@@ -12662,6 +12869,11 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Feroz Farazi</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19/authors">
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/workshop/wop/2012">
     <dcterms:subject> semantic web design patterns</dcterms:subject>
     <dc:subject> linked data patterns</dc:subject>
@@ -12724,6 +12936,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-40">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-40"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-14"/>
   </rdf:Description>
@@ -12742,8 +12955,8 @@
     <rdfs:label>Jeff Heflin</rdfs:label>
     <foaf:surname>Heflin</foaf:surname>
     <foaf:homepage rdf:resource="http://www.cse.lehigh.edu/%7Eheflin"/>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
     <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <foaf:mbox_sha1sum>1d8b1638f1c01384c2d034bb1853ecbe8952a4aa</foaf:mbox_sha1sum>
     <foaf:firstName>Jeff</foaf:firstName>
     <foaf:homepage rdf:resource="http://www.cse.lehigh.edu/~heflin"/>
@@ -12817,6 +13030,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-05">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-05"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-02"/>
   </rdf:Description>
@@ -12940,6 +13154,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-51">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-51"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-01"/>
   </rdf:Description>
@@ -12966,6 +13181,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-41">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-41"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-14"/>
   </rdf:Description>
@@ -13056,12 +13272,14 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-04">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-04"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-02"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-71">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-71"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-04"/>
   </rdf:Description>
@@ -13128,23 +13346,10 @@
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#Chair"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03/authors">
-    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <rdf:_3 rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
-    <rdf:_11 rdf:resource="http://data.semanticweb.org/person/zachary-daniels"/>
-    <rdf:_14 rdf:resource="http://data.semanticweb.org/person/aidan-hogan"/>
-    <rdf:_12 rdf:resource="http://data.semanticweb.org/person/kelly-reynolds"/>
-    <rdf:_7 rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
-    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
-    <rdf:_4 rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
-    <rdf:_15 rdf:resource="http://data.semanticweb.org/person/emir-munoz"/>
-    <rdf:_8 rdf:resource="http://data.semanticweb.org/person/xingjian-zhang"/>
-    <rdf:_10 rdf:resource="http://data.semanticweb.org/person/sambhawa-priya"/>
-    <rdf:_9 rdf:resource="http://data.semanticweb.org/person/dezhao-song"/>
-    <rdf:_6 rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
-    <rdf:_16 rdf:resource="http://data.semanticweb.org/person/jurgen-umbrich"/>
-    <rdf:_13 rdf:resource="http://data.semanticweb.org/person/jeff-heflin"/>
-    <rdf:_3 rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
-    <rdf:_5 rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/lalana-kagal">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/senior-pc-member/research"/>
@@ -13229,7 +13434,7 @@
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/marco-balduini">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-19"/>
     <foaf:mbox_sha1sum>1ddf92412fb64e39b877b6d8429552e62009f8cc</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Politecnico di Milano</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/politecnico-di-milano"/>
@@ -13302,6 +13507,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-03">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-03"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-01"/>
   </rdf:Description>
@@ -13517,6 +13723,12 @@
     <rdf:_1 rdf:resource="http://data.semanticweb.org/person/peter-patel-schneider"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-21/authors">
+    <rdf:_3 rdf:resource="http://data.semanticweb.org/person/raphael-troncy"/>
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/vuk-milicic"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/houda-khrouf"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/foaf-project">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/dan-brickley"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
@@ -13578,6 +13790,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/industry-02">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/industry-02"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/industry-01"/>
   </rdf:Description>
@@ -13672,13 +13885,21 @@
     <rdfs:label>Massachusetts General Hospital</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01/authors">
-    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/emanuele-della-valle"/>
-    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/marco-balduini"/>
+    <rdf:_4 rdf:resource="http://data.semanticweb.org/person/arne-peters"/>
+    <rdf:_3 rdf:resource="http://data.semanticweb.org/person/bastian-krayer"/>
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/ansgar-scherp"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/thomas-gottron"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20/authors">
+    <rdf:_2 rdf:resource="http://data.semanticweb.org/person/stefan-mirea"/>
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/thomas-steiner"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-35">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-35"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-02"/>
   </rdf:Description>
@@ -13894,7 +14115,7 @@
     <foaf:mbox_sha1sum>e564e72e47699eb7c48d2191ca897c570b07d3c5</foaf:mbox_sha1sum>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/ansgar-scherp">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
     <foaf:mbox_sha1sum>f144c701b207651bbbb291b782786e9ed0447e0f</foaf:mbox_sha1sum>
     <swrc:listAffiliation>University of Koblenz and Landau</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/university-of-koblenz-and-landau"/>
@@ -14020,12 +14241,6 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Gerd Zechmeister</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-04">
-    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
-    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
-    <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
-    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-03"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/session/research-11">
     <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T11:00:00+05:00</iCal:dtStart>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/plaza"/>
@@ -14038,6 +14253,13 @@
     <swc:isSuperEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/talk/research-31"/>
     <swc:hasRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/chair/session/research-11"/>
     <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T12:30:00+05:00</iCal:dtEnd>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-04">
+    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
+    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-04"/>
+    <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
+    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-03"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/diana-maynard">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/senior-pc-member/research"/>
@@ -14093,6 +14315,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/evaluation-37">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/evaluation"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-37"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/evaluation-01"/>
   </rdf:Description>
@@ -14199,16 +14422,6 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
     <rdfs:label>Tenforce</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/person/riccardo-rosati">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-41"/>
-    <foaf:mbox_sha1sum>347c5f7b49d6802f343668845c30c5e610d28a7f</foaf:mbox_sha1sum>
-    <swrc:listAffiliation>Sapienza Università di Roma</swrc:listAffiliation>
-    <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/sapienza-universita-di-roma"/>
-    <foaf:surname>Rosati</foaf:surname>
-    <foaf:firstName>Riccardo</foaf:firstName>
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-    <rdfs:label>Riccardo Rosati</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-27">
     <swc:isPartOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/proceedings"/>
     <dc:identifier>76500193</dc:identifier>
@@ -14261,6 +14474,16 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/vincenzo-maltese"/>
     <swrc:idLncs>76500193</swrc:idLncs>
     <dcterms:subject>semantic geo-catalogue</dcterms:subject>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/person/riccardo-rosati">
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/evaluation-41"/>
+    <foaf:mbox_sha1sum>347c5f7b49d6802f343668845c30c5e610d28a7f</foaf:mbox_sha1sum>
+    <swrc:listAffiliation>Sapienza Università di Roma</swrc:listAffiliation>
+    <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/sapienza-universita-di-roma"/>
+    <foaf:surname>Rosati</foaf:surname>
+    <foaf:firstName>Riccardo</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label>Riccardo Rosati</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-de-chile">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/claudio-gutierrez"/>
@@ -14660,7 +14883,7 @@
     <foaf:mbox_sha1sum>a8c8eef405e7e48f5bd4b664df9db19048b025eb</foaf:mbox_sha1sum>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/stefan-mirea">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20"/>
     <foaf:mbox_sha1sum>12ca7341d1a4d555fe6130fc28c5b32acc78a97a</foaf:mbox_sha1sum>
     <swrc:listAffiliation>Jacobs University</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/jacobs-university"/>
@@ -14819,6 +15042,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-27">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-27"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-02"/>
   </rdf:Description>
@@ -15117,14 +15341,13 @@
     <rdfs:label>Plaza</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-2">
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-2"/>
     <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-14T10:30:00+05:00</iCal:dtEnd>
-    <swrc:abstract>Data.gov, a flagship open government project from the US government, opens and shares data to improve government efficiency and drive innovation. Sharing such data allows us to make rich comparisons that could never be made before and helps us to better understand the data and support decision making. The adoption of open linked data, vocabularies and ontologies, the work of the W3C, and semantic technologies is helping to drive Data.gov and US data forward. This session will help us to better understand the changing global landscape of data sharing and the role the semantic web is playing in it. This session highlights specific data sharing examples of solving mission problems from NASA, the White House, and many other governments agencies and citizen innovators.</swrc:abstract>
-    <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
     <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-14T09:00:00+05:00</iCal:dtStart>
+    <rdfs:label>Keynote 2</rdfs:label>
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#TalkEvent"/>
-    <rdfs:label>Driving Innovation with Open Data and Interoperability</rdfs:label>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
-    <swc:hasRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-2"/>
+    <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/marie-christine-rousset">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/pc-member/research"/>
@@ -15334,14 +15557,13 @@
     <rdfs:label>Trient Consulting Group S.r.l., Italy</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-3">
-    <swc:hasRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-3"/>
-    <rdfs:label>Tackling Climate Change:  Unfinished Business from the Last "Winter"</rdfs:label>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-3"/>
+    <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T10:30:00+05:00</iCal:dtEnd>
+    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T09:00:00+05:00</iCal:dtStart>
+    <rdfs:label>Keynote 3</rdfs:label>
+    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#TalkEvent"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
-    <swrc:abstract>In the 1990s, as the World Wide Web became not only world wide but also dense and ubiquitous, workers in the artificial intelligence community were drawn to the possibility that the Web could provide the foundation for a new kind of AI. Having survived the AI Winter of the 1980s, the opportunities that they saw in the largest, most interconnected computing platform imaginable were obviously compelling. With the subsequent success of the Semantic Web, however, our community seems to have stopped talking about many of the issues that researchers believe led to the AI Winter in the first place: the cognitive challenges in debugging and maintaining complex systems, the drift in the meanings ascribed to symbols, the situated nature of knowledge, the fundamental difficulty of creating robust models. These challenges are still with us; we cannot wish them away with appeals to the open-world assumption or to the law of large numbers. Embracing these challenges will allow us to expand the scope of our science and our practice, and will help to bring us closer to the ultimate vision of the Semantic Web.</swrc:abstract>
-    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T09:00:00+05:00</iCal:dtStart>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#TalkEvent"/>
-    <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-15T10:30:00+05:00</iCal:dtEnd>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/alejandro-rodriguez-gonzalez">
     <swc:holdsRole rdf:resource="http://data.semanticweb.org/workshop/satbi-swim/2012/chair"/>
@@ -15356,9 +15578,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/thomas-steiner">
     <rdfs:label>Thomas Steiner</rdfs:label>
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-02"/>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/google"/>
     <foaf:homepage rdf:resource="http://blog.tomayac.com"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-open-20"/>
     <foaf:mbox_sha1sum>08e16fa0ce4602315e959303c0f2f0b26a7cd4c2</foaf:mbox_sha1sum>
     <foaf:firstName>Thomas</foaf:firstName>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
@@ -15413,14 +15635,13 @@
     <foaf:mbox_sha1sum>67563701b5a8a32071b3104f293650643518ee67</foaf:mbox_sha1sum>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/keynote-1">
-    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T09:00:00+05:00</iCal:dtStart>
-    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#TalkEvent"/>
-    <rdfs:label>The Semantic Web and Collective Intelligence</rdfs:label>
-    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/keynote-1"/>
     <iCal:dtEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T10:30:00+05:00</iCal:dtEnd>
+    <iCal:dtStart rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-13T09:00:00+05:00</iCal:dtStart>
+    <rdfs:label>Keynote 1</rdfs:label>
+    <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#TalkEvent"/>
+    <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swc:hasLocation rdf:resource="http://data.semanticweb.org/conference/iswc/2012/place/imperial"/>
-    <swc:hasRole rdf:resource="http://data.semanticweb.org/conference/iswc/2012/speaker/talk/keynote-1"/>
-    <swrc:abstract>The original vision of the Semantic Web was to encode semantic content on the web in a form with which machines can reason. But in the last few years, we've seen many new Internet-based applications (such as Wikipedia, Linux, and prediction markets) where the key reasoning is done, not by machines, but by large groups of people. This talk will show how a relatively small set of design patterns can help understand a wide variety of these examples. Each design pattern is useful in different conditions, and the patterns can be combined in different ways to create different kinds of collective intelligence. Building on this foundation, the talk will consider how the Semantic Web might contribute to - and benefit from - these more human-intensive forms of collective intelligence.</swrc:abstract>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/anika-schumann">
     <foaf:mbox_sha1sum>c0e89a0b0f06fac4513278347209033e6c8eca2a</foaf:mbox_sha1sum>
@@ -15671,6 +15892,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/inuse-26">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/inuse"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/inuse-26"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/inuse-04"/>
   </rdf:Description>
@@ -15769,12 +15991,14 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/semantic-web-challenge-proceedings">
     <swrc:booktitle>Proceedings of the Semantic Web Challenge 2012</swrc:booktitle>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <swrc:year>2012</swrc:year>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/diana-maynard"/>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/andreas-harth"/>
     <rdf:type rdf:resource="http://data.semanticweb.org/ns/swc/ontology#Proceedings"/>
     <swrc:listEditor>Diana Maynard, Andreas Harth</swrc:listEditor>
     <swrc:month>Nov</swrc:month>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/semantic-web-challenge"/>
     <rdfs:label>Proceedings of the Semantic Web Challenge 2012</rdfs:label>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/diana-maynard"/>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/andreas-harth"/>
@@ -17414,7 +17638,9 @@
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/birte-glimm"/>
     <swrc:listEditor>Birte Glimm, David Huynh</swrc:listEditor>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/david-huynh"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/poster-demo"/>
     <rdfs:label>Proceedings of the ISWC 2012 Posters &amp; Demonstrations Track</rdfs:label>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <dcterms:identifier>urn:nbn:de:0074-914-3</dcterms:identifier>
     <swrc:booktitle>Proceedings of the ISWC 2012 Posters &amp; Demonstrations Track</swrc:booktitle>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/david-huynh"/>
@@ -17464,7 +17690,7 @@
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/olivier-cure"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/person/bastian-krayer">
-    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-03"/>
+    <foaf:made rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/semantic-web-challenge-btc-01"/>
     <foaf:mbox_sha1sum>4f0a569208cda2c1b6e84d2ed1e6050b203320eb</foaf:mbox_sha1sum>
     <swrc:listAffiliation>University of Koblenz and Landau</swrc:listAffiliation>
     <swrc:affiliation rdf:resource="http://data.semanticweb.org/organization/university-of-koblenz-and-landau"/>
@@ -17569,6 +17795,8 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/industry-proceedings">
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/tom-heath"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/industry"/>
+    <swc:relatedToEvent rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
     <rdfs:label>Proceedings of the ISWC 2012 Industry Track</rdfs:label>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/tim-berners-lee"/>
     <swrc:editor rdf:resource="http://data.semanticweb.org/person/ivan-herman"/>
@@ -17876,6 +18104,7 @@
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/talk/research-29">
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/track/research"/>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012"/>
+    <swc:hasRelatedDocument rdf:resource="http://data.semanticweb.org/conference/iswc/2012/paper/research-29"/>
     <swrc:orderInSession rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</swrc:orderInSession>
     <swc:isSubEventOf rdf:resource="http://data.semanticweb.org/conference/iswc/2012/session/research-10"/>
   </rdf:Description>
@@ -18463,6 +18692,10 @@
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
     <rdfs:label>Kavitha Srinivas</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-03/authors">
+    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/poster-demo-47">
     <dc:creator rdf:resource="http://data.semanticweb.org/person/freddy-lecue"/>
     <dc:title>A Prototype for Semantic based Diagnosis of Road Traffic Congestions</dc:title>
@@ -18497,10 +18730,6 @@
     <swrc:listAuthor>Marco Luca Sbodio, Freddy Lecue and Anika Schumann</swrc:listAuthor>
     <foaf:maker rdf:resource="http://data.semanticweb.org/person/freddy-lecue"/>
     <dcterms:creator rdf:resource="http://data.semanticweb.org/person/marco-luca-sbodio"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://data.semanticweb.org/conference/iswc/2012/paper/research-03/authors">
-    <rdf:_1 rdf:resource="http://data.semanticweb.org/person/axel-cyrille-ngonga-ngomo"/>
-    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://data.semanticweb.org/organization/shizuoka-university">
     <foaf:member rdf:resource="http://data.semanticweb.org/person/naoki-fukuta"/>
