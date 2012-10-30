@@ -1,7 +1,7 @@
 ﻿p,o,p1,o1
 swc:completeGraph,iswc2012:complete,dgtwc:number_of_triples,15865
-swc:completeGraph,iswc2012:complete,dcterms:hasVersion,iswc2012 metadata v20121029
-swc:completeGraph,iswc2012:complete,dcterms:modified,2012-10-30T09:20:21-0700
+swc:completeGraph,iswc2012:complete,dcterms:hasVersion,iswc2012 metadata v20121030
+swc:completeGraph,iswc2012:complete,dcterms:modified,2012-10-30T09:28:06-0700
 swc:completeGraph,iswc2012:complete,rdf:type,dgtwc:Dataset
 swc:hasAcronym,ISWC2012,,
 swc:hasRelatedDocument,iswc2012:industry-proceedings,swrc:booktitle,Proceedings of the ISWC 2012 Industry Track

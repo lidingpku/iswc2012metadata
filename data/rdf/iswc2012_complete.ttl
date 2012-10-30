@@ -440,8 +440,8 @@ iswc2012:complete
       dgtwc:number_of_triples
               "15865"^^<http://www.w3.org/2001/XMLSchema#long> ;
       dcterms:creator person:li-ding ;
-      dcterms:hasVersion "iswc2012 metadata v20121029" ;
-      dcterms:modified "2012-10-30T09:20:21-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+      dcterms:hasVersion "iswc2012 metadata v20121030" ;
+      dcterms:modified "2012-10-30T09:28:06-0700"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
 
 <http://data.semanticweb.org/workshop/lisc/2012>
       a       swc:WorkshopEvent ;
