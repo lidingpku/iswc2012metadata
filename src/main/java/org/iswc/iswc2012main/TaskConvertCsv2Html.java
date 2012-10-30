@@ -116,65 +116,65 @@ public class TaskConvertCsv2Html {
 		String trackPrev = null;
 		String groupPrev = null;
 
-		//keynotes from data-event
-		{
-			String track =  "Keynotes";
-			String trackBookmark = track.replaceAll("\\s+", "");
-			
-			sectionContent += String.format("<h2 id=\"%s\">%s</h2>\n<ol>", trackBookmark, track);
-			sectionIndex += String.format("<li><a href=\"#%s\">%s</a></li>\n", trackBookmark, track);
-
-			CsvReader reader = new CsvReader(params.get(Param.file_data_event));
-			reader.setSkipEmptyRecords(true);
-			reader.readHeaders();
-			while(reader.readRecord()){
-
-				TreeMap<TemplatePaperProperty,String> data = new TreeMap<TemplatePaperProperty,String>(); 
-				
-				String keyEvent= reader.get(CsvHeader.keyEvent.name());
-				if (!keyEvent.startsWith("talk/keynote"))
-					continue;
-				
-				String id = keyEvent.replaceAll("talk/", "iswc2012paper-"); 
-				
-				setValue(data, TemplatePaperProperty.uri, String.format("http://data.semanticweb.org/conference/iswc/2012/%s", keyEvent));
-				setValue(data, TemplatePaperProperty.id, id );
-				setValue(data, TemplatePaperProperty.author, reader.get(CsvHeader.keynoteSpeaker.name()) );
-				setValue(data, TemplatePaperProperty.title, reader.get(CsvHeader.label.name()) );
-				setValue(data, TemplatePaperProperty.title_escaped, reader.get(CsvHeader.label.name()).replaceAll("\"","&quot;") );
-				setValue(data, TemplatePaperProperty._abstract, reader.get(CsvHeader.hasAbstract.name()) );
-				setValue(data, TemplatePaperProperty.booktitle, Config.META_BOOKTITLE );
-				setValue(data, TemplatePaperProperty.year, Config.META_YEAR);
-				setValue(data, TemplatePaperProperty.month, Config.META_MONTH);
-				setValue(data, TemplatePaperProperty.address, Config.META_ADDRESS);
-
-				String urlPdf = reader.get(CsvHeader.paperPdfLink.name());
-				setValue(data, TemplatePaperProperty.pdf, urlPdf);
-				if (null!=urlPdf){
-					String urlPdfLocal = String.format("%s", urlPdf.substring(urlPdf.lastIndexOf("/")+1));
-					setValue(data, TemplatePaperProperty.pdfLocal, urlPdfLocal );
-					
-				}
-
-				{
-					String content = createHtml(templatePageAbstract, data);
-					File f = new File( new File (params.get(Param.output_dir_paper)), id+"."+Config.EXT.html);
-					ToolIO.pipeStringToFile(content, f);				
-				}
-				{
-					String fragment = String.format("<li>%s</li>",createHtml(templateIndexSection, data));
-					if (fragment.indexOf("___pdf___")>=0){
-						fragment =fragment.replace("<a href=\"___pdf___\">","<a>");
-						
-					}
-					sectionContent += fragment;
-				}
-			}
-			
-			// close track
-			sectionContent +="</ol><p><a href=\"#Top\">top</a></p>";	
-			File fIndex = new File( params.get(Param.output_file_index) );
-		}
+//		//keynotes from data-event
+//		{
+//			String track =  "Keynotes";
+//			String trackBookmark = track.replaceAll("\\s+", "");
+//			
+//			sectionContent += String.format("<h2 id=\"%s\">%s</h2>\n<ol>", trackBookmark, track);
+//			sectionIndex += String.format("<li><a href=\"#%s\">%s</a></li>\n", trackBookmark, track);
+//
+//			CsvReader reader = new CsvReader(params.get(Param.file_data_event));
+//			reader.setSkipEmptyRecords(true);
+//			reader.readHeaders();
+//			while(reader.readRecord()){
+//
+//				TreeMap<TemplatePaperProperty,String> data = new TreeMap<TemplatePaperProperty,String>(); 
+//				
+//				String keyEvent= reader.get(CsvHeader.keyEvent.name());
+//				if (!keyEvent.startsWith("talk/keynote"))
+//					continue;
+//				
+//				String id = keyEvent.replaceAll("talk/", "iswc2012paper-"); 
+//				
+//				setValue(data, TemplatePaperProperty.uri, String.format("http://data.semanticweb.org/conference/iswc/2012/%s", keyEvent));
+//				setValue(data, TemplatePaperProperty.id, id );
+//				setValue(data, TemplatePaperProperty.author, reader.get(CsvHeader.keynoteSpeaker.name()) );
+//				setValue(data, TemplatePaperProperty.title, reader.get(CsvHeader.label.name()) );
+//				setValue(data, TemplatePaperProperty.title_escaped, reader.get(CsvHeader.label.name()).replaceAll("\"","&quot;") );
+//				setValue(data, TemplatePaperProperty._abstract, reader.get(CsvHeader.hasAbstract.name()) );
+//				setValue(data, TemplatePaperProperty.booktitle, Config.META_BOOKTITLE );
+//				setValue(data, TemplatePaperProperty.year, Config.META_YEAR);
+//				setValue(data, TemplatePaperProperty.month, Config.META_MONTH);
+//				setValue(data, TemplatePaperProperty.address, Config.META_ADDRESS);
+//
+//				String urlPdf = reader.get(CsvHeader.paperPdfLink.name());
+//				setValue(data, TemplatePaperProperty.pdf, urlPdf);
+//				if (null!=urlPdf){
+//					String urlPdfLocal = String.format("%s", urlPdf.substring(urlPdf.lastIndexOf("/")+1));
+//					setValue(data, TemplatePaperProperty.pdfLocal, urlPdfLocal );
+//					
+//				}
+//
+//				{
+//					String content = createHtml(templatePageAbstract, data);
+//					File f = new File( new File (params.get(Param.output_dir_paper)), id+"."+Config.EXT.html);
+//					ToolIO.pipeStringToFile(content, f);				
+//				}
+//				{
+//					String fragment = String.format("<li>%s</li>",createHtml(templateIndexSection, data));
+//					if (fragment.indexOf("___pdf___")>=0){
+//						fragment =fragment.replace("<a href=\"___pdf___\">","<a>");
+//						
+//					}
+//					sectionContent += fragment;
+//				}
+//			}
+//			
+//			// close track
+//			sectionContent +="</ol><p><a href=\"#Top\">top</a></p>";	
+//			File fIndex = new File( params.get(Param.output_file_index) );
+//		}
 		
 		//papers from data-paper
 		CsvReader reader = new CsvReader(params.get(Param.file_data_paper));

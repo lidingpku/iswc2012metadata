@@ -25,7 +25,7 @@ public class Config {
 		}
 	}
 	
-	public static final String VERSION= "iswc2012 metadata v20121029";
+	public static final String VERSION= "iswc2012 metadata v20121030";
 	public static final String META_YEAR= "2012";
 	public static final String META_MONTH = "November";
 	public static final String META_PUBLISHER = "Springer";

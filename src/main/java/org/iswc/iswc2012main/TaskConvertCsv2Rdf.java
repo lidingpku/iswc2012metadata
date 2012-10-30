@@ -55,6 +55,7 @@ public class TaskConvertCsv2Rdf {
 		
 
 		updateModelByInverseProperty(m, SWC.isSubEventOf, SWC.isSuperEventOf );
+		updateModelByInverseProperty(m, SWC.relatedToEvent, SWC.hasRelatedDocument);
 		updateModelByTransitiveProperty(m, SWC.isSubEventOf);
 		
 		updateModelByInverseProperty(m, SWC.isSubEventOf, SWC.isSuperEventOf );
