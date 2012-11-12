@@ -1,17 +1,16 @@
 ﻿s,labelOrganization
 organization:3roundstones,3roundstones
-organization:aalto-university,Aalto University
-organization:aifb-karlsruhe-institute-of-technology,"AIFB, Karlsruhe Institute of Technology"
+organization:aalto-university-fi,Aalto University
 organization:aksw,AKSW
 organization:alcatel-lucent-bell-labs-france,Alcatel-Lucent Bell Labs France
 organization:alpen-adria-universitat,Alpen-Adria Universität
 organization:antidot,Antidot
-organization:aristotle-university-of-thessaloniki,Aristotle University of Thessaloniki
+organization:aristotle-university-of-thessaloniki-greece,Aristotle University of Thessaloniki
 organization:aston-university,Aston University
 organization:austrian-institute-of-technology,Austrian Institute of Technology
 organization:basque-country-university,Basque Country University
 organization:bbc,BBC
-organization:bell-labs-research,Bell Labs Research
+organization:bell-labs,Bell Labs Research
 organization:berlin institute-of-technology,Berlin Institute of Technology
 organization:best-buy,Best Buy
 organization:bielefeld-university,Bielefeld University
@@ -31,51 +30,50 @@ organization:chinese-academy-of-sciences,Chinese Academy of Sciences
 organization:cisco,Cisco
 organization:clark-parsia,Clark & Parsia
 organization:cmu,CMU
+organization:cnr-istc-italy,ISTC-CNR
 organization:communications-the-open-university,"Communications, The Open University"
 organization:computas,Computas
 organization:concordia-university,Concordia University
 organization:create-net,Create-Net
 organization:crim,CRIM
-organization:csiro,CSIRO
+organization:csiro-australia,CSIRO
 organization:czech-technical-university-in-prague,Czech Technical University in Prague
 organization:data-gov-u-s-general-services-administration,"Data.gov, U.S. General Services Administration"
-organization:delft-university-of-technology,Delft University of Technology
 organization:deri-nui-galway,"DERI, NUI Galway"
+organization:deri-universitaet-innsbruck,University of Innsbruck
 organization:derivo,Derivo
-organization:dfki,DFKI
 organization:docomo-euro-labs,DoCoMo Euro labs
 organization:ecole-des-mines-de-saint-etienne,École des Mines de Saint-Étienne
 organization:emc-corporation,EMC Corporation
 organization:emc-r-d-brazil,EMC R&D Brazil
 organization:epfl,EPFL
 organization:epimorphics,Epimorphics
-organization:eurecom,EURECOM
 organization:exalead-dassault-systemes,"EXALEAD, Dassault Systèmes"
+organization:fbk-irst,Fondazione Bruno Kessler
 organization:fluid-operations,fluid Operations
 organization:foaf-project,FOAF project
-organization:fondazione-bruno-kessler,Fondazione Bruno Kessler
 organization:forth-ics,FORTH-ICS
 organization:forward-look,forward look
 organization:franz,Franz
 organization:fraunhofer,Fraunhofer
-organization:free-university-of-berlin,Free University of Berlin
 organization:free-university-of-bozen-bolzano,Free University of Bozen-Bolzano
+organization:freie-universitaet-berlin,Free University of Berlin
 organization:fzi-research-center-for-information-technology,FZI Research Center for Information Technology
 organization:garlik,Garlik
 organization:george-mason-university,George Mason University
+organization:german-research-center-for-artificial-intelligence-dfki,DFKI
 organization:gesis-leibniz-institute-for-the-social-sciences,GESIS - Leibniz Institute for the Social Sciences
 organization:ghent-university,Ghent University
-organization:gnowsis-com,Gnowsis.com
-organization:google,Google
+organization:gnowsis,Gnowsis.com
+organization:google-inc,Google
 organization:graz-university-of-technology,Graz University of Technology
 organization:griffith-university,Griffith University
 organization:harokopio-university-of-athens,Harokopio University of Athens
 organization:hasso-plattner-institute,Hasso Plattner Institute
+organization:hewlett-packard-laboratories,HP Labs
 organization:hong-kong-university-of-science-and-technology,Hong Kong University of Science and Technology
-organization:hp-labs,HP Labs
 organization:humboldt-university of berlin,Humboldt University of Berlin
 organization:hypios,Hypios
-organization:i-s-i-r-osaka-university,"I.S.I.R., Osaka University"
 organization:ibm-china-research-laboratory,IBM China Research Laboratory
 organization:ibm-research,IBM Research
 organization:ibm-research-lab-haifa-israel,"IBM Research Lab , Haifa, Israel"
@@ -85,51 +83,52 @@ organization:ingenta,Ingenta
 organization:inria,INRIA
 organization:inria-lig,INRIA & LIG
 organization:inria-university-of-grenoble,INRIA & University of Grenoble
+organization:institut-aifb-universitaet-karlsruhe,"AIFB, Karlsruhe Institute of Technology"
+organization:institute-eurecom,EURECOM
 organization:institute-for-infocomm-research,Institute for Infocomm Research
 organization:iowa-state-university,Iowa State University
-organization:istc-cnr,ISTC-CNR
 organization:isti-cnr,ISTI-CNR
 organization:it-bhu,IT-BHU
 organization:jacobs-university,Jacobs University
-organization:jonkoping-university,Jönköping University
+organization:joenkoeping-university,Jönköping University
 organization:kaist,KAIST
-organization:kmi-the-open-university,"KMi, The Open University"
+organization:kmi-the-open-university-uk,"KMi, The Open University"
 organization:kno-e-sis-center-wright-state-university,"Kno.e.sis Center, Wright State University"
 organization:korea-institute-of-science-and-technology-information,Korea Institute of Science and Technology Information
 organization:l3s-research-center,L3S Research Center
 organization:lehigh-university,Lehigh University
-organization:linkoping-university,Linköping University
+organization:linkoepings-universitet,Linköping University
 organization:lipn-umr-7030-universit-paris-13-cnrs,LIPN - UMR 7030 Universit Paris 13 - CNRS
 organization:lirmm-university-of-montpellier,"LIRMM, University of Montpellier"
 organization:lockheed-martin,Lockheed Martin
 organization:ludwig-maximilians-university-of-munich,Ludwig Maximilians University of Munich
 organization:marine-biological-laboratory,Marine Biological Laboratory
 organization:massachusetts-general-hospital,Massachusetts General Hospital
+organization:massachusetts-institute-of-technology,MIT
 organization:max-planck-institute-for-informatics,Max Planck Institute for Informatics
 organization:mayo-clinic,Mayo Clinic
 organization:metaweb,Metaweb
 organization:microsoft-research,Microsoft Research
-organization:mit,MIT
 organization:mit-sloan-school-of-management,MIT Sloan School of Management
 organization:modul-university-vienna,MODUL University Vienna
 organization:monash-university,Monash University
 organization:nanjing-university,Nanjing University
 organization:national-and-kapodistrian-university-of-athens,National and Kapodistrian University of Athens
-organization:national-institute-of-informatics,National Institute of Informatics
+organization:national-and-technical-university-of-athens,National Technical University of Athens
+organization:national-institute-of-informatics-japan,National Institute of Informatics
 organization:national-library-of-medicine,National Library of Medicine
 organization:national-observatory-of-athens,National Observatory of Athens
-organization:national-technical-university-of-athens,National Technical University of Athens
 organization:nict,NICT
 organization:nokia-services,Nokia Services
 organization:north-carolina-state-university,North Carolina State University
 organization:norwegian-university-of-science-and-technology,Norwegian University of Science and Technology
-organization:ntt,NTT
+organization:ntt-communication-science-laboratories,NTT
 organization:nuance-communications,Nuance Communications
 organization:oak-ridge-national-laboratory,Oak Ridge National Laboratory
 organization:oclc,OCLC
 organization:openlink,OpenLink
-organization:oracle,Oracle
-organization:osaka-university,Osaka University
+organization:oracle-corporation,Oracle
+organization:osaka-university-japan,Osaka University
 organization:pennsylvania-state-university,Pennsylvania State University
 organization:pes-institute-of-technology,PES Institute of Technology
 organization:politecnico-di-milano,Politecnico di Milano
@@ -149,11 +148,10 @@ organization:sap-labs-usa,SAP Labs USA
 organization:sapienza-universita-di-roma,Sapienza Università di Roma
 organization:segreteria-siat-autonomous-province-of-trento-italy,"Segreteria SIAT, Autonomous Province of Trento, Italy"
 organization:self,self
-organization:semantic-web-company-gmbh,Semantic Web Company GmbH
-organization:shanghai-jiao-tong-university,Shanghai Jiao Tong University
+organization:semantic-web-company,Semantic Web Company GmbH
+organization:shanghai-jiao-tong-university-china,Shanghai Jiao Tong University
 organization:shizuoka-university,Shizuoka University
-organization:siemens,Siemens
-organization:siemens-ag,Siemens AG
+organization:siemens,Siemens AG
 organization:siemens-ag-corporate-technology,"Siemens AG, Corporate Technology"
 organization:siemens-ag-osterreich,Siemens AG Österreich
 organization:southeast-university,Southeast University
@@ -173,6 +171,8 @@ organization:technical-university-of-munich,Technical University of Munich
 organization:technion,Technion
 organization:telecom-bretagne,Telecom Bretagne
 organization:tenforce,Tenforce
+organization:the-university-of-arizona,University of Arizona
+organization:the-university-of-queensland,University of Queensland
 organization:tokyo-institute-of-technology,Tokyo Institute of Technology
 organization:toshiba,Toshiba
 organization:trient-consulting-group-s-r-l-italy,"Trient Consulting Group S.r.l., Italy"
@@ -180,6 +180,7 @@ organization:trinity-college-dublin,Trinity College Dublin
 organization:tsinghua-university,Tsinghua University
 organization:tu-chemnitz,TU Chemnitz
 organization:tu-darmstadt,TU Darmstadt
+organization:tu-delft,Delft University of Technology
 organization:tu-ilmenau,TU Ilmenau
 organization:ualr,UALR
 organization:uams,UAMS
@@ -190,6 +191,7 @@ organization:universidad-de-zaragoza,Universidad de Zaragoza
 organization:universidad-politecnica-de-madrid,Universidad Politecnica de Madrid
 organization:universidad-simon-bolivar,Universidad Simon Bolivar
 organization:universidade-nova-de-lisboa,Universidade Nova de Lisboa
+organization:universitaet-leipzig,University of Leipzig
 organization:universitat-de-lleida,Universitat de Lleida
 organization:universitat-politecnica-de-catalunya,Universitat Politecnica de Catalunya
 organization:universite-de-montreal,Université de Montréal
@@ -201,7 +203,6 @@ organization:university-of-aberdeen,University of Aberdeen
 organization:university-of-alberta,University of Alberta
 organization:university-of-applied-sciences-western-switzerland,University of Applied Sciences Western Switzerland
 organization:university-of-applied-sciences and-arts northwestern-switzerland,University of Applied Sciences and Arts Northwestern Switzerland
-organization:university-of-arizona,University of Arizona
 organization:university-of-bari,University of Bari
 organization:university-of-bologna,University of Bologna
 organization:university-of-california- davis,"University of California, Davis"
@@ -213,12 +214,10 @@ organization:university-of-georgia,University of Georgia
 organization:university-of-grenoble,University of Grenoble
 organization:university-of-hannover,University of Hannover
 organization:university-of-illinois-at-chicago,University of Illinois at Chicago
-organization:university-of-innsbruck,University of Innsbruck
 organization:university-of-kentucky,University of Kentucky
 organization:university-of-koblenz-and-landau,University of Koblenz and Landau
-organization:university-of-leipzig,University of Leipzig
 organization:university-of-liverpool,University of Liverpool
-organization:university-of-manchester,University of Manchester
+organization:university-of-manchester-uk,University of Manchester
 organization:university-of-mannheim,University of Mannheim
 organization:university-of-maryland,University of Maryland
 organization:university-of-maryland-baltimore-county,University of Maryland Baltimore County
@@ -230,8 +229,7 @@ organization:university-of-new-south-wales,University of New South Wales
 organization:university-of-oxford,University of Oxford
 organization:university-of-peloponnese,University of Peloponnese
 organization:university-of-pittstburgh,University of Pittstburgh
-organization:university-of-queensland,University of Queensland
-organization:university-of-sheffield,University of Sheffield
+organization:university-of-sheffield-uk,University of Sheffield
 organization:university-of-southampton,University of Southampton
 organization:university-of-southern-california,University of Southern California
 organization:university-of-surrey,University of Surrey
@@ -240,7 +238,7 @@ organization:university-of-texas-at-dallas,University of Texas at Dallas
 organization:university-of-texas-at-el-paso,University of Texas at El Paso
 organization:university-of-tokyo,University of Tokyo
 organization:university-of-toronto,University of Toronto
-organization:university-of-trento,University of Trento
+organization:university-of-trento-italy,University of Trento
 organization:university-of-turin,University of Turin
 organization:university-of-ulm,University of Ulm
 organization:university-of-victoria,University of Victoria
@@ -255,11 +253,11 @@ organization:university of laquila,University of L'Aquila
 organization:uni klagenfurt,UNI Klagenfurt
 organization:vienna-university-of-technology,Vienna University of Technology
 organization:vu-amsterdam,VU Amsterdam
-organization:vulcan,Vulcan
+organization:vulcan-inc,Vulcan Inc
 organization:w3c,W3C
 organization:wells-fargo-bank,Wells Fargo Bank
 organization:wolters-kluwer,Wolters Kluwer
-organization:yahoo!-research,Yahoo! Research
 organization:yahoo!-research-silicon-valley,Yahoo! Research Silicon Valley
+organization:yahoo-research,Yahoo! Research
 organization:yarcdata,YarcData
 organization:zhejiang-university,Zhejiang University

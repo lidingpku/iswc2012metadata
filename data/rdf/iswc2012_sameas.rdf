@@ -1,0 +1,443 @@
+﻿<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#" > 
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-mannheim">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Mannheim"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/freie-universitaet-berlin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Free_University_of_Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-liverpool">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Liverpool"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/oracle-corporation">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Oracle_Corporation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/monash-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monash_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-manchester-uk">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Manchester"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-maryland">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Maryland,_College_Park"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/birmingham-city-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Birmingham_City_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/aristotle-university-of-thessaloniki-greece">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Aristotle_University_of_Thessaloniki"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/bundeswehr-university-munich">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bundeswehr_University_Munich"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-politecnica-de-madrid">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Technical_University_of_Madrid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/norwegian-university-of-science-and-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Norwegian_University_of_Science_and_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-bari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Bari"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/metaweb">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metaweb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/sugar-labs">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sugar_Labs"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university of laquila">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_L&apos;Aquila"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/north-carolina-state-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/North_Carolina_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-new-south-wales">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_New_South_Wales"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of bologna">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Bologna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/humboldt-university of berlin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Humboldt_University_of_Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/saic">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/SAIC_(company)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/cern">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/CERN"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-milano-bicocca">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Milan_Bicocca"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-texas-at-dallas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Texas_at_Dallas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/wolters-kluwer">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wolters_Kluwer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/ghent-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ghent_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/wells-fargo-bank">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wells_Fargo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-illinois-at-chicago">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Illinois_at_Chicago"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-crete">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Crete"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/pennsylvania-state-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pennsylvania_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/siemens">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Siemens"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/the-university-of-arizona">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Arizona"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-texas-at-austin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Texas_at_Austin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/cmu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Carnegie_Mellon_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/cardiff-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cardiff_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-koblenz-and-landau">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Koblenz_and_Landau"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/microsoft-research">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Microsoft_Research"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/george-mason-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Mason_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/national-and-kapodistrian-university-of-athens">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/tsinghua-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tsinghua_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/technical-university-of-hamburg">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Technical_University_of_Hamburg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/concordia-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Concordia_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/ntt-communication-science-laboratories">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nippon_Telegraph_and_Telephone"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/brandeis-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Brandeis_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/mit-csail">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-de-chile">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Chile"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/trinity-college-dublin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Trinity_College,_Dublin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-edinburgh">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Edinburgh"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/best-buy">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Best_Buy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-fribourg">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Fribourg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/royal-military-college-of-canada">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Royal_Military_College_of_Canada"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/cisco">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cisco_Systems"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-trento-italy">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Trento"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/nanjing-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nanjing_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universitat-politecnica-de-catalunya">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Polytechnic_University_of_Catalonia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/uc-santa-barbara">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_California,_Santa_Barbara"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-kentucky">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Kentucky"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-california- davis">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_California,_Davis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-sheffield-uk">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Sheffield"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/aston-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Aston_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-victoria">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Victoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/tokyo-institute-of-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tokyo_Institute_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/aalto-university-fi">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Aalto_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university of koblenz-landau">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Koblenz_and_Landau"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/technical-university-of-munich">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Technical_University_Munich"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-texas-at-el-paso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Texas_at_El_Paso"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/uams">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/UAMS_College_of_Medicine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-economics-prague">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Economics,_Prague"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-maryland-baltimore-county">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/dept-of-informatics-puc-rio">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pontifical_Catholic_University_of_Rio_de_Janeiro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-autonoma-de-madrid">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Autonomous_University_of_Madrid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/southeast-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Southeast_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-zurich">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Zurich"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/vulcan-inc">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vulcan_Inc."/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/politecnico-di-milano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Politecnico_di_Milano"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/purdue-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Purdue_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/birkbeck-college-university-of-london">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Birkbeck,_University_of_London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/czech-technical-university-in-prague">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Czech_Technical_University_in_Prague"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-ulm">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Ulm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/toshiba">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Toshiba"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-southampton">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Southampton"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/case-western-reserve-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Case_Western_Reserve_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/csiro-australia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Commonwealth_Scientific_and_Industrial_Research_Organisation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-peloponnese">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Peloponnese"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/stanford-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stanford_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-oxford">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Oxford"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universidad-de-zaragoza">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Zaragoza"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/universitat-de-lleida">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Lleida"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/ualr">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Arkansas_at_Little_Rock"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/talis">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Talisman_Energy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/hong-kong-university-of-science-and-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hong_Kong_University_of_Science_and_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-tokyo">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Tokyo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-toronto">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Toronto"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-bologna">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Bologna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/google-inc">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Google"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/bridgewater-college">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bridgewater_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of bremen">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Bremen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/jacobs-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jacobs_University_Bremen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/shanghai-jiao-tong-university-china">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shanghai_Jiao_Tong_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/free-university-of-bozen-bolzano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Free_University_of_Bozen-Bolzano"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-waikato">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Waikato"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-surrey">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Surrey"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/lehigh-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lehigh_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/charles-university-in-prague">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_University_in_Prague"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-southern-california">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Southern_California"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/vienna-university-of-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Vienna_University_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/osaka-university-japan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Osaka_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/lockheed-martin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lockheed_Martin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/fraunhofer">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fraunhofer_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/sapienza-universita-di-roma">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sapienza_University_of_Rome"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/bielefeld-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bielefeld_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/pes-institute-of-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/P.E.S._Institute_of_Technology_and_Management"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of modena and reggio-emilia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Modena_and_Reggio_Emilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/qualcomm">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Qualcomm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/openlink">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/OpenLink_Software"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/berlin-institute-of-technology">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Berlin_Institute_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-hannover">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Hanover"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-turin">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Turin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/the-university-of-queensland">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Queensland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/griffith-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Griffith_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/modul-university-vienna">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/MODUL_University_Vienna"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/w3c">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/World_Wide_Web_Consortium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/technion">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Technion_International_School_of_Engineering"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/stony-brook-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stony_Brook_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/bbc">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/BBC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/raytheon-bbn-technologies">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/BBN_Technologies"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/tu-delft">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Delft_University_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/iowa-state-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Iowa_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/kaist">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/KAIST"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-alberta">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Alberta"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/zhejiang-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zhejiang_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/shizuoka-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shizuoka_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/sri-international">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/SRI_International"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/mayo-clinic">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mayo_Clinic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/ingenta">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Publishing_Technology_plc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/rutgers-university">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rutgers_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-aberdeen">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Aberdeen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/tu-chemnitz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Chemnitz_University_of_Technology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/emc-corporation">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/EMC_Corporation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/chinese-academy-of-sciences">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Chinese_Academy_of_Sciences"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/hewlett-packard-laboratories">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/HP_Labs"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/mit-sloan-school-of-management">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/MIT_Sloan_School_of_Management"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/university-of-georgia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Georgia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/ludwig-maximilians-university-of-munich">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/nuance-communications">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nuance_Communications"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.semanticweb.org/organization/national-and-technical-university-of-athens">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/National_Technical_University_of_Athens"/>
+  </rdf:Description>
+</rdf:RDF>

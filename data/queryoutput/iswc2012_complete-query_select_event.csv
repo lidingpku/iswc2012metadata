@@ -144,7 +144,7 @@
 2012-11-14T09:00:00+05:00,2012-11-14T10:30:00+05:00,swc:TalkEvent,Imperial,Keynote 2,iswc2012:talk/keynote-2,,,,,,
 2012-11-14T09:00:00+05:00,2012-11-14T19:30:00+05:00,swc:SpecialEvent,Exeter,Registration,iswc2012:special/registration-2012-11-14,,,,,,
 2012-11-14T10:30:00+05:00,2012-11-14T11:00:00+05:00,swc:BreakEvent,Corridor-Foyer railings,Coffee Break,iswc2012:break-2012-11-14-1,,,,,,
-2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Georgian,Alternative Knowledge Representation Approaches,iswc2012:session/research-06,ISWC2012 Session Chair,Jeff Pan,,,,
+2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Georgian,Alternative Knowledge Representation Approaches,iswc2012:session/research-06,ISWC2012 Session Chair,Jeff Z. Pan,,,,
 2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Arlington,Industry Track I,iswc2012:session/industry-01,ISWC2012 Session Chair,Ivan Herman,,,,
 2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Berkley,Industry Track II,iswc2012:session/industry-02,ISWC2012 Session Chair,Tom Heath,,,,
 2012-11-14T11:00:00+05:00,2012-11-14T12:30:00+05:00,swc:SessionEvent,Plaza,Provenance and Verification,iswc2012:session/research-07,ISWC2012 Session Chair,Paul Groth,,,,

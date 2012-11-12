@@ -49,7 +49,7 @@ Description Logic,ISWC2012 Session Chair,Pascal Hitzler,"Kno.e.sis Center, Wrigh
 User Interfaces and Personalization,ISWC2012 Session Chair,Natasha F. Noy,Stanford University
 Queries,ISWC2012 Session Chair,Maria-Esther Vidal,Universidad Simon Bolivar
 Knowledge Discovery,ISWC2012 Session Chair,Jens Lehmann,University of Leipzig
-Alternative Knowledge Representation Approaches,ISWC2012 Session Chair,Jeff Pan,
+Alternative Knowledge Representation Approaches,ISWC2012 Session Chair,Jeff Z. Pan,University of Aberdeen
 Provenance and Verification,ISWC2012 Session Chair,Paul Groth,VU Amsterdam
 Instance matching,ISWC2012 Session Chair,Mathieu d'Aquin,"KMi, The Open University"
 Streaming and Geospatial DBMSs,ISWC2012 Session Chair,Freddy Lecue,IBM Research
@@ -149,7 +149,7 @@ In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Leigh Dodds,Ingent
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Lyndon Nixon,STI International
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Manuel Salvadores,Stanford University
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Marco Rospocher,Fondazione Bruno Kessler
-In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mark Greaves,Vulcan
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mark Greaves,Vulcan Inc
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Markus Strohmaier,Graz University of Technology
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Marta Sabou,MODUL University Vienna
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Massimo Paolucci,DoCoMo Euro labs
@@ -158,8 +158,8 @@ In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Horridge,S
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthew Rowe,"KMi, The Open University"
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Matthias Klusch,DFKI
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Michael Hausenblas,"DERI, NUI Galway"
-In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Michael Uschold,Reinvent Technology
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Mike Dean,Raytheon BBN Technologies
+In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Michael Uschold,Reinvent Technology
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Milan Stankovic,Hypios
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Natasha F. Noy,Stanford University
 In-Use Track,PC Member at ISWC2012(Semantic Web In Use Track),Nenad Stojanovic,FZI Research Center for Information Technology
@@ -320,8 +320,8 @@ Research Track,PC Member at ISWC2012(Research Track),Satya Sahoo,Case Western Re
 Research Track,PC Member at ISWC2012(Research Track),Sebastian Rudolph,"AIFB, Karlsruhe Institute of Technology"
 Research Track,PC Member at ISWC2012(Research Track),Sergio Tessaris,Free University of Bozen-Bolzano
 Research Track,PC Member at ISWC2012(Research Track),Siegfried Handschuh,"DERI, NUI Galway"
-Research Track,PC Member at ISWC2012(Research Track),Sonia Bergamaschi,University of Modena and Reggio Emilia
 Research Track,PC Member at ISWC2012(Research Track),Sören Auer,TU Chemnitz
+Research Track,PC Member at ISWC2012(Research Track),Sonia Bergamaschi,University of Modena and Reggio Emilia
 Research Track,PC Member at ISWC2012(Research Track),Spiros Skiadopoulos,University of Peloponnese
 Research Track,PC Member at ISWC2012(Research Track),Stefan Decker,"DERI, NUI Galway"
 Research Track,PC Member at ISWC2012(Research Track),Stefan Dietze,L3S Research Center
@@ -378,16 +378,16 @@ Semantic Web Challenge,PC Member at ISWC2012,Steve Harris,Garlik
 Semantic Web Challenge,PC Member at ISWC2012,York Sure-Vetter,GESIS - Leibniz Institute for the Social Sciences; University of Koblenz and Landau
 RDF Query Processing in the Cloud,Tutorial Organizer,Kemafor Anyanwu,North Carolina State University
 RDF Query Processing in the Cloud,Tutorial Organizer,Padmashree Ravindra,North Carolina State University
-"Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Benjamin Grosof,Vulcan
+"Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Benjamin Grosof,Vulcan Inc
 "Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Michael Kifer,Stony Brook University
 "Semantic Web Rules: Fundamentals, Applications, and Standards",Tutorial Organizer,Mike Dean,Raytheon BBN Technologies
 Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Maximilian Nickel,Ludwig Maximilians University of Munich
-Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Volker Tresp,Ludwig Maximilians University of Munich; Siemens
+Learning on Linked Data: Tensors and their Applications in Graph-Structured Domains,Tutorial Organizer,Volker Tresp,Ludwig Maximilians University of Munich; Siemens AG
 LL-NLP Tutorial: What to do with long literals? Ask the NLP community...,Tutorial Organizer,Caroline Barrière,Université de Montréal
 The Web of Data for E-Commerce in Brief,Tutorial Organizer,Alex Stolz,University of Mynuch
 The Web of Data for E-Commerce in Brief,Tutorial Organizer,Laszlo Török,University of Mynuch
 The Web of Data for E-Commerce in Brief,Tutorial Organizer,Martin Hepp,Bundeswehr University Munich
-Financial Information Management Using the Semantic Web,Tutorial Organizer,Benjamin Grosof,Vulcan
+Financial Information Management Using the Semantic Web,Tutorial Organizer,Benjamin Grosof,Vulcan Inc
 Financial Information Management Using the Semantic Web,Tutorial Organizer,David Newman,Wells Fargo Bank
 Financial Information Management Using the Semantic Web,Tutorial Organizer,Leora Morgenstern,SAIC
 Getting to know PROV - the W3C Provenance Specifications,Tutorial Organizer,Jun Zhao,University of Oxford

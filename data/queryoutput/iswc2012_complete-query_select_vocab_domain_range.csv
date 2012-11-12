@@ -10,8 +10,7 @@ swc:BreakEvent,rdf:type,,11
 swc:BreakEvent,rdfs:label,,11
 swc:BreakEvent,iCal:dtEnd,,11
 swc:BreakEvent,iCal:dtStart,,11
-swc:Chair,swc:heldBy,,1
-swc:Chair,swc:heldBy,foaf:Person,169
+swc:Chair,swc:heldBy,foaf:Person,170
 swc:Chair,swc:isRoleAt,swc:ConferenceEvent,16
 swc:Chair,swc:isRoleAt,swc:SessionEvent,27
 swc:Chair,swc:isRoleAt,swc:SpecialEvent,1
@@ -196,10 +195,11 @@ rdf:Seq,rdf:_7,foaf:Person,15
 rdf:Seq,rdf:_8,foaf:Person,12
 rdf:Seq,rdf:_9,foaf:Person,9
 rdf:Seq,rdf:type,,155
-foaf:Organization,rdf:type,,264
-foaf:Organization,rdfs:label,,264
+foaf:Organization,rdf:type,,262
+foaf:Organization,rdfs:label,,262
 foaf:Organization,foaf:member,foaf:Person,683
-foaf:Person,swc:holdsRole,swc:Chair,169
+foaf:Organization,foaf:name,,262
+foaf:Person,swc:holdsRole,swc:Chair,170
 foaf:Person,swc:holdsRole,swc:KeynoteSpeaker,1
 foaf:Person,swc:holdsRole,swc:Mediator,1
 foaf:Person,swc:holdsRole,swc:Panellist,5
@@ -214,4 +214,5 @@ foaf:Person,foaf:homepage,,194
 foaf:Person,foaf:made,swc:Proceedings,18
 foaf:Person,foaf:made,swrc:InProceedings,549
 foaf:Person,foaf:mbox_sha1sum,,614
+foaf:Person,foaf:name,,673
 foaf:Person,foaf:surname,,673

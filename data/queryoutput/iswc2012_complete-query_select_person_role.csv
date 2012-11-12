@@ -54,9 +54,9 @@ person:anastasia-analyti,Anastasia Analyti,iswc2012:paper/research-20,,,FORTH-IC
 person:anastasios-kementsietsidis,Anastasios Kementsietsidis,,PC Member at ISWC2012(Research Track),iswc2012:track/research,IBM Research
 person:anastasios-kementsietsidis,Anastasios Kementsietsidis,,Workshop Chair,workshop:om/2012,IBM Research
 person:anastasios-kementsietsidis,Anastasios Kementsietsidis,iswc2012:paper/research-23,,,IBM Research
-person:andrea-giovanni-nuzzolese,Andrea Giovanni Nuzzolese,iswc2012:paper/doctor-consortium-12,,,"University of Bologna;STLab, ISTC-CNR"
-person:andrea-giovanni-nuzzolese,Andrea Giovanni Nuzzolese,iswc2012:paper/research-13,,,"University of Bologna;STLab, ISTC-CNR"
 person:andrea-maurino,Andrea Maurino,iswc2012:paper/research-01,,,University of Milano-Bicocca
+person:andrea-nuzzolese,Andrea Giovanni Nuzzolese,iswc2012:paper/doctor-consortium-12,,,"University of Bologna;STLab, ISTC-CNR"
+person:andrea-nuzzolese,Andrea Giovanni Nuzzolese,iswc2012:paper/research-13,,,"University of Bologna;STLab, ISTC-CNR"
 person:andreas-harth,Andreas Harth,,ISWC2012 Semantic Web Challenge Chair,http://data.semanticweb.org/conference/iswc/2012,"AIFB, Karlsruhe Institute of Technology"
 person:andreas-harth,Andreas Harth,,ISWC2012 Session Chair,iswc2012:session/research-11,"AIFB, Karlsruhe Institute of Technology"
 person:andreas-harth,Andreas Harth,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,"AIFB, Karlsruhe Institute of Technology"
@@ -97,8 +97,8 @@ person:axel-polleres,Axel Polleres,,PC Member at ISWC2012(Poster and Demo),iswc2
 person:axel-polleres,Axel Polleres,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,"Siemens AG Österreich; DERI, NUI Galway"
 person:bastian-krayer,Bastian Krayer,iswc2012:paper/semantic-web-challenge-btc-01,,,University of Koblenz and Landau
 person:bastien-rance,Bastien Rance,iswc2012:paper/semantic-web-challenge-open-02,,,National Library of Medicine
-person:benjamin-grosof,Benjamin Grosof,,Tutorial Organizer,iswc2012:tutorial-2,Vulcan
-person:benjamin-grosof,Benjamin Grosof,,Tutorial Organizer,iswc2012:tutorial-6,Vulcan
+person:benjamin-grosof,Benjamin Grosof,,Tutorial Organizer,iswc2012:tutorial-2,Vulcan Inc
+person:benjamin-grosof,Benjamin Grosof,,Tutorial Organizer,iswc2012:tutorial-6,Vulcan Inc
 person:benoit-christophe,Benoit Christophe,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Alcatel-Lucent Bell Labs France
 person:bernardo-cuenca-grau,Bernardo Cuenca Grau,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Oxford
 person:bernardo-cuenca-grau,Bernardo Cuenca Grau,iswc2012:paper/research-05,,,University of Oxford
@@ -151,8 +151,8 @@ person:chris-mellish,Chris Mellish,iswc2012:paper/inuse-54,,,University of Aberd
 person:chris-mellish,Chris Mellish,iswc2012:paper/poster-demo-61,,,University of Aberdeen
 person:chris-welty,Chris Welty,iswc2012:paper/inuse-26,,,IBM Research
 person:chris-welty,Chris Welty,iswc2012:paper/inuse-32,,,IBM Research
-person:christian-bizer,Christian Bizer,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Free University of Berlin
-person:christian-bizer,Christian Bizer,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Free University of Berlin
+person:christian-bizer-,Christian Bizer,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Free University of Berlin
+person:christian-bizer-,Christian Bizer,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Free University of Berlin
 person:christian-dirschl,Christian Dirschl,iswc2012:paper/inuse-51,,,Wolters Kluwer
 person:christian-meilicke,Christian Meilicke,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,University of Mannheim
 person:christian-schallhart,Christian Schallhart,iswc2012:paper/inuse-71,,,University of Oxford
@@ -209,9 +209,9 @@ person:david-norheim,David Norheim,,PC Member at ISWC2012,iswc2012:track/semanti
 person:david-shamma,David Shamma,,Workshop Chair,workshop:derive/2012,Yahoo! Research Silicon Valley
 person:david-wood,David Wood,,ISWC2012 Sponsorship Chair,http://data.semanticweb.org/conference/iswc/2012,3roundstones
 person:davy-van-deursen,Davy Van Deursen,iswc2012:paper/poster-demo-10,,,Ghent University
-person:deborah-l-mcguinness,Deborah L. McGuinness,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,RPI
-person:deborah-l-mcguinness,Deborah L. McGuinness,iswc2012:paper/poster-demo-26,,,RPI
-person:deborah-l-mcguinness,Deborah L. McGuinness,iswc2012:paper/poster-demo-42,,,RPI
+person:deborah-mcguinness,Deborah L. McGuinness,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,RPI
+person:deborah-mcguinness,Deborah L. McGuinness,iswc2012:paper/poster-demo-26,,,RPI
+person:deborah-mcguinness,Deborah L. McGuinness,iswc2012:paper/poster-demo-42,,,RPI
 person:denilson-barbosa,Denilson Barbosa,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,University of Alberta
 person:denny-vrandecic,Denny Vrandecic,,Workshop Chair,workshop:sw2022/2012,"AIFB, Karlsruhe Institute of Technology"
 person:dezhao-song,Dezhao Song,iswc2012:paper/doctor-consortium-07,,,Lehigh University
@@ -311,7 +311,7 @@ person:gary-wills,Gary Wills,iswc2012:paper/semantic-web-challenge-open-15,,,Uni
 person:geert-jan-houben,Geert-Jan Houben,iswc2012:paper/research-30,,,Delft University of Technology
 person:george-garbis,George Garbis,iswc2012:paper/poster-demo-28,,,National and Kapodistrian University of Athens
 person:george-garbis,George Garbis,iswc2012:paper/semantic-web-challenge-open-17,,,National and Kapodistrian University of Athens
-person:gerd-groner,Gerd Gröner,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Koblenz and Landau
+person:gerd-groener,Gerd Gröner,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Koblenz and Landau
 person:gerd-zechmeister,Gerd Zechmeister,iswc2012:paper/semantic-web-challenge-open-06,,,Semantic Web Company GmbH
 person:gerhard-friedrich,Gerhard Friedrich,iswc2012:paper/poster-demo-45,,,UNI Klagenfurt
 person:gerhard-friedrich,Gerhard Friedrich,iswc2012:paper/poster-demo-64,,,UNI Klagenfurt
@@ -366,7 +366,7 @@ person:heiko-paulheim,Heiko Paulheim,iswc2012:paper/semantic-web-challenge-open-
 person:heiner-stuckenschmidt,Heiner Stuckenschmidt,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Mannheim
 person:heiner-stuckenschmidt,Heiner Stuckenschmidt,,Workshop Chair,workshop:om/2012,University of Mannheim
 person:hima-yalamanchili,Hima Yalamanchili,iswc2012:paper/semantic-web-challenge-open-02,,,"Kno.e.sis Center, Wright State University"
-person:hiroko-kou,Hiroko Kou,iswc2012:paper/poster-demo-51,,,"I.S.I.R., Osaka University"
+person:hiroko-kou,Hiroko Kou,iswc2012:paper/poster-demo-51,,,Osaka University
 person:hiroyuki-toda,Hiroyuki Toda,iswc2012:paper/research-09,,,NTT
 person:hoan-nguyen-mau-quoc,Hoan Nguyen Mau Quoc,iswc2012:paper/semantic-web-challenge-open-16,,,"DERI, NUI Galway"
 person:holger-wache,Holger Wache,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,University of Applied Sciences and Arts Northwestern Switzerland
@@ -421,6 +421,7 @@ person:jeff-heflin,Jeff Heflin,,ISWC2012 Program Chair,http://data.semanticweb.o
 person:jeff-heflin,Jeff Heflin,,ISWC2012 Program Chair,iswc2012:track/research,Lehigh University
 person:jeff-heflin,Jeff Heflin,iswc2012:paper/semantic-web-challenge-btc-02,,,Lehigh University
 person:jeff-heflin,Jeff Heflin,iswc2012:proceedings,,,Lehigh University
+person:jeff-z-pan,Jeff Z. Pan,,ISWC2012 Session Chair,iswc2012:session/research-06,University of Aberdeen
 person:jeff-z-pan,Jeff Z. Pan,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Aberdeen
 person:jeff-z-pan,Jeff Z. Pan,iswc2012:paper/research-33,,,University of Aberdeen
 person:jennifer-golbeck,Jennifer Golbeck,,ISWC2012 Fellowship Chair,http://data.semanticweb.org/conference/iswc/2012,University of Maryland
@@ -478,13 +479,13 @@ person:josiane-xavier-parreira,Josiane Xavier Parreira,iswc2012:proceedings,,,"D
 person:juan-f-sequeda,Juan F. Sequeda,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Texas at Austin
 person:juan-f-sequeda,Juan F. Sequeda,,Workshop Chair,workshop:cold/2012,University of Texas at Austin
 person:juan-f-sequeda,Juan F. Sequeda,iswc2012:paper/poster-demo-41,,,University of Texas at Austin
+person:juergen-umbrich,Jürgen Umbrich,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/poster-demo,"DERI, NUI Galway"
+person:juergen-umbrich,Jürgen Umbrich,iswc2012:paper/research-12,,,"DERI, NUI Galway"
+person:juergen-umbrich,Jürgen Umbrich,iswc2012:paper/semantic-web-challenge-btc-03,,,"DERI, NUI Galway"
 person:julien-cojan,Julien Cojan,iswc2012:paper/poster-demo-24,,,INRIA
 person:julien-law-to,Julien Law-To,iswc2012:paper/semantic-web-challenge-open-06,,,"EXALEAD, Dassault Systèmes"
 person:jun-zhao,Jun Zhao,,Tutorial Organizer,iswc2012:tutorial-7,University of Oxford
 person:junfeng-pan,Junfeng Pan,iswc2012:paper/poster-demo-12,,,Shanghai Jiao Tong University
-person:jurgen-umbrich,Jürgen Umbrich,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/poster-demo,"DERI, NUI Galway"
-person:jurgen-umbrich,Jürgen Umbrich,iswc2012:paper/research-12,,,"DERI, NUI Galway"
-person:jurgen-umbrich,Jürgen Umbrich,iswc2012:paper/semantic-web-challenge-btc-03,,,"DERI, NUI Galway"
 person:jyotishman-pathak,Jyotishman Pathak,,Workshop Chair,workshop:satbi-swim/2012,Mayo Clinic
 person:kai-uwe-sattler,Kai-Uwe Sattler,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,TU Ilmenau
 person:kapila-ponnamperuma,Kapila Ponnamperuma,iswc2012:paper/inuse-54,,,University of Aberdeen
@@ -519,7 +520,7 @@ person:kostis-kyzirakos,Kostis Kyzirakos,iswc2012:paper/research-25,,,National a
 person:kostis-kyzirakos,Kostis Kyzirakos,iswc2012:paper/semantic-web-challenge-open-17,,,National and Kapodistrian University of Athens
 person:kostyantyn-shchekotykhin,Kostyantyn Shchekotykhin,iswc2012:paper/poster-demo-45,,,UNI Klagenfurt
 person:kostyantyn-shchekotykhin,Kostyantyn Shchekotykhin,iswc2012:paper/poster-demo-64,,,UNI Klagenfurt
-person:kouji-kozaki,Kouji Kozaki,iswc2012:paper/poster-demo-51,,,"I.S.I.R., Osaka University"
+person:kouji-kozaki,Kouji Kozaki,iswc2012:paper/poster-demo-51,,,Osaka University
 person:krishnaprasad-thirunarayan,Krishnaprasad Thirunarayan,iswc2012:paper/research-26,,,"Kno.e.sis Center, Wright State University"
 person:krishnaprasad-thirunarayan,Krishnaprasad Thirunarayan,iswc2012:paper/semantic-web-challenge-open-02,,,"Kno.e.sis Center, Wright State University"
 person:kristian-slabbekoorn,Kristian Slabbekoorn,iswc2012:paper/research-30,,,Tokyo Institute of Technology
@@ -556,7 +557,7 @@ person:luc-moreau,Luc Moreau,,Tutorial Organizer,iswc2012:tutorial-7,University 
 person:luciano-serafini,Luciano Serafini,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Fondazione Bruno Kessler
 person:luciano-serafini,Luciano Serafini,iswc2012:paper/research-19,,,Fondazione Bruno Kessler
 person:luciano-serafini,Luciano Serafini,iswc2012:paper/research-29,,,Fondazione Bruno Kessler
-person:lyndon-nixon,Lyndon Nixon,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,STI International
+person:lyndon-j-b-nixon,Lyndon Nixon,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,STI International
 person:maciej-zaremba,Maciej Zaremba,iswc2012:paper/research-08,,,"DERI, NUI Galway"
 person:magnus-knuth,Magnus Knuth,iswc2012:paper/evaluation-37,,,Hasso Plattner Institute
 person:magnus-white,Magnus White,iswc2012:paper/semantic-web-challenge-open-15,,,University of Southampton
@@ -602,10 +603,10 @@ person:marie-christine-rousset,Marie-Christine Rousset,,PC Member at ISWC2012(Re
 person:marieke-van-erp,Marieke Van Erp,,Workshop Chair,workshop:derive/2012,VU Amsterdam
 person:mark-a-musen,Mark A. Musen,iswc2012:paper/inuse-53,,,Stanford University
 person:mark-a-musen,Mark A. Musen,iswc2012:paper/keynote-3,,,Stanford University
-person:mark-greaves,Mark Greaves,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Vulcan
+person:mark-greaves,Mark Greaves,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Vulcan Inc
 person:mark-wilkinson,Mark Wilkinson,,Workshop Chair,workshop:satbi-swim/2012,Bioinformatics at Centre for Plant Biotechnology and Genomics UPM-INIA
-person:markus-krotzsch,Markus Krötzsch,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Oxford
-person:markus-krotzsch,Markus Krötzsch,iswc2012:paper/research-04,,,University of Oxford
+person:markus-kroetzsch,Markus Krötzsch,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Oxford
+person:markus-kroetzsch,Markus Krötzsch,iswc2012:paper/research-04,,,University of Oxford
 person:markus-luczak-rosch,Markus Luczak-Rösch,iswc2012:paper/research-07,,,Free University of Berlin
 person:markus-strohmaier,Markus Strohmaier,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Graz University of Technology
 person:marta-corubolo,Marta Corubolo,iswc2012:paper/inuse-78,,,Politecnico di Milano
@@ -653,7 +654,6 @@ person:michael-schmidt,Michael Schmidt,iswc2012:paper/industry-04,,,fluid Operat
 person:michael-schumacher,Michael Schumacher,iswc2012:paper/industry-10,,,University of Applied Sciences Western Switzerland
 person:michael-sintek,Michael Sintek,,PC Member at ISWC2012(Research Track),iswc2012:track/research,DFKI
 person:michael-sioutis,Michael Sioutis,iswc2012:paper/poster-demo-28,,,National and Kapodistrian University of Athens
-person:michael-uschold,Michael Uschold,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Reinvent Technology
 person:michael-ward,Michael Ward,iswc2012:paper/research-23,,,IBM Research
 person:michael-watzke,Michael Watzke,iswc2012:paper/inuse-09,,,"Siemens AG, Corporate Technology"
 person:michiel-hildebrand,Michiel Hildebrand,,PC Member at ISWC2012(Research Track),iswc2012:track/research,VU Amsterdam
@@ -663,6 +663,7 @@ person:mike-dean,Mike Dean,,PC Member at ISWC2012(Research Track),iswc2012:track
 person:mike-dean,Mike Dean,,Tutorial Organizer,iswc2012:tutorial-2,Raytheon BBN Technologies
 person:mike-dean,Mike Dean,,Workshop Chair,workshop:lhd-semquant/2012,Raytheon BBN Technologies
 person:mike-stonebreaker,Mike Stonebreaker,,ISWC2012 Panellist,iswc2012:panel/big-graph-data,MIT
+person:mike-uschold,Michael Uschold,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Reinvent Technology
 person:mike-wald,Mike Wald,iswc2012:paper/semantic-web-challenge-open-15,,,University of Southampton
 person:mikko-rinne,Mikko Rinne,iswc2012:paper/doctor-consortium-13,,,Aalto University
 person:mikko-rinne,Mikko Rinne,iswc2012:paper/poster-demo-22,,,Aalto University
@@ -687,16 +688,16 @@ person:nadeschda-nikitina,Nadeschda Nikitina,,PC Member at ISWC2012(Poster and D
 person:nadeschda-nikitina,Nadeschda Nikitina,iswc2012:paper/research-34,,,"AIFB, Karlsruhe Institute of Technology"
 person:naimdjon-takhirov,Naimdjon Takhirov,iswc2012:paper/research-37,,,Norwegian University of Science and Technology
 person:naoki-fukuta,Naoki Fukuta,iswc2012:paper/poster-demo-57,,,Shizuoka University
-person:natasha-f-noy,Natasha F. Noy,,ISWC2012 Session Chair,iswc2012:session/inuse-05,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,ISWC2012 Session Chair,iswc2012:session/research-03,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,PC Member at ISWC2012(Doctoral Consortium),iswc2012:track/doctoral-consortium,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,PC Member at ISWC2012(Industry Track),iswc2012:track/industry,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,PC Member at ISWC2012,iswc2012:track/semantic-web-challenge,Stanford University
-person:natasha-f-noy,Natasha F. Noy,,Workshop Chair,workshop:om/2012,Stanford University
-person:natasha-f-noy,Natasha F. Noy,iswc2012:paper/inuse-53,,,Stanford University
-person:natasha-f-noy,Natasha F. Noy,iswc2012:paper/research-41,,,Stanford University
+person:natalya-noy,Natasha F. Noy,,ISWC2012 Session Chair,iswc2012:session/inuse-05,Stanford University
+person:natalya-noy,Natasha F. Noy,,ISWC2012 Session Chair,iswc2012:session/research-03,Stanford University
+person:natalya-noy,Natasha F. Noy,,PC Member at ISWC2012(Doctoral Consortium),iswc2012:track/doctoral-consortium,Stanford University
+person:natalya-noy,Natasha F. Noy,,PC Member at ISWC2012(Industry Track),iswc2012:track/industry,Stanford University
+person:natalya-noy,Natasha F. Noy,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Stanford University
+person:natalya-noy,Natasha F. Noy,,Senior PC Member at ISWC2012(Research Track),iswc2012:track/research,Stanford University
+person:natalya-noy,Natasha F. Noy,,PC Member at ISWC2012,iswc2012:track/semantic-web-challenge,Stanford University
+person:natalya-noy,Natasha F. Noy,,Workshop Chair,workshop:om/2012,Stanford University
+person:natalya-noy,Natasha F. Noy,iswc2012:paper/inuse-53,,,Stanford University
+person:natalya-noy,Natasha F. Noy,iswc2012:paper/research-41,,,Stanford University
 person:nathan-wilson,Nathan Wilson,iswc2012:paper/poster-demo-42,,,Marine Biological Laboratory
 person:nenad-stojanovic,Nenad Stojanovic,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,FZI Research Center for Information Technology
 person:nenad-stojanovic,Nenad Stojanovic,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/poster-demo,FZI Research Center for Information Technology
@@ -706,7 +707,7 @@ person:nick-bassiliades,Nick Bassiliades,iswc2012:paper/semantic-web-challenge-o
 person:nicola-fanizzi,Nicola Fanizzi,,Workshop Chair,workshop:ursw/2012,University of Bari
 person:nicola-guarino,Nicola Guarino,,PC Member at ISWC2012(Research Track),iswc2012:track/research,ISTC-CNR
 person:nigam-shah,Nigam Shah,,Workshop Chair,workshop:satbi-swim/2012,Stanford University
-person:nigel-shadbolt,Nigel Shadbolt,,ISWC2012 Keynote Speaker,iswc2012:special/dinner-talk,University of Southampton
+person:nigel-r-shadbolt,Nigel Shadbolt,,ISWC2012 Keynote Speaker,iswc2012:special/dinner-talk,University of Southampton
 person:nitish-aggarwal,Nitish Aggarwal,iswc2012:paper/doctor-consortium-01,,,"DERI, NUI Galway"
 person:norman-heino,Norman Heino,iswc2012:paper/research-33,,,University of Leipzig
 person:oktie-hassanzadeh,Oktie Hassanzadeh,iswc2012:paper/research-23,,,IBM Research
@@ -715,7 +716,7 @@ person:olaf-hartig,Olaf Hartig,,Workshop Chair,workshop:cold/2012,Humboldt Unive
 person:oleg-ruchayskiy,Oleg Ruchayskiy,iswc2012:paper/evaluation-17,,,CERN
 person:olivier-bodenreider,Olivier Bodenreider,iswc2012:paper/semantic-web-challenge-open-02,,,National Library of Medicine
 person:olivier-cure,Olivier Curé,iswc2012:paper/semantic-web-challenge-open-11,,,Université Paris-Est LIGM
-person:ondrej-svab-zamazal,Ondrej Svab-Zamazal,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,"University of Economics, Prague"
+person:ondrej-svab,Ondrej Svab-Zamazal,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,"University of Economics, Prague"
 person:opher-etzion,Opher Etzion,,Tutorial Organizer,iswc2012:tutorial-8,"IBM Research Lab , Haifa, Israel"
 person:ora-lassila,Ora Lassila,,PC Member at ISWC2012(Industry Track),iswc2012:track/industry,Nokia Services
 person:ora-lassila,Ora Lassila,,PC Member at ISWC2012,iswc2012:track/semantic-web-challenge,Nokia Services
@@ -874,13 +875,13 @@ person:siegfried-handschuh,Siegfried Handschuh,,PC Member at ISWC2012(Semantic W
 person:siegfried-handschuh,Siegfried Handschuh,,PC Member at ISWC2012(Research Track),iswc2012:track/research,"DERI, NUI Galway"
 person:simone-contessa,Simone Contessa,iswc2012:paper/inuse-78,,,Politecnico di Milano
 person:simone-contessa,Simone Contessa,iswc2012:paper/semantic-web-challenge-open-13,,,Politecnico di Milano
+person:soeren-auer,Sören Auer,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,TU Chemnitz
+person:soeren-auer,Sören Auer,,PC Member at ISWC2012(Research Track),iswc2012:track/research,TU Chemnitz
+person:soeren-auer,Sören Auer,iswc2012:paper/inuse-51,,,TU Chemnitz
+person:soeren-auer,Sören Auer,iswc2012:paper/inuse-71,,,TU Chemnitz
+person:soeren-auer,Sören Auer,iswc2012:paper/poster-demo-29,,,TU Chemnitz
 person:songyun-duan,Songyun Duan,iswc2012:paper/research-23,,,IBM Research
 person:sonia-bergamaschi,Sonia Bergamaschi,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Modena and Reggio Emilia
-person:soren-auer,Sören Auer,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,TU Chemnitz
-person:soren-auer,Sören Auer,,PC Member at ISWC2012(Research Track),iswc2012:track/research,TU Chemnitz
-person:soren-auer,Sören Auer,iswc2012:paper/inuse-51,,,TU Chemnitz
-person:soren-auer,Sören Auer,iswc2012:paper/inuse-71,,,TU Chemnitz
-person:soren-auer,Sören Auer,iswc2012:paper/poster-demo-29,,,TU Chemnitz
 person:souripriya-das,Souripriya Das,iswc2012:paper/industry-07,,,Oracle
 person:spiros-skiadopoulos,Spiros Skiadopoulos,,PC Member at ISWC2012(Research Track),iswc2012:track/research,University of Peloponnese
 person:spyros-kotoulas,Spyros Kotoulas,iswc2012:paper/inuse-39,,,IBM Research
@@ -942,7 +943,7 @@ person:thomas-schandl,Thomas Schandl,iswc2012:paper/semantic-web-challenge-open-
 person:thomas-scharrenbach,Thomas Scharrenbach,,ISWC2012 Worshop and Tutorial Chair,http://data.semanticweb.org/conference/iswc/2012,University of Zurich
 person:thomas-steiner,Thomas Steiner,iswc2012:paper/poster-demo-02,,,Google
 person:thomas-steiner,Thomas Steiner,iswc2012:paper/semantic-web-challenge-open-20,,,Google
-person:thorsten-krueger,Thorsten Krueger,iswc2012:paper/inuse-78,,,Siemens
+person:thorsten-krueger,Thorsten Krueger,iswc2012:paper/inuse-78,,,Siemens AG
 person:thorsten-liebig,Thorsten Liebig,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Derivo
 person:thorsten-liebig,Thorsten Liebig,,Workshop Chair,workshop:swws_hpcsw/2012,Derivo
 person:tim-berners-lee,Tim Berners-Lee,,ISWC2012 Industry Chair,http://data.semanticweb.org/conference/iswc/2012,W3C
@@ -965,8 +966,8 @@ person:tom-heath,Tom Heath,,ISWC2012 Industry Chair,iswc2012:track/industry,Tali
 person:tom-heath,Tom Heath,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Talis
 person:tom-heath,Tom Heath,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Talis
 person:tom-heath,Tom Heath,iswc2012:industry-proceedings,,,Talis
+person:tomas-knap,Tomá Knap,iswc2012:paper/poster-demo-37,,,Charles University in Prague
 person:tomas-vitvar,Tomas Vitvar,iswc2012:paper/research-08,,,Czech Technical University in Prague
-person:toma-knap,Tomá Knap,iswc2012:paper/poster-demo-37,,,Charles University in Prague
 person:tomi-kauppinen,Tomi Kauppinen,,Workshop Chair,workshop:lisc/2012,University of Münster
 person:tommaso-di-noia,Tommaso Di Noia,,Workshop Chair,workshop:sersy/2012,Technical University of Bari
 person:toshio-uchiyama,Toshio Uchiyama,iswc2012:paper/research-09,,,NTT
@@ -1007,15 +1008,15 @@ person:vit-novacek,Vit Novacek,,PC Member at ISWC2012(Semantic Web In Use Track)
 person:vit-novacek,Vit Novacek,,Workshop Chair,workshop:evodyn/2012,"DERI, NUI Galway"
 person:vladimir-mikhailov,Vladimir Mikhailov,iswc2012:paper/industry-05,,,Cisco
 person:volker-haarslev,Volker Haarslev,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Concordia University
-person:volker-tresp,Volker Tresp,,Tutorial Organizer,iswc2012:tutorial-3,Ludwig Maximilians University of Munich; Siemens
+person:volker-tresp,Volker Tresp,,Tutorial Organizer,iswc2012:tutorial-3,Ludwig Maximilians University of Munich; Siemens AG
 person:vuk-milicic,Vuk Milicic,iswc2012:paper/semantic-web-challenge-open-21,,,EURECOM
 person:walter-bender,Walter Bender,,Tutorial Organizer,iswc2012:tutorial-9,Sugar Labs
 person:wei-hu,Wei Hu,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,Nanjing University
 person:wei-hu,Wei Hu,,PC Member at ISWC2012(Research Track),iswc2012:track/research,Nanjing University
 person:weinan-zhang,Weinan Zhang,iswc2012:paper/poster-demo-27,,,Shanghai Jiao Tong University
-person:willem-robert-van-hage,Willem Robert Van Hage,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,VU Amsterdam
-person:willem-robert-van-hage,Willem Robert Van Hage,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,VU Amsterdam
-person:willem-robert-van-hage,Willem Robert Van Hage,,Workshop Chair,workshop:derive/2012,VU Amsterdam
+person:willem-van-hage,Willem Robert Van Hage,,PC Member at ISWC2012(Evaluation Track),iswc2012:track/evaluation,VU Amsterdam
+person:willem-van-hage,Willem Robert Van Hage,,PC Member at ISWC2012(Semantic Web In Use Track),iswc2012:track/inuse,VU Amsterdam
+person:willem-van-hage,Willem Robert Van Hage,,Workshop Chair,workshop:derive/2012,VU Amsterdam
 person:william-hogan,William Hogan,iswc2012:paper/poster-demo-48,,,UAMS
 person:wim-peters,Wim Peters,,Workshop Chair,workshop:kecsm/2012,University of Sheffield
 person:wolf-siberski,Wolf Siberski,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/poster-demo,L3S Research Center; University of Hannover
@@ -1046,7 +1047,7 @@ person:yuan-ni,Yuan Ni,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/po
 person:yuan-ni,Yuan Ni,,PC Member at ISWC2012(Research Track),iswc2012:track/research,IBM China Research Laboratory
 person:yuan-ni,Yuan Ni,iswc2012:paper/poster-demo-27,,,IBM China Research Laboratory
 person:yue-ma,Yue Ma,,PC Member at ISWC2012(Poster and Demo),iswc2012:track/poster-demo,LIPN - UMR 7030 Universit Paris 13 - CNRS
-person:yuki-yamagata,Yuki Yamagata,iswc2012:paper/poster-demo-51,,,"I.S.I.R., Osaka University"
+person:yuki-yamagata,Yuki Yamagata,iswc2012:paper/poster-demo-51,,,Osaka University
 person:yulan-he,Yulan He,iswc2012:paper/research-15,,,"KMi, The Open University"
 person:yulan-he,Yulan He,iswc2012:paper/research-40,,,"KMi, The Open University"
 person:yunjia-li,Yunjia Li,iswc2012:paper/poster-demo-54,,,University of Southampton

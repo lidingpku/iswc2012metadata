@@ -33,9 +33,9 @@ person:amit-sheth,Amit Sheth,Amit,Sheth,"Kno.e.sis Center, Wright State Universi
 person:ana-armas,Ana Armas,Ana,Armas,University of Oxford,University of Oxford
 person:anastasia-analyti,Anastasia Analyti,Anastasia,Analyti,FORTH-ICS,FORTH-ICS
 person:anastasios-kementsietsidis,Anastasios Kementsietsidis,Anastasios,Kementsietsidis,IBM Research,IBM Research
-person:andrea-giovanni-nuzzolese,Andrea Giovanni Nuzzolese,Andrea,Nuzzolese,"University of Bologna;STLab, ISTC-CNR","STLab, ISTC-CNR"
-person:andrea-giovanni-nuzzolese,Andrea Giovanni Nuzzolese,Andrea,Nuzzolese,"University of Bologna;STLab, ISTC-CNR",University of Bologna
 person:andrea-maurino,Andrea Maurino,Andrea,Maurino,University of Milano-Bicocca,University of Milano-Bicocca
+person:andrea-nuzzolese,Andrea Giovanni Nuzzolese,Andrea,Nuzzolese,"University of Bologna;STLab, ISTC-CNR","STLab, ISTC-CNR"
+person:andrea-nuzzolese,Andrea Giovanni Nuzzolese,Andrea,Nuzzolese,"University of Bologna;STLab, ISTC-CNR",University of Bologna
 person:andreas-harth,Andreas Harth,Andreas,Harth,"AIFB, Karlsruhe Institute of Technology","AIFB, Karlsruhe Institute of Technology"
 person:andreas-hotho,Andreas Hotho,Andreas,Hotho,University of Wuerzburg,University of Wuerzburg
 person:andreas-thalhammer,Andreas Thalhammer,Andreas,Thalhammer,University of Innsbruck,University of Innsbruck
@@ -63,7 +63,7 @@ person:axel-polleres,Axel Polleres,Axel,Polleres,"Siemens AG Österreich; DERI, 
 person:axel-polleres,Axel Polleres,Axel,Polleres,"Siemens AG Österreich; DERI, NUI Galway",Siemens AG Österreich
 person:bastian-krayer,Bastian Krayer,Bastian,Krayer,University of Koblenz and Landau,University of Koblenz and Landau
 person:bastien-rance,Bastien Rance,Bastien,Rance,National Library of Medicine,National Library of Medicine
-person:benjamin-grosof,Benjamin Grosof,Benjamin,Grosof,Vulcan,Vulcan
+person:benjamin-grosof,Benjamin Grosof,Benjamin,Grosof,Vulcan Inc,Vulcan Inc
 person:benoit-christophe,Benoit Christophe,Benoit,Christophe,Alcatel-Lucent Bell Labs France,Alcatel-Lucent Bell Labs France
 person:bernardo-cuenca-grau,Bernardo Cuenca Grau,Bernardo,Grau,University of Oxford,University of Oxford
 person:bernardo-magnini,Bernardo Magnini,Bernardo,Magnini,Fondazione Bruno Kessler,Fondazione Bruno Kessler
@@ -102,7 +102,7 @@ person:chris-baillie,Chris Baillie,Chris,Baillie,University of Aberdeen,Universi
 person:chris-chaulk,Chris Chaulk,Chris,Chaulk,EMC Corporation,EMC Corporation
 person:chris-mellish,Chris Mellish,Chris,Mellish,University of Aberdeen,University of Aberdeen
 person:chris-welty,Chris Welty,Chris,Welty,IBM Research,IBM Research
-person:christian-bizer,Christian Bizer,Christian,Bizer,Free University of Berlin,Free University of Berlin
+person:christian-bizer-,Christian Bizer,Christian,Bizer,Free University of Berlin,Free University of Berlin
 person:christian-dirschl,Christian Dirschl,Christian,Dirschl,Wolters Kluwer,Wolters Kluwer
 person:christian-meilicke,Christian Meilicke,Christian,Meilicke,University of Mannheim,University of Mannheim
 person:christian-schallhart,Christian Schallhart,Christian,Schallhart,University of Oxford,University of Oxford
@@ -143,7 +143,7 @@ person:david-norheim,David Norheim,David,Norheim,Computas,Computas
 person:david-shamma,David Shamma,David,Shamma,Yahoo! Research Silicon Valley,Yahoo! Research Silicon Valley
 person:david-wood,David Wood,David,Wood,3roundstones,3roundstones
 person:davy-van-deursen,Davy Van Deursen,Davy,Van Deursen,Ghent University,Ghent University
-person:deborah-l-mcguinness,Deborah L. McGuinness,Deborah,McGuinness,RPI,RPI
+person:deborah-mcguinness,Deborah L. McGuinness,Deborah,McGuinness,RPI,RPI
 person:denilson-barbosa,Denilson Barbosa,Denilson,Barbosa,University of Alberta,University of Alberta
 person:denny-vrandecic,Denny Vrandecic,Denny,Vrandecic,"AIFB, Karlsruhe Institute of Technology","AIFB, Karlsruhe Institute of Technology"
 person:dezhao-song,Dezhao Song,Dezhao,Song,Lehigh University,Lehigh University
@@ -204,7 +204,7 @@ person:gabriela-montoya,Gabriela Montoya,Gabriela,Montoya,Universidad Simon Boli
 person:gary-wills,Gary Wills,Gary,Wills,University of Southampton,University of Southampton
 person:geert-jan-houben,Geert-Jan Houben,Geert-Jan,Houben,Delft University of Technology,Delft University of Technology
 person:george-garbis,George Garbis,George,Garbis,National and Kapodistrian University of Athens,National and Kapodistrian University of Athens
-person:gerd-groner,Gerd Gröner,Gerd,Gröner,University of Koblenz and Landau,University of Koblenz and Landau
+person:gerd-groener,Gerd Gröner,Gerd,Gröner,University of Koblenz and Landau,University of Koblenz and Landau
 person:gerd-zechmeister,Gerd Zechmeister,Gerd,Zechmeister,Semantic Web Company GmbH,Semantic Web Company GmbH
 person:gerhard-friedrich,Gerhard Friedrich,Gerhard,Friedrich,UNI Klagenfurt,UNI Klagenfurt
 person:gianluca-correndo,Gianluca Correndo,Gianluca,Correndo,University of Southampton,University of Southampton
@@ -239,7 +239,7 @@ person:hector-perez-urbina,Héctor Pérez-Urbina,Héctor,Pérez-Urbina,Clark & P
 person:heiko-paulheim,Heiko Paulheim,Heiko,Paulheim,TU Darmstadt,TU Darmstadt
 person:heiner-stuckenschmidt,Heiner Stuckenschmidt,Heiner,Stuckenschmidt,University of Mannheim,University of Mannheim
 person:hima-yalamanchili,Hima Yalamanchili,Hima,Yalamanchili,"Kno.e.sis Center, Wright State University","Kno.e.sis Center, Wright State University"
-person:hiroko-kou,Hiroko Kou,Hiroko,Kou,"I.S.I.R., Osaka University","I.S.I.R., Osaka University"
+person:hiroko-kou,Hiroko Kou,Hiroko,Kou,Osaka University,Osaka University
 person:hiroyuki-toda,Hiroyuki Toda,Hiroyuki,Toda,NTT,NTT
 person:hoan-nguyen-mau-quoc,Hoan Nguyen Mau Quoc,Hoan,Nguyen Mau Quoc,"DERI, NUI Galway","DERI, NUI Galway"
 person:holger-wache,Holger Wache,Holger,Wache,University of Applied Sciences and Arts Northwestern Switzerland,University of Applied Sciences and Arts Northwestern Switzerland
@@ -305,11 +305,11 @@ person:joseph-benik,Joseph Benik,Joseph,Benik,University of Maryland,University 
 person:josh-hanna,Josh Hanna,Josh,Hanna,UAMS,UAMS
 person:josiane-xavier-parreira,Josiane Xavier Parreira,Josiane,Parreira,"DERI, NUI Galway","DERI, NUI Galway"
 person:juan-f-sequeda,Juan F. Sequeda,Juan,Sequeda,University of Texas at Austin,University of Texas at Austin
+person:juergen-umbrich,Jürgen Umbrich,Jürgen,Umbrich,"DERI, NUI Galway","DERI, NUI Galway"
 person:julien-cojan,Julien Cojan,Julien,Cojan,INRIA,INRIA
 person:julien-law-to,Julien Law-To,Julien,Law-To,"EXALEAD, Dassault Systèmes","EXALEAD, Dassault Systèmes"
 person:jun-zhao,Jun Zhao,Jun,Zhao,University of Oxford,University of Oxford
 person:junfeng-pan,Junfeng Pan,Junfeng,Pan,Shanghai Jiao Tong University,Shanghai Jiao Tong University
-person:jurgen-umbrich,Jürgen Umbrich,Jürgen,Umbrich,"DERI, NUI Galway","DERI, NUI Galway"
 person:jyotishman-pathak,Jyotishman Pathak,Jyotishman,Pathak,Mayo Clinic,Mayo Clinic
 person:kai-uwe-sattler,Kai-Uwe Sattler,Kai-Uwe,Sattler,TU Ilmenau,TU Ilmenau
 person:kapila-ponnamperuma,Kapila Ponnamperuma,Kapila,Ponnamperuma,University of Aberdeen,University of Aberdeen
@@ -335,7 +335,7 @@ person:konrad-hoffner,Konrad Höffner,Konrad,Höffner,University of Leipzig,Univ
 person:konstantina-bereta,Konstantina Bereta,Konstantina,Bereta,National and Kapodistrian University of Athens,National and Kapodistrian University of Athens
 person:kostis-kyzirakos,Kostis Kyzirakos,Kostis,Kyzirakos,National and Kapodistrian University of Athens,National and Kapodistrian University of Athens
 person:kostyantyn-shchekotykhin,Kostyantyn Shchekotykhin,Kostyantyn,Shchekotykhin,UNI Klagenfurt,UNI Klagenfurt
-person:kouji-kozaki,Kouji Kozaki,Kouji,Kozaki,"I.S.I.R., Osaka University","I.S.I.R., Osaka University"
+person:kouji-kozaki,Kouji Kozaki,Kouji,Kozaki,Osaka University,Osaka University
 person:krishnaprasad-thirunarayan,Krishnaprasad Thirunarayan,Krishnaprasad,Thirunarayan,"Kno.e.sis Center, Wright State University","Kno.e.sis Center, Wright State University"
 person:kristian-slabbekoorn,Kristian Slabbekoorn,Kristian,Slabbekoorn,Tokyo Institute of Technology,Tokyo Institute of Technology
 person:krzysztof-janowicz,Krzysztof Janowicz,Krzysztof,Janowicz,UC Santa Barbara,UC Santa Barbara
@@ -358,7 +358,7 @@ person:lorenz-buhmann,Lorenz Bühmann,Lorenz,Bühmann,University of Leipzig,Univ
 person:louiqa-raschid,Louiqa Raschid,Louiqa,Raschid,University of Maryland,University of Maryland
 person:luc-moreau,Luc Moreau,Luc,Moreau,University of Southampton,University of Southampton
 person:luciano-serafini,Luciano Serafini,Luciano,Serafini,Fondazione Bruno Kessler,Fondazione Bruno Kessler
-person:lyndon-nixon,Lyndon Nixon,Lyndon,Nixon,STI International,STI International
+person:lyndon-j-b-nixon,Lyndon Nixon,Lyndon,Nixon,STI International,STI International
 person:maciej-zaremba,Maciej Zaremba,Maciej,Zaremba,"DERI, NUI Galway","DERI, NUI Galway"
 person:magnus-knuth,Magnus Knuth,Magnus,Knuth,Hasso Plattner Institute,Hasso Plattner Institute
 person:magnus-white,Magnus White,Magnus,White,University of Southampton,University of Southampton
@@ -380,9 +380,9 @@ person:mariano-rodriguez-muro,Mariano Rodriguez-Muro,Mariano,Rodriguez-Muro,Free
 person:marie-christine-rousset,Marie-Christine Rousset,Marie-Christine,Rousset,University of Grenoble,University of Grenoble
 person:marieke-van-erp,Marieke Van Erp,Marieke,Van Erp,VU Amsterdam,VU Amsterdam
 person:mark-a-musen,Mark A. Musen,Mark,Musen,Stanford University,Stanford University
-person:mark-greaves,Mark Greaves,Mark,Greaves,Vulcan,Vulcan
+person:mark-greaves,Mark Greaves,Mark,Greaves,Vulcan Inc,Vulcan Inc
 person:mark-wilkinson,Mark Wilkinson,Mark,Wilkinson,Bioinformatics at Centre for Plant Biotechnology and Genomics UPM-INIA,Bioinformatics at Centre for Plant Biotechnology and Genomics UPM-INIA
-person:markus-krotzsch,Markus Krötzsch,Markus,Krötzsch,University of Oxford,University of Oxford
+person:markus-kroetzsch,Markus Krötzsch,Markus,Krötzsch,University of Oxford,University of Oxford
 person:markus-luczak-rosch,Markus Luczak-Rösch,Markus,Luczak-Rösch,Free University of Berlin,Free University of Berlin
 person:markus-strohmaier,Markus Strohmaier,Markus,Strohmaier,Graz University of Technology,Graz University of Technology
 person:marta-corubolo,Marta Corubolo,Marta,Corubolo,Politecnico di Milano,Politecnico di Milano
@@ -411,13 +411,13 @@ person:michael-schmidt,Michael Schmidt,Michael,Schmidt,fluid Operations,fluid Op
 person:michael-schumacher,Michael Schumacher,Michael,Schumacher,University of Applied Sciences Western Switzerland,University of Applied Sciences Western Switzerland
 person:michael-sintek,Michael Sintek,Michael,Sintek,DFKI,DFKI
 person:michael-sioutis,Michael Sioutis,Michael,Sioutis,National and Kapodistrian University of Athens,National and Kapodistrian University of Athens
-person:michael-uschold,Michael Uschold,Michael,Uschold,Reinvent Technology,Reinvent Technology
 person:michael-ward,Michael Ward,Michael,Ward,IBM Research,IBM Research
 person:michael-watzke,Michael Watzke,Michael,Watzke,"Siemens AG, Corporate Technology","Siemens AG, Corporate Technology"
 person:michiel-hildebrand,Michiel Hildebrand,Michiel,Hildebrand,VU Amsterdam,VU Amsterdam
 person:miel-vander-sande,Miel Vander Sande,Miel,Vander Sande,Ghent University,Ghent University
 person:mike-dean,Mike Dean,Mike,Dean,Raytheon BBN Technologies,Raytheon BBN Technologies
 person:mike-stonebreaker,Mike Stonebreaker,Mike,Stonebreaker,MIT,MIT
+person:mike-uschold,Michael Uschold,Michael,Uschold,Reinvent Technology,Reinvent Technology
 person:mike-wald,Mike Wald,Mike,Wald,University of Southampton,University of Southampton
 person:mikko-rinne,Mikko Rinne,Mikko,Rinne,Aalto University,Aalto University
 person:milan-dojchinovski,Milan Dojchinovski,Milan,Dojchinovski,Czech Technical University in Prague,Czech Technical University in Prague
@@ -437,14 +437,14 @@ person:myunggwon-hwang,Myunggwon Hwang,Myunggwon,Hwang,Korea Institute of Scienc
 person:nadeschda-nikitina,Nadeschda Nikitina,Nadeschda,Nikitina,"AIFB, Karlsruhe Institute of Technology","AIFB, Karlsruhe Institute of Technology"
 person:naimdjon-takhirov,Naimdjon Takhirov,Naimdjon,Takhirov,Norwegian University of Science and Technology,Norwegian University of Science and Technology
 person:naoki-fukuta,Naoki Fukuta,Naoki,Fukuta,Shizuoka University,Shizuoka University
-person:natasha-f-noy,Natasha F. Noy,Natasha,Noy,Stanford University,Stanford University
+person:natalya-noy,Natasha F. Noy,Natasha,Noy,Stanford University,Stanford University
 person:nathan-wilson,Nathan Wilson,Nathan,Wilson,Marine Biological Laboratory,Marine Biological Laboratory
 person:nenad-stojanovic,Nenad Stojanovic,Nenad,Stojanovic,FZI Research Center for Information Technology,FZI Research Center for Information Technology
 person:nick-bassiliades,Nick Bassiliades,Nick,Bassiliades,Aristotle University of Thessaloniki,Aristotle University of Thessaloniki
 person:nicola-fanizzi,Nicola Fanizzi,Nicola,Fanizzi,University of Bari,University of Bari
 person:nicola-guarino,Nicola Guarino,Nicola,Guarino,ISTC-CNR,ISTC-CNR
 person:nigam-shah,Nigam Shah,Nigam,Shah,Stanford University,Stanford University
-person:nigel-shadbolt,Nigel Shadbolt,Nigel,Shadbolt,University of Southampton,University of Southampton
+person:nigel-r-shadbolt,Nigel Shadbolt,Nigel,Shadbolt,University of Southampton,University of Southampton
 person:nitish-aggarwal,Nitish Aggarwal,Nitish,Aggarwal,"DERI, NUI Galway","DERI, NUI Galway"
 person:norman-heino,Norman Heino,Norman,Heino,University of Leipzig,University of Leipzig
 person:oktie-hassanzadeh,Oktie Hassanzadeh,Oktie,Hassanzadeh,IBM Research,IBM Research
@@ -453,7 +453,7 @@ person:olaf-hartig,Olaf Hartig,Olaf,Hartig,Humboldt University of Berlin,Humbo
 person:oleg-ruchayskiy,Oleg Ruchayskiy,Oleg,Ruchayskiy,CERN,CERN
 person:olivier-bodenreider,Olivier Bodenreider,Olivier,Bodenreider,National Library of Medicine,National Library of Medicine
 person:olivier-cure,Olivier Curé,Olivier,Curé,Université Paris-Est LIGM,Université Paris-Est LIGM
-person:ondrej-svab-zamazal,Ondrej Svab-Zamazal,Ondrej,Svab-Zamazal,"University of Economics, Prague","University of Economics, Prague"
+person:ondrej-svab,Ondrej Svab-Zamazal,Ondrej,Svab-Zamazal,"University of Economics, Prague","University of Economics, Prague"
 person:opher-etzion,Opher Etzion,Opher,Etzion,"IBM Research Lab , Haifa, Israel","IBM Research Lab , Haifa, Israel"
 person:ora-lassila,Ora Lassila,Ora,Lassila,Nokia Services,Nokia Services
 person:orri-erling,Orri Erling,Orri,Erling,OpenLink,OpenLink
@@ -556,9 +556,9 @@ person:shonali-krishnaswamy,Shonali Krishnaswamy,Shonali,Krishnaswamy,Monash Uni
 person:shu-rong,Shu Rong,Shu,Rong,Shanghai Jiao Tong University,Shanghai Jiao Tong University
 person:siegfried-handschuh,Siegfried Handschuh,Siegfried,Handschuh,"DERI, NUI Galway","DERI, NUI Galway"
 person:simone-contessa,Simone Contessa,Simone,Contessa,Politecnico di Milano,Politecnico di Milano
+person:soeren-auer,Sören Auer,Sören,Auer,TU Chemnitz,TU Chemnitz
 person:songyun-duan,Songyun Duan,Songyun,Duan,IBM Research,IBM Research
 person:sonia-bergamaschi,Sonia Bergamaschi,Sonia,Bergamaschi,University of Modena and Reggio Emilia,University of Modena and Reggio Emilia
-person:soren-auer,Sören Auer,Sören,Auer,TU Chemnitz,TU Chemnitz
 person:souripriya-das,Souripriya Das,Souripriya,Das,Oracle,Oracle
 person:spiros-skiadopoulos,Spiros Skiadopoulos,Spiros,Skiadopoulos,University of Peloponnese,University of Peloponnese
 person:spyros-kotoulas,Spyros Kotoulas,Spyros,Kotoulas,IBM Research,IBM Research
@@ -601,7 +601,7 @@ person:thomas-rindflesch,Thomas Rindflesch,Thomas,Rindflesch,National Library of
 person:thomas-schandl,Thomas Schandl,Thomas,Schandl,Semantic Web Company GmbH,Semantic Web Company GmbH
 person:thomas-scharrenbach,Thomas Scharrenbach,Thomas,Scharrenbach,University of Zurich,University of Zurich
 person:thomas-steiner,Thomas Steiner,Thomas,Steiner,Google,Google
-person:thorsten-krueger,Thorsten Krueger,Thorsten,Krueger,Siemens,Siemens
+person:thorsten-krueger,Thorsten Krueger,Thorsten,Krueger,Siemens AG,Siemens AG
 person:thorsten-liebig,Thorsten Liebig,Thorsten,Liebig,Derivo,Derivo
 person:tim-berners-lee,Tim Berners-Lee,Tim,Berners-Lee,W3C,W3C
 person:tim-clark,Tim Clark,Tim,Clark,Massachusetts General Hospital,Massachusetts General Hospital
@@ -612,8 +612,8 @@ person:tobias-schuchert,Tobias Schuchert,Tobias,Schuchert,Fraunhofer,Fraunhofer
 person:todd-minning,Todd Minning,Todd,Minning,University of Georgia,University of Georgia
 person:tom-de-nies,Tom De Nies,Tom,De Nies,Ghent University,Ghent University
 person:tom-heath,Tom Heath,Tom,Heath,Talis,Talis
+person:tomas-knap,Tomá Knap,Tomá,Knap,Charles University in Prague,Charles University in Prague
 person:tomas-vitvar,Tomas Vitvar,Tomas,Vitvar,Czech Technical University in Prague,Czech Technical University in Prague
-person:toma-knap,Tomá Knap,Tomá,Knap,Charles University in Prague,Charles University in Prague
 person:tomi-kauppinen,Tomi Kauppinen,Tomi,Kauppinen,University of Münster,University of Münster
 person:tommaso-di-noia,Tommaso Di Noia,Tommaso,Di Noia,Technical University of Bari,Technical University of Bari
 person:toshio-uchiyama,Toshio Uchiyama,Toshio,Uchiyama,NTT,NTT
@@ -643,13 +643,13 @@ person:vinh-nguyen,Vinh Nguyen,Vinh,Nguyen,"Kno.e.sis Center, Wright State Unive
 person:vit-novacek,Vit Novacek,Vit,Novacek,"DERI, NUI Galway","DERI, NUI Galway"
 person:vladimir-mikhailov,Vladimir Mikhailov,Vladimir,Mikhailov,Cisco,Cisco
 person:volker-haarslev,Volker Haarslev,Volker,Haarslev,Concordia University,Concordia University
-person:volker-tresp,Volker Tresp,Volker,Tresp,Ludwig Maximilians University of Munich; Siemens,Ludwig Maximilians University of Munich
-person:volker-tresp,Volker Tresp,Volker,Tresp,Ludwig Maximilians University of Munich; Siemens,Siemens
+person:volker-tresp,Volker Tresp,Volker,Tresp,Ludwig Maximilians University of Munich; Siemens AG,Ludwig Maximilians University of Munich
+person:volker-tresp,Volker Tresp,Volker,Tresp,Ludwig Maximilians University of Munich; Siemens AG,Siemens AG
 person:vuk-milicic,Vuk Milicic,Vuk,Milicic,EURECOM,EURECOM
 person:walter-bender,Walter Bender,Walter,Bender,Sugar Labs,Sugar Labs
 person:wei-hu,Wei Hu,Wei,Hu,Nanjing University,Nanjing University
 person:weinan-zhang,Weinan Zhang,Weinan,Zhang,Shanghai Jiao Tong University,Shanghai Jiao Tong University
-person:willem-robert-van-hage,Willem Robert Van Hage,Willem Robert,Van Hage,VU Amsterdam,VU Amsterdam
+person:willem-van-hage,Willem Robert Van Hage,Willem Robert,Van Hage,VU Amsterdam,VU Amsterdam
 person:william-hogan,William Hogan,William,Hogan,UAMS,UAMS
 person:wim-peters,Wim Peters,Wim,Peters,University of Sheffield,University of Sheffield
 person:wolf-siberski,Wolf Siberski,Wolf,Siberski,L3S Research Center; University of Hannover,L3S Research Center
@@ -674,7 +674,7 @@ person:york-sure-vetter,York Sure-Vetter,York,Sure-Vetter,GESIS - Leibniz Instit
 person:yuan-fang-li,Yuan-Fang Li,Yuan-Fang,Li,Monash University,Monash University
 person:yuan-ni,Yuan Ni,Yuan,Ni,IBM China Research Laboratory,IBM China Research Laboratory
 person:yue-ma,Yue Ma,Yue,Ma,LIPN - UMR 7030 Universit Paris 13 - CNRS,LIPN - UMR 7030 Universit Paris 13 - CNRS
-person:yuki-yamagata,Yuki Yamagata,Yuki,Yamagata,"I.S.I.R., Osaka University","I.S.I.R., Osaka University"
+person:yuki-yamagata,Yuki Yamagata,Yuki,Yamagata,Osaka University,Osaka University
 person:yulan-he,Yulan He,Yulan,He,"KMi, The Open University","KMi, The Open University"
 person:yunjia-li,Yunjia Li,Yunjia,Li,University of Southampton,University of Southampton
 person:yutaka-matsuo,Yutaka Matsuo,Yutaka,Matsuo,University of Tokyo,University of Tokyo
